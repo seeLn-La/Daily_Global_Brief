@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>每日全球新闻速递</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', system-ui, sans-serif;
+    background: #f5f5f7;
+    color: #1d1d1f;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  .header {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(245,245,247,0.8);
+    backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    padding: 16px 24px;
+    display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px;
+  }
+  .header h1 { font-size: 20px; font-weight: 600; }
+  .header .sub { font-size: 13px; color: #86868b; font-weight: 400; }
+
+  /* ── Date Nav ── */
+  .date-nav {
+    display: flex; align-items: center; justify-content: center; gap: 16px;
+    padding: 20px 24px 8px;
+  }
+  .date-nav button {
+    width: 34px; height: 34px; border-radius: 50%;
+    border: 1px solid #d2d2d7; background: #fff; cursor: pointer;
+    font-size: 15px; color: #1d1d1f;
+    display: flex; align-items: center; justify-content: center;
+    transition: all 0.15s;
+  }
+  .date-nav button:hover { background: #f0f0f2; border-color: #0071e3; }
+  .date-nav button:disabled { opacity: 0.3; cursor: default; }
+  .date-nav button:disabled:hover { background: #fff; border-color: #d2d2d7; }
+  .date-nav .date-label {
+    font-size: 17px; font-weight: 500; min-width: 110px; text-align: center;
+  }
+
+  /* ── Three-column Grid ── */
+  .container {
+    max-width: 1320px; margin: 0 auto; padding: 20px 24px 40px;
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;
+  }
+
+  .category-col {
+    background: #ffffff; border-radius: 20px; padding: 24px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 4px 16px rgba(0,0,0,0.04);
+  }
+  .category-title {
+    font-size: 17px; font-weight: 600; padding-bottom: 12px; margin-bottom: 16px;
+    border-bottom: 2px solid;
+  }
+  .cat-tech .category-title { color: #0071e3; border-color: #0071e3; }
+  .cat-business .category-title { color: #30b44b; border-color: #30b44b; }
+  .cat-ai .category-title { color: #af52de; border-color: #af52de; }
+
+  /* ── Article Card ── */
+  .article-item {
+    padding: 14px 16px; border-radius: 12px; margin-bottom: 8px;
+    border-left: 3px solid transparent; transition: all 0.2s; cursor: default;
+  }
+  .article-item:hover {
+    background: #f9f9fb; border-left-color: #0071e3;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  }
+  .article-item .zh { font-size: 15px; font-weight: 500; line-height: 1.5; margin-bottom: 4px; }
+  .article-item .en { font-size: 13px; color: #86868b; line-height: 1.4; margin-bottom: 6px; }
+  .article-item .meta { font-size: 12px; color: #aeaeb2; display: flex; align-items: center; gap: 8px; }
+  .article-item .meta a { color: #0071e3; text-decoration: none; font-weight: 500; margin-left: auto; }
+  .article-item .meta a:hover { text-decoration: underline; }
+
+  /* ── States ── */
+  .state-wrap { max-width: 1320px; margin: 0 auto; padding: 20px 24px 40px; }
+
+  /* Loading skeleton */
+  .skeleton-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+  .skeleton-col { background: #fff; border-radius: 20px; padding: 24px; }
+  .skeleton-title { height: 18px; width: 64px; background: #e8e8ed; border-radius: 4px; margin-bottom: 20px; }
+  .skeleton-card { height: 70px; background: #f5f5f7; border-radius: 12px; margin-bottom: 8px; }
+  .skeleton-card:nth-child(even) { opacity: 0.6; }
+
+  /* Empty & Error */
+  .empty-state, .error-state {
+    text-align: center; padding: 80px 24px; grid-column: 1 / -1;
+  }
+  .empty-state .icon, .error-state .icon { font-size: 48px; margin-bottom: 16px; }
+  .empty-state h2, .error-state h2 { font-size: 20px; font-weight: 600; margin-bottom: 8px; }
+  .empty-state p, .error-state p { font-size: 15px; color: #86868b; margin-bottom: 20px; }
+  .error-state button {
+    padding: 10px 24px; font-size: 15px; font-weight: 500;
+    background: #0071e3; color: #fff; border: none; border-radius: 20px; cursor: pointer;
+  }
+  .error-state button:hover { background: #0060c0; }
+
+  /* ── Footer ── */
+  .footer {
+    text-align: center; padding: 40px 24px; font-size: 12px; color: #aeaeb2;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 960px) {
+    .container, .skeleton-grid { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 640px) {
+    .container, .skeleton-grid { grid-template-columns: 1fr; }
+    .header { padding: 12px 16px; }
+    .header h1 { font-size: 18px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>每日全球新闻速递</h1>
+  <div class="sub">面向商业分析师的新闻聚合 · 每日 08:00 更新</div>
+</div>
+
+<div class="date-nav" id="dateNav" style="display:none">
+  <button id="prevBtn" title="前一天">←</button>
+  <span class="date-label" id="dateLabel"></span>
+  <button id="nextBtn" title="后一天">→</button>
+</div>
+
+<div class="container" id="content"></div>
+
+<div class="footer">⚡ 每日自动更新 · GitHub Actions 定时抓取 · Bark 推送至 iPhone · 不消耗任何 AI Token</div>
+
+<script>
+(function () {
+  const catKeys = ["technology", "business", "ai"];
+  const catCSS = { technology: "cat-tech", business: "cat-business", ai: "cat-ai" };
+
+  const dateNav = document.getElementById("dateNav");
+  const prevBtn = document.getElementById("prevBtn");
+  const nextBtn = document.getElementById("nextBtn");
+  const dateLabel = document.getElementById("dateLabel");
+  const content = document.getElementById("content");
+
+  let dates = [];        // sorted ascending, from index.json
+  let currentDate = "";  // YYYY-MM-DD
+
+  /* ── Skeleton ── */
+  function showSkeleton() {
+    content.className = "skeleton-grid";
+    content.innerHTML = catKeys.map(k =>
+      `<div class="skeleton-col"><div class="skeleton-title"></div>` +
+      Array(6).fill(`<div class="skeleton-card"></div>`).join("") + `</div>`
+    ).join("");
+  }
+
+  /* ── Empty state ── */
+  function showEmpty() {
+    content.className = "";
+    content.innerHTML = `<div class="empty-state">
+      <div class="icon">📭</div><h2>该日期暂无新闻</h2><p>换一天试试，或稍后再来看看</p>
+    </div>`;
+  }
+
+  /* ── Error state ── */
+  function showError(msg) {
+    content.className = "";
+    content.innerHTML = `<div class="error-state">
+      <div class="icon">⚠️</div><h2>加载失败</h2><p>${msg}</p><button onclick="location.reload()">重新加载</button>
+    </div>`;
+  }
+
+  /* ── Format time ── */
+  function formatTime(iso) {
+    if (!iso) return "";
+    try {
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return "";
+      return d.toLocaleTimeString("zh-CN", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Shanghai" });
+    } catch { return ""; }
+  }
+
+  /* ── Render articles ── */
+  function render(data) {
+    content.className = "container";
+    const cats = data.categories || {};
+
+    let html = "";
+    for (const key of catKeys) {
+      const cat = cats[key] || {};
+      const articles = cat.articles || [];
+      html += `<div class="category-col ${catCSS[key]}">`;
+      html += `<div class="category-title">${cat.name_zh || key} · ${articles.length} 篇</div>`;
+
+      if (articles.length === 0) {
+        html += `<div style="color:#aeaeb2;font-size:14px;padding:20px 0;text-align:center">暂无文章</div>`;
+      } else {
+        for (const a of articles) {
+          const zh = a.summary_zh || "";
+          const en = a.summary_en || "";
+          const source = a.source || "";
+          const time = formatTime(a.published);
+          html += `<div class="article-item">
+            <div class="zh">${esc(zh)}</div>
+            <div class="en">${esc(en)}</div>
+            <div class="meta"><span>${esc(source)}</span>${time ? `<span>${time}</span>` : ""}<a href="${esc(a.url)}" target="_blank" rel="noopener">原文 &#128279;</a></div>
+          </div>`;
+        }
+      }
+      html += `</div>`;
+    }
+    content.innerHTML = html;
+  }
+
+  function esc(s) {
+    if (!s) return "";
+    const el = document.createElement("span");
+    el.textContent = s;
+    return el.innerHTML;
+  }
+
+  /* ── Date navigation ── */
+  function updateNav() {
+    const idx = dates.indexOf(currentDate);
+    prevBtn.disabled = idx <= 0;
+    nextBtn.disabled = idx < 0 || idx >= dates.length - 1;
+    dateLabel.textContent = currentDate || "----";
+    dateNav.style.display = dates.length > 0 ? "flex" : "none";
+  }
+
+  function goDate(dateStr) {
+    if (dateStr === currentDate) return;
+    currentDate = dateStr;
+    window.location.hash = dateStr;
+    updateNav();
+    loadDay(dateStr);
+  }
+
+  prevBtn.addEventListener("click", () => {
+    const idx = dates.indexOf(currentDate);
+    if (idx > 0) goDate(dates[idx - 1]);
+  });
+  nextBtn.addEventListener("click", () => {
+    const idx = dates.indexOf(currentDate);
+    if (idx >= 0 && idx < dates.length - 1) goDate(dates[idx + 1]);
+  });
+
+  /* ── Load a specific day ── */
+  async function loadDay(dateStr) {
+    showSkeleton();
+    try {
+      const resp = await fetch(`data/${dateStr}.json`);
+      if (!resp.ok) {
+        if (resp.status === 404) { showEmpty(); return; }
+        throw new Error(`HTTP ${resp.status}`);
+      }
+      const data = await resp.json();
+      const hasAny = catKeys.some(k => (data.categories?.[k]?.articles || []).length > 0);
+      if (!hasAny) { showEmpty(); return; }
+      render(data);
+    } catch (e) {
+      showError(e.message);
+    }
+  }
+
+  /* ── Bootstrap ── */
+  async function init() {
+    showSkeleton();
+    let indexData;
+    try {
+      const resp = await fetch("data/index.json");
+      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+      indexData = await resp.json();
+    } catch (e) {
+      showError("无法加载日期索引（data/index.json）");
+      return;
+    }
+
+    dates = (Array.isArray(indexData) ? indexData : []).sort();
+    if (dates.length === 0) {
+      showEmpty();
+      return;
+    }
+
+    // Determine target date: URL hash > latest
+    const hash = window.location.hash.replace("#", "");
+    if (hash && /^\d{4}-\d{2}-\d{2}$/.test(hash) && dates.includes(hash)) {
+      currentDate = hash;
+    } else {
+      currentDate = dates[dates.length - 1];
+    }
+
+    updateNav();
+    await loadDay(currentDate);
+  }
+
+  // Listen for hash changes (browser back/forward)
+  window.addEventListener("hashchange", () => {
+    const hash = window.location.hash.replace("#", "");
+    if (hash && hash !== currentDate && dates.includes(hash)) {
+      currentDate = hash;
+      updateNav();
+      loadDay(hash);
+    }
+  });
+
+  init();
+})();
+</script>
+
+</body>
+</html>

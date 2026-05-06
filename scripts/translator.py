@@ -1,0 +1,114 @@
+"""翻译模块：中英双语互译，带降级策略。每日执行不消耗 AI Token。"""
+import concurrent.futures
+import re
+import sys
+import time
+from typing import Optional
+
+from config import SUMMARY_MAX_LENGTH, TRANSLATION_DELAY
+
+TRANSLATION_TIMEOUT = 8  # 单次翻译超时秒数
+
+
+def _has_chinese(text: str) -> bool:
+    """检测文本是否包含中文字符（Unicode CJK 范围）。"""
+    return bool(re.search(r"[一-鿿㐀-䶿]", text))
+
+
+def _truncate(text: str, max_len: int = SUMMARY_MAX_LENGTH) -> str:
+    """截断文本到指定长度（按字符数，不破坏多字节字符）。"""
+    if len(text) <= max_len:
+        return text
+    return text[:max_len]
+
+
+def _run_with_timeout(func, *args, timeout: int = TRANSLATION_TIMEOUT):
+    """在线程中运行函数，带超时控制。"""
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(func, *args)
+        try:
+            return future.result(timeout=timeout)
+        except (concurrent.futures.TimeoutError, Exception):
+            return None
+
+
+def _google_translate(text: str, target: str) -> Optional[str]:
+    """通过 deep-translator 调用 Google Translate（免费，无需 API Key）。"""
+    def _call():
+        from deep_translator import GoogleTranslator
+        result = GoogleTranslator(source="auto", target=target).translate(text)
+        return result if result else None
+
+    return _run_with_timeout(_call)
+
+
+def _translate_fallback(text: str, target: str) -> Optional[str]:
+    """备选翻译：使用 translate 库。"""
+    def _call():
+        from translate import Translator
+        translator = Translator(to_lang=target)
+        result = translator.translate(text)
+        return result if result else None
+
+    return _run_with_timeout(_call)
+
+
+def translate_text(text: str, target_lang: str) -> tuple[str, str]:
+    """
+    翻译文本到目标语言。返回 (译文, 质量标记)。
+
+    质量标记: "auto" = 翻译成功, "fallback" = 降级为原文
+
+    翻译链:
+        1. deep-translator (GoogleTranslator)
+        2. translate 库
+        3. 原文降级
+    """
+    # 尝试主翻译方案
+    result = _google_translate(text, target_lang)
+    if result:
+        return _truncate(result), "auto"
+
+    # 尝试备选方案
+    result = _translate_fallback(text, target_lang)
+    if result:
+        return _truncate(result), "auto"
+
+    # 全部失败，降级为原文
+    print(f"[WARN] 翻译失败，使用原文: {text[:30]}...", file=sys.stderr)
+    return _truncate(text), "fallback"
+
+
+def translate_articles(articles: list) -> list:
+    """
+    批量翻译文章列表。
+
+    每条文章产生两个字段:
+        - summary_zh: 中文摘要
+        - summary_en: 英文摘要
+
+    中文源文章 → summary_zh = 原文（截断）, summary_en = 翻译
+    英文源文章 → summary_en = 原文（截断）, summary_zh = 翻译
+    """
+    count = 0
+    for article in articles:
+        title = article.summary
+        is_zh = _has_chinese(title)
+
+        if is_zh:
+            article.summary_zh = _truncate(title)
+            en_text, quality = translate_text(title, "en")
+            article.summary_en = en_text
+        else:
+            article.summary_en = _truncate(title)
+            zh_text, quality = translate_text(title, "zh-CN")
+            article.summary_zh = zh_text
+
+        article.translation_quality = quality
+        count += 1
+
+        # 翻译间隔，防止被限速
+        time.sleep(TRANSLATION_DELAY)
+
+    print(f"翻译完成: {count} 篇")
+    return articles

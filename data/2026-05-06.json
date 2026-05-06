@@ -1,0 +1,220 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T16:58:55.601561+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Show HN: Tilde.run – Agent San",
+          "summary_en": "Show HN: Tilde.run – Agent San",
+          "source": "Hacker News: Front Page",
+          "url": "https://tilde.run/",
+          "published": "2026-05-06T15:58:34+00:00"
+        },
+        {
+          "summary_zh": "Chrome on Android now supports",
+          "summary_en": "Chrome on Android now supports",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
+          "published": "2026-05-06T15:54:06+00:00"
+        },
+        {
+          "summary_zh": "Google updates AI search to in",
+          "summary_en": "Google updates AI search to in",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+          "published": "2026-05-06T15:49:39+00:00"
+        },
+        {
+          "summary_zh": "Cybercriminals Are Complaining",
+          "summary_en": "Cybercriminals Are Complaining",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
+          "published": "2026-05-06T15:49:12+00:00"
+        },
+        {
+          "summary_zh": "Khosla-backed robotics startup",
+          "summary_en": "Khosla-backed robotics startup",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+          "published": "2026-05-06T15:46:38+00:00"
+        },
+        {
+          "summary_zh": "Google's Gemma 4 AI models get",
+          "summary_en": "Google's Gemma 4 AI models get",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+          "published": "2026-05-06T15:44:20+00:00"
+        },
+        {
+          "summary_zh": "Valve releases Steam Controlle",
+          "summary_en": "Valve releases Steam Controlle",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+          "published": "2026-05-06T15:44:13+00:00"
+        },
+        {
+          "summary_zh": "Tinder owner Match Group is sl",
+          "summary_en": "Tinder owner Match Group is sl",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+          "published": "2026-05-06T15:27:36+00:00"
+        },
+        {
+          "summary_zh": "FBI investigating leaks to jou",
+          "summary_en": "FBI investigating leaks to jou",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ms.now/news/fbi-investigating-leaks-to-journalist-who-wrote-explosive-article-on-kash-patel-sources",
+          "published": "2026-05-06T15:24:22+00:00"
+        },
+        {
+          "summary_zh": "Our Continuation of MkDocs",
+          "summary_en": "Our Continuation of MkDocs",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/orgs/ProperDocs/discussions/33",
+          "published": "2026-05-06T15:19:25+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Uber and Disney are seeing the",
+          "summary_en": "Uber and Disney are seeing the",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
+          "published": "2026-05-06T16:18:38+00:00"
+        },
+        {
+          "summary_zh": "Apollo CEO Rowan warns of mark",
+          "summary_en": "Apollo CEO Rowan warns of mark",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
+          "published": "2026-05-06T16:18:19+00:00"
+        },
+        {
+          "summary_zh": "Jim Cramer warns this stock ma",
+          "summary_en": "Jim Cramer warns this stock ma",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/jim-cramer-warns-this-stock-may-have-run-too-much-ahead-of-its-earnings.html",
+          "published": "2026-05-06T16:14:03+00:00"
+        },
+        {
+          "summary_zh": "Epstein files: Commerce Sec. H",
+          "summary_en": "Epstein files: Commerce Sec. H",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
+          "published": "2026-05-06T16:13:12+00:00"
+        },
+        {
+          "summary_zh": "Trump says Iran will be bombed",
+          "summary_en": "Trump says Iran will be bombed",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
+          "published": "2026-05-06T16:03:30+00:00"
+        },
+        {
+          "summary_zh": "Wegovy pill sales smash foreca",
+          "summary_en": "Wegovy pill sales smash foreca",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
+          "published": "2026-05-06T15:59:41+00:00"
+        },
+        {
+          "summary_zh": "Novo Nordisk CEO says the drug",
+          "summary_en": "Novo Nordisk CEO says the drug",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html",
+          "published": "2026-05-06T15:56:08+00:00"
+        },
+        {
+          "summary_zh": "Berkshire-owned distribution g",
+          "summary_en": "Berkshire-owned distribution g",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
+          "published": "2026-05-06T15:54:19+00:00"
+        },
+        {
+          "summary_zh": "Wearable patches: How Barrière",
+          "summary_en": "Wearable patches: How Barrière",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
+          "published": "2026-05-06T15:49:03+00:00"
+        },
+        {
+          "summary_zh": "Uber jumps 7% as company issue",
+          "summary_en": "Uber jumps 7% as company issue",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
+          "published": "2026-05-06T15:47:35+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "The Download: seafloor science",
+          "summary_en": "The Download: seafloor science",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+          "published": "2026-05-06T12:10:00+00:00"
+        },
+        {
+          "summary_zh": "AI PPT，这次是真不用返工了",
+          "summary_en": "AI PPT，这次是真不用返工了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413296.html",
+          "published": "2026-05-06T10:28:10+00:00"
+        },
+        {
+          "summary_zh": "香蕉和GPT Image之外的第3条路：华人15人团队造出A",
+          "summary_en": "香蕉和GPT Image之外的第3条路：华人15人团队造出A",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413264.html",
+          "published": "2026-05-06T09:24:27+00:00"
+        },
+        {
+          "summary_zh": "陶哲轩在线安利Claude Code：审稿意见全给它，15分",
+          "summary_en": "陶哲轩在线安利Claude Code：审稿意见全给它，15分",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413265.html",
+          "published": "2026-05-06T08:11:51+00:00"
+        },
+        {
+          "summary_zh": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城",
+          "summary_en": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413164.html",
+          "published": "2026-05-06T04:55:09+00:00"
+        },
+        {
+          "summary_zh": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模",
+          "summary_en": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413154.html",
+          "published": "2026-05-06T04:32:09+00:00"
+        },
+        {
+          "summary_zh": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全",
+          "summary_en": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/413022.html",
+          "published": "2026-05-06T04:04:13+00:00"
+        },
+        {
+          "summary_zh": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答",
+          "summary_en": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/412995.html",
+          "published": "2026-05-06T00:22:35+00:00"
+        }
+      ]
+    }
+  }
+}
