@@ -1,80 +1,80 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T16:58:55.601561+00:00",
+  "generated_at": "2026-05-06T17:19:13.573918+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "Show HN: Tilde.run – Agent San",
+          "summary_zh": "我恳求人工智能公司停止以人类过程命名功能",
+          "summary_en": "I Am Begging AI Companies to S",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+          "published": "2026-05-06T16:51:12+00:00"
+        },
+        {
+          "summary_zh": "显示 HN：幻觉百科",
+          "summary_en": "Show HN: Hallucinopedia",
+          "source": "Hacker News: Front Page",
+          "url": "http://halupedia.com/",
+          "published": "2026-05-06T16:37:52+00:00"
+        },
+        {
+          "summary_zh": "精英教育的弊端 (2008)",
+          "summary_en": "The Disadvantages of an Elite ",
+          "source": "Hacker News: Front Page",
+          "url": "https://theamericanscholar.org/the-disadvantages-of-an-elite-education/",
+          "published": "2026-05-06T16:21:03+00:00"
+        },
+        {
+          "summary_zh": "Show HN：我构建了一个开源电子邮件生成器，替代 Bee",
+          "summary_en": "Show HN: I built an open-sourc",
+          "source": "Hacker News: Front Page",
+          "url": "https://play.templatical.com",
+          "published": "2026-05-06T16:20:00+00:00"
+        },
+        {
+          "summary_zh": "在工作场所表现得富有成效",
+          "summary_en": "Appearing Productive in the Wo",
+          "source": "Hacker News: Front Page",
+          "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+          "published": "2026-05-06T16:18:29+00:00"
+        },
+        {
+          "summary_zh": "Claude 的更高使用限制以及与 SpaceX 的计算协议",
+          "summary_en": "Higher usage limits for Claude",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.anthropic.com/news/higher-limits-spacex",
+          "published": "2026-05-06T16:17:33+00:00"
+        },
+        {
+          "summary_zh": "Show HN：Tilde.run – 具有事务性、版本化文",
           "summary_en": "Show HN: Tilde.run – Agent San",
           "source": "Hacker News: Front Page",
           "url": "https://tilde.run/",
           "published": "2026-05-06T15:58:34+00:00"
         },
         {
-          "summary_zh": "Chrome on Android now supports",
+          "summary_zh": "Android 上的 Chrome 现在支持近似而不是精确的",
           "summary_en": "Chrome on Android now supports",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
           "published": "2026-05-06T15:54:06+00:00"
         },
         {
-          "summary_zh": "Google updates AI search to in",
+          "summary_zh": "谷歌更新人工智能搜索，纳入来自 Reddit 和其他网络论坛",
           "summary_en": "Google updates AI search to in",
           "source": "TechCrunch",
           "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
           "published": "2026-05-06T15:49:39+00:00"
         },
         {
-          "summary_zh": "Cybercriminals Are Complaining",
-          "summary_en": "Cybercriminals Are Complaining",
+          "summary_zh": "黑客比你更讨厌人工智能的溢出",
+          "summary_en": "Hackers Hate AI Slop Even More",
           "source": "WIRED",
           "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
           "published": "2026-05-06T15:49:12+00:00"
-        },
-        {
-          "summary_zh": "Khosla-backed robotics startup",
-          "summary_en": "Khosla-backed robotics startup",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-          "published": "2026-05-06T15:46:38+00:00"
-        },
-        {
-          "summary_zh": "Google's Gemma 4 AI models get",
-          "summary_en": "Google's Gemma 4 AI models get",
-          "source": "Ars Technica - All content",
-          "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-          "published": "2026-05-06T15:44:20+00:00"
-        },
-        {
-          "summary_zh": "Valve releases Steam Controlle",
-          "summary_en": "Valve releases Steam Controlle",
-          "source": "Hacker News: Front Page",
-          "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "published": "2026-05-06T15:44:13+00:00"
-        },
-        {
-          "summary_zh": "Tinder owner Match Group is sl",
-          "summary_en": "Tinder owner Match Group is sl",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-          "published": "2026-05-06T15:27:36+00:00"
-        },
-        {
-          "summary_zh": "FBI investigating leaks to jou",
-          "summary_en": "FBI investigating leaks to jou",
-          "source": "Hacker News: Front Page",
-          "url": "https://www.ms.now/news/fbi-investigating-leaks-to-journalist-who-wrote-explosive-article-on-kash-patel-sources",
-          "published": "2026-05-06T15:24:22+00:00"
-        },
-        {
-          "summary_zh": "Our Continuation of MkDocs",
-          "summary_en": "Our Continuation of MkDocs",
-          "source": "Hacker News: Front Page",
-          "url": "https://github.com/orgs/ProperDocs/discussions/33",
-          "published": "2026-05-06T15:19:25+00:00"
         }
       ]
     },
@@ -83,74 +83,74 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "Uber and Disney are seeing the",
-          "summary_en": "Uber and Disney are seeing the",
+          "summary_zh": "Anthropic 与 SpaceX 宣布达成包括太空开发在",
+          "summary_en": "Anthropic, SpaceX announce com",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/uber-and-disney-are-seeing-the-same-remarkable-dynamic-in-this-economy-both-stocks-are-surging.html",
-          "published": "2026-05-06T16:18:38+00:00"
+          "url": "https://www.cnbc.com/2026/05/06/anthropic-spacex-data-center-capacity.html",
+          "published": "2026-05-06T17:01:54+00:00"
         },
         {
-          "summary_zh": "Apollo CEO Rowan warns of mark",
-          "summary_en": "Apollo CEO Rowan warns of mark",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/apollo-ceo-rowan-market-correction-rival-insurers.html",
-          "published": "2026-05-06T16:18:19+00:00"
-        },
-        {
-          "summary_zh": "Jim Cramer warns this stock ma",
-          "summary_en": "Jim Cramer warns this stock ma",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/jim-cramer-warns-this-stock-may-have-run-too-much-ahead-of-its-earnings.html",
-          "published": "2026-05-06T16:14:03+00:00"
-        },
-        {
-          "summary_zh": "Epstein files: Commerce Sec. H",
-          "summary_en": "Epstein files: Commerce Sec. H",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/jeffrey-epstein-howard-lutnick-house-oversight-commerce.html",
-          "published": "2026-05-06T16:13:12+00:00"
-        },
-        {
-          "summary_zh": "Trump says Iran will be bombed",
-          "summary_en": "Trump says Iran will be bombed",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html",
-          "published": "2026-05-06T16:03:30+00:00"
-        },
-        {
-          "summary_zh": "Wegovy pill sales smash foreca",
-          "summary_en": "Wegovy pill sales smash foreca",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/wegovy-glp1-weight-loss-novo-nordisk-earnings-stock-nvo-ozempic.html",
-          "published": "2026-05-06T15:59:41+00:00"
-        },
-        {
-          "summary_zh": "Novo Nordisk CEO says the drug",
+          "summary_zh": "诺和诺德首席执行官表示，该制药商比以往任何时候都更积极地寻求",
           "summary_en": "Novo Nordisk CEO says the drug",
           "source": "US Top News and Analysis",
           "url": "https://www.cnbc.com/2026/05/06/novo-nordisk-ceo-mike-doustdar-ozempic-maker-looking-for-deals.html",
-          "published": "2026-05-06T15:56:08+00:00"
+          "published": "2026-05-06T17:00:21+00:00"
         },
         {
-          "summary_zh": "Berkshire-owned distribution g",
-          "summary_en": "Berkshire-owned distribution g",
+          "summary_zh": "由于保险业务表现优于大盘，CVS 超出了过去的预期并上调了前",
+          "summary_en": "CVS blows past estimates, hike",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
-          "published": "2026-05-06T15:54:19+00:00"
+          "url": "https://www.cnbc.com/2026/05/06/cvs-health-cvs-earnings-q1-2026.html",
+          "published": "2026-05-06T16:53:50+00:00"
         },
         {
-          "summary_zh": "Wearable patches: How Barrière",
-          "summary_en": "Wearable patches: How Barrière",
+          "summary_zh": "AMD 的 Su 解释了预测大幅变化背后的原因，股价因盈利而",
+          "summary_en": "AMD's Su explains what's behin",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/supplements-wearable-patches-barrire.html",
-          "published": "2026-05-06T15:49:03+00:00"
+          "url": "https://www.cnbc.com/2026/05/06/amd-lisa-su-stock-forecast-earnings.html",
+          "published": "2026-05-06T16:53:24+00:00"
         },
         {
-          "summary_zh": "Uber jumps 7% as company issue",
-          "summary_en": "Uber jumps 7% as company issue",
+          "summary_zh": "洋基队传奇人物马里亚诺·里维拉表示他支持美国职业棒球大联盟的",
+          "summary_en": "Yankees legend Mariano Rivera ",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/former-yankee-mariano-rivera-mlb-salary-cap.html",
+          "published": "2026-05-06T16:52:37+00:00"
+        },
+        {
+          "summary_zh": "随着 2028 年总统大选的热议，马可·卢比奥前往梵蒂冈",
+          "summary_en": "Marco Rubio heads to the Vatic",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/marco-rubio-vatican-2028-election-trump.html",
+          "published": "2026-05-06T16:49:39+00:00"
+        },
+        {
+          "summary_zh": "美国政府称，伊朗战争爆发后一个月内，航空公司在航空燃油上的支",
+          "summary_en": "Airlines spent 56.4% more on j",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/airlines-jet-fuel-iran-war.html",
+          "published": "2026-05-06T16:49:25+00:00"
+        },
+        {
+          "summary_zh": "Uber 发布高于预期的预订指引，股价上涨 8%",
+          "summary_en": "Uber pops 8% as company issues",
           "source": "US Top News and Analysis",
           "url": "https://www.cnbc.com/2026/05/06/uber-uber-2026-q1-earnings.html",
-          "published": "2026-05-06T15:47:35+00:00"
+          "published": "2026-05-06T16:36:54+00:00"
+        },
+        {
+          "summary_zh": "英伟达将向康宁投资高达 32 亿美元，作为与 3 个专注于人",
+          "summary_en": "Nvidia to invest up to $3.2 bi",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/nvidia-corning-optical-factories-nc-texas-ai.html",
+          "published": "2026-05-06T16:36:41+00:00"
+        },
+        {
+          "summary_zh": "纽约联储研究显示，飙升的天然气价格对低收入家庭的打击更大",
+          "summary_en": "Surging gas prices are hitting",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html",
+          "published": "2026-05-06T16:32:39+00:00"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "The Download: seafloor science",
+          "summary_zh": "下载：海底科学和军事聊天机器人",
           "summary_en": "The Download: seafloor science",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
@@ -167,49 +167,49 @@
         },
         {
           "summary_zh": "AI PPT，这次是真不用返工了",
-          "summary_en": "AI PPT，这次是真不用返工了",
+          "summary_en": "AI PPT, there is really no nee",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413296.html",
           "published": "2026-05-06T10:28:10+00:00"
         },
         {
           "summary_zh": "香蕉和GPT Image之外的第3条路：华人15人团队造出A",
-          "summary_en": "香蕉和GPT Image之外的第3条路：华人15人团队造出A",
+          "summary_en": "The third way beyond bananas a",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413264.html",
           "published": "2026-05-06T09:24:27+00:00"
         },
         {
           "summary_zh": "陶哲轩在线安利Claude Code：审稿意见全给它，15分",
-          "summary_en": "陶哲轩在线安利Claude Code：审稿意见全给它，15分",
+          "summary_en": "Tao Zhexuan's online Amway Cla",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413265.html",
           "published": "2026-05-06T08:11:51+00:00"
         },
         {
           "summary_zh": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城",
-          "summary_en": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城",
+          "summary_en": "100,000+ on the first day! Cro",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413164.html",
           "published": "2026-05-06T04:55:09+00:00"
         },
         {
           "summary_zh": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模",
-          "summary_en": "AI“翻译”养殖经验智慧养猪提质增效 ——讯飞和光科技用大模",
+          "summary_en": "AI \"translates\" breeding exper",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413154.html",
           "published": "2026-05-06T04:32:09+00:00"
         },
         {
           "summary_zh": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全",
-          "summary_en": "马斯克破大防了：私信求和遭拒，怒喷奥特曼Brockman「全",
+          "summary_en": "Musk broke his defense: He ask",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/413022.html",
           "published": "2026-05-06T04:04:13+00:00"
         },
         {
           "summary_zh": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答",
-          "summary_en": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答",
+          "summary_en": "Just now, ChatGPT free model h",
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/412995.html",
           "published": "2026-05-06T00:22:35+00:00"
