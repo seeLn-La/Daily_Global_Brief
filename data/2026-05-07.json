@@ -1,17 +1,59 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T09:46:15.767424+00:00",
+  "generated_at": "2026-05-07T13:11:50.949827+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "每个人旅行都应该带着一副便宜的有线耳机 (2026)",
-          "summary_en": "Everyone Should Travel With a ",
+          "summary_zh": "Spotify 的 AI DJ 现在支持法语、德语、意大利语",
+          "summary_en": "Spotify’s AI DJ now supports F",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+          "published": "2026-05-07T12:20:04+00:00"
+        },
+        {
+          "summary_zh": "下载：重塑 IVF 的技术和阳台太阳能的兴起",
+          "summary_en": "The Download: the tech reshapi",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+          "published": "2026-05-07T12:10:00+00:00"
+        },
+        {
+          "summary_zh": "睡眠数量 ComfortNext Lux 智能床：重新定义支",
+          "summary_en": "Sleep Number ComfortNext Lux S",
           "source": "WIRED",
-          "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
-          "published": "2026-05-07T09:31:00+00:00"
+          "url": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
+          "published": "2026-05-07T12:07:00+00:00"
+        },
+        {
+          "summary_zh": "降价留客、爆款豪赌、AI续命：影视江湖大逃杀 | 行业风向标",
+          "summary_en": "Reducing prices to retain cust",
+          "source": "钛媒体：引领未来商业与生活新知",
+          "url": "https://www.tmtpost.com/7979500.html",
+          "published": "2026-05-07T20:06:09+08:00"
+        },
+        {
+          "summary_zh": "GovernGPT (YC W24) 正在招聘工程师在蒙特利",
+          "summary_en": "GovernGPT (YC W24) Is Hiring E",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+          "published": "2026-05-07T12:01:13+00:00"
+        },
+        {
+          "summary_zh": "您的保时捷 Taycan 在纽布格林赛道是否太慢？您需要这款",
+          "summary_en": "Is your Porsche Taycan too slo",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
+          "published": "2026-05-07T12:00:01+00:00"
+        },
+        {
+          "summary_zh": "Vidu Claw 开启「百元出百万级大片」时代：微信说句话",
+          "summary_en": "Vidu Claw opens the era of \"mi",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1665085?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-05-07T11:34:21+00:00"
         },
         {
           "summary_zh": "比 OpenClaw 更火的 「Agent 员工」赛道，杀出",
@@ -21,60 +63,18 @@
           "published": "2026-05-07T16:56:17+08:00"
         },
         {
-          "summary_zh": "Show HN：企业畏缩的社交网络",
-          "summary_en": "Show HN: Social Network for Co",
-          "source": "Hacker News: Front Page",
-          "url": "https://CringeOut.com",
-          "published": "2026-05-07T08:26:36+00:00"
+          "summary_zh": "马斯克最大的忠诚者变成了他最大的责任",
+          "summary_en": "Musk’s biggest loyalist became",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+          "published": null
         },
         {
-          "summary_zh": "利用 Unsloth 和 NVIDIA 加快 LLM 培训速",
-          "summary_en": "Making LLM Training Faster wit",
-          "source": "Hacker News: Front Page",
-          "url": "https://unsloth.ai/blog/nvidia-collab",
-          "published": "2026-05-07T07:15:11+00:00"
-        },
-        {
-          "summary_zh": "Show HN: Agent-skills-eval – 测",
-          "summary_en": "Show HN: Agent-skills-eval – T",
-          "source": "Hacker News: Front Page",
-          "url": "https://github.com/darkrishabh/agent-skills-eval",
-          "published": "2026-05-07T06:12:25+00:00"
-        },
-        {
-          "summary_zh": "Show HN：信任 – 像 1989 年一样编码 Rust",
-          "summary_en": "Show HN: Trust – Coding Rust l",
-          "source": "Hacker News: Front Page",
-          "url": "https://github.com/wojtczyk/trust",
-          "published": "2026-05-07T05:58:52+00:00"
-        },
-        {
-          "summary_zh": "人工智能经济的五位架构师解释了人工智能经济的发展方向",
-          "summary_en": "Five architects of the AI econ",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-          "published": "2026-05-07T05:25:10+00:00"
-        },
-        {
-          "summary_zh": "Vimeo 促销代码：2026 年 5 月可享受 40% 折",
-          "summary_en": "Vimeo Promo Code: 40% Off This",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/vimeo-promo-code/",
-          "published": "2026-05-07T05:00:00+00:00"
-        },
-        {
-          "summary_zh": "沃尔玛促销代码：65% 折扣",
-          "summary_en": "Walmart Promo Codes: 65% Off",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-          "published": "2026-05-07T05:00:00+00:00"
-        },
-        {
-          "summary_zh": "Groupon 促销代码：2026 年 5 月 60% 折扣",
-          "summary_en": "Groupon Promo Codes: 60% Off i",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/groupon-promo-code/",
-          "published": "2026-05-07T05:00:00+00:00"
+          "summary_zh": "在模型厂碾压之前，AI视频Agent产品是否只能挣波快钱？",
+          "summary_en": "Will AI video agent products o",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3786528811572481?f=rss",
+          "published": null
         }
       ]
     },
@@ -83,74 +83,46 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "消息人士告诉 CNBC，欧盟考虑限制使用美国云平台处理敏感政",
-          "summary_en": "EU weighs restricting use of U",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/eu-commission-cloud-sensitive-data.html",
-          "published": "2026-05-07T09:09:41+00:00"
-        },
-        {
-          "summary_zh": "美伊紧张局势令交易员关注霍尔木兹海峡风险，油价跌破 100 ",
-          "summary_en": "Oil prices fall below $100 as ",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/oil-prices-today-trump-iran-strait-of-hormuz-us-crude-brent-.html",
-          "published": "2026-05-07T09:05:48+00:00"
-        },
-        {
-          "summary_zh": "日本可能两次发射日元火箭筒，但市场正在考验东京的决心",
-          "summary_en": "Japan may have fired its yen b",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/japan-yen-intervention-boj-rate-gap-currency-pressure.html",
-          "published": "2026-05-07T08:45:29+00:00"
-        },
-        {
-          "summary_zh": "日本科技股推动日经 225 指数创历史新高，软银股价飙升逾 ",
-          "summary_en": "SoftBank shares surge over 18%",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/japan-softbank-tech-shares-nikkei-to-record-high.html",
-          "published": "2026-05-07T08:42:37+00:00"
-        },
-        {
-          "summary_zh": "伊朗战争推高油价并削减股票回购 壳牌利润预期超预期",
-          "summary_en": "Shell tops profit estimates as",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/oil-giant-shell-tops-quarterly-profit-estimates-as-iran-war-drives-price-surge.html",
-          "published": "2026-05-07T07:18:40+00:00"
-        },
-        {
-          "summary_zh": "亚洲开发银行斥资 700 亿美元推动能源和数字基础设施建设，",
-          "summary_en": "Asian Development Bank's $70 b",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/adb-70-billion-plan-southeast-asia-digital-infrastructure-power.html",
-          "published": "2026-05-07T05:47:25+00:00"
-        },
-        {
-          "summary_zh": "这不仅仅是石油巨头。伊朗战争刺激能源重心，风电巨头迎来利润增",
-          "summary_en": "It’s not just Big Oil. Wind gi",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/iran-war-renewables-wind-oil-gas-equinor-orsted.html",
-          "published": "2026-05-07T05:00:01+00:00"
-        },
-        {
-          "summary_zh": "麦当劳即将公布财报。这是值得期待的",
-          "summary_en": "McDonald's is about to report ",
+          "summary_zh": "尽管“环境充满挑战”，麦当劳的盈利仍高于预期",
+          "summary_en": "McDonald's earnings top estima",
           "source": "US Top News and Analysis",
           "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
-          "published": "2026-05-07T04:01:02+00:00"
+          "published": "2026-05-07T13:11:18+00:00"
         },
         {
-          "summary_zh": "伯克希尔旗下的分销巨头将在美国阳光地带部署无人驾驶大型钻井平",
-          "summary_en": "Berkshire-owned distribution g",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/berkshire-hathaway-mclane-autonomous-freight-trucking-aurora.html",
-          "published": "2026-05-07T02:20:00+00:00"
+          "summary_zh": "美国首次申请失业救济人数小幅上升，持续申请失业救济人数接近两",
+          "summary_en": "US Initial Jobless Claims Up S",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-05-07/us-continuing-claims-fall-to-near-two-year-low-video",
+          "published": "2026-05-07T13:05:58+00:00"
         },
         {
-          "summary_zh": "Arm 的季度业绩展示了它如何在拥挤的 CPU 复兴中开辟一",
-          "summary_en": "Arm's quarter shows how it's c",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/06/arms-quarter-shows-how-its-carving-a-lucrative-path-in-the-crowded-cpu-resurgence.html",
-          "published": "2026-05-06T23:15:12+00:00"
+          "summary_zh": "沙鲁克·汗 (Shah Rukh Khan) 为开普敦注入宝",
+          "summary_en": "Shah Rukh Khan Gives Cape Town",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-07/cape-town-wins-as-bollywood-s-shah-rukh-khan-and-deepika-padukone-film-in-city",
+          "published": "2026-05-07T13:04:32+00:00"
+        },
+        {
+          "summary_zh": "中层管理人员是人工智能工作场所中的“砧板”。以下是保住工作的",
+          "summary_en": "Middle managers are on the cho",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/middle-managers-are-on-the-chopping-block-in-the-ai-workplace-heres-how-to-save-your-job-e82e4efe?mod=mw_rss_topstories",
+          "published": "2026-05-07T13:01:00+00:00"
+        },
+        {
+          "summary_zh": "英格兰南部预计将出现重大铁路中断，直至当天结束",
+          "summary_en": "Major rail disruption expected",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-07T12:43:24+00:00"
+        },
+        {
+          "summary_zh": "波兰警告俄罗斯正在从低成本招募人员转向专业破坏组织",
+          "summary_en": "Poland warns Russia is moving ",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+          "published": null
         }
       ]
     },
@@ -159,11 +131,18 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "试管受精的下一步是什么",
-          "summary_en": "What’s next for IVF",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-          "published": "2026-05-07T09:04:50+00:00"
+          "summary_zh": "Parloa 建立客户想要交谈的服务代理",
+          "summary_en": "Parloa builds service agents c",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/parloa",
+          "published": "2026-05-07T11:00:00+00:00"
+        },
+        {
+          "summary_zh": "对标OpenClaw？Meta被曝将推消费级AI智能体",
+          "summary_en": "Benchmarking OpenClaw? Meta is",
+          "source": "智东西",
+          "url": "https://zhidx.com/p/555869.html",
+          "published": "2026-05-07T18:47:01+08:00"
         },
         {
           "summary_zh": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打",
@@ -173,60 +152,32 @@
           "published": "2026-05-07T07:14:28+00:00"
         },
         {
-          "summary_zh": "一年磨一剑，今年最炸机器人Demo来了！",
-          "summary_en": "Every year I sharpen my sword,",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413830.html",
-          "published": "2026-05-07T06:43:41+00:00"
+          "summary_zh": "人智金融代理对成熟的服务提供商构成威胁",
+          "summary_en": "Anthropic Finance Agents Pose ",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/anthropic-finance-agents-threaten-established-service-providers",
+          "published": "2026-05-06T22:17:15+00:00"
         },
         {
-          "summary_zh": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，",
-          "summary_en": "Yunzhisheng Shanhai Zhiyi Smar",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413782.html",
-          "published": "2026-05-07T06:35:28+00:00"
+          "summary_zh": "vLLM V0 到 V1：RL 修正前的正确性",
+          "summary_en": "vLLM V0 to V1: Correctness Bef",
+          "source": "Hugging Face - Blog",
+          "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+          "published": "2026-05-06T19:06:55+00:00"
         },
         {
-          "summary_zh": "波士顿动力泯然众人了，高管集体出走，机器人“量产”只能造4台",
-          "summary_en": "Boston Dynamics has lost sight",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413613.html",
-          "published": "2026-05-07T06:29:17+00:00"
+          "summary_zh": "在 TechCrunch Disrupt 2026 上，您所",
+          "summary_en": "At TechCrunch Disrupt 2026, al",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+          "published": "2026-05-06T14:30:00+00:00"
         },
         {
-          "summary_zh": "英伟达重新思考AI TCO：为何每Token成本才是唯一重要",
-          "summary_en": "NVIDIA Rethinks AI TCO: Why Co",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413604.html",
-          "published": "2026-05-07T04:36:41+00:00"
-        },
-        {
-          "summary_zh": "Token需求狂飙千倍，22亿热钱涌向这家AGI Infra",
-          "summary_en": "The demand for Token surged a ",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413591.html",
-          "published": "2026-05-07T02:46:50+00:00"
-        },
-        {
-          "summary_zh": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双",
-          "summary_en": "Musk sells all 220,000 GPUs to",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413569.html",
-          "published": "2026-05-07T01:13:33+00:00"
-        },
-        {
-          "summary_zh": "下载：海底科学和军事聊天机器人",
-          "summary_en": "The Download: seafloor science",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-          "published": "2026-05-06T12:10:00+00:00"
-        },
-        {
-          "summary_zh": "AI PPT，这次是真不用返工了",
-          "summary_en": "AI PPT, there is really no nee",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413296.html",
-          "published": "2026-05-06T10:28:10+00:00"
+          "summary_zh": "如何使用 NVIDIA 构建车载 AI 代理：从云到汽车",
+          "summary_en": "How to Build In-Vehicle AI Age",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-build-in-vehicle-ai-agents-with-nvidia-from-cloud-to-car/",
+          "published": null
         }
       ]
     }
