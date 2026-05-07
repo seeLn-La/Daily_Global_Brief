@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T13:33:13.523436+00:00",
+  "generated_at": "2026-05-07T13:37:37.947085+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
@@ -50,7 +50,7 @@
         },
         {
           "summary_zh": "Vidu Claw 开启「百元出百万级大片」时代：微信说句话",
-          "summary_en": "Vidu Claw opens the era of \"mi",
+          "summary_en": "Vidu Claw opens the era of \"a ",
           "source": "爱范儿",
           "url": "https://www.ifanr.com/1665085?utm_source=rss&utm_medium=rss&utm_campaign=",
           "published": "2026-05-07T11:34:21+00:00"
@@ -83,18 +83,25 @@
       "name_en": "Business",
       "articles": [
         {
+          "summary_zh": "Fundstrat 的汤姆·李 (Tom Lee) 表示，比",
+          "summary_en": "Bitcoin’s unusual technical ac",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/bitcoins-rare-technical-action-points-to-a-crypto-bull-market-says-fundstrats-tom-lee-4e44bfb7?mod=mw_rss_topstories",
+          "published": "2026-05-07T13:34:00+00:00"
+        },
+        {
+          "summary_zh": "库存推动者：WHR、SHAK、BYND（播客）",
+          "summary_en": "Stock Movers: WHR, SHAK, BYND ",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-05-07/stock-movers-whr-shak-bynd-podcast",
+          "published": "2026-05-07T13:33:21+00:00"
+        },
+        {
           "summary_zh": "由于订阅价格上涨有助于推动季度盈利，Peloton 股价飙升",
           "summary_en": "Peloton surges 13% as higher s",
           "source": "US Top News and Analysis",
           "url": "https://www.cnbc.com/2026/05/07/peloton-pton-earnings-q3-2026.html",
           "published": "2026-05-07T13:27:12+00:00"
-        },
-        {
-          "summary_zh": "一只 Blue Owl 基金削减股息，另一只基金在 IPO ",
-          "summary_en": "One Blue Owl fund cuts dividen",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories",
-          "published": "2026-05-07T13:27:00+00:00"
         },
         {
           "summary_zh": "美伊战争期间油价飙升，壳牌报告利润近 70 亿美元",
@@ -109,13 +116,6 @@
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/articles/2026-05-07/bolivia-is-tapping-global-bond-markets-for-first-time-since-2022",
           "published": "2026-05-07T13:18:53+00:00"
-        },
-        {
-          "summary_zh": "沙鲁克·汗 (Shah Rukh Khan) 为开普敦注入宝",
-          "summary_en": "Shah Rukh Khan Gives Cape Town",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-07/cape-town-wins-as-bollywood-s-shah-rukh-khan-and-deepika-padukone-film-in-city",
-          "published": "2026-05-07T13:04:32+00:00"
         },
         {
           "summary_zh": "英格兰南部预计将出现重大铁路中断，直至当天结束",
@@ -158,6 +158,13 @@
       "name_zh": "AI 发展",
       "name_en": "AI Development",
       "articles": [
+        {
+          "summary_zh": "ChatGPT 有一个妖精问题。它比人工智能的怪癖更重要",
+          "summary_en": "ChatGPT has a goblin problem. ",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-05-chatgpt-goblin-problem-bigger-ai.html",
+          "published": "2026-05-07T08:00:01-04:00"
+        },
         {
           "summary_zh": "Parloa 建立客户想要交谈的服务代理",
           "summary_en": "Parloa builds service agents c",
