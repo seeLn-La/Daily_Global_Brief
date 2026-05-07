@@ -44,11 +44,11 @@ RSS_SOURCES = [
     {"url": "https://www.artificialintelligence-news.com/feed/", "category": "ai"},
     {"url": "https://openai.com/news/rss.xml", "category": "ai"},
     {"url": "https://developer.nvidia.com/blog/feed/", "category": "ai"},
-    {"url": "https://syncedreview.com/feed/", "category": "ai"},
+    {"url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "category": "ai"},
     {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai"},
     {"url": "https://www.qbitai.com/feed", "category": "ai"},
     {"url": "https://zhidx.com/rss", "category": "ai"},
-    {"url": "https://www.marktechpost.com/feed/", "category": "ai"},
+    {"url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml", "category": "ai"},
     {"url": "https://huggingface.co/blog/feed.xml", "category": "ai"},
     {"url": "https://aibusiness.com/rss.xml", "category": "ai"},
 ]
