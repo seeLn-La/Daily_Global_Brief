@@ -2,7 +2,6 @@
 import json
 import os
 import sys
-import urllib.parse
 from datetime import datetime, timezone
 
 import requests
@@ -67,12 +66,18 @@ def send_notification(pages_url: str | None = None):
         return
 
     title, body = msg
-    encoded_title = urllib.parse.quote(title)
-    encoded_body = urllib.parse.quote(body)
-    url = f"https://api.day.app/{device_key}/{encoded_title}/{encoded_body}"
 
     try:
-        resp = requests.post(url, timeout=10)
+        resp = requests.post(
+            "https://api.day.app/push",
+            json={
+                "device_key": device_key,
+                "title": title,
+                "body": body,
+                "url": pages_url,
+            },
+            timeout=10,
+        )
         result = resp.json()
         print(f"[Bark] 推送结果: {result}")
     except Exception as e:
