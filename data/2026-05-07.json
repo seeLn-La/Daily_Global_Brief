@@ -1,11 +1,18 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T13:22:45.705687+00:00",
+  "generated_at": "2026-05-07T13:27:17.799493+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
+        {
+          "summary_zh": "盈利提速、增长放缓：百济神州的下一程，等索托克拉接棒丨看财报",
+          "summary_en": "Earnings Accelerate, Growth Sl",
+          "source": "钛媒体：引领未来商业与生活新知",
+          "url": "https://www.tmtpost.com/7979205.html",
+          "published": "2026-05-07T21:15:19+08:00"
+        },
         {
           "summary_zh": "Spotify 的 AI DJ 现在支持法语、德语、意大利语",
           "summary_en": "Spotify’s AI DJ now supports F",
@@ -28,13 +35,6 @@
           "published": "2026-05-07T12:07:00+00:00"
         },
         {
-          "summary_zh": "降价留客、爆款豪赌、AI续命：影视江湖大逃杀 | 行业风向标",
-          "summary_en": "Reducing prices to retain cust",
-          "source": "钛媒体：引领未来商业与生活新知",
-          "url": "https://www.tmtpost.com/7979500.html",
-          "published": "2026-05-07T20:06:09+08:00"
-        },
-        {
           "summary_zh": "GovernGPT (YC W24) 正在招聘工程师在蒙特利",
           "summary_en": "GovernGPT (YC W24) Is Hiring E",
           "source": "Hacker News: Front Page",
@@ -50,7 +50,7 @@
         },
         {
           "summary_zh": "Vidu Claw 开启「百元出百万级大片」时代：微信说句话",
-          "summary_en": "Vidu Claw opens the era of \"mi",
+          "summary_en": "Vidu Claw opens the era of \"a ",
           "source": "爱范儿",
           "url": "https://www.ifanr.com/1665085?utm_source=rss&utm_medium=rss&utm_campaign=",
           "published": "2026-05-07T11:34:21+00:00"
@@ -83,11 +83,18 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "保罗·都铎·琼斯 (Paul Tudor Jones) 表示",
-          "summary_en": "Paul Tudor Jones says AI bull ",
+          "summary_zh": "美伊战争期间油价飙升，壳牌报告利润近 70 亿美元",
+          "summary_en": "Shell Reports Nearly $7 Billio",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
+          "published": "2026-05-07T13:26:08+00:00"
+        },
+        {
+          "summary_zh": "大多数股票都在观望这一创纪录高点的走势",
+          "summary_en": "Most stocks are sitting out th",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
-          "published": "2026-05-07T13:21:58+00:00"
+          "url": "https://www.cnbc.com/2026/05/07/some-stocks-are-sitting-out-this-move-to-record-highs.html",
+          "published": "2026-05-07T13:22:59+00:00"
         },
         {
           "summary_zh": "这家著名的家电制造商警告说，美国人的表现就像陷入了经济衰退",
@@ -102,13 +109,6 @@
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/articles/2026-05-07/activist-investor-onemove-says-sylogist-board-blocked-settlement-talks",
           "published": "2026-05-07T13:16:01+00:00"
-        },
-        {
-          "summary_zh": "战争和能源短缺提升中国在亚洲的影响力",
-          "summary_en": "War and Energy Shortages Boost",
-          "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
-          "published": "2026-05-07T13:15:56+00:00"
         },
         {
           "summary_zh": "沙鲁克·汗 (Shah Rukh Khan) 为开普敦注入宝",
@@ -139,17 +139,17 @@
           "published": "2026-05-07T06:00:18-04:00"
         },
         {
-          "summary_zh": "波兰警告俄罗斯正在从低成本招募人员转向专业破坏组织",
-          "summary_en": "Poland warns Russia is moving ",
+          "summary_zh": "匈牙利将被扣押的价值 8200 万美元的现金和黄金返还给乌克",
+          "summary_en": "Hungary returns a seized cash ",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+          "url": "https://www.yahoo.com/news/articles/hungary-returns-seized-cash-gold-152332379.html",
           "published": null
         },
         {
-          "summary_zh": "29 张微小居住空间的照片突显了全球负担能力危机",
-          "summary_en": "29 photos of tiny living space",
+          "summary_zh": "凌晨 4 点我在浴室里昏倒了。 3个月后，我决定步行73英里",
+          "summary_en": "I passed out at 4 a.m. in my b",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/tiny-living-spaces-around-the-world-affordability-crisis-photos",
+          "url": "https://www.businessinsider.com/passing-out-i-walked-the-camino-73-miles-across-spain-help-my-anxiety-2026-5",
           "published": null
         }
       ]
