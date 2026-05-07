@@ -5,7 +5,7 @@ import sys
 import time
 from typing import Optional
 
-from config import SUMMARY_MAX_LENGTH, TRANSLATION_DELAY
+from config import TRANSLATION_DELAY
 
 TRANSLATION_TIMEOUT = 8  # 单次翻译超时秒数
 
@@ -13,13 +13,6 @@ TRANSLATION_TIMEOUT = 8  # 单次翻译超时秒数
 def _has_chinese(text: str) -> bool:
     """检测文本是否包含中文字符（Unicode CJK 范围）。"""
     return bool(re.search(r"[一-鿿㐀-䶿]", text))
-
-
-def _truncate(text: str, max_len: int = SUMMARY_MAX_LENGTH) -> str:
-    """截断文本到指定长度（按字符数，不破坏多字节字符）。"""
-    if len(text) <= max_len:
-        return text
-    return text[:max_len]
 
 
 def _run_with_timeout(func, *args, timeout: int = TRANSLATION_TIMEOUT):
@@ -67,16 +60,16 @@ def translate_text(text: str, target_lang: str) -> tuple[str, str]:
     # 尝试主翻译方案
     result = _google_translate(text, target_lang)
     if result:
-        return _truncate(result), "auto"
+        return result, "auto"
 
     # 尝试备选方案
     result = _translate_fallback(text, target_lang)
     if result:
-        return _truncate(result), "auto"
+        return result, "auto"
 
     # 全部失败，降级为原文
     print(f"[WARN] 翻译失败，使用原文: {text[:30]}...", file=sys.stderr)
-    return _truncate(text), "fallback"
+    return text, "fallback"
 
 
 def translate_articles(articles: list) -> list:
@@ -87,8 +80,8 @@ def translate_articles(articles: list) -> list:
         - summary_zh: 中文摘要
         - summary_en: 英文摘要
 
-    中文源文章 → summary_zh = 原文（截断）, summary_en = 翻译
-    英文源文章 → summary_en = 原文（截断）, summary_zh = 翻译
+    中文源文章 → summary_zh = 原文, summary_en = 翻译
+    英文源文章 → summary_en = 原文, summary_zh = 翻译
     """
     count = 0
     for article in articles:
@@ -96,11 +89,11 @@ def translate_articles(articles: list) -> list:
         is_zh = _has_chinese(title)
 
         if is_zh:
-            article.summary_zh = _truncate(title)
+            article.summary_zh = title
             en_text, quality = translate_text(title, "en")
             article.summary_en = en_text
         else:
-            article.summary_en = _truncate(title)
+            article.summary_en = title
             zh_text, quality = translate_text(title, "zh-CN")
             article.summary_zh = zh_text
 

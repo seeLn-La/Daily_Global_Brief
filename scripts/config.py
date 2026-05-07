@@ -1,9 +1,6 @@
 # 每分类最多选取文章数
 MAX_ARTICLES_PER_CATEGORY = 10
 
-# 摘要最大字符数
-SUMMARY_MAX_LENGTH = 30
-
 # RSS 源请求超时（秒）
 FEED_TIMEOUT = 10
 
