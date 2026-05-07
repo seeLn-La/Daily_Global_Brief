@@ -19,7 +19,7 @@ def _ensure_data_dir() -> str:
 
 
 def _group_by_category(articles: list[Article]) -> dict:
-    """按分类分组文章，每组按发布时间倒序、取 Top N。"""
+    """按分类分组文章。每组按发布时间倒序，每个来源只取一篇，最后取 Top N。"""
     groups = defaultdict(list)
     for a in articles:
         groups[a.category].append(a)
@@ -27,16 +27,20 @@ def _group_by_category(articles: list[Article]) -> dict:
     result = {}
     for category in CATEGORY_NAMES:
         cat_articles = groups.get(category, [])
-        # 排序：有日期的在前面按时间倒序，无日期的放最后
-        cat_articles.sort(
-            key=lambda a: (a.published is None, a.published or datetime.min.replace(tzinfo=timezone.utc)),
-            reverse=False
-        )
-        # 重新排序：有日期的倒序（最新的在前）
         dated = [a for a in cat_articles if a.published is not None]
         undated = [a for a in cat_articles if a.published is None]
         dated.sort(key=lambda a: a.published, reverse=True)
-        result[category] = (dated + undated)[:MAX_ARTICLES_PER_CATEGORY]
+
+        # 每个来源只取最新一条，保证 10 条新闻各来自不同来源
+        seen_sources = set()
+        top_articles = []
+        for a in dated + undated:
+            if a.source not in seen_sources:
+                seen_sources.add(a.source)
+                top_articles.append(a)
+            if len(top_articles) >= MAX_ARTICLES_PER_CATEGORY:
+                break
+        result[category] = top_articles
 
     return result
 
