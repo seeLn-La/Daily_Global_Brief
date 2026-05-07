@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T13:11:50.949827+00:00",
+  "generated_at": "2026-05-07T13:22:45.705687+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
@@ -63,10 +63,10 @@
           "published": "2026-05-07T16:56:17+08:00"
         },
         {
-          "summary_zh": "马斯克最大的忠诚者变成了他最大的责任",
-          "summary_en": "Musk’s biggest loyalist became",
+          "summary_zh": "走进 Dreame 疯狂的发布会——挤满了无人能买的产品",
+          "summary_en": "Inside Dreame’s wild launch ev",
           "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+          "url": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
           "published": null
         },
         {
@@ -83,18 +83,32 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "尽管“环境充满挑战”，麦当劳的盈利仍高于预期",
-          "summary_en": "McDonald's earnings top estima",
+          "summary_zh": "保罗·都铎·琼斯 (Paul Tudor Jones) 表示",
+          "summary_en": "Paul Tudor Jones says AI bull ",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/mcdonalds-mcd-q1-2026-earnings.html",
-          "published": "2026-05-07T13:11:18+00:00"
+          "url": "https://www.cnbc.com/2026/05/07/paul-tudor-jones-says-ai-bull-market-has-another-year-or-two-to-run.html",
+          "published": "2026-05-07T13:21:58+00:00"
         },
         {
-          "summary_zh": "美国首次申请失业救济人数小幅上升，持续申请失业救济人数接近两",
-          "summary_en": "US Initial Jobless Claims Up S",
+          "summary_zh": "这家著名的家电制造商警告说，美国人的表现就像陷入了经济衰退",
+          "summary_en": "Americans are behaving like th",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/americans-are-behaving-like-theyre-in-a-recession-this-storied-appliance-maker-warns-d900b283?mod=mw_rss_topstories",
+          "published": "2026-05-07T13:19:00+00:00"
+        },
+        {
+          "summary_zh": "维权投资者 OneMove 表示 Sylog 董事会阻止了和",
+          "summary_en": "Activist Investor OneMove Says",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-07/us-continuing-claims-fall-to-near-two-year-low-video",
-          "published": "2026-05-07T13:05:58+00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-07/activist-investor-onemove-says-sylogist-board-blocked-settlement-talks",
+          "published": "2026-05-07T13:16:01+00:00"
+        },
+        {
+          "summary_zh": "战争和能源短缺提升中国在亚洲的影响力",
+          "summary_en": "War and Energy Shortages Boost",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
+          "published": "2026-05-07T13:15:56+00:00"
         },
         {
           "summary_zh": "沙鲁克·汗 (Shah Rukh Khan) 为开普敦注入宝",
@@ -104,13 +118,6 @@
           "published": "2026-05-07T13:04:32+00:00"
         },
         {
-          "summary_zh": "中层管理人员是人工智能工作场所中的“砧板”。以下是保住工作的",
-          "summary_en": "Middle managers are on the cho",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/middle-managers-are-on-the-chopping-block-in-the-ai-workplace-heres-how-to-save-your-job-e82e4efe?mod=mw_rss_topstories",
-          "published": "2026-05-07T13:01:00+00:00"
-        },
-        {
           "summary_zh": "英格兰南部预计将出现重大铁路中断，直至当天结束",
           "summary_en": "Major rail disruption expected",
           "source": "BBC News",
@@ -118,10 +125,31 @@
           "published": "2026-05-07T12:43:24+00:00"
         },
         {
+          "summary_zh": "石油美元的神话",
+          "summary_en": "The myth of the petrodollar",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/05/07/the-myth-of-the-petrodollar",
+          "published": "2026-05-07T10:29:11+00:00"
+        },
+        {
+          "summary_zh": "USAA 和武装部队基督教青年会在军人配偶感谢日之前推出儿童",
+          "summary_en": "USAA, Armed Services YMCA laun",
+          "source": "Latest Business News on Fox Business",
+          "url": "https://www.foxbusiness.com/business-leaders/exclusive-usaa-armed-services-ymca-launch-childcare-program-ahead-military-spouse-appreciation-day",
+          "published": "2026-05-07T06:00:18-04:00"
+        },
+        {
           "summary_zh": "波兰警告俄罗斯正在从低成本招募人员转向专业破坏组织",
           "summary_en": "Poland warns Russia is moving ",
           "source": "Yahoo News - Latest News & Headlines",
           "url": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+          "published": null
+        },
+        {
+          "summary_zh": "29 张微小居住空间的照片突显了全球负担能力危机",
+          "summary_en": "29 photos of tiny living space",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/tiny-living-spaces-around-the-world-affordability-crisis-photos",
           "published": null
         }
       ]
@@ -143,6 +171,13 @@
           "source": "智东西",
           "url": "https://zhidx.com/p/555869.html",
           "published": "2026-05-07T18:47:01+08:00"
+        },
+        {
+          "summary_zh": "人工智能帮助减轻英国 NHS 负担",
+          "summary_en": "AI helping ease the UK’s NHS b",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "published": "2026-05-07T09:35:00+00:00"
         },
         {
           "summary_zh": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打",
