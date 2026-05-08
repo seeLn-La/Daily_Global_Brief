@@ -2,8 +2,7 @@ name: Daily News Aggregation
 
 on:
   schedule:
-    # UTC 0:00 = 北京时间 8:00
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # UTC 0:00 = 北京时间 8:00
   workflow_dispatch:
 
 jobs:
@@ -45,5 +44,5 @@ jobs:
         if: always()
         env:
           BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
-          PAGES_URL: ${{ vars.PAGES_URL || 'https://github.com' }}
+          PAGES_URL: https://seeln-la.github.io/news/
         run: python scripts/bark_pusher.py
