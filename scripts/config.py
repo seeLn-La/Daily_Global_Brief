@@ -46,7 +46,7 @@ RSS_SOURCES = [
     {"url": "https://www.qbitai.com/feed", "category": "ai"},
     {"url": "https://zhidx.com/rss", "category": "ai"},
     {"url": "https://techxplore.com/rss-feed/machine-learning-ai-news/", "category": "ai"},
-    {"url": "https://huggingface.co/blog/feed.xml", "category": "ai"},
+    {"url": "https://www.marktechpost.com/feed/", "category": "ai"},
     {"url": "https://aibusiness.com/rss.xml", "category": "ai"},
 ]
 
