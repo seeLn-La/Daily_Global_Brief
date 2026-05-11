@@ -1,38 +1,52 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T00:08:24.751875+00:00",
+  "generated_at": "2026-05-08T06:19:52.941948+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "【钛晨报】官方发布医药代表管理办法：禁止9种行为，严防商业贿赂；星空卫视今起停播，母公司三年市值蒸发近500亿；出资20亿，京东正式拿下AMC牌照",
-          "summary_en": "[Titanium Morning News] Officially released the management regulations for medical representatives: 9 types of behaviors are prohibited to strictly prevent commercial bribery; Star TV will stop broadcasting from today, and the parent company’s market value has evaporated by nearly 50 billion in three years; with an investment of 2 billion, JD.com officially obtained the AMC license",
+          "summary_zh": "CDK4/6的下半场，正大天晴拿到了“重塑雕像的权力”",
+          "summary_en": "In the second half of CDK4/6, Zhengda Tianqing gained the \"power to reshape statues\"",
           "source": "钛媒体：引领未来商业与生活新知",
-          "url": "https://www.tmtpost.com/7979654.html",
-          "published": "2026-05-08T07:20:00+08:00"
+          "url": "https://www.tmtpost.com/7980336.html",
+          "published": "2026-05-08T13:55:00+08:00"
         },
         {
-          "summary_zh": "估值达到 $32B 6 个月后，谈判将达到 $40B+",
-          "summary_en": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-          "published": "2026-05-07T23:11:43+00:00"
-        },
-        {
-          "summary_zh": "研究人员在无意识的人脑中发现高级语言处理",
-          "summary_en": "Researchers discover advanced language processing in the unconscious human brain",
-          "source": "Hacker News: Front Page",
-          "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-          "published": "2026-05-07T23:06:44+00:00"
-        },
-        {
-          "summary_zh": "特朗普关注人工智能监管、被 DOGE 解雇的工人竞选公职以及汉坦病毒的解释",
-          "summary_en": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+          "summary_zh": "Canvas 黑客是一种新型勒索软件灾难",
+          "summary_en": "The Canvas Hack Is a New Kind of Ransomware Debacle",
           "source": "WIRED",
-          "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-          "published": "2026-05-07T21:37:20+00:00"
+          "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+          "published": "2026-05-08T05:02:40+00:00"
+        },
+        {
+          "summary_zh": "Blaise – 一个针对 QBE 的现代自托管零遗留 Object Pascal 编译器",
+          "summary_en": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/graemeg/blaise",
+          "published": "2026-05-08T04:44:02+00:00"
+        },
+        {
+          "summary_zh": "为什么你永远无法让你的医生给你回电",
+          "summary_en": "Why you can never get your doctor to call you back",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+          "published": "2026-05-08T04:42:29+00:00"
+        },
+        {
+          "summary_zh": "独家｜苹果带摄像头的AirPods或被迫暂停，部分产线「原地解散」",
+          "summary_en": "Exclusive | Apple's AirPods with camera may be forced to suspend, and some production lines will be \"disbanded in place\"",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1665134?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-05-08T04:34:05+00:00"
+        },
+        {
+          "summary_zh": "美团推「养虾社区」；OpenAI 推出三款实时语音模型；宇树机器人在韩国佛门「受戒」，法名「迦悲」",
+          "summary_en": "Meituan promotes \"Shrimp Farming Community\"; OpenAI launches three real-time speech models; Yushu Robot \"ordained\" in Korean Buddhism, named \"Jiabei\"",
+          "source": "极客公园",
+          "url": "http://www.geekpark.net/news/363813",
+          "published": "2026-05-08T08:10:17+08:00"
         },
         {
           "summary_zh": "诉讼称，国土安全部无法创建庞大的 DNA 数据库来追踪 ICE 批评者",
@@ -49,20 +63,6 @@
           "published": "2026-05-07T12:10:00+00:00"
         },
         {
-          "summary_zh": "Vidu Claw 开启「百元出百万级大片」时代：微信说句话，视频就出片",
-          "summary_en": "Vidu Claw opens the era of \"million-dollar blockbusters for a hundred dollars\": just say something on WeChat, and the video will be released",
-          "source": "爱范儿",
-          "url": "https://www.ifanr.com/1665085?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-05-07T11:34:21+00:00"
-        },
-        {
-          "summary_zh": "比 OpenClaw 更火的 「Agent 员工」赛道，杀出一个新王者｜AI 上新",
-          "summary_en": "The \"Agent Employee\" track, which is more popular than OpenClaw, has a new king | New AI",
-          "source": "极客公园",
-          "url": "http://www.geekpark.net/news/363804",
-          "published": "2026-05-07T16:56:17+08:00"
-        },
-        {
           "summary_zh": "ShinyHunters 威胁泄露学校数据，Canvas 瘫痪",
           "summary_en": "Canvas is down as ShinyHunters threatens to leak schools’ data",
           "source": "The Verge",
@@ -70,10 +70,10 @@
           "published": null
         },
         {
-          "summary_zh": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
-          "summary_en": "8:00 1 Krypton | Duan Yongping restocks Bubble Mart; \"Quanli Hotel\" has been removed from many platforms; one World Cup final ticket costs US$2 million, FIFA responds",
+          "summary_zh": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
+          "summary_en": "With the gold price of card slots, Wenjie M6 is competing for young people｜Forefront",
           "source": "36氪",
-          "url": "https://36kr.com/p/3799881836633093?f=rss",
+          "url": "https://36kr.com/p/3800183520091398?f=rss",
           "published": null
         }
       ]
@@ -83,53 +83,53 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "美国向伊朗目标开火，特朗普称停火完整，更多",
-          "summary_en": "US Fires at Iranian Target, Trump Says Ceasefire Intact, More",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/audio/2026-05-07/us-fires-at-iranian-target-trump-says-ceasefire-intact-more",
-          "published": "2026-05-07T23:44:52+00:00"
+          "summary_zh": "由于战争推高燃油费用，英国航空公司所有者利润受到打击",
+          "summary_en": "British Airways Owner Sees Profit Hit as War Drives Up Fuel Bill",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-08/british-airways-owner-sees-profit-hit-as-war-drives-up-fuel-bill",
+          "published": "2026-05-08T06:11:53+00:00"
         },
         {
-          "summary_zh": "由于营收指引疲弱和支出预测上调，CoreWeave 股价下跌 10%",
-          "summary_en": "CoreWeave stock sinks 10% on weak revenue guidance, increased spending forecast",
+          "summary_zh": "彭博社黎明欧洲：Starmer 面临淘汰（播客）",
+          "summary_en": "Bloomberg Daybreak Europe: Starmer Facing Wipeout (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-daybreak-europe-starmer-facing-wipeout-podcast",
+          "published": "2026-05-08T06:07:30+00:00"
+        },
+        {
+          "summary_zh": "美国关税导致丰田第四季度利润大幅下滑49%",
+          "summary_en": "Toyota fourth-quarter profit misses by wide margin as U.S. tariffs drive 49% slump",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html",
-          "published": "2026-05-07T23:38:14+00:00"
+          "url": "https://www.cnbc.com/2026/05/08/toyota-1q-2026-earnings.html",
+          "published": "2026-05-08T05:43:57+00:00"
+        },
+        {
+          "summary_zh": "美国和伊朗通过军事打击测试休战协议，油价上涨",
+          "summary_en": "Oil Prices Rise as U.S. and Iran Test Truce With Military Strikes",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/05/08/business/oil-gas-price-iran.html",
+          "published": "2026-05-08T05:20:36+00:00"
+        },
+        {
+          "summary_zh": "从石油巨头到银行——这些公司从伊朗战争中赚取了数十亿美元",
+          "summary_en": "From oil giants to banks - these companies are making billions from Iran war",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-08T05:00:29+00:00"
         },
         {
           "summary_zh": "美国、伊朗贸易战后石油期货上涨；法院驳回特朗普关税后股票期货平静",
           "summary_en": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories",
-          "published": "2026-05-07T23:34:00+00:00"
+          "published": "2026-05-08T02:57:00+00:00"
         },
         {
-          "summary_zh": "外国央行将马来西亚债券份额提升至创纪录水平",
-          "summary_en": "Foreign Central Banks Boost Share of Malaysian Bonds to Record",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-07/myr-usd-foreign-central-banks-boost-share-of-malaysian-bonds-to-record",
-          "published": "2026-05-07T23:27:30+00:00"
-        },
-        {
-          "summary_zh": "GameStop 首席执行官瑞安·科恩 (Ryan Cohen) 竞购 eBay 令粉丝们大吃一惊",
-          "summary_en": "GameStop’s CEO Ryan Cohen Baffles Fans With eBay Bid",
-          "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/05/06/business/ebay-gamestop-deal-ryan-cohen.html",
-          "published": "2026-05-07T23:19:51+00:00"
-        },
-        {
-          "summary_zh": "特朗普给欧盟最后通牒批准与美国的贸易协议",
-          "summary_en": "Trump gives EU ultimatum deadline to approve trade deal with US",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-07T23:11:35+00:00"
-        },
-        {
-          "summary_zh": "福特、卡哈特通过新卡车和小型企业推动美国工人的发展",
-          "summary_en": "Ford, Carhartt double down on American workers with new truck, small business push",
+          "summary_zh": "多种零食混合物被召回，包括 Target 产品，因存在沙门氏菌污染风险",
+          "summary_en": "Multiple snack mixes recalled, including Target product, over risk of salmonella contamination",
           "source": "Latest Business News on Fox Business",
-          "url": "https://www.foxbusiness.com/retail/ford-carhartt-double-down-american-workers-new-truck-small-business-push",
-          "published": "2026-05-07T18:31:16-04:00"
+          "url": "https://www.foxbusiness.com/lifestyle/multiple-snack-mixes-recalled-including-target-product-over-risk-salmonella-contamination",
+          "published": "2026-05-07T20:27:21-04:00"
         },
         {
           "summary_zh": "石油美元的神话",
@@ -139,17 +139,17 @@
           "published": "2026-05-07T10:29:11+00:00"
         },
         {
-          "summary_zh": "中国判处前国防部长死刑缓期执行",
-          "summary_en": "China sentences former defence ministers to death with reprieve",
+          "summary_zh": "法官裁定特朗普政府取消人文学科拨款违宪",
+          "summary_en": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+          "url": "https://www.yahoo.com/news/articles/judge-rules-trump-administrations-cancellation-002646150.html",
           "published": null
         },
         {
-          "summary_zh": "感谢萨姆·奥尔特曼和米拉·穆拉蒂，“方向非常糟糕”已经进入词典",
-          "summary_en": "'Directionally very bad' has entered the lexicon, thanks to Sam Altman and Mira Murati",
+          "summary_zh": "Airbnb 首席执行官表示，公司 60% 的代码都是由人工智能编写的，这让经理们不得不亲自动手",
+          "summary_en": "Airbnb's CEO says AI writes 60% of the company's code — and makes managers get their hands dirty",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/sam-altman-mira-murati-elon-musk-trial-text-memes-2026-5",
+          "url": "https://www.businessinsider.com/airbnb-ceo-ai-write-majority-company-code-managers-hands-on-2026-5",
           "published": null
         }
       ]
@@ -158,6 +158,20 @@
       "name_zh": "AI 发展",
       "name_en": "AI Development",
       "articles": [
+        {
+          "summary_zh": "谷歌招人流程大变，面试环节必须用AI",
+          "summary_en": "Google's recruitment process has changed drastically, and AI must be used in the interview process",
+          "source": "智东西",
+          "url": "https://zhidx.com/p/556026.html",
+          "published": "2026-05-08T13:20:09+08:00"
+        },
+        {
+          "summary_zh": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+          "summary_en": "GPT-5 level reasoning capabilities are plugged into the speech model, and OpenAI cuts the cost of simultaneous interpretation to the floor.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/414194.html",
+          "published": "2026-05-08T04:35:32+00:00"
+        },
         {
           "summary_zh": "受大脑的启发，研究人员构建了更智能、更高效的计算机硬件",
           "summary_en": "Inspired by the brain, researchers build smarter and more efficient computer hardware",
@@ -173,25 +187,11 @@
           "published": "2026-05-07T17:20:45+00:00"
         },
         {
-          "summary_zh": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
-          "summary_en": "Native Agent enters the canvas! One-stop professional creation, with full control and no lags",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/413912.html",
-          "published": "2026-05-07T15:54:00+00:00"
-        },
-        {
           "summary_zh": "Startup Battlefield 200 申请将于 5 月 27 日截止：获得 VC 访问、全球知名度、TechCrunch 报道和 10 万美元的机会",
           "summary_en": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
           "source": "AI News & Artificial Intelligence | TechCrunch",
           "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
           "published": "2026-05-07T15:00:00+00:00"
-        },
-        {
-          "summary_zh": "DeepMind入股了一家游戏公司，要给AI找个训练场",
-          "summary_en": "DeepMind has invested in a gaming company to find a training ground for AI",
-          "source": "智东西",
-          "url": "https://zhidx.com/p/555697.html",
-          "published": "2026-05-07T21:58:50+08:00"
         },
         {
           "summary_zh": "使用 GPT-5.5 和 GPT-5.5-Cyber​​ 扩展网络的可信访问",
@@ -201,11 +201,11 @@
           "published": "2026-05-07T13:00:00+00:00"
         },
         {
-          "summary_zh": "研究：公司经常使用自动化来控制某些工人的工资",
-          "summary_en": "Study: Firms often use automation to control certain workers’ wages",
-          "source": "MIT News - Artificial intelligence",
-          "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
-          "published": "2026-05-07T00:00:00-04:00"
+          "summary_zh": "人工智能帮助减轻英国 NHS 负担",
+          "summary_en": "AI helping ease the UK’s NHS burden",
+          "source": "AI News",
+          "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+          "published": "2026-05-07T09:35:00+00:00"
         },
         {
           "summary_zh": "通过 Slurm 块调度在 NVIDIA GB200 NVL72 上实现峰值系统和工作负载效率",
