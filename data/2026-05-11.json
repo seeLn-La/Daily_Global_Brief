@@ -1,31 +1,45 @@
 {
   "date": "2026-05-11",
-  "generated_at": "2026-05-11T11:48:57.948850+00:00",
+  "generated_at": "2026-05-11T12:31:01.308748+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "绿控传动：十年累亏1.18亿，应收账款暴增，“纸面盈利”难掩资金链危局｜IPO观察",
-          "summary_en": "Green Control Transmission: Accumulated losses of 118 million in ten years, accounts receivable increased sharply, and \"paper profits\" cannot conceal the crisis of the capital chain | IPO Observation",
+          "summary_zh": "5亿元Pre-A轮融资，Vbot维他动力创消费级具身智能赛道纪录",
+          "summary_en": "With 500 million yuan in Pre-A round financing, Vbot Vita Power sets a record for consumer-level embodied smart track",
           "source": "钛媒体：引领未来商业与生活新知",
-          "url": "https://www.tmtpost.com/7983457.html",
-          "published": "2026-05-11T19:26:19+08:00"
+          "url": "https://www.tmtpost.com/7983653.html",
+          "published": "2026-05-11T20:12:00+08:00"
         },
         {
-          "summary_zh": "雪佛龙德克萨斯州发电厂寻求学区税收减免",
-          "summary_en": "A Chevron Texas Power Plant Seeks School District Tax Break",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
-          "published": "2026-05-11T11:00:00+00:00"
+          "summary_zh": "下载：汉坦病毒爆发和马斯克诉奥特曼案第二周",
+          "summary_en": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+          "published": "2026-05-11T12:10:00+00:00"
         },
         {
-          "summary_zh": "韩国最大制造商支持机器人数据领域的台积电 Config",
-          "summary_en": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
+          "summary_zh": "Venmo 多年来最大的改造发生在一个非常有趣的时刻",
+          "summary_en": "Venmo’s biggest makeover in years comes at a very interesting time",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-          "published": "2026-05-11T10:58:00+00:00"
+          "url": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
+          "published": "2026-05-11T12:00:00+00:00"
+        },
+        {
+          "summary_zh": "Papa Johns 正在进军无人机送货领域，但不是为了披萨",
+          "summary_en": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/",
+          "published": "2026-05-11T12:00:00+00:00"
+        },
+        {
+          "summary_zh": "仅使用人工智能 10 分钟可能会让你变懒变笨",
+          "summary_en": "Using AI for just 10 minutes might make you lazy and dumb",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+          "published": "2026-05-11T11:58:18+00:00"
         },
         {
           "summary_zh": "下个月的苹果 WWDC，假如 iCloud 变成 iClaw……?",
@@ -35,13 +49,6 @@
           "published": "2026-05-11T10:14:31+00:00"
         },
         {
-          "summary_zh": "Ratty – 具有内嵌 3D 图形的终端模拟器",
-          "summary_en": "Ratty – A terminal emulator with inline 3D graphics",
-          "source": "Hacker News: Front Page",
-          "url": "https://ratty-term.org/",
-          "published": "2026-05-11T10:13:04+00:00"
-        },
-        {
           "summary_zh": "Figure AI 发布新 demo：两个机器人点头致意，我们一起把被子拉开",
           "summary_en": "Figure AI releases a new demo: the two robots nodded and we pulled the quilt apart together",
           "source": "极客公园",
@@ -49,10 +56,10 @@
           "published": "2026-05-11T10:58:58+08:00"
         },
         {
-          "summary_zh": "Windows 11 获得类似 macOS 的速度提升",
-          "summary_en": "Windows 11 is getting a macOS-like speed boost",
+          "summary_zh": "Venmo 终于认真对待隐私了",
+          "summary_en": "Venmo finally takes privacy seriously",
           "source": "The Verge",
-          "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
+          "url": "https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts",
           "published": null
         },
         {
@@ -69,46 +76,46 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "专业人士目前交易市场的 3 种方式，包括高盛策略师对 Kospi 下一步走势的看法",
-          "summary_en": "3 ways the pros are trading markets right now, including a Goldman strategist on what's next for Kospi",
+          "summary_zh": "尽管整体市场疲软，但美光科技股价再次上涨。为什么存储芯片的涨势似乎势不可挡",
+          "summary_en": "Micron shares are rising again despite weak overall market. Why memory chip rally seems unstoppable",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/11/us-futures-iran-talks-investment-strategies.html",
-          "published": "2026-05-11T11:43:35+00:00"
+          "url": "https://www.cnbc.com/2026/05/11/micron-shares-are-rising-again-despite-weak-overall-market-why-memory-chip-rally-seems-unstoppable.html",
+          "published": "2026-05-11T12:29:42+00:00"
         },
         {
-          "summary_zh": "美国和伊朗就条款争论不休，霍尔木兹海峡关闭导致油价上涨等等",
-          "summary_en": "US and Iran Wrangle Over Terms, Oil Rises with Hormuz Shut, More",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/audio/2026-05-11/us-and-iran-wrangle-over-terms-oil-rises-with-hormuz-shut-more",
-          "published": "2026-05-11T11:36:55+00:00"
-        },
-        {
-          "summary_zh": "随着行动变得极端，零售业涌入“愚蠢”的芯片制造商集会",
-          "summary_en": "Retail Floods Into ‘Silly’ Chipmaker Rally as Moves Get Extreme",
+          "summary_zh": "AI 芯片制造商 Cerebras Systems 寻求 48 亿美元的大规模 IPO",
+          "summary_en": "AI Chipmaker Cerebras Systems Seeks $4.8 Billion in Upsized IPO",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-11/retail-floods-into-silly-chipmaker-rally-as-moves-get-extreme",
-          "published": "2026-05-11T11:32:12+00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-11/ai-chipmaker-cerebras-systems-seeks-4-8-billion-in-upsized-ipo",
+          "published": "2026-05-11T12:23:28+00:00"
         },
         {
-          "summary_zh": "摩根士丹利警告说，“与时间赛跑”。霍尔木兹海峡的关闭可能会在夏季将布伦特原油价格推至 150 美元。",
-          "summary_en": "A ‘race against time.’ Hormuz closure could push Brent to $150 by summer, warns Morgan Stanley.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/a-race-against-time-hormuz-closure-could-push-brent-to-150-by-summer-warns-morgan-stanley-018be51f?mod=mw_rss_topstories",
-          "published": "2026-05-11T11:28:00+00:00"
+          "summary_zh": "莫迪的节俭警告给印度带来了双重冲击",
+          "summary_en": "Modi’s Frugality Warning Flags Twin Shock for India",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-11/india-faces-twin-shock-of-imminent-fuel-price-hikes-and-el-nino-impact",
+          "published": "2026-05-11T12:15:16+00:00"
         },
         {
-          "summary_zh": "斯塔默宣布英国钢铁国有化计划",
-          "summary_en": "British Steel nationalisation plans announced by Starmer",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-11T11:22:01+00:00"
-        },
-        {
-          "summary_zh": "我们为人工智能做好了哪些准备裁员？",
-          "summary_en": "How Prepared Are We for A.I. Layoffs?",
+          "summary_zh": "私募股权公司猛烈抨击附带权益的新研究",
+          "summary_en": "Private Equity Lashes Out at New Research on Carried Interest",
           "source": "NYT > Business",
-          "url": "https://www.nytimes.com/video/business/100000010887206/artificial-intelligence-layoffs-unemployment-benefits.html",
-          "published": "2026-05-11T10:43:34+00:00"
+          "url": "https://www.nytimes.com/2026/05/11/business/dealbook/carried-interest-tax-private-equity.html",
+          "published": "2026-05-11T12:09:19+00:00"
+        },
+        {
+          "summary_zh": "摩根大通表示，人工智能在新兴市场的发展前景比目前在美国更大",
+          "summary_en": "AI plays in emerging markets offer more upside than in the U.S. at present, says JPMorgan",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/ai-plays-in-emerging-markets-offer-more-upside-than-in-the-u-s-at-present-says-jpmorgan-e2b26291?mod=mw_rss_topstories",
+          "published": "2026-05-11T11:49:00+00:00"
+        },
+        {
+          "summary_zh": "伊朗冲突期间希思罗机场客运量下降",
+          "summary_en": "Heathrow sees passenger dip amid Iran conflict",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cx21r2vj27jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-11T11:43:37+00:00"
         },
         {
           "summary_zh": "由于沙门氏菌污染担忧，巧克力召回影响了公司的整个产品系列",
@@ -125,10 +132,10 @@
           "published": null
         },
         {
-          "summary_zh": "当我年轻的时候，存在更容易。现在我有了孩子，我正在重新思考这对我意味着什么。",
-          "summary_en": "When I was younger, being present was easier. Now that I have kids, I'm rethinking what it means to me.",
+          "summary_zh": "Keren Bartov 如何通过 900 美元的面部护理和名人客户建立一个护肤帝国",
+          "summary_en": "How Keren Bartov built a skincare empire on $900 facials and celebrity clients",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/being-present-parent-isnt-easy-2026-5",
+          "url": "https://www.businessinsider.com/beyonce-kim-kardashian-celebrity-facialist-keren-bartov-skincare-empire-2026-5",
           "published": null
         }
       ]
@@ -138,11 +145,18 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "63岁黄仁勋又当博士了！陈立武亲自披袍，最新演讲击碎AI焦虑",
-          "summary_en": "At the age of 63, Huang Renxun became a doctor again! Chen Liwu personally wears the robe, and his latest speech shatters AI anxiety",
+          "summary_zh": "高通CEO：智能手机不会死，但明年AI眼镜等将承接大量日常事务",
+          "summary_en": "Qualcomm CEO: Smartphones will not die, but AI glasses and other products will take over a large number of daily tasks next year",
           "source": "智东西",
-          "url": "https://zhidx.com/p/556948.html",
-          "published": "2026-05-11T19:15:59+08:00"
+          "url": "https://zhidx.com/p/556940.html",
+          "published": "2026-05-11T20:02:08+08:00"
+        },
+        {
+          "summary_zh": "Nvidia 与数据中心提供商 IREN 达成 2.1B 美元交易",
+          "summary_en": "Nvidia in $2.1B Deal With Data Center Provider IREN",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/nvidia-2-1b-deal-with-data-center-provider-iren",
+          "published": "2026-05-11T12:01:54+00:00"
         },
         {
           "summary_zh": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
