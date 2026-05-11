@@ -4,7 +4,7 @@
 
 | 层         | 选型                                    | 说明                         |
 | ---------- | --------------------------------------- | ---------------------------- |
-| 定时执行   | GitHub Actions (cron `0 0 * * *`)       | UTC 0:00 = 北京时间 8:00     |
+| 定时执行   | GitHub Actions (cron `0 23 * * *`)      | UTC 23:00 = 北京时间 7:00（提前1h缓冲GitHub延迟）     |
 | 新闻抓取   | Python `feedparser` 库                  | 免费解析 RSS/Atom            |
 | 翻译       | `deep-translator` (GoogleTranslator)    | 免费，无需 API Key           |
 | 数据存储   | JSON 文件 (`data/YYYY-MM-DD.json`)      | Git 友好，Pages 直接读取     |
