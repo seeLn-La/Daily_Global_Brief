@@ -37,7 +37,7 @@ RSS_SOURCES = [
     {"url": "https://www.economist.com/finance-and-economics/rss.xml", "category": "business"},
     {"url": "https://www.businessinsider.com/rss", "category": "business"},
 
-    # ===== AI 发展 (AI) — 10 源 =====
+    # ===== AI 发展 (AI) — 14 源 =====
     {"url": "https://www.artificialintelligence-news.com/feed/", "category": "ai"},
     {"url": "https://openai.com/news/rss.xml", "category": "ai"},
     {"url": "https://developer.nvidia.com/blog/feed/", "category": "ai"},
@@ -48,6 +48,10 @@ RSS_SOURCES = [
     {"url": "https://techxplore.com/rss-feed/machine-learning-ai-news/", "category": "ai"},
     {"url": "https://www.marktechpost.com/feed/", "category": "ai"},
     {"url": "https://aibusiness.com/rss.xml", "category": "ai"},
+    {"url": "https://venturebeat.com/category/ai/feed/", "category": "ai"},
+    {"url": "https://the-decoder.com/feed/", "category": "ai"},
+    {"url": "https://syncedreview.com/feed/", "category": "ai"},
+    {"url": "https://www.kdnuggets.com/feed", "category": "ai"},
 ]
 
 # 分类名称映射
