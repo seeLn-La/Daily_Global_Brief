@@ -1,17 +1,24 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T12:58:29.227080+00:00",
+  "generated_at": "2026-05-16T20:34:15.485651+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "Kyber (YC W23) 正在招聘一位创始营销人员",
-          "summary_en": "Kyber (YC W23) Is Hiring a Founding Marketer",
+          "summary_zh": "人工智能淘金热中的富人和穷人",
+          "summary_en": "The haves and have nots of the AI gold rush",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "published": "2026-05-16T20:17:16+00:00"
+        },
+        {
+          "summary_zh": "为什么这个网站被命名为 Antipope？",
+          "summary_en": "Why is this site named Antipope?",
           "source": "Hacker News: Front Page",
-          "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-          "published": "2026-05-16T12:01:06+00:00"
+          "url": "https://www.antipope.org/charlie/old/antipope.html",
+          "published": "2026-05-16T19:15:40+00:00"
         },
         {
           "summary_zh": "美国押注人工智能来捕捉预测市场的内幕交易",
@@ -42,24 +49,17 @@
           "published": "2026-05-16T00:47:16+00:00"
         },
         {
-          "summary_zh": "马斯克诉奥特曼第三周：马斯克和奥特曼因彼此的信誉而互相攻击。现在陪审团将选择一方。",
-          "summary_en": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+          "summary_zh": "马斯克诉奥特曼第三周：埃隆·马斯克和萨姆·奥特曼因彼此的可信度而互相攻击。现在陪审团将选择一方。",
+          "summary_en": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
           "published": "2026-05-15T23:39:35+00:00"
         },
         {
-          "summary_zh": "RJ Scaringe 已通过三个初创公司筹集了超过 12B 美元，投资者仍希望获得更多",
-          "summary_en": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-          "published": "2026-05-15T20:30:20+00:00"
-        },
-        {
-          "summary_zh": "Mixtape 是青少年生活的音乐写照",
-          "summary_en": "Mixtape is a musical portrait of teenage life",
+          "summary_zh": "Snap、YouTube 和 TikTok 就学生伤害问题达成和解",
+          "summary_en": "Snap, YouTube, and TikTok settle suit over harm to students",
           "source": "The Verge",
-          "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+          "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
           "published": null
         },
         {
@@ -76,39 +76,39 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "特朗普访华后返回美国、普京会见习近平等",
-          "summary_en": "Trump Back in US After China Visit, Putin to Meet Xi, More",
+          "summary_zh": "中国削减关税，美国允许俄罗斯石油豁免到期",
+          "summary_en": "China to Cut Levies, US Allows Expiration of Russia Oil Waiver",
           "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/audio/2026-05-16/trump-back-in-us-after-china-visit-putin-to-meet-xi-more",
-          "published": "2026-05-16T12:53:54+00:00"
+          "url": "https://www.bloomberg.com/news/audio/2026-05-16/china-to-cut-levies-us-allows-expiration-of-russia-oil-waiver",
+          "published": "2026-05-16T20:19:46+00:00"
         },
         {
-          "summary_zh": "尽管最近遭遇挫折，小盘股仍然走高。但更多的麻烦可能还在后面。",
-          "summary_en": "Small caps are still riding high despite latest setback. But more trouble could lie ahead.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/small-caps-are-still-riding-high-despite-latest-setback-but-more-trouble-could-lie-ahead-19d778ea?mod=mw_rss_topstories",
-          "published": "2026-05-16T12:30:00+00:00"
-        },
-        {
-          "summary_zh": "美国债务现在比经济规模还要大。这不是真正的问题。",
-          "summary_en": "U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem.",
-          "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html",
-          "published": "2026-05-16T12:00:03+00:00"
-        },
-        {
-          "summary_zh": "认识驾驶精神航空黄色喷气式飞机飞往沙漠的飞行员",
-          "summary_en": "Meet the pilots flying Spirit Airlines' yellow jets to the desert",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/16/spirit-airlines-airplanes.html",
-          "published": "2026-05-16T12:00:01+00:00"
-        },
-        {
-          "summary_zh": "雷·达里奥谈论中国，惠特尼·蒂尔森评论马姆达尼与格里芬的不和",
-          "summary_en": "Ray Dalio Talks about China, and Whitney Tilson Weighs in on Mamdani’s Feud With Griffin",
+          "summary_zh": "伊朗战争阴影下全球库存竞赛加剧",
+          "summary_en": "Global Inventory Race Intensifies in Shadow of the Iran War",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-16/dalio-talks-about-china-and-whitney-tilson-weighs-in-on-mamdani-s-griffin-feud",
-          "published": "2026-05-16T12:00:01+00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-16/global-inventory-race-intensifies-in-shadow-of-the-iran-war",
+          "published": "2026-05-16T20:00:00+00:00"
+        },
+        {
+          "summary_zh": "“我已经感到焦虑了”：我的前夫提出一次性给我 3 万美元的子女抚养费。有什么问题吗？",
+          "summary_en": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
+          "published": "2026-05-16T19:30:00+00:00"
+        },
+        {
+          "summary_zh": "特习会后，中国暗示削减关税、推进农产品市场准入",
+          "summary_en": "China signals tariff cuts, advances in farm market access after Trump-Xi summit",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/16/china-signals-tariff-cuts-advances-in-farm-market-access-after-trump-xi-summit.html",
+          "published": "2026-05-16T17:43:18+00:00"
+        },
+        {
+          "summary_zh": "特朗普政府考虑为拜登领导下调查的盟友提供 17 亿美元资金",
+          "summary_en": "Trump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html",
+          "published": "2026-05-16T15:42:22+00:00"
         },
         {
           "summary_zh": "Z 世代购物者推动亲身体验，帮助重振美国购物中心",
@@ -125,17 +125,17 @@
           "published": "2026-05-15T23:44:32+00:00"
         },
         {
-          "summary_zh": "法官将权衡民主党阻止特朗普投票行政命令的努力",
-          "summary_en": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
+          "summary_zh": "特朗普称习近平同意伊朗必须开放海峡，但没有迹象表明中国会介入",
+          "summary_en": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
+          "url": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
           "published": null
         },
         {
-          "summary_zh": "在西部生活了三年后，我搬到了北卡罗来纳州。这是我能为自己做出的最好的决定。",
-          "summary_en": "After 3 years of living out West, I moved to North Carolina. It was the best decision I could've made for myself.",
+          "summary_zh": "亚利桑那州学生在毕业演讲中谈论人工智能时对谷歌前首席执行官埃里克·施密特发出嘘声",
+          "summary_en": "Arizona students boo former Google CEO Eric Schmidt as he talks about AI during graduation speech",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/moved-to-asheville-north-carolina-better-quality-of-life-2026-5",
+          "url": "https://www.businessinsider.com/students-boo-eric-schmidt-google-ceo-ai-university-arizona-2026-5",
           "published": null
         }
       ]
@@ -145,25 +145,25 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "YouTube 向所有成人创作者开放其 Deepfake 换脸检测工具",
-          "summary_en": "YouTube opens its deepfake face-swap detection tool to all adult creators",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
-          "published": "2026-05-16T12:21:39+00:00"
-        },
-        {
-          "summary_zh": "NVIDIA 推出 SANA-WM：2.6B 参数开源世界模型，可在单个 GPU 上生成分钟级 720p 视频",
-          "summary_en": "NVIDIA Introduces SANA-WM: A 2.6B-Parameter Open-Source World Model That Generates Minute-Scale 720p Video on a Single GPU",
+          "summary_zh": "了解 LiteLLM 代理平台：基于 Kubernetes 的自托管基础设施层，用于生产中的隔离代理沙箱和持久会话管理",
+          "summary_en": "Meet LiteLLM Agent Platform: A Kubernetes-Based, Self-Hosted Infrastructure Layer for Isolated Agent Sandboxes and Persistent Session Management in Production",
           "source": "MarkTechPost",
-          "url": "https://www.marktechpost.com/2026/05/16/nvidia-introduces-sana-wm-a-2-6b-parameter-open-source-world-model-that-generates-minute-scale-720p-video-on-a-single-gpu/",
-          "published": "2026-05-16T07:52:42+00:00"
+          "url": "https://www.marktechpost.com/2026/05/16/meet-litellm-agent-platform-a-kubernetes-based-self-hosted-infrastructure-layer-for-isolated-agent-sandboxes-and-persistent-session-management-in-production/",
+          "published": "2026-05-16T17:59:09+00:00"
         },
         {
-          "summary_zh": "奥特曼投的芯片涨疯了，今年最大科技IPO",
-          "summary_en": "The prices of chips invested by Ultraman have gone crazy, this year’s largest technology IPO",
+          "summary_zh": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+          "summary_en": "No need to look any further, the most complete practical combat methods for AI implementation are all in this conference in Yizhuang",
           "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/418594.html",
-          "published": "2026-05-16T06:52:14+00:00"
+          "url": "https://www.qbitai.com/2026/05/418620.html",
+          "published": "2026-05-16T13:44:16+00:00"
+        },
+        {
+          "summary_zh": "新基准测试显示 Claude Mythos 和 GPT-5.5 可以自主开发真正的浏览器漏洞",
+          "summary_en": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+          "published": "2026-05-16T13:08:05+00:00"
         },
         {
           "summary_zh": "OpenAI 和马耳他合作为所有公民带来 ChatGPT Plus",
@@ -180,39 +180,11 @@
           "published": "2026-05-16T07:58:01+08:00"
         },
         {
-          "summary_zh": "OpenAI试验结束，马斯克创始人机器继续运转",
-          "summary_en": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-          "source": "AI News & Artificial Intelligence | TechCrunch",
-          "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-          "published": "2026-05-15T19:24:16+00:00"
-        },
-        {
-          "summary_zh": "一种新颖的多源数据融合深度学习架构",
-          "summary_en": "A novel deep learning architecture for multi-source data fusion",
-          "source": "News on Artificial Intelligence and Machine Learning",
-          "url": "https://techxplore.com/news/2026-05-deep-architecture-multi-source-fusion.html",
-          "published": "2026-05-15T13:57:02-04:00"
-        },
-        {
-          "summary_zh": "提示：人工智能的可操作性越高，安全挑战就越大",
-          "summary_en": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
-          "source": "aibusiness",
-          "url": "https://aibusiness.com/generative-ai/the-more-operational-ai-becomes-bigger-security-challenge",
-          "published": "2026-05-15T15:45:28+00:00"
-        },
-        {
-          "summary_zh": "德勤：扩展“自主智能”以实现真正增长",
-          "summary_en": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-          "source": "AI News",
-          "url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-          "published": "2026-05-15T15:02:00+00:00"
-        },
-        {
-          "summary_zh": "TurboQuant：压缩和性能值得大肆宣传吗？",
-          "summary_en": "TurboQuant: Is the Compression and Performance Worth the Hype?",
-          "source": "KDnuggets",
-          "url": "https://www.kdnuggets.com/turboquant-is-the-compression-and-performance-worth-the-hype",
-          "published": "2026-05-15T14:00:37+00:00"
+          "summary_zh": "NVIDIA Vera Rubin 平台如何解决 Agentic AI 的扩展问题",
+          "summary_en": "How the NVIDIA Vera Rubin Platform is Solving Agentic AI’s Scale-Up Problem",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-the-nvidia-vera-rubin-platform-is-solving-agentic-ais-scale-up-problem/",
+          "published": null
         }
       ]
     }
