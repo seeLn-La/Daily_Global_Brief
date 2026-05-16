@@ -2,7 +2,7 @@ name: Daily News Aggregation
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # UTC 23:00 = 北京时间 7:00（提前1h缓冲GitHub延迟）
+    - cron: '0 18 * * *'  # UTC 18:00, 延迟约10h后实际 UTC 04:00 = 北京时间 12:00
   workflow_dispatch:
 
 jobs:

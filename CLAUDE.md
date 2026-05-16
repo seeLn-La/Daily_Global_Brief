@@ -22,7 +22,7 @@
 | 新闻数据     | `data/YYYY-MM-DD.json`              |
 | 日期索引     | `data/index.json`                   |
 | CI/CD 工作流 | `.github/workflows/daily-news.yml`  |
-| Web UI       | `index.html`                        |
+| Web UI       | `index.html`（始终从 GitHub Pages 拉取数据，无需本地 data/ 文件） |
 
 ## 工作规范
 
@@ -75,6 +75,7 @@
 - 每日执行 **不消耗 AI/LLM API Token**
 - 部署在 **GitHub Actions + Pages（免费）**
 - 推送渠道：**Bark App（iOS）**
-- 定时触发：**UTC 23:00 = 北京时间 7:00**（提前1小时缓冲GitHub Actions延迟）
+- 定时触发：**UTC 18:00**（含约10h延迟缓冲，实际约UTC 04:00执行 = 北京时间 12:00）
+- Web UI 数据源：**GitHub Pages 远程加载**（`seeln-la.github.io/news/data/`），不依赖本地 data/ 目录
 - 摘要来源：**RSS 标题清洗 + 截断**（非 AI 生成）
 - 翻译方式：**deep-translator 免费库**（非 API）
