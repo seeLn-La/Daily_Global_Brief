@@ -1,24 +1,24 @@
 {
   "date": "2026-05-17",
-  "generated_at": "2026-05-17T15:42:40.679560+00:00",
+  "generated_at": "2026-05-17T20:36:36.426804+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "对于 Eclipse 来说，$2.5B Cerebras 的胜利只是实现其物理世界论文的开始",
-          "summary_en": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
+          "summary_zh": "苹果的 Siri 改造可能包括自动删除聊天记录",
+          "summary_en": "Apple’s Siri revamp could include auto-deleting chats",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-          "published": "2026-05-17T15:00:00+00:00"
+          "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "published": "2026-05-17T20:15:00+00:00"
         },
         {
-          "summary_zh": "安全研究人员称微软构建了 Bitlocker 后门并发布了漏洞",
-          "summary_en": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+          "summary_zh": "科学家用储存太阳能的液体电池“装在太阳里”",
+          "summary_en": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
           "source": "Hacker News: Front Page",
-          "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-          "published": "2026-05-17T13:42:30+00:00"
+          "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+          "published": "2026-05-17T18:42:35+00:00"
         },
         {
           "summary_zh": "Oto 智能洒水器评论（2026）：太阳能供电且易于使用",
@@ -42,10 +42,10 @@
           "published": "2026-05-17T16:15:00+08:00"
         },
         {
-          "summary_zh": "《怪事》是《胡言乱语》导演精心打造的紧张恐怖片",
-          "summary_en": "Oddity is masterfully tense horror from the director of Hokum",
+          "summary_zh": "据报道，改进后的 Siri 将提供自动删除聊天记录的功能",
+          "summary_en": "Revamped Siri will reportedly offer auto-deleting chats",
           "source": "The Verge",
-          "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+          "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
           "published": null
         },
         {
@@ -62,18 +62,39 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "伊朗战争僵局持续，阿联酋报告无人机袭击核电站",
-          "summary_en": "UAE reports drone strike at nuclear power plant as Iran war deadlock endures",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/17/abu-dhabi-says-drone-strike-caused-fire-at-nuclear-power-plant.html",
-          "published": "2026-05-17T15:30:48+00:00"
+          "summary_zh": "特朗普：霍尔木兹海峡的时钟在滴答作响，美国称中国将购买商品",
+          "summary_en": "Trump: Clock is Ticking on Hormuz, US Says China to Buy Goods",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-05-17/trump-clock-is-ticking-on-hormuz-us-says-china-to-buy-goods",
+          "published": "2026-05-17T20:15:07+00:00"
         },
         {
-          "summary_zh": "校车、小费、狗伙伴 |顺便说一句：你应该看到的头条新闻",
-          "summary_en": "School Buses, Tipping, Dog Companions | BTW: Headlines You Should See",
+          "summary_zh": "伊朗战争僵局持续，阿联酋报告无人机袭击核电站",
+          "summary_en": "UAE reports drone strike at nuclear power plant as Iran war deadlock persists",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/05/17/abu-dhabi-says-drone-strike-caused-fire-at-nuclear-power-plant.html",
+          "published": "2026-05-17T20:02:52+00:00"
+        },
+        {
+          "summary_zh": "伊朗战争可能造成 3000 亿美元的冲击——推高抵押贷款利率并挤压工资",
+          "summary_en": "The Iran war could be a $300 billion shock — driving up mortgage rates and squeezing wages",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-iran-war-could-be-a-300-billion-shock-driving-up-mortgage-rates-and-squeezing-wages-06afc027?mod=mw_rss_topstories",
+          "published": "2026-05-17T20:01:00+00:00"
+        },
+        {
+          "summary_zh": "债券发出通胀警报后，股票成为焦点",
+          "summary_en": "Stocks in Focus After Bonds Send Inflation Alarm",
           "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/videos/2026-05-17/school-buses-tipping-dog-companions-btw-video",
-          "published": "2026-05-17T15:26:44+00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-05-17/stocks-in-focus-after-bonds-send-inflation-alarm-markets-wrap",
+          "published": "2026-05-17T20:00:03+00:00"
+        },
+        {
+          "summary_zh": "伊朗战争正在削弱世界上最富裕的国家之一",
+          "summary_en": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
+          "published": "2026-05-17T18:38:03+00:00"
         },
         {
           "summary_zh": "一种财产正在悄然为美国人节省数千美元",
@@ -83,27 +104,6 @@
           "published": "2026-05-17T11:20:53-04:00"
         },
         {
-          "summary_zh": "“我差点犯了一个重大错误”：我在 64 岁而不是 70 岁时领取了社会保障福利。原因如下。",
-          "summary_en": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
-          "published": "2026-05-17T15:15:00+00:00"
-        },
-        {
-          "summary_zh": "Straus Family Creamery 自愿召回冰淇淋",
-          "summary_en": "Straus Family Creamery Issues Voluntary Ice Cream Recall",
-          "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/05/17/health/ice-cream-recall-straus-family-creamery.html",
-          "published": "2026-05-17T15:06:21+00:00"
-        },
-        {
-          "summary_zh": "美国、伊朗在霍尔木兹海峡陷入停滞，特朗普帮助驱逐卡西迪等等",
-          "summary_en": "US, Iran Stall on Hormuz, Trump Helps Eject Cassidy, More",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/audio/2026-05-17/us-iran-stall-on-hormuz-trump-helps-eject-cassidy-more",
-          "published": "2026-05-17T14:25:34+00:00"
-        },
-        {
           "summary_zh": "“成本上涨的恶性循环正在加剧贸易商的危机”",
           "summary_en": "'Vicious circle of rising costs is fuelling crisis for traders'",
           "source": "BBC News",
@@ -111,17 +111,17 @@
           "published": "2026-05-17T09:49:11+00:00"
         },
         {
-          "summary_zh": "泽连斯基表示俄罗斯正在考虑从白俄罗斯袭击北约国家的计划",
-          "summary_en": "Zelenskiy says Russia considering plan to attack NATO country from Belarus",
+          "summary_zh": "“这是唐纳德·特朗普的政党”：林赛·格雷厄姆说比尔·卡西迪输掉了初选，因为他“试图摧毁”总统",
+          "summary_en": "'This is the party of Donald Trump': Lindsey Graham says Bill Cassidy lost his primary because he 'tried to destroy' the president",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/articles/zelenskiy-says-russia-considering-plan-171657016.html",
+          "url": "https://www.yahoo.com/news/politics/article/this-is-the-party-of-donald-trump-lindsey-graham-says-bill-cassidy-lost-his-primary-because-he-tried-to-destroy-the-president-155306204.html",
           "published": null
         },
         {
-          "summary_zh": "大多数父母都会管理孩子的社交生活。我希望我 8 岁的孩子自己做。",
-          "summary_en": "Most parents manage their kids' social lives. I expect my 8-year-old to do it himself.",
+          "summary_zh": "产后我精疲力尽。一次旅行教会了我如何拥抱社区，并改变了我为人父母的方式。",
+          "summary_en": "I was burned out postpartum. A trip taught me how to embrace community and changed how I parent.",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/kid-calls-friends-playdates-independence-parenting-2026-5",
+          "url": "https://www.businessinsider.com/trip-to-india-changed-parenting-postpartum-2026-5",
           "published": null
         }
       ]
@@ -131,6 +131,13 @@
       "name_en": "AI Development",
       "articles": [
         {
+          "summary_zh": "使用 llmcompressor 使用 FP8、GPTQ 和 SmoothQuant 量化来压缩和基准指令调优 LLM 的编码实现",
+          "summary_en": "A Coding Implementation to Compress and Benchmark Instruction-Tuned LLMs with FP8, GPTQ, and SmoothQuant Quantization using llmcompressor",
+          "source": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/05/17/a-coding-implementation-to-compress-and-benchmark-instruction-tuned-llms-with-fp8-gptq-and-smoothquant-quantization-using-llmcompressor/",
+          "published": "2026-05-17T18:19:09+00:00"
+        },
+        {
           "summary_zh": "SpaceX、OpenAI、Anthropic 即将进行 IPO 的巨大风险和回报",
           "summary_en": "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic",
           "source": "News on Artificial Intelligence and Machine Learning",
@@ -138,25 +145,18 @@
           "published": "2026-05-17T11:40:01-04:00"
         },
         {
+          "summary_zh": "一只机器狗，把英伟达的算力王座拱翻了",
+          "summary_en": "A robot dog overturned Nvidia’s computing power throne",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/05/418969.html",
+          "published": "2026-05-17T15:10:59+00:00"
+        },
+        {
           "summary_zh": "世界行动模型使机器人能够在移动之前模拟后果",
           "summary_en": "World Action Models give robots the ability to simulate consequences before they move",
           "source": "The Decoder",
           "url": "https://the-decoder.com/world-action-models-give-robots-the-ability-to-simulate-consequences-before-they-move/",
           "published": "2026-05-17T13:15:25+00:00"
-        },
-        {
-          "summary_zh": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
-          "summary_en": "The World University Student Supercomputer Competition sets up a \"talent matching\" link for the first time to build a bridge between talent supply and demand from the \"competition field to the workplace\"",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/05/418964.html",
-          "published": "2026-05-17T10:21:56+00:00"
-        },
-        {
-          "summary_zh": "Vercel Labs 推出 Zero，一种旨在让 AI 代理可以读取、修复和发送本机程序的系统编程语言",
-          "summary_en": "Vercel Labs Introduces Zero, a Systems Programming Language Designed So AI Agents Can Read, Repair, and Ship Native Programs",
-          "source": "MarkTechPost",
-          "url": "https://www.marktechpost.com/2026/05/17/vercel-labs-introduces-zero-a-systems-programming-language-designed-so-ai-agents-can-read-repair-and-ship-native-programs/",
-          "published": "2026-05-17T08:11:49+00:00"
         },
         {
           "summary_zh": "NVIDIA Vera Rubin 平台如何解决 Agentic AI 的扩展问题",
