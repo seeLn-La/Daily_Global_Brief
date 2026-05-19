@@ -23,6 +23,8 @@
 | 日期索引     | `data/index.json`                   |
 | CI/CD 工作流 | `.github/workflows/daily-news.yml`  |
 | Web UI       | `index.html`（始终从 GitHub Pages 拉取数据，无需本地 data/ 文件） |
+| 本地推送脚本  | `scripts/noon_push.py`（macOS launchd 每天 12:00 触发）|
+| 推送日志     | `logs/noon_push.log`                 |
 
 ## 工作规范
 
@@ -59,8 +61,8 @@
 
 ### 安全提醒
 
-- `BARK_DEVICE_KEY` 存储在 GitHub Secrets，不硬编码到任何文件中
-- `.gitignore` 需忽略 `__pycache__/`、`.DS_Store`、`venv/` 等
+- `BARK_DEVICE_KEY` 存储在项目根目录 `.bark_key` 文件中（本地推送用）和 GitHub Secrets（CI 备用），不硬编码
+- `.gitignore` 需忽略 `__pycache__/`、`.DS_Store`、`venv/`、`.bark_key`、`logs/`
 
 ## 实施阶段（详见 docs/execution-plan.md）
 
@@ -75,7 +77,8 @@
 - 每日执行 **不消耗 AI/LLM API Token**
 - 部署在 **GitHub Actions + Pages（免费）**
 - 推送渠道：**Bark App（iOS）**
-- 定时触发：**UTC 18:00**（含约10h延迟缓冲，实际约UTC 04:00执行 = 北京时间 12:00）
+- 定时触发：**UTC 02:00**（北京时间 10:00，提前生成数据）
+- 推送触发：**macOS launchd 定时任务**（北京时间 12:00 准时推送，不受 GitHub 调度延迟影响）
 - Web UI 数据源：**GitHub Pages 远程加载**（`seeln-la.github.io/news/data/`），不依赖本地 data/ 目录
 - 摘要来源：**RSS 标题清洗 + 截断**（非 AI 生成）
 - 翻译方式：**deep-translator 免费库**（非 API）

@@ -2,7 +2,7 @@ name: Daily News Aggregation
 
 on:
   schedule:
-    - cron: '0 18 * * *'  # UTC 18:00, 延迟约10h后实际 UTC 04:00 = 北京时间 12:00
+    - cron: '0 2 * * *'  # UTC 02:00 = 北京时间 10:00, 预留2小时确保中午12点前数据就绪
   workflow_dispatch:
 
 jobs:
@@ -40,9 +40,5 @@ jobs:
             git push
           fi
 
-      - name: Send Bark notification
-        if: always()
-        env:
-          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
-          PAGES_URL: https://seeln-la.github.io/news/
-        run: python scripts/bark_pusher.py
+      # Bark 推送已迁移至 macOS 本地定时任务（noon_push.py + launchd）
+      # 确保每天中午 12:00 北京时间准时推送，不受 GitHub Actions 调度延迟影响

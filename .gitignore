@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+.bark_key
+logs/
 venv/
 .venv/
 *.egg-info/

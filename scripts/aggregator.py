@@ -94,6 +94,31 @@ def _update_index(data_dir: str, date_str: str) -> list:
     return dates
 
 
+def _write_push_message(data_dir: str, json_data: dict):
+    """输出推送 URL 路径文件，供 iOS Shortcuts 读取（一行文本，零解析）。"""
+    from urllib.parse import quote
+
+    counts = {}
+    for cat_key in ["technology", "business", "ai"]:
+        cat_data = json_data.get("categories", {}).get(cat_key, {})
+        counts[cat_key] = len(cat_data.get("articles", []))
+
+    total = sum(counts.values())
+    name_map = {"technology": "科技", "business": "商业", "ai": "AI"}
+    parts = [f"{name_map[k]} {v} 篇" for k, v in counts.items()]
+    body = f"{', '.join(parts)}，共 {total} 篇"
+
+    title = f"{json_data['date']} 新闻速递"
+    url = "https://seeln-la.github.io/news"
+
+    # 预编码 URL 路径，Shortcuts 直接拼接即可
+    path = f"/{quote(title, safe='')}/{quote(body, safe='')}?url={quote(url, safe='')}"
+    filepath = os.path.join(data_dir, "push_url.txt")
+    with open(filepath, "w") as f:
+        f.write(path)
+    print(f"推送 URL 路径文件: {filepath}")
+
+
 def main():
     """入口：执行完整新闻聚合流程。"""
     print("=" * 50)
@@ -126,7 +151,10 @@ def main():
     with open(json_path, "w") as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
-    # 5. 更新索引
+    # 5. 生成简化推送消息文件（供 iOS Shortcuts 读取）
+    _write_push_message(data_dir, json_data)
+
+    # 6. 更新索引
     all_dates = _update_index(data_dir, today)
 
     print(f"\n数据文件: {json_path}")
