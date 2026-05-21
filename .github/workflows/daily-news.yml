@@ -2,7 +2,7 @@ name: Daily News Aggregation
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # UTC 02:00 = 北京时间 10:00, 预留2小时确保中午12点前数据就绪
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
 
 jobs:
