@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T11:41:33.052345+00:00",
+  "generated_at": "2026-05-28T11:51:53.382277+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
@@ -56,10 +56,10 @@
           "published": "2026-05-28T07:00:00+00:00"
         },
         {
-          "summary_zh": "Gemini for Google Home 现在可以使用您的相机来触发自动化",
-          "summary_en": "Gemini for Google Home can now use your cameras to trigger automations",
+          "summary_zh": "Temu因非法销售产品被欧盟罚款超过2.3亿美元",
+          "summary_en": "Temu fined more than $230 million by EU over illegal product sales",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations",
+          "url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
           "published": null
         },
         {
@@ -76,25 +76,32 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "盘前涨幅最大的股票：Snowflake、Best Buy、Kohl's、Dollar Tree 等",
-          "summary_en": "Stocks making the biggest moves premarket: Snowflake, Best Buy, Kohl's, Dollar Tree & more",
+          "summary_zh": "伊朗称其在美国发动新一轮袭击后瞄准了美国空军基地，油价上涨 3%",
+          "summary_en": "Oil prices jump 3% after Iran says it targeted U.S. airbase following fresh American strikes",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/28/stocks-making-the-biggest-moves-premarket-snow-kss-dltr.html",
-          "published": "2026-05-28T11:37:43+00:00"
+          "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
+          "published": "2026-05-28T11:49:26+00:00"
         },
         {
-          "summary_zh": "报告警告“完美风暴”，英国年轻人失业或培训损失1250亿英镑",
-          "summary_en": "Young people out of work or training costing UK £125bn as report warns of 'perfect storm'",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28T11:35:33+00:00"
-        },
-        {
-          "summary_zh": "墨西哥在世界杯足球迷到来之前抢先改造机场",
-          "summary_en": "Mexico Races to Revamp Airport Before World Cup Soccer Fans Arrive",
+          "summary_zh": "追踪 Uber 对送货英雄的追求",
+          "summary_en": "Tracking Uber’s Pursuit of Delivery Hero",
           "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/features/2026-05-28/fifa-world-cup-mexico-rushes-to-revamp-airport-before-soccer-fans-arrive",
-          "published": "2026-05-28T11:30:03+00:00"
+          "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/tracking-uber-s-pursuit-of-delivery-hero",
+          "published": "2026-05-28T11:46:33+00:00"
+        },
+        {
+          "summary_zh": "为什么是时候开始像大宗商品一样讨论半导体了：可能存在超级周期",
+          "summary_en": "Why it’s time to start discussing semiconductors like commodities: There may be a supercycle",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-its-time-to-start-discussing-semiconductors-like-commodities-there-may-be-a-supercycle-99eda2bf?mod=mw_rss_topstories",
+          "published": "2026-05-28T11:45:00+00:00"
+        },
+        {
+          "summary_zh": "Temu因允许销售非法产品而被欧盟罚款2亿欧元",
+          "summary_en": "EU fines Temu €200m for allowing sale of illegal products",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-28T11:39:38+00:00"
         },
         {
           "summary_zh": "德国电价一天内从零升至近 400 欧元",
@@ -102,13 +109,6 @@
           "source": "Bloomberg Markets",
           "url": "https://www.bloomberg.com/news/articles/2026-05-28/german-power-prices-swing-from-zero-to-nearly-400-in-a-day",
           "published": "2026-05-28T11:26:35+00:00"
-        },
-        {
-          "summary_zh": "我正在以我女儿的名义为我的孙子开设经纪账户。这是明智之举吗——还是我在自找麻烦？",
-          "summary_en": "I’m setting up brokerage accounts for my grandkids in my daughter’s name. Is that wise — or am I asking for trouble?",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/im-setting-up-brokerage-accounts-for-my-grandkids-in-my-daughters-name-is-that-wise-or-am-i-asking-for-trouble-6728b2b2?mod=mw_rss_topstories",
-          "published": "2026-05-28T11:12:00+00:00"
         },
         {
           "summary_zh": "Temu 在欧盟被罚款过度销售不安全商品",
@@ -152,6 +152,13 @@
       "name_en": "AI Development",
       "articles": [
         {
+          "summary_zh": "AI聚合平台估值13亿美元",
+          "summary_en": "AI Aggregation Platform Valued at $1.3 Billion",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/ai-aggregation-platform-valued-1-3-billion",
+          "published": "2026-05-28T11:31:53+00:00"
+        },
+        {
           "summary_zh": "NBA计划使用人工智能系统自动出界呼叫",
           "summary_en": "NBA plans AI system for automatic out-of-bounds calls",
           "source": "AI News",
@@ -192,13 +199,6 @@
           "source": "量子位",
           "url": "https://www.qbitai.com/2026/05/426223.html",
           "published": "2026-05-28T08:47:27+00:00"
-        },
-        {
-          "summary_zh": "Robinhood将允许经纪人交易——这可能是一种趋势",
-          "summary_en": "Robinhood Will Let Agents Trade -- It Could Be a Trend",
-          "source": "aibusiness",
-          "url": "https://aibusiness.com/agentic-ai/robinhood-will-let-agents-trade-could-be-a-trend",
-          "published": "2026-05-28T00:17:18+00:00"
         },
         {
           "summary_zh": "您的 SEO 策略针对不再存在的搜索引擎进行了优化。",
