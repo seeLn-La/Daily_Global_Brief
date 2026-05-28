@@ -1,31 +1,45 @@
 {
   "date": "2026-05-28",
-  "generated_at": "2026-05-28T11:51:53.382277+00:00",
+  "generated_at": "2026-05-28T12:50:22.949314+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
+          "summary_zh": "五位前沿法学硕士对 1,000 项现实世界事实核查声明中 67% 的观点存在分歧",
+          "summary_en": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+          "source": "Hacker News: Front Page",
+          "url": "https://lenz.io/research/llm-disagreement",
+          "published": "2026-05-28T12:20:19+00:00"
+        },
+        {
+          "summary_zh": "下载：气候技术上市，人工智能炒作指数回归",
+          "summary_en": "The Download: climate tech goes public and the AI Hype Index returns",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+          "published": "2026-05-28T12:10:00+00:00"
+        },
+        {
+          "summary_zh": "Oura 推出更薄、更轻的 Ring 5，起价 399 美元",
+          "summary_en": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+          "published": "2026-05-28T12:00:00+00:00"
+        },
+        {
+          "summary_zh": "Oura 的新款 Ring 5 更小、更轻，并添加了人工智能健康教练",
+          "summary_en": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/oura-ring-5/",
+          "published": "2026-05-28T12:00:00+00:00"
+        },
+        {
           "summary_zh": "江苏索普拟定增16亿元延链：技术全来自国外，一项目已拖4年",
           "summary_en": "Jiangsu Suopu plans to add 1.6 billion yuan to extend the chain: all the technology comes from abroad, and one project has been delayed for 4 years",
           "source": "钛媒体：引领未来商业与生活新知",
           "url": "https://www.tmtpost.com/8006293.html",
           "published": "2026-05-28T19:18:27+08:00"
-        },
-        {
-          "summary_zh": "Cotopaxi Allpa 35L 旅行包 Del Día Dark：可持续且时尚",
-          "summary_en": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
-          "published": "2026-05-28T11:01:00+00:00"
-        },
-        {
-          "summary_zh": "AMD 通过 Vivado 许可变更吸引 Linux 用户",
-          "summary_en": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-          "source": "Hacker News: Front Page",
-          "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-          "published": "2026-05-28T10:56:55+00:00"
         },
         {
           "summary_zh": "预报员预测飓风季节低于平均水平，建议不要自满",
@@ -35,13 +49,6 @@
           "published": "2026-05-28T10:00:01+00:00"
         },
         {
-          "summary_zh": "气候技术公司正在上市。接下来是什么？",
-          "summary_en": "Climate tech companies are going public. What’s next?",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-          "published": "2026-05-28T10:00:00+00:00"
-        },
-        {
           "summary_zh": "讯飞首款 AI 眼镜，用 40 克撬动 AI 工作流",
           "summary_en": "iFlytek’s first AI glasses use 40 grams to leverage AI workflow",
           "source": "爱范儿",
@@ -49,24 +56,17 @@
           "published": "2026-05-28T09:27:55+00:00"
         },
         {
-          "summary_zh": "Vertu 希望首席执行官能够通过起价 6,880 美元的人工智能折叠屏来运营公司",
-          "summary_en": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-          "published": "2026-05-28T07:00:00+00:00"
-        },
-        {
-          "summary_zh": "Temu因非法销售产品被欧盟罚款超过2.3亿美元",
-          "summary_en": "Temu fined more than $230 million by EU over illegal product sales",
+          "summary_zh": "他们终于让 Oura Ring 变得更小、更轻",
+          "summary_en": "They’ve finally made the Oura Ring smaller and lighter",
           "source": "The Verge",
-          "url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
+          "url": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
           "published": null
         },
         {
-          "summary_zh": "氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭",
-          "summary_en": "Krypton Evening News | Weibo: Total revenue in the first quarter was US$421.3 million, a year-on-year increase of 6%; iFlytek released iFlytek AI glasses; Japanese space company AstroX plans to launch rockets from balloons",
+          "summary_zh": "快手基本面韧性凸显，可灵AI成第二增长曲线",
+          "summary_en": "Kuaishou’s fundamentals are resilient, and Ling AI can become the second growth curve",
           "source": "36氪",
-          "url": "https://36kr.com/p/3828874222555782?f=rss",
+          "url": "https://36kr.com/p/3828915666441090?f=rss",
           "published": null
         }
       ]
@@ -76,53 +76,53 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "伊朗称其在美国发动新一轮袭击后瞄准了美国空军基地，油价上涨 3%",
-          "summary_en": "Oil prices jump 3% after Iran says it targeted U.S. airbase following fresh American strikes",
+          "summary_zh": "通胀数据符合预期后，股票期货从低点回落：实时更新",
+          "summary_en": "Stock futures come off their lows after inflation data lands as expected: Live updates",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
-          "published": "2026-05-28T11:49:26+00:00"
-        },
-        {
-          "summary_zh": "追踪 Uber 对送货英雄的追求",
-          "summary_en": "Tracking Uber’s Pursuit of Delivery Hero",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-28/tracking-uber-s-pursuit-of-delivery-hero",
-          "published": "2026-05-28T11:46:33+00:00"
+          "url": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+          "published": "2026-05-28T12:49:26+00:00"
         },
         {
           "summary_zh": "为什么是时候开始像大宗商品一样讨论半导体了：可能存在超级周期",
           "summary_en": "Why it’s time to start discussing semiconductors like commodities: There may be a supercycle",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/why-its-time-to-start-discussing-semiconductors-like-commodities-there-may-be-a-supercycle-99eda2bf?mod=mw_rss_topstories",
-          "published": "2026-05-28T11:45:00+00:00"
+          "published": "2026-05-28T12:44:00+00:00"
         },
         {
-          "summary_zh": "Temu因允许销售非法产品而被欧盟罚款2亿欧元",
-          "summary_en": "EU fines Temu €200m for allowing sale of illegal products",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-05-28T11:39:38+00:00"
-        },
-        {
-          "summary_zh": "德国电价一天内从零升至近 400 欧元",
-          "summary_en": "German Power Prices Swing From Zero to Nearly €400 in a Day",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-28/german-power-prices-swing-from-zero-to-nearly-400-in-a-day",
-          "published": "2026-05-28T11:26:35+00:00"
-        },
-        {
-          "summary_zh": "Temu 在欧盟被罚款过度销售不安全商品",
-          "summary_en": "Temu Hit With Fine in E.U. Over Sales of Unsafe Goods",
+          "summary_zh": "伊朗战争将美联储首选通胀指标提升至 2023 年 5 月以来的最高水平",
+          "summary_en": "Iran War Lifts Fed’s Preferred Inflation Gauge to Highest Level Since May 2023",
           "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/05/28/business/temu-fine-european-union.html",
-          "published": "2026-05-28T11:11:21+00:00"
+          "url": "https://www.nytimes.com/2026/05/28/business/inflation-pce-gauge.html",
+          "published": "2026-05-28T12:39:49+00:00"
         },
         {
-          "summary_zh": "伊丽莎白·沃伦呼吁对人工智能行业征税以“投资于人”",
-          "summary_en": "Elizabeth Warren calls for taxing AI industry to 'invest in people’",
+          "summary_zh": "美联储青睐的通胀指标四月份仍处于高位",
+          "summary_en": "Fed's favored inflation gauge remained elevated in April",
           "source": "Latest Business News on Fox Business",
-          "url": "https://www.foxbusiness.com/politics/elizabeth-warren-ai-data-center-tax",
-          "published": "2026-05-28T06:29:50-04:00"
+          "url": "https://www.foxbusiness.com/economy/april-2026-pce-inflation",
+          "published": "2026-05-28T08:37:56-04:00"
+        },
+        {
+          "summary_zh": "大都会人寿与 Ares 因足球投资陷入困境而发生冲突",
+          "summary_en": "MetLife Clashes With Ares Over Struggling Football Investment",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-28/metlife-clashes-with-ares-over-struggling-football-investment",
+          "published": "2026-05-28T12:30:24+00:00"
+        },
+        {
+          "summary_zh": "报告警告“完美风暴”，英国年轻人失业或培训损失1250亿英镑",
+          "summary_en": "Young people out of work or training costing UK £125bn as report warns of 'perfect storm'",
+          "source": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-05-28T12:21:00+00:00"
+        },
+        {
+          "summary_zh": "医疗保健先锋：眼科疗法减少失明人数",
+          "summary_en": "Vanguards of Healthcare: Ocular Therapeutix Cuts Blindness Toll",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-05-28/vanguards-of-healthcare-ocular-therapeutix-cuts-blindness-toll",
+          "published": "2026-05-28T12:00:00+00:00"
         },
         {
           "summary_zh": "中国正在悄悄让农民工的生活变得更轻松",
@@ -139,10 +139,10 @@
           "published": null
         },
         {
-          "summary_zh": "俄罗斯正在为攻击无人机配备新的电子防御系统，以抵御乌克兰的拦截机",
-          "summary_en": "Russia is arming attack drones with new electronic defenses to fight off Ukrainian interceptors",
+          "summary_zh": "我妈妈的辅助生活费用每月超过 7,000 美元。我正在考虑搬到西班牙，这样我自己的长期护理会更便宜。",
+          "summary_en": "My mom's assisted living costs her over $7,000 monthly. I'm considering moving to Spain so my own long-term care will be cheaper.",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/russia-arms-drones-with-new-electronic-defenses-fight-ukrainian-interceptors-2026-5",
+          "url": "https://www.businessinsider.com/caring-for-mother-assisted-living-draining-savings-moving-to-spain-2026-5",
           "published": null
         }
       ]
@@ -151,6 +151,27 @@
       "name_zh": "AI 发展",
       "name_en": "AI Development",
       "articles": [
+        {
+          "summary_zh": "中国龙头净利飙涨838%！美国巨头加急扩产10倍，这条赛道被AI彻底带火",
+          "summary_en": "China's leading net profit surges 838%! The American giant accelerated its production expansion by 10 times, and this track was completely ignited by AI",
+          "source": "智东西",
+          "url": "https://zhidx.com/p/561191.html",
+          "published": "2026-05-28T20:40:08+08:00"
+        },
+        {
+          "summary_zh": "Mistral 将 LeChat 更名为 Vibe，押注其聊天机器人的未来是作为一个成熟的工作代理",
+          "summary_en": "Mistral rebrands LeChat as Vibe, betting its chatbot's future is as a full-blown work agent",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/mistral-rebrands-lechat-as-vibe-betting-its-chatbots-future-is-as-a-full-blown-work-agent/",
+          "published": "2026-05-28T12:23:32+00:00"
+        },
+        {
+          "summary_zh": "2026 年将构建的 7 个真实世界人工智能项目（附指南）",
+          "summary_en": "7 Real World AI Projects to Build in 2026 (with Guides)",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides",
+          "published": "2026-05-28T12:00:12+00:00"
+        },
         {
           "summary_zh": "AI聚合平台估值13亿美元",
           "summary_en": "AI Aggregation Platform Valued at $1.3 Billion",
@@ -164,13 +185,6 @@
           "source": "AI News",
           "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
           "published": "2026-05-28T10:00:00+00:00"
-        },
-        {
-          "summary_zh": "Meta One：扎克伯格最终为所有人工智能支出贴上了价格标签",
-          "summary_en": "Meta One: Zuckerberg finally puts a price tag on all that AI spending",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/meta-one-zuckerberg-finally-puts-a-price-tag-on-all-that-ai-spending/",
-          "published": "2026-05-28T09:45:20+00:00"
         },
         {
           "summary_zh": "人工智能高管收回工作末日警告",
@@ -187,13 +201,6 @@
           "published": "2026-05-28T09:08:20+00:00"
         },
         {
-          "summary_zh": "曝字节首次自研CPU！",
-          "summary_en": "It is revealed that Byte has developed its own CPU for the first time!",
-          "source": "智东西",
-          "url": "https://zhidx.com/p/561180.html",
-          "published": "2026-05-28T17:00:53+08:00"
-        },
-        {
           "summary_zh": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
           "summary_en": "Shagang signed a contract with DingTalk to make Wukong a productivity tool for every \"Iron Man\"",
           "source": "量子位",
@@ -208,14 +215,7 @@
           "published": "2026-05-27T18:39:17+00:00"
         },
         {
-          "summary_zh": "Pandas GroupBy 通过示例进行解释",
-          "summary_en": "Pandas GroupBy Explained With Examples",
-          "source": "KDnuggets",
-          "url": "https://www.kdnuggets.com/pandas-groupby-explained-with-examples",
-          "published": "2026-05-27T14:00:09+00:00"
-        },
-        {
-          "summary_zh": "NVIDIA Dynamo Snapshot：快速启动 Kubernetes 上的推理工作负载",
+          "summary_zh": "NVIDIA Dynamo Snapshot：Kubernetes 上推理工作负载的快速启动",
           "summary_en": "NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes",
           "source": "NVIDIA Technical Blog",
           "url": "https://developer.nvidia.com/blog/nvidia-dynamo-snapshot-fast-startup-for-inference-workloads-on-kubernetes/",
