@@ -46,6 +46,9 @@ font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display',
 - Sticky 置顶，`backdrop-filter: blur(20px)` 毛玻璃效果
 - 背景半透明白色 `rgba(255,255,255,0.8)`
 - 左侧标题，右侧日期导航
+- 页面标题：`Daily Global Brief`
+- 副标题：`科技 · 商业 · AI，每日自动更新`
+- 不显示固定更新时间，避免 GitHub Actions 调度时间浮动造成误解
 
 ### 日期导航
 

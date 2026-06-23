@@ -38,14 +38,15 @@
 ## 阶段 3：Web UI ✅
 
 9. `index.html` — Apple 极简风格单文件网页（三列响应式 + 日期导航 + 骨架屏/空/错误状态） ✅
+10. 页面标题更新为 `Daily Global Brief`，副标题不再显示固定更新时间 ✅
 
 ## 阶段 4：端到端验证 ✅
 
-10. GitHub 仓库: `seeLn-La/news` ✅
-11. `BARK_DEVICE_KEY` secret 已配置 ✅
-12. GitHub Pages 已开启: https://seeln-la.github.io/news/ ✅
-13. 手动触发 workflow，验证 Bark 推送到达手机 ✅
-14. Cron 触发：每日 UTC 0:00 = 北京时间 8:00，自动运行 ✅
+11. GitHub 仓库: `seeLn-La/news` ✅
+12. `BARK_DEVICE_KEY` secret 已配置 ✅
+13. GitHub Pages 已开启: https://seeln-la.github.io/news/ ✅
+14. 手动触发 workflow，验证 Bark 推送到达手机 ✅
+15. Cron 触发：每日 UTC 0:00 = 北京时间 8:00，自动运行 ✅
 
 ## 日常维护
 
