@@ -5,7 +5,7 @@
 | 层         | 选型                                    | 说明                         |
 | ---------- | --------------------------------------- | ---------------------------- |
 | 定时执行   | GitHub Actions (cron `0 23 * * *`)      | UTC 23:00 = 北京时间 7:00（提前1h缓冲GitHub延迟）     |
-| 新闻抓取   | Python `feedparser` 库                  | 免费解析 RSS/Atom            |
+| 新闻抓取   | Python `feedparser` + `requests` + 并发抓取 | 免费解析 RSS/Atom，支持并发与坏源跳过 |
 | 翻译       | `deep-translator` (GoogleTranslator)    | 免费，无需 API Key           |
 | 数据存储   | JSON 文件 (`data/YYYY-MM-DD.json`)      | Git 友好，Pages 直接读取     |
 | 网页托管   | GitHub Pages (main 分支根目录)          | 免费，零部署                 |
@@ -42,9 +42,9 @@ news/
 ## 数据流
 
 ```
-RSS Feeds (15 sources)
-  → fetcher.py (fetch + parse + dedup)
-    → aggregator.py (categorize + sort + top 10)
+RSS Feeds (28 sources)
+  → fetcher.py (parallel fetch + parse + dedup + source health)
+    → aggregator.py (categorize + candidate pool + top 10)
       → translator.py (bilingual translation)
         → data/YYYY-MM-DD.json (write)
           → bark_pusher.py (push notification)
@@ -67,6 +67,17 @@ RSS Feeds (15 sources)
         {
           "summary_zh": "苹果发布搭载M4芯片的新款MacBook Pro",
           "summary_en": "Apple launches M4 MacBook Pro",
+          "source": "TechCrunch",
+          "url": "https://example.com/article",
+          "published": "2026-05-06T08:30:00Z",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "苹果发布搭载M4芯片的新款MacBook Pro",
           "source": "TechCrunch",
           "url": "https://example.com/article",
           "published": "2026-05-06T08:30:00Z"
@@ -97,23 +108,38 @@ RSS Feeds (15 sources)
 | Ars Technica  | EN   | `https://feeds.arstechnica.com/arstechnica/index` |
 | Wired         | EN   | `https://www.wired.com/feed/rss`          |
 | Hacker News   | EN   | `https://hnrss.org/frontpage`             |
+| MIT Technology Review | EN | `https://www.technologyreview.com/feed/` |
+| Engadget      | EN   | `https://www.engadget.com/rss.xml`        |
 | 极客公园      | ZH   | `https://www.geekpark.net/rss`            |
 | 36氪          | ZH   | `https://36kr.com/feed`                   |
+| 爱范儿        | ZH   | `https://www.ifanr.com/feed`              |
 
 ### 商业 (Business)
 | 来源              | 语言 | RSS URL                                   |
 | ----------------- | ---- | ----------------------------------------- |
-| CNBC              | EN   | `https://www.cnbc.com/id/100003114/device/rss/rss.html` |
+| CNBC              | EN   | `https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114` |
 | Reuters (via GNews)| EN   | `https://news.google.com/rss/search?q=site:reuters.com+business` |
+| BBC Business      | EN   | `https://feeds.bbci.co.uk/news/business/rss.xml` |
+| MarketWatch       | EN   | `https://www.marketwatch.com/rss/topstories` |
+| NYT Business      | EN   | `https://rss.nytimes.com/services/xml/rss/nyt/Business.xml` |
+| Economist Finance  | EN   | `https://www.economist.com/finance-and-economics/rss.xml` |
 | Business Insider  | EN   | `https://www.businessinsider.com/rss`     |
+| Bloomberg Markets | EN   | `https://feeds.bloomberg.com/markets/news.rss` |
+| Bloomberg Business| EN   | `https://feeds.bloomberg.com/business/news.rss` |
+| Yahoo Finance     | EN   | `https://news.yahoo.com/rss/finance`      |
 
 ### AI 发展 (AI)
 | 来源                   | 语言 | RSS URL                                   |
 | ---------------------- | ---- | ----------------------------------------- |
-| MIT Technology Review  | EN   | `https://www.technologyreview.com/feed/`  |
-| VentureBeat AI         | EN   | `https://venturebeat.com/category/ai/feed/` |
-| 机器之心               | ZH   | `https://www.jiqizhixin.com/rss`          |
+| OpenAI News            | EN   | `https://openai.com/news/rss.xml`         |
+| NVIDIA Developer Blog  | EN   | `https://developer.nvidia.com/blog/feed/` |
+| MIT AI News            | EN   | `https://news.mit.edu/rss/topic/artificial-intelligence2` |
+| TechCrunch AI          | EN   | `https://techcrunch.com/category/artificial-intelligence/feed/` |
+| The Decoder            | EN   | `https://the-decoder.com/feed/`           |
 | 量子位                 | ZH   | `https://www.qbitai.com/feed`             |
+| TechXplore             | EN   | `https://techxplore.com/rss-feed/machine-learning-ai-news/` |
+| AI Business            | EN   | `https://aibusiness.com/rss.xml`          |
+| KDnuggets              | EN   | `https://www.kdnuggets.com/feed`          |
 
 ## 翻译降级策略
 
@@ -126,6 +152,16 @@ translate 库 (备选)
 ```
 
 每次翻译调用间隔 0.5 秒，防止限速。
+
+## 抓取容错策略
+
+| 场景                | 处理                                       |
+| ------------------- | ------------------------------------------ |
+| 单个 RSS 源超时     | 记录失败，继续并发抓取其他源               |
+| 单个 RSS 源 403     | 记录失败，连续多次后临时跳过               |
+| RSS 解析异常        | 记录失败，继续处理其他源                   |
+| 连续失败的来源      | 写入 `data/source_health.json` 并临时跳过   |
+| 并发任务异常        | 单独捕获，不影响其他源                     |
 
 ## 容错设计
 

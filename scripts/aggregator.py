@@ -5,9 +5,189 @@ import sys
 from collections import defaultdict
 from datetime import datetime, timezone
 
-from config import CATEGORY_NAMES, DATA_DIR, MAX_ARTICLES_PER_CATEGORY
+from config import (
+    CATEGORY_NAMES,
+    DATA_DIR,
+    MAX_ARTICLES_PER_CATEGORY,
+    MAX_CANDIDATES_PER_CATEGORY,
+    MAX_CANDIDATES_PER_SOURCE,
+)
 from fetcher import Article, fetch_all
 from translator import translate_articles
+
+CATEGORY_KEYWORDS = {
+    "technology": [
+        "tech",
+        "technology",
+        "software",
+        "hardware",
+        "chip",
+        "chips",
+        "semiconductor",
+        "gpu",
+        "cpu",
+        "ai",
+        "cloud",
+        "security",
+        "platform",
+        "device",
+        "startup",
+        "open source",
+        "robot",
+        "mobile",
+        "android",
+        "ios",
+        "windows",
+        "linux",
+        "苹果",
+        "芯片",
+        "硬件",
+        "软件",
+        "平台",
+        "云",
+        "安全",
+        "设备",
+        "终端",
+        "系统",
+    ],
+    "business": [
+        "business",
+        "market",
+        "markets",
+        "stock",
+        "stocks",
+        "earnings",
+        "revenue",
+        "profit",
+        "loss",
+        "economy",
+        "economic",
+        "inflation",
+        "rates",
+        "fed",
+        "bank",
+        "deal",
+        "merger",
+        "acquisition",
+        "ipo",
+        "investment",
+        "investor",
+        "ceo",
+        "trading",
+        "tariff",
+        "finance",
+        "财报",
+        "营收",
+        "利润",
+        "亏损",
+        "市场",
+        "股",
+        "并购",
+        "融资",
+        "投资",
+        "经济",
+        "通胀",
+        "利率",
+        "企业",
+    ],
+    "ai": [
+        "ai",
+        "artificial intelligence",
+        "llm",
+        "agent",
+        "agents",
+        "model",
+        "models",
+        "training",
+        "inference",
+        "fine-tuning",
+        "foundation model",
+        "multimodal",
+        "prompt",
+        "rag",
+        "token",
+        "transformer",
+        "machine learning",
+        "deep learning",
+        "openai",
+        "anthropic",
+        "gpt",
+        "claude",
+        "gemini",
+        "copilot",
+        "智能体",
+        "大模型",
+        "模型",
+        "训练",
+        "推理",
+        "生成式",
+        "人工智能",
+        "算力",
+        "向量",
+        "语义",
+    ],
+}
+
+SOURCE_BONUS = {
+    "technology": [
+        "TechCrunch",
+        "The Verge",
+        "Ars Technica",
+        "WIRED",
+        "MIT Technology Review",
+        "Hacker News",
+        "Engadget",
+        "极客公园",
+        "36氪",
+        "爱范儿",
+        "钛媒体",
+    ],
+    "business": [
+        "CNBC",
+        "BBC News",
+        "MarketWatch",
+        "The Economist",
+        "Business Insider",
+        "Reuters",
+        "Bloomberg",
+        "NYT",
+    ],
+    "ai": [
+        "OpenAI",
+        "NVIDIA",
+        "MIT Technology Review",
+        "TechCrunch",
+        "VentureBeat",
+        "The Decoder",
+        "Synced",
+        "AI News",
+        "MarkTechPost",
+        "KDnuggets",
+        "量子位",
+        "机器之心",
+        "智东西",
+        "aibusiness",
+        "TechXplore",
+    ],
+}
+
+MIN_CANDIDATE_SCORE = {
+    "technology": 2,
+    "business": 2,
+    "ai": 2,
+}
+
+MIN_FINAL_SCORE = {
+    "technology": 3,
+    "business": 3,
+    "ai": 3,
+}
+
+STRONG_MATCH_SCORE = {
+    "technology": 5,
+    "business": 5,
+    "ai": 5,
+}
 
 
 def _ensure_data_dir() -> str:
@@ -18,8 +198,155 @@ def _ensure_data_dir() -> str:
     return data_path
 
 
+def _sort_articles(articles: list[Article]) -> list[Article]:
+    """按发布时间倒序，未标注时间的文章排在后面。"""
+    dated = [a for a in articles if a.published is not None]
+    undated = [a for a in articles if a.published is None]
+    dated.sort(key=lambda a: a.published, reverse=True)
+    return dated + undated
+
+
+def _article_score(article: Article, category: str) -> float:
+    """根据标题主题、来源可信度和时效性给文章打分。"""
+    text = f"{article.summary} {article.source}".lower()
+    score = 0.0
+
+    for keyword in CATEGORY_KEYWORDS.get(category, []):
+        if keyword.lower() in text:
+            score += 1.0
+
+    source_text = article.source.lower()
+    for source_name in SOURCE_BONUS.get(category, []):
+        if source_name.lower() in source_text:
+            score += 1.5
+            break
+
+    if article.published is not None:
+        now = datetime.now(timezone.utc)
+        age_hours = max((now - article.published).total_seconds() / 3600, 0)
+        score += max(0.0, 6.0 - age_hours / 4.0)
+
+    return score
+
+
+def _rank_articles(articles: list[Article], category: str) -> list[Article]:
+    """按相关性和时效性排序，相关性更高的排前面。"""
+    return sorted(
+        articles,
+        key=lambda article: (
+            _article_score(article, category),
+            article.published or datetime.min.replace(tzinfo=timezone.utc),
+        ),
+        reverse=True,
+    )
+
+
+def _select_candidates(cat_articles: list[Article], category: str) -> list[Article]:
+    """为单个分类生成候选池。
+
+    候选池优先保证时效性，同时限制单一来源最多保留少量文章，
+    避免一个站点把整个板块占满。
+    """
+    ranked = _rank_articles(cat_articles, category)
+    source_counts: dict[str, int] = defaultdict(int)
+    candidates: list[Article] = []
+    fallback: list[Article] = []
+
+    for article in ranked:
+        if _article_score(article, category) < MIN_CANDIDATE_SCORE[category]:
+            fallback.append(article)
+            continue
+        if source_counts[article.source] >= MAX_CANDIDATES_PER_SOURCE:
+            continue
+        candidates.append(article)
+        source_counts[article.source] += 1
+        if len(candidates) >= MAX_CANDIDATES_PER_CATEGORY:
+            break
+
+    if len(candidates) < MAX_CANDIDATES_PER_CATEGORY:
+        for article in fallback:
+            if source_counts[article.source] >= MAX_CANDIDATES_PER_SOURCE:
+                continue
+            candidates.append(article)
+            source_counts[article.source] += 1
+            if len(candidates) >= MAX_CANDIDATES_PER_CATEGORY:
+                break
+
+    return candidates
+
+
+def _select_final_articles(candidates: list[Article], category: str) -> list[dict]:
+    """从候选池中挑出最终展示的文章。
+
+    先尽量保证来源多样性；如果还不够，再按顺序补齐。
+    返回值包含文章对象和入选原因，方便后续写入 JSON。
+    """
+    selected: list[dict] = []
+    seen_sources: set[str] = set()
+    ranked = sorted(
+        candidates,
+        key=lambda article: (
+            -_article_score(article, category),
+            article.published or datetime.min.replace(tzinfo=timezone.utc),
+        ),
+    )
+
+    for article in ranked:
+        score = _article_score(article, category)
+        if score < STRONG_MATCH_SCORE[category]:
+            continue
+        if article.source in seen_sources:
+            continue
+        selected.append(
+            {
+                "article": article,
+                "selection_tier": "strong_match",
+                "selection_reason": "高相关且来源优先",
+                "selection_score": round(score, 2),
+            }
+        )
+        seen_sources.add(article.source)
+        if len(selected) >= MAX_ARTICLES_PER_CATEGORY:
+            return selected
+
+    for article in ranked:
+        score = _article_score(article, category)
+        if score < MIN_FINAL_SCORE[category]:
+            continue
+        if any(item["article"] is article for item in selected):
+            continue
+        selected.append(
+            {
+                "article": article,
+                "selection_tier": "soft_match",
+                "selection_reason": "主题相关，补足数量",
+                "selection_score": round(score, 2),
+            }
+        )
+        seen_sources.add(article.source)
+        if len(selected) >= MAX_ARTICLES_PER_CATEGORY:
+            break
+
+    if len(selected) < MAX_ARTICLES_PER_CATEGORY:
+        for article in ranked:
+            if any(item["article"] is article for item in selected):
+                continue
+            selected.append(
+                {
+                    "article": article,
+                    "selection_tier": "fill",
+                    "selection_reason": "数量补位",
+                    "selection_score": round(_article_score(article, category), 2),
+                }
+            )
+            if len(selected) >= MAX_ARTICLES_PER_CATEGORY:
+                break
+
+    return selected
+
+
 def _group_by_category(articles: list[Article]) -> dict:
-    """按分类分组文章。每组按发布时间倒序，每个来源只取一篇，最后取 Top N。"""
+    """按分类分组文章，输出候选池和最终展示列表。"""
     groups = defaultdict(list)
     for a in articles:
         groups[a.category].append(a)
@@ -27,20 +354,12 @@ def _group_by_category(articles: list[Article]) -> dict:
     result = {}
     for category in CATEGORY_NAMES:
         cat_articles = groups.get(category, [])
-        dated = [a for a in cat_articles if a.published is not None]
-        undated = [a for a in cat_articles if a.published is None]
-        dated.sort(key=lambda a: a.published, reverse=True)
-
-        # 每个来源只取最新一条，保证 10 条新闻各来自不同来源
-        seen_sources = set()
-        top_articles = []
-        for a in dated + undated:
-            if a.source not in seen_sources:
-                seen_sources.add(a.source)
-                top_articles.append(a)
-            if len(top_articles) >= MAX_ARTICLES_PER_CATEGORY:
-                break
-        result[category] = top_articles
+        candidates = _select_candidates(cat_articles, category)
+        final_articles = _select_final_articles(candidates, category)
+        result[category] = {
+            "candidates": candidates,
+            "articles": final_articles,
+        }
 
     return result
 
@@ -49,19 +368,33 @@ def _build_json_data(date_str: str, categorized: dict) -> dict:
     """构建输出 JSON 数据结构。"""
     categories_json = {}
     for cat_key, cat_names in CATEGORY_NAMES.items():
-        articles = categorized.get(cat_key, [])
+        category_data = categorized.get(cat_key, {})
+        articles = category_data.get("articles", [])
+        candidates = category_data.get("candidates", [])
         categories_json[cat_key] = {
             "name_zh": cat_names["zh"],
             "name_en": cat_names["en"],
             "articles": [
                 {
-                    "summary_zh": getattr(a, "summary_zh", a.summary),
-                    "summary_en": getattr(a, "summary_en", a.summary),
+                    "summary_zh": getattr(item["article"], "summary_zh", item["article"].summary),
+                    "summary_en": getattr(item["article"], "summary_en", item["article"].summary),
+                    "source": item["article"].source,
+                    "url": item["article"].url,
+                    "published": item["article"].published.isoformat() if item["article"].published else None,
+                    "selection_tier": item["selection_tier"],
+                    "selection_reason": item["selection_reason"],
+                    "selection_score": item["selection_score"],
+                }
+                for item in articles
+            ],
+            "candidates": [
+                {
+                    "summary": a.summary,
                     "source": a.source,
                     "url": a.url,
                     "published": a.published.isoformat() if a.published else None,
                 }
-                for a in articles
+                for a in candidates
             ],
         }
 
@@ -134,12 +467,15 @@ def main():
     categorized = _group_by_category(articles)
     for cat_key, cat_articles in categorized.items():
         name = CATEGORY_NAMES[cat_key]["zh"]
-        print(f"  {name}: {len(cat_articles)} 篇")
+        candidate_count = len(cat_articles.get("candidates", []))
+        final_count = len(cat_articles.get("articles", []))
+        print(f"  {name}: 候选 {candidate_count} 篇，最终 {final_count} 篇")
 
     # 3. 翻译
     all_selected = []
-    for cat_articles in categorized.values():
-        all_selected.extend(cat_articles)
+    for cat_data in categorized.values():
+        for item in cat_data.get("articles", []):
+            all_selected.append(item["article"])
     translate_articles(all_selected)
 
     # 4. 写入 JSON

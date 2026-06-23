@@ -51,4 +51,6 @@
 
 - 无需任何人工操作，GitHub Actions 每日自动运行
 - 在 `scripts/config.py` 的 `RSS_SOURCES` 列表可增删 RSS 源
+- `scripts/fetcher.py` 会并发抓取，并自动跳过连续失败的来源
+- `data/source_health.json` 会记录坏源状态，系统会自动清理已移除的旧记录
 - Push 到 GitHub 后自动部署网页

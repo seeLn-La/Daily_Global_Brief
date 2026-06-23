@@ -1,13 +1,14 @@
 """翻译模块：中英双语互译，带降级策略。每日执行不消耗 AI Token。"""
-import concurrent.futures
+import queue
 import re
+import threading
 import sys
 import time
 from typing import Optional
 
 from config import TRANSLATION_DELAY
 
-TRANSLATION_TIMEOUT = 8  # 单次翻译超时秒数
+TRANSLATION_TIMEOUT = 3  # 单次翻译超时秒数
 
 
 def _has_chinese(text: str) -> bool:
@@ -16,13 +17,28 @@ def _has_chinese(text: str) -> bool:
 
 
 def _run_with_timeout(func, *args, timeout: int = TRANSLATION_TIMEOUT):
-    """在线程中运行函数，带超时控制。"""
-    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
-        future = executor.submit(func, *args)
+    """在线程中运行函数，带超时控制。
+
+    这里使用守护线程，避免超时后主进程还要等后台翻译线程收尾。
+    """
+    result_queue: queue.Queue = queue.Queue(maxsize=1)
+
+    def _target():
         try:
-            return future.result(timeout=timeout)
-        except (concurrent.futures.TimeoutError, Exception):
-            return None
+            result_queue.put(("ok", func(*args)))
+        except Exception as exc:  # noqa: BLE001
+            result_queue.put(("err", exc))
+
+    thread = threading.Thread(target=_target, daemon=True)
+    thread.start()
+    try:
+        status, payload = result_queue.get(timeout=timeout)
+    except queue.Empty:
+        return None
+
+    if status == "ok":
+        return payload
+    return None
 
 
 def _google_translate(text: str, target: str) -> Optional[str]:
