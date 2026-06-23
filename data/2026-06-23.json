@@ -1,72 +1,219 @@
 {
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T02:31:18.974542+00:00",
+  "generated_at": "2026-06-23T14:32:58.838822+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "18亿改嫁亿咖通，魅族把“命根子”Flyme卖了",
-          "summary_en": "1.8 billion remarried Yikatong, Meizu sold its \"lifeblood\" Flyme",
-          "source": "钛媒体：引领未来商业与生活新知",
-          "url": "https://www.tmtpost.com/8037258.html",
-          "published": "2026-06-23T10:18:00+08:00"
-        },
-        {
-          "summary_zh": "最新清单：2026 年主要科技公司裁员，雇主提到人工智能",
-          "summary_en": "The running list: major tech layoffs in 2026 where employers cited AI",
+          "summary_zh": "Fika Jobs 筹集了 400 万美元，用于建立一个视频优先的招聘平台，人工智能代理可以在这里面试候选人",
+          "summary_en": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-          "published": "2026-06-23T01:27:55+00:00"
+          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+          "published": "2026-06-23T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.11
         },
         {
-          "summary_zh": "对 Memcached 的赞扬",
-          "summary_en": "In Praise of Memcached",
-          "source": "Hacker News: Front Page",
-          "url": "https://jchri.st/blog/in-praise-of-memcached/",
-          "published": "2026-06-23T01:15:05+00:00"
+          "summary_zh": "MSI Claw 8 EX AI+评测：大价钱，大性能",
+          "summary_en": "MSI Claw 8 EX AI+ review: Big money for big performance",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2199163/msi-claw-8-ex-ai-review/",
+          "published": "2026-06-23T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.11
         },
         {
-          "summary_zh": "早报｜豆包联合曹操出行推出打车功能/淘宝闪购灰测高端外卖「家宴」/日本卫浴厂商TOTO计划投800亿日元做1nm芯片",
-          "summary_en": "Morning Post | Doubao joins forces with Cao Cao Travel to launch taxi-hailing function/Taobao flash sale tests high-end takeaway \"family banquet\"/Japanese sanitary ware manufacturer TOTO plans to invest 80 billion yen in 1nm chips",
-          "source": "爱范儿",
-          "url": "https://www.ifanr.com/1669656?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-06-23T00:29:25+00:00"
-        },
-        {
-          "summary_zh": "来自太空的神秘重复无线电信号的来源已被识别",
-          "summary_en": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
-          "source": "WIRED",
-          "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
-          "published": "2026-06-22T22:15:10+00:00"
-        },
-        {
-          "summary_zh": "通用汽车在解雇 1,300 名工人后在旗舰电动汽车工厂安装机器人",
-          "summary_en": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-          "source": "Ars Technica - All content",
-          "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-          "published": "2026-06-22T21:52:39+00:00"
-        },
-        {
-          "summary_zh": "Anthropic 与政府的最新争执中值得关注的三件事",
-          "summary_en": "Three things to watch amid Anthropic’s latest feud with the government",
+          "summary_zh": "下载：芯片制造的未来和 Anthropic 的政府冲突",
+          "summary_en": "The Download: the future of chipmaking and Anthropic’s government clash",
           "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-          "published": "2026-06-22T18:00:00+00:00"
+          "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+          "published": "2026-06-23T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.91
         },
         {
-          "summary_zh": "英伟达表示，其人工智能数据中心设计运行温度更高，可减少用水量",
-          "summary_en": "Nvidia says its AI data center design runs hotter to use a lot less water",
+          "summary_zh": "如何戳破人工智能泡沫：从根源上打击",
+          "summary_en": "How to burst the AI bubble: Strike at its roots",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+          "published": "2026-06-23T12:00:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.87
+        },
+        {
+          "summary_zh": "苹果将​​提高设备价格，但什么时候呢？",
+          "summary_en": "Apple is going to raise device prices, but when?",
+          "source": "Hacker News: Front Page",
+          "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+          "published": "2026-06-23T10:54:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.59
+        },
+        {
+          "summary_zh": "最佳 Prime Day 科技产品优惠，最高折扣 280 美元（2026 年）：手机、手表等",
+          "summary_en": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-prime-day-tech-deals-2026/",
+          "published": "2026-06-23T12:26:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.97
+        },
+        {
+          "summary_zh": "微信 AI 全网最细体验，我又爱上了刷朋友圈",
+          "summary_en": "WeChat AI has the most detailed experience on the entire network, I fell in love with browsing Moments again",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669694?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-23T10:07:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.39
+        },
+        {
+          "summary_zh": "甲骨文过去一年裁员 21,000 名员工，人工智能是原因之一",
+          "summary_en": "Oracle laid off 21,000 employees over the past year, citing AI as one of the reasons",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2199604/oracle-laid-off-21000-employees-in-the-last-year/",
+          "published": "2026-06-23T11:16:34+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "大象警报！人工智能预警系统旨在避免致命冲突",
+          "summary_en": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+          "published": "2026-06-23T09:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.11
+        },
+        {
+          "summary_zh": "Meta 以自有品牌推出新型、更便宜的智能眼镜",
+          "summary_en": "Meta debuts new, cheaper smart glasses under its own brand",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+          "published": "2026-06-23T14:11:23+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.41
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+          "published": "2026-06-23T13:00:00+00:00"
+        },
+        {
+          "summary": "MSI Claw 8 EX AI+ review: Big money for big performance",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2199163/msi-claw-8-ex-ai-review/",
+          "published": "2026-06-23T13:00:00+00:00"
+        },
+        {
+          "summary": "The Download: the future of chipmaking and Anthropic’s government clash",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+          "published": "2026-06-23T12:10:00+00:00"
+        },
+        {
+          "summary": "Oracle laid off 21,000 employees over the past year, citing AI as one of the reasons",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2199604/oracle-laid-off-21000-employees-in-the-last-year/",
+          "published": "2026-06-23T11:16:34+00:00"
+        },
+        {
+          "summary": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+          "published": "2026-06-23T09:00:00+00:00"
+        },
+        {
+          "summary": "How to burst the AI bubble: Strike at its roots",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+          "published": "2026-06-23T12:00:34+00:00"
+        },
+        {
+          "summary": "Apple is going to raise device prices, but when?",
+          "source": "Hacker News: Front Page",
+          "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+          "published": "2026-06-23T10:54:56+00:00"
+        },
+        {
+          "summary": "Meta debuts new, cheaper smart glasses under its own brand",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+          "published": "2026-06-23T14:11:23+00:00"
+        },
+        {
+          "summary": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-prime-day-tech-deals-2026/",
+          "published": "2026-06-23T12:26:25+00:00"
+        },
+        {
+          "summary": "HP OmniBook Ultra 14 Review: The Best Windows Laptop",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/hp-omnibook-ultra-14/",
+          "published": "2026-06-23T10:31:00+00:00"
+        },
+        {
+          "summary": "Elevated error rate across multiple models",
+          "source": "Hacker News: Front Page",
+          "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+          "published": "2026-06-23T14:19:47+00:00"
+        },
+        {
+          "summary": "微信 AI 全网最细体验，我又爱上了刷朋友圈",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669694?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-23T10:07:27+00:00"
+        },
+        {
+          "summary": "对话蔚来高级副总裁任少卿：一个世界模型，如何适配两套芯片、四个平台和十几款车？",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669670?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-23T04:04:57+00:00"
+        },
+        {
+          "summary": "With Starfall, SpaceX eyes an edge in global cargo delivery from orbit",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
+          "published": "2026-06-23T05:25:16+00:00"
+        },
+        {
+          "summary": "Sony’s AI Camera Assistant is exactly as bad as it looks",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
           "published": null
         },
         {
-          "summary_zh": "硬氪首发 | 快手系AI芯片公司再融资数亿，销量近十万颗，视频压缩性能超英伟达",
-          "summary_en": "Hard Krypton Launches | Kuaishou AI chip company refinances hundreds of millions, sells nearly 100,000 units, and has video compression performance that exceeds NVIDIA",
+          "summary": "Valve confirms it’s working with Intel and Nvidia on SteamOS for more GPUs",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
+          "published": null
+        },
+        {
+          "summary": "圆桌论坛：比共识更早一步 AI 创投的真实棋局 | 2026WAVES",
           "source": "36氪",
-          "url": "https://36kr.com/p/3865136165344516?f=rss",
+          "url": "https://36kr.com/p/3865630193030145?f=rss",
+          "published": null
+        },
+        {
+          "summary": "回到没有AI的那一天，寻找第一性原理 | WAVES2026",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3865565708752134?f=rss",
           "published": null
         }
       ]
@@ -76,73 +223,225 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "科技巨头甲骨文因拥抱人工智能而裁员 21,000 人",
-          "summary_en": "Tech giant Oracle cuts 21,000 jobs as it embraces AI",
-          "source": "BBC News",
-          "url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-06-23T02:21:14+00:00"
-        },
-        {
-          "summary_zh": "策略师表示，7 只股票的大幅回调现在看起来像是一个买入机会",
-          "summary_en": "Magnificent 7 stock pullback now looks like a buying opportunity, strategist says",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/06/23/magnificent-7-stock-decline-offers-buying-opportunity-fundstrat.html",
-          "published": "2026-06-23T02:13:04+00:00"
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Amazon Ordered to Collectively Bargain at San Francisco Warehouse",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse",
-          "published": "2026-06-23T02:10:31+00:00"
-        },
-        {
-          "summary_zh": "片山在贝森特会谈后表示，美日在外汇问题上更加一致",
-          "summary_en": "US-Japan More Aligned on FX, Katayama Says After Bessent Talks",
-          "source": "Bloomberg Markets",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-23/japan-s-katayama-confirms-talks-with-bessent-on-fx-agreement",
-          "published": "2026-06-23T01:00:21+00:00"
-        },
-        {
-          "summary_zh": "这 6 只快速增长的股票处于太空和军事技术的前沿",
-          "summary_en": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories",
-          "published": "2026-06-23T00:23:00+00:00"
-        },
-        {
-          "summary_zh": "导致一名德克萨斯州妇女死亡的特斯拉事故将受到联邦监管机构调查",
-          "summary_en": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+          "summary_zh": "科技股推动全球抛售，市场出现反弹",
+          "summary_en": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
           "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
-          "published": "2026-06-22T22:53:42+00:00"
+          "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
+          "published": "2026-06-23T13:48:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.31
         },
         {
-          "summary_zh": "全国召回数千瓶降压药",
-          "summary_en": "Thousands of bottles of blood pressure medication recalled nationwide",
-          "source": "Latest Business News on Fox Business",
-          "url": "https://www.foxbusiness.com/lifestyle/thousands-bottles-blood-pressure-medication-recalled-nationwide",
-          "published": "2026-06-22T17:30:31-04:00"
+          "summary_zh": "SpaceX 屈服于重力，其股价短暂跌破 IPO 后交易首日交易价",
+          "summary_en": "SpaceX succumbs to gravity as its stock price briefly dips below its post-IPO trading debut",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories",
+          "published": "2026-06-23T14:13:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.42
         },
         {
-          "summary_zh": "俄罗斯的战时经济存在问题，但不会崩溃",
-          "summary_en": "Russia’s war economy has problems—but is not about to crash",
+          "summary_zh": "SpaceX在亏损6000亿美元后扩大亏损，科技股再次下滑 - 路透中文网",
+          "summary_en": "SpaceX extends losses after $600 billion wipeout, tech stocks slide again - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5",
+          "published": "2026-06-23T13:29:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.24
+        },
+        {
+          "summary_zh": "美国允许伊朗再次出售石油作为结束战争协议的一部分",
+          "summary_en": "US Lets Iran Sell Oil Again as Part of Deal to End War",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-23/us-lets-iran-sell-oil-again-as-part-of-deal-to-end-war-video",
+          "published": "2026-06-23T13:39:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.28
+        },
+        {
+          "summary_zh": "股市开盘下跌、伊朗资金解冻等",
+          "summary_en": "Stocks Slide at Open, Iran’s Unfrozen Funds, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-23/stocks-slide-at-open-iran-s-unfrozen-funds-more",
+          "published": "2026-06-23T13:53:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.34
+        },
+        {
+          "summary_zh": "SpaceX 股价跌破 150 美元首发价，市值跌破 2 万亿美元",
+          "summary_en": "SpaceX stock falls below $150 debut price, sending market cap under $2 trillion",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+          "published": "2026-06-23T14:03:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "机场负责人表示，不要再假装欧盟新边境系统正在发挥作用",
+          "summary_en": "Stop pretending EU's new border system is working, says airports chief",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-23T13:39:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "股票投资者期望美联储能够拯救他们。但“沃什看跌期权”不会到来。",
+          "summary_en": "Stock investors expect the Fed to save them. But no ‘Warsh put’ is coming.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stock-investors-expect-the-fed-to-save-them-but-no-warsh-put-is-coming-and-the-greenspan-put-was-a-myth-ed92e3d9?mod=mw_rss_topstories",
+          "published": "2026-06-23T13:11:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.16
+        },
+        {
+          "summary_zh": "Evercore 的伊曼纽尔表示，盈利将拯救科技股免遭抛售",
+          "summary_en": "Evercore’s Emanuel Says Earnings Will Rescue Tech From Selloff",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/evercore-s-emanuel-says-earnings-will-rescue-tech-from-selloff",
+          "published": "2026-06-23T13:25:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.22
+        },
+        {
+          "summary_zh": "由于对鹰派美联储和人工智能支出的担忧加剧，华尔街因科技股抛售而暴跌 - 路透中文网",
+          "summary_en": "Wall St tumbles on tech selloff as concerns about hawkish Fed, AI spending mount - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
+          "published": "2026-06-23T13:58:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.36
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
+          "published": "2026-06-23T13:48:03+00:00"
+        },
+        {
+          "summary": "SpaceX succumbs to gravity as its stock price briefly dips below its post-IPO trading debut",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-succumbs-to-gravity-as-its-stock-price-briefly-dips-below-its-ipo-trading-debut-a06e4321?mod=mw_rss_topstories",
+          "published": "2026-06-23T14:13:00+00:00"
+        },
+        {
+          "summary": "SpaceX extends losses after $600 billion wipeout, tech stocks slide again - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUZ2UXRvZ190WlBJcFJmb09zZjZsbjJORUc1dWNjTFB0T0xFVmpydFRNLXA5NEE4cy1JQVBINURnTnZ4LW5TcV9PbzBjQWJGdlJCTEIwbnFJSEZYanZKZDRJYWR5blFVX3B5UWwxaW5BNHpOOHVnUWI4SU01WHU0MWpmTE5HbGFrc3B1VlNYX0RjcklLb2c0Z09JcmVzOWlIdTE3dDM5dmMtVkVKNFdnamRlU1YwekFib1JSQl9CWDltTTVnQWEyeg?oc=5",
+          "published": "2026-06-23T13:29:43+00:00"
+        },
+        {
+          "summary": "Stock investors expect the Fed to save them. But no ‘Warsh put’ is coming.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stock-investors-expect-the-fed-to-save-them-but-no-warsh-put-is-coming-and-the-greenspan-put-was-a-myth-ed92e3d9?mod=mw_rss_topstories",
+          "published": "2026-06-23T13:11:00+00:00"
+        },
+        {
+          "summary": "US Lets Iran Sell Oil Again as Part of Deal to End War",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-23/us-lets-iran-sell-oil-again-as-part-of-deal-to-end-war-video",
+          "published": "2026-06-23T13:39:28+00:00"
+        },
+        {
+          "summary": "Evercore’s Emanuel Says Earnings Will Rescue Tech From Selloff",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/evercore-s-emanuel-says-earnings-will-rescue-tech-from-selloff",
+          "published": "2026-06-23T13:25:35+00:00"
+        },
+        {
+          "summary": "Wall St tumbles on tech selloff as concerns about hawkish Fed, AI spending mount - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2t3ZXZzXzl6MTZCNnY4U09lU2l4ZWZENmdOZVZuNVF2VzFjYlFleVlLR1FHNlFwbjlvRnZVVjFsOGo1RXBsOGUzVk1xVERVal9SbVFxeG1CdVhSaHZtajFlUDRRZFllalVYdVRGY1J5ZGN1bVFfN2xmRHB0aTdxQjJBRVhIMFI0NWI3SjlXeTdRWUQxaU9rRA?oc=5",
+          "published": "2026-06-23T13:58:39+00:00"
+        },
+        {
+          "summary": "Stocks Slide at Open, Iran’s Unfrozen Funds, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-23/stocks-slide-at-open-iran-s-unfrozen-funds-more",
+          "published": "2026-06-23T13:53:43+00:00"
+        },
+        {
+          "summary": "Iran’s Unfrozen Funds, US Tech Stocks Set to Slide, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-23/iran-s-unfrozen-funds-us-tech-stocks-set-to-slide-more",
+          "published": "2026-06-23T12:55:50+00:00"
+        },
+        {
+          "summary": "Ferraris and Shell Companies: Five Charged in Medicare Fraud Schemes",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html",
+          "published": "2026-06-23T14:30:06+00:00"
+        },
+        {
+          "summary": "SpaceX stock falls below $150 debut price, sending market cap under $2 trillion",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/23/spacex-stock-tech-sell-off.html",
+          "published": "2026-06-23T14:03:19+00:00"
+        },
+        {
+          "summary": "One factor may keep chip stocks on a roller coaster for foreseeable future",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/23/one-factor-may-keep-chip-stocks-on-a-roller-coaster-for-foreseeable-future.html",
+          "published": "2026-06-23T13:28:21+00:00"
+        },
+        {
+          "summary": "Stop pretending EU's new border system is working, says airports chief",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-23T13:39:36+00:00"
+        },
+        {
+          "summary": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-23T12:14:58+00:00"
+        },
+        {
+          "summary": "Russia’s war economy has problems—but is not about to crash",
           "source": "Finance & economics",
           "url": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
           "published": "2026-06-22T19:07:09+00:00"
         },
         {
-          "summary_zh": "美国检察官皮罗表示，因破坏华盛顿倒影池而被开罚单的人将受到全面起诉",
-          "summary_en": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
-          "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
+          "summary": "How to turn computing power into a financial asset",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/22/how-to-turn-computing-power-into-a-financial-asset",
+          "published": "2026-06-22T18:09:55+00:00"
+        },
+        {
+          "summary": "I built billion-dollar companies by giving my employees agency. I use the same approach with my 5 kids.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/mark-pincus-parenting-differently-five-kids-2026-6",
           "published": null
         },
         {
-          "summary_zh": "在 Lucid 辞去职务并裁员之前，首席运营官向我们介绍了该公司的机器人出租车赌注",
-          "summary_en": "Before Lucid axed his role and downsized, the COO told us about the company's robotaxi bet",
+          "summary": "A late tech billionaire's Versailles-inspired California mansion just took a $20 million price cut to $87.5 million. See inside.",
           "source": "All Content from Business Insider",
-          "url": "https://www.businessinsider.com/lucid-layoffs-coo-robotaxi-uber-nuro-capital-light-bet-2026-6",
+          "url": "https://www.businessinsider.com/billionaire-sand-castle-house-la-jolla-san-diego-county-record-2024-10",
+          "published": null
+        },
+        {
+          "summary": "The Fed is fed up with inflation and will bring down the hammer with a series of rate hikes this year, reversing earlier cuts, BofA says",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-fed-inflation-bring-down-161656168.html",
+          "published": null
+        },
+        {
+          "summary": "A longtime strategist says 6 warning signs point to a 20% drop in stocks on the horizon",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/longtime-strategist-says-6-warning-152930677.html",
           "published": null
         }
       ]
@@ -152,60 +451,190 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
-          "summary_en": "Xiao Zha's \"distillation employee\" plan was urgently stopped! All private chat data was leaked...",
-          "source": "量子位",
-          "url": "https://www.qbitai.com/2026/06/437330.html",
-          "published": "2026-06-23T00:33:00+00:00"
+          "summary_zh": "OpenAI 表示新的 GPT-5.5-Cyber​​ 在网络安全基准测试中优于 Anthropic 的 Mythos",
+          "summary_en": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/",
+          "published": "2026-06-23T10:43:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.54
         },
         {
-          "summary_zh": "SpaceX 与开源模型提供商签署计算协议",
-          "summary_en": "SpaceX Signs Compute Deal With Open Source Model Provider",
+          "summary_zh": "Getty Images 与 OpenAI 达成内容协议",
+          "summary_en": "Getty Images Enters Into Content Deal With OpenAI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/getty-images-enters-content-deal-with-openai",
+          "published": "2026-06-23T13:58:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+          "summary_en": "Just now, Doubao 2.1 was released! Agent spent 18 hours on his own to complete the chip design code",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/437503.html",
+          "published": "2026-06-23T13:37:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "这就是 WebMCP 令人兴奋的原因",
+          "summary_en": "Here’s Why WebMCP is Exciting",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/heres-why-webmcp-is-exciting",
+          "published": "2026-06-23T14:00:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Omio 如何打造对话式旅行的未来",
+          "summary_en": "How Omio is building the future of conversational travel",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/omio",
+          "published": "2026-06-23T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.86
+        },
+        {
+          "summary_zh": "Sakana AI 的 Fugu 协调多个法学硕士以匹配 Anthropic 的 Fable 和 Mythos 基准",
+          "summary_en": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+          "published": "2026-06-23T10:03:59+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+          "summary_en": "57 interviews to get into OpenAI! Chinese doctor opens up \"AI interview\" and recommends it with tears",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/437425.html",
+          "published": "2026-06-23T07:31:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.74
+        },
+        {
+          "summary_zh": "稳健异常值检测的 5 种基本方法",
+          "summary_en": "5 Essential Approaches to Robust Outlier Detection",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection",
+          "published": "2026-06-23T12:00:31+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.87
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI says new GPT-5.5-Cyber outperforms Anthropic's Mythos on cybersecurity benchmark",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-new-gpt-5-5-cyber-outperforms-anthropics-mythos-on-cybersecurity-benchmark/",
+          "published": "2026-06-23T10:43:17+00:00"
+        },
+        {
+          "summary": "Sakana AI's Fugu orchestrates multiple LLMs to match Anthropic's Fable and Mythos benchmarks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/sakana-ais-fugu-orchestrates-multiple-llms-to-match-anthropics-fable-and-mythos-benchmarks/",
+          "published": "2026-06-23T10:03:59+00:00"
+        },
+        {
+          "summary": "Getty Images Enters Into Content Deal With OpenAI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/getty-images-enters-content-deal-with-openai",
+          "published": "2026-06-23T13:58:04+00:00"
+        },
+        {
+          "summary": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/437503.html",
+          "published": "2026-06-23T13:37:17+00:00"
+        },
+        {
+          "summary": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/437425.html",
+          "published": "2026-06-23T07:31:30+00:00"
+        },
+        {
+          "summary": "Here’s Why WebMCP is Exciting",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/heres-why-webmcp-is-exciting",
+          "published": "2026-06-23T14:00:21+00:00"
+        },
+        {
+          "summary": "5 Essential Approaches to Robust Outlier Detection",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-essential-approaches-to-robust-outlier-detection",
+          "published": "2026-06-23T12:00:31+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "How Omio is building the future of conversational travel",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/omio",
+          "published": "2026-06-23T00:00:00+00:00"
+        },
+        {
+          "summary": "SpaceX Signs Compute Deal With Open Source Model Provider",
           "source": "aibusiness",
           "url": "https://aibusiness.com/generative-ai/spacex-signs-compute-deal-open-source-model-provider",
           "published": "2026-06-22T21:46:45+00:00"
         },
         {
-          "summary_zh": "鼠标移动解锁真实的 AI 视频控制，无需额外的计算成本",
-          "summary_en": "Mouse moves unlock realistic AI video control with no extra computing cost",
+          "summary": "Mouse moves unlock realistic AI video control with no extra computing cost",
           "source": "News on Artificial Intelligence and Machine Learning",
           "url": "https://techxplore.com/news/2026-06-mouse-realistic-ai-video-extra.html",
           "published": "2026-06-22T17:20:08-04:00"
         },
         {
-          "summary_zh": "Google 将 Interactions API 设为 Gemini 模型和代理的默认接口",
-          "summary_en": "Google makes Interactions API the default interface for Gemini models and agents",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
-          "published": "2026-06-22T18:11:34+00:00"
+          "summary": "Microscopic image changes can bypass AI guardrails, nearly doubling unsafe responses",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-microscopic-image-bypass-ai-guardrails.html",
+          "published": "2026-06-22T16:20:05-04:00"
         },
         {
-          "summary_zh": "Abacus AI Review 的 ChatLLM：专为日常工作而构建的多模型 AI 工作空间",
-          "summary_en": "ChatLLM by Abacus AI Review: A Multi-Model AI Workspace Built for Daily Work",
-          "source": "KDnuggets",
-          "url": "https://www.kdnuggets.com/2026/06/abacus/abacus-ai-chatllm-review",
-          "published": "2026-06-22T17:00:54+00:00"
-        },
-        {
-          "summary_zh": "又一大模型发布！号称比肩Fable 5和Mythos",
-          "summary_en": "Another great model release! Claimed to be comparable to Fable 5 and Mythos",
-          "source": "智东西",
-          "url": "https://zhidx.com/p/568144.html",
-          "published": "2026-06-22T20:37:32+08:00"
-        },
-        {
-          "summary_zh": "修补地球：支持开源维护者的黎明计划",
-          "summary_en": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/patch-the-planet",
-          "published": "2026-06-22T10:00:00+00:00"
-        },
-        {
-          "summary_zh": "CCCL 运行时：CUDA 的现代 C++ 运行时",
-          "summary_en": "CCCL Runtime: A Modern C++ Runtime for CUDA",
-          "source": "NVIDIA Technical Blog",
-          "url": "https://developer.nvidia.com/blog/cccl-runtime-a-modern-c-runtime-for-cuda/",
-          "published": null
+          "summary": "New chip could help tiny robots traverse complex environments",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+          "published": "2026-06-23T00:00:00-04:00"
         }
       ]
     }
