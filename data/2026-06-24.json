@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at": "2026-06-24T13:46:53.579110+00:00",
+  "generated_at": "2026-06-24T14:00:23.512236+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
@@ -14,7 +14,7 @@
           "published": "2026-06-24T09:00:00+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.31
+          "selection_score": 10.25
         },
         {
           "summary_zh": "据报道，美国政府敦促 Meta 分享其人工智能模型",
@@ -24,7 +24,17 @@
           "published": "2026-06-24T12:00:00+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.06
+          "selection_score": 10.0
+        },
+        {
+          "summary_zh": "据彭博社报道，Valor Equity Partners 计划筹集 2.5B 美元的 VII 基金",
+          "summary_en": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+          "published": "2026-06-24T13:58:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.49
         },
         {
           "summary_zh": "高通斥资近 40 亿美元收购 Buzzy Chip Startup Modular",
@@ -34,17 +44,17 @@
           "published": "2026-06-24T12:36:07+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.21
+          "selection_score": 9.15
         },
         {
-          "summary_zh": "Slate Auto 极其简单的电动卡车起价 24,950 美元",
-          "summary_en": "Slate Auto’s radically simple electric truck starts at $24,950",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-          "published": "2026-06-24T12:33:34+00:00",
+          "summary_zh": "EcoFlow 发布多款智慧能源生态新品，最重要是一个能源管理系统 OASIS 3.0",
+          "summary_en": "EcoFlow releases a number of new smart energy ecological products, the most important of which is an energy management system OASIS 3.0",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669897?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-24T13:41:24+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.2
+          "selection_score": 8.42
         },
         {
           "summary_zh": "里德·霍夫曼 (Reid Hoffman) 表示 SpaceX“不是一家人工智能公司”，xAI“彻底失事”",
@@ -54,17 +64,7 @@
           "published": "2026-06-24T12:23:59+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.16
-        },
-        {
-          "summary_zh": "1999 元的 AI 眼镜，Meta 想让你像买墨镜一样买它",
-          "summary_en": "1999 yuan AI glasses, Meta wants you to buy them like sunglasses",
-          "source": "爱范儿",
-          "url": "https://www.ifanr.com/1669886?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-06-24T10:36:40+00:00",
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.71
+          "selection_score": 8.1
         },
         {
           "summary_zh": "甲骨文裁员 21,000 人有助于推动其债务驱动的人工智能投资",
@@ -74,7 +74,7 @@
           "published": "2026-06-23T20:17:38+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.13
+          "selection_score": 5.07
         },
         {
           "summary_zh": "Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力",
@@ -84,7 +84,7 @@
           "published": "2026-06-24T12:00:00+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 10.06
+          "selection_score": 10.0
         },
         {
           "summary_zh": "无线充电比有线充电浪费更多电力，原因如下",
@@ -94,7 +94,7 @@
           "published": "2026-06-24T13:30:00+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.43
+          "selection_score": 9.37
         },
         {
           "summary_zh": "谷歌家庭音箱评测：再次领先",
@@ -104,7 +104,7 @@
           "published": "2026-06-24T13:00:00+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.31
+          "selection_score": 8.25
         }
       ],
       "candidates": [
@@ -127,6 +127,12 @@
           "published": "2026-06-24T12:00:00+00:00"
         },
         {
+          "summary": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
+          "published": "2026-06-24T13:58:14+00:00"
+        },
+        {
           "summary": "Wireless charging wastes way more electricity than wired, here's why",
           "source": "Engadget - Technology News & Expert Reviews",
           "url": "https://www.engadget.com/2200186/wireless-charging-wastes-electricity-why/",
@@ -137,6 +143,12 @@
           "source": "WIRED",
           "url": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
           "published": "2026-06-24T12:36:07+00:00"
+        },
+        {
+          "summary": "EcoFlow 发布多款智慧能源生态新品，最重要是一个能源管理系统 OASIS 3.0",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669897?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-24T13:41:24+00:00"
         },
         {
           "summary": "Google Home Speaker Review: Leading the Pack, Again",
@@ -169,12 +181,6 @@
           "published": "2026-06-24T10:36:40+00:00"
         },
         {
-          "summary": "How to invest when everything is moving too fast",
-          "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
-          "published": "2026-06-24T06:26:11+00:00"
-        },
-        {
           "summary": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
           "source": "Ars Technica - All content",
           "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
@@ -187,31 +193,13 @@
           "published": "2026-06-23T22:30:57+00:00"
         },
         {
-          "summary": "实测豆包专业版，我愿意当第一批掏钱的人",
-          "source": "爱范儿",
-          "url": "https://www.ifanr.com/1669687?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-06-24T02:16:12+00:00"
-        },
-        {
-          "summary": "主题演讲：全密态计算，破解AI时代的数据安全难题 | 36氪WAVES2026新浪潮",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3866604451845377?f=rss",
-          "published": null
-        },
-        {
-          "summary": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
-          "source": "36氪",
-          "url": "https://36kr.com/p/3867032586867972?f=rss",
-          "published": null
-        },
-        {
-          "summary": "Google’s capable TV Streamer 4K is back to its best price for Prime Day",
+          "summary": "Google’s TV Streamer 4K is $25 off, its best price ever",
           "source": "The Verge",
           "url": "https://www.theverge.com/gadgets/953074/google-tv-streamer-4k-amazon-prime-day-2026-deal-sale",
           "published": null
         },
         {
-          "summary": "Some of our favorite Switch 2 accessories are cheaper during Prime Day",
+          "summary": "19 Prime Day deals on our favorite Switch 2 accessories",
           "source": "The Verge",
           "url": "https://www.theverge.com/gadgets/951950/prime-day-nintendo-switch-2-accessories-cases-controllers-docks-chargers-deal-sale",
           "published": null
@@ -230,7 +218,7 @@
           "published": "2026-06-24T11:17:05+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 11.88
+          "selection_score": 11.82
         },
         {
           "summary_zh": "芯片行业动荡之际，紧张的投资者等待美光的财报 - 路透中文网",
@@ -240,7 +228,7 @@
           "published": "2026-06-24T11:40:22+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.97
+          "selection_score": 9.92
         },
         {
           "summary_zh": "以下是过去 15 年来半导体股票 17 次单日暴跌之后发生的情况",
@@ -250,7 +238,7 @@
           "published": "2026-06-24T11:21:00+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.89
+          "selection_score": 9.84
         },
         {
           "summary_zh": "股市暂停，Mamdani 横扫市场，布伦特原油跌破 75 美元，更多",
@@ -260,7 +248,7 @@
           "published": "2026-06-24T13:38:15+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.46
+          "selection_score": 9.41
         },
         {
           "summary_zh": "为什么美联储可能在中期选举中发挥重要作用",
@@ -270,17 +258,17 @@
           "published": "2026-06-24T12:42:25+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.23
+          "selection_score": 9.18
         },
         {
-          "summary_zh": "随着芯片股从抛售中反弹、油价下跌，标准普尔 500 指数走高：实时更新",
-          "summary_en": "S&P 500 ticks higher as chip stocks bounce from sell-off, oil slides: Live updates",
+          "summary_zh": "Kalshi首席执行官表示，预测市场正在考虑IPO，但今年不会",
+          "summary_en": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
           "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
-          "published": "2026-06-24T13:37:00+00:00",
+          "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
+          "published": "2026-06-24T13:42:28+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.96
+          "selection_score": 8.93
         },
         {
           "summary_zh": "火车在致命事故前通过了红灯 - 报告",
@@ -290,7 +278,7 @@
           "published": "2026-06-24T13:09:44+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.35
+          "selection_score": 7.29
         },
         {
           "summary_zh": "欧洲股市稳定领先美光科技财报|开盘交易 2026 年 6 月 24 日",
@@ -300,7 +288,7 @@
           "published": "2026-06-24T10:54:43+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 11.78
+          "selection_score": 11.73
         },
         {
           "summary_zh": "为何英国股市无法摆脱脱欧后“失去的十年”的阴影",
@@ -310,17 +298,17 @@
           "published": "2026-06-24T10:07:00+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.58
+          "selection_score": 9.53
         },
         {
-          "summary_zh": "科技股推动全球抛售，市场出现反弹",
-          "summary_en": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
-          "source": "NYT > Business",
-          "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
-          "published": "2026-06-24T00:19:08+00:00",
+          "summary_zh": "随着科技股反弹，华尔街将高开，关注美光财报 - 路透中文网",
+          "summary_en": "Wall St set to open higher as tech rebounds, Micron earnings eyed - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktYX1NzUUhjN2p1VDBmM2lIS0I4S2c1cmFSQjFxUmFCQWNfeXpycEw3VTdPblhTcDZEUjVSeWNnWjNCaEIzNUpnQjhIYm00R3l1NUwtYk5nX3VhTkp2RTVFaU51TnVDVzh5MFpYZTliMzFuZUNmYllmX0JTRVpycmp5OTU5ZnZUdGxiQ01XY3ItenNodklTQUliMzk?oc=5",
+          "published": "2026-06-24T12:41:00+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.14
+          "selection_score": 9.17
         }
       ],
       "candidates": [
@@ -367,34 +355,34 @@
           "published": "2026-06-24T12:42:25+00:00"
         },
         {
+          "summary": "Wall St set to open higher as tech rebounds, Micron earnings eyed - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktYX1NzUUhjN2p1VDBmM2lIS0I4S2c1cmFSQjFxUmFCQWNfeXpycEw3VTdPblhTcDZEUjVSeWNnWjNCaEIzNUpnQjhIYm00R3l1NUwtYk5nX3VhTkp2RTVFaU51TnVDVzh5MFpYZTliMzFuZUNmYllmX0JTRVpycmp5OTU5ZnZUdGxiQ01XY3ItenNodklTQUliMzk?oc=5",
+          "published": "2026-06-24T12:41:00+00:00"
+        },
+        {
           "summary": "Markets Recoil in Global Sell-Off Driven by Tech Stocks",
           "source": "NYT > Business",
           "url": "https://www.nytimes.com/2026/06/23/business/stock-market-down-tech-ai-asia-sp500-oil-gas.html",
           "published": "2026-06-24T00:19:08+00:00"
         },
         {
-          "summary": "Trump to meet munitions makers amid push to replenish weapons stockpiles - Reuters",
-          "source": "\"site:reuters.com business\" - Google News",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVRINHhHTVVOT2RMWE9jU29mODNPdkxEdy1uWHdJdl9UNnVEeU56djBfMkwwTmZhWnltaXdRMVJpZk56Y3IwNUt0NXhQUVI3N2hFOVJaUlBSZXQ5d1hKNEdrbnNiZjlpY2VRN19oXzNLRTl2d0lDRG1JclROdXo3eTJLUWNtOFJjd21KcUZub05GMDVSR2xQWmVIT04tUUkxeFRSSVM0eUE1ejR6Q0gtX1RyYW41TU50NU1sY0x3emktRmtoSmRWWQ?oc=5",
-          "published": "2026-06-24T10:51:43+00:00"
+          "summary": "Kalshi CEO says prediction market thinking about IPO, but not for this year",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/24/kalshi-ceo-says-company-thinking-about-ipo-but-not-for-this-year-.html",
+          "published": "2026-06-24T13:42:28+00:00"
         },
         {
-          "summary": "Paramount Mega-Merger Moves Center-Stage in Brussels",
+          "summary": "Stock Movers: CBRS, FDX, HTZ (Podcast)",
           "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/paramount-deal-in-focus-in-brussels-as-eu-regulators-prep-for-decision",
-          "published": "2026-06-24T13:05:20+00:00"
+          "url": "https://www.bloomberg.com/news/audio/2026-06-24/stock-movers-cbrs-fdx-htz-podcast",
+          "published": "2026-06-24T13:56:48+00:00"
         },
         {
           "summary": "S&P 500 ticks higher as chip stocks bounce from sell-off, oil slides: Live updates",
           "source": "US Top News and Analysis",
           "url": "https://www.cnbc.com/2026/06/23/stock-market-today-live-updates.html",
           "published": "2026-06-24T13:37:00+00:00"
-        },
-        {
-          "summary": "JPMorgan hikes 2026 S&P 500 target, but sees hurdles ahead for stocks",
-          "source": "US Top News and Analysis",
-          "url": "https://www.cnbc.com/2026/06/24/jpmorgan-hikes-2026-sp-500-target-but-sees-hurdles-ahead-for-stocks.html",
-          "published": "2026-06-24T13:06:14+00:00"
         },
         {
           "summary": "Train passed red signal before fatal crash - report",
@@ -415,12 +403,6 @@
           "published": "2026-06-23T18:45:01+00:00"
         },
         {
-          "summary": "Waiving sanctions on Iranian oil is a huge concession by America",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
-          "published": "2026-06-23T19:52:15+00:00"
-        },
-        {
           "summary": "A rare and massive ranch near Aspen was sold to the CEO of Palantir for $120 million. Take a look.",
           "source": "All Content from Business Insider",
           "url": "https://www.businessinsider.com/rare-aspen-compound-sold-to-palantir-ceo-for-120m-2026-6",
@@ -433,15 +415,21 @@
           "published": null
         },
         {
-          "summary": "Supreme Court sides with Trump administration on immigration case dealing with green card holders",
+          "summary": "Waiving sanctions on Iranian oil is a huge concession by America",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/23/waiving-sanctions-on-iranian-oil-is-a-huge-concession-by-america",
+          "published": "2026-06-23T19:52:15+00:00"
+        },
+        {
+          "summary": "The Fed is fed up with inflation and will bring down the hammer with a series of rate hikes this year, reversing earlier cuts, BofA says",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/politics/articles/supreme-court-sides-trump-administration-143112520.html",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-fed-inflation-bring-down-161656168.html",
           "published": null
         },
         {
-          "summary": "GOP senator forced out by Trump pushes $1.5 trillion investment for Social Security",
+          "summary": "By 7 a.m., Bank of America’s CEO has already read 5 newspapers, his email inbox, and hit the gym—he says if you’re late to meetings, you’re ‘selfish’",
           "source": "Yahoo News - Latest News & Headlines",
-          "url": "https://www.yahoo.com/news/politics/articles/gop-senator-forced-trump-pushes-181528363.html",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/7-m-bank-america-ceo-145740839.html",
           "published": null
         }
       ]
@@ -451,24 +439,14 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "OpenAI 和 Broadcom 推出 LLM 优化的推理芯片",
-          "summary_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-          "published": "2026-06-24T06:00:00+00:00",
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 9.56
-        },
-        {
-          "summary_zh": "公司表示，Claude Tag 将 Anthropic 的 AI 嵌入到 Slack 中，已经编写了 65% 的内部代码",
-          "summary_en": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
+          "summary_zh": "OpenAI 和 Broadcom 推出“Jalapeño”，一款专为 LLM 推理而构建的定制芯片",
+          "summary_en": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/",
-          "published": "2026-06-24T09:32:01+00:00",
+          "url": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+          "published": "2026-06-24T13:50:56+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.44
+          "selection_score": 11.46
         },
         {
           "summary_zh": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
@@ -478,7 +456,7 @@
           "published": "2026-06-24T11:09:51+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.85
+          "selection_score": 8.79
         },
         {
           "summary_zh": "2026 年可在本地运行的 7 个最佳编码模型",
@@ -488,7 +466,7 @@
           "published": "2026-06-24T10:00:39+00:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.56
+          "selection_score": 8.5
         },
         {
           "summary_zh": "全世界都是科技企业家构建“物理人工智能”的机器人舞台",
@@ -498,7 +476,7 @@
           "published": "2026-06-24T03:48:33-04:00",
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.51
+          "selection_score": 7.45
         },
         {
           "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
@@ -511,14 +489,14 @@
           "selection_score": 6.5
         },
         {
-          "summary_zh": "OpenAI 部署负责人谈 Codex 增长、人工智能价格下降和投资回报率问题",
-          "summary_en": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
+          "summary_zh": "公司表示，Claude Tag 将 Anthropic 的 AI 嵌入到 Slack 中，已经编写了 65% 的内部代码",
+          "summary_en": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/",
-          "published": "2026-06-24T13:00:14+00:00",
+          "url": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/",
+          "published": "2026-06-24T09:32:01+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.31
+          "selection_score": 9.38
         },
         {
           "summary_zh": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
@@ -528,7 +506,7 @@
           "published": "2026-06-24T09:58:38+00:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 7.55
+          "selection_score": 7.49
         },
         {
           "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
@@ -541,34 +519,38 @@
           "selection_score": 6.5
         },
         {
-          "summary_zh": "GPT-5 如何帮助免疫学家 Derya Unutmaz 解开 3 年前的谜团",
-          "summary_en": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/gpt-5-immunology-mystery",
-          "published": "2026-06-23T17:00:00+00:00",
+          "summary_zh": "人工智能为建筑检查照片提供缺失的位置数据",
+          "summary_en": "AI gives building inspection photos the location data they were missing",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-ai-photos.html",
+          "published": "2026-06-23T16:00:04-04:00",
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.31
+          "selection_score": 4.5
+        },
+        {
+          "summary_zh": "人工智能如何重塑欧洲的数字主权辩论",
+          "summary_en": "How AI is Reshaping Europe's Digital Sovereignty Debate",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate",
+          "published": "2026-06-23T18:44:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.69
         }
       ],
       "candidates": [
         {
-          "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-          "published": "2026-06-24T06:00:00+00:00"
+          "summary": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+          "published": "2026-06-24T13:50:56+00:00"
         },
         {
           "summary": "Claude Tag embeds Anthropic's AI in Slack, already writes 65 percent of internal code, company says",
           "source": "The Decoder",
           "url": "https://the-decoder.com/claude-tag-embeds-anthropics-ai-in-slack-already-writes-65-percent-of-internal-code-company-says/",
           "published": "2026-06-24T09:32:01+00:00"
-        },
-        {
-          "summary": "OpenAI's deployment chief on Codex growth, falling AI prices, and the ROI question",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/",
-          "published": "2026-06-24T13:00:14+00:00"
         },
         {
           "summary": "百度智能云发布百度千帆Token Plan企业版，提供GLM-5.2等模型",
@@ -607,12 +589,6 @@
           "published": null
         },
         {
-          "summary": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-          "source": "OpenAI News",
-          "url": "https://openai.com/index/gpt-5-immunology-mystery",
-          "published": "2026-06-23T17:00:00+00:00"
-        },
-        {
           "summary": "AI gives building inspection photos the location data they were missing",
           "source": "News on Artificial Intelligence and Machine Learning",
           "url": "https://techxplore.com/news/2026-06-ai-photos.html",
@@ -629,12 +605,6 @@
           "source": "MIT News - Artificial intelligence",
           "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
           "published": "2026-06-23T16:40:00-04:00"
-        },
-        {
-          "summary": "Getty Images Enters Into Content Deal With OpenAI",
-          "source": "aibusiness",
-          "url": "https://aibusiness.com/generative-ai/getty-images-enters-content-deal-with-openai",
-          "published": "2026-06-23T13:58:04+00:00"
         },
         {
           "summary": "The Math Skills Every Aspiring Data Scientist Needs to Master Before Writing a Single Line of Code",
