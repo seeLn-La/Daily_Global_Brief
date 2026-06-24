@@ -224,6 +224,48 @@ TRACKING_QUERY_KEYS = {
     "mc_eid",
 }
 
+NEWS_ACTION_ALIASES = {
+    "acquire": "acquire",
+    "acquired": "acquire",
+    "acquires": "acquire",
+    "acquiring": "acquire",
+    "acquisition": "acquire",
+    "acquisitions": "acquire",
+    "bought": "acquire",
+    "buy": "acquire",
+    "buying": "acquire",
+    "buys": "acquire",
+    "purchase": "acquire",
+    "purchased": "acquire",
+    "purchases": "acquire",
+    "announce": "announce",
+    "announced": "announce",
+    "announces": "announce",
+    "debut": "launch",
+    "debuted": "launch",
+    "launch": "launch",
+    "launched": "launch",
+    "launches": "launch",
+    "release": "launch",
+    "released": "launch",
+    "releases": "launch",
+    "unveil": "launch",
+    "unveiled": "launch",
+    "unveils": "launch",
+    "invest": "invest",
+    "invested": "invest",
+    "investing": "invest",
+    "investment": "invest",
+    "investments": "invest",
+    "merge": "merge",
+    "merged": "merge",
+    "merger": "merge",
+    "mergers": "merge",
+    "raises": "raise",
+    "raised": "raise",
+    "raising": "raise",
+}
+
 
 def _ensure_data_dir() -> str:
     """确保数据目录存在，返回绝对路径。"""
@@ -302,9 +344,9 @@ def _normalize_title(title: str) -> str:
 
 
 def _meaningful_tokens(normalized_title: str) -> set[str]:
-    """提取英文标题中的有效词语，过滤常见虚词。"""
+    """提取有效词语，并统一常见新闻动作的不同写法。"""
     return {
-        token
+        NEWS_ACTION_ALIASES.get(token, token)
         for token in normalized_title.split()
         if len(token) > 1 and token not in ENGLISH_STOPWORDS
     }
