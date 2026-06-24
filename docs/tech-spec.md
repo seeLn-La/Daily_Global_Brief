@@ -44,7 +44,7 @@ news/
 ```
 RSS Feeds (28 sources)
   → fetcher.py (parallel fetch + parse + dedup + source health)
-    → aggregator.py (categorize + candidate pool + top 10)
+    → aggregator.py (categorize + candidate pool + event dedup + top 10)
       → translator.py (bilingual translation)
         → data/YYYY-MM-DD.json (write)
           → bark_pusher.py (push notification)
@@ -162,6 +162,27 @@ translate 库 (备选)
 | RSS 解析异常        | 记录失败，继续处理其他源                   |
 | 连续失败的来源      | 写入 `data/source_health.json` 并临时跳过   |
 | 并发任务异常        | 单独捕获，不影响其他源                     |
+
+## 新闻事件去重策略
+
+去重在单个板块内执行，避免科技、商业、AI 板块之间因主题交叉而误删。候选文章仍按相关性、来源质量和时效性排序，因此重复事件默认保留排序更靠前的一篇。
+
+### 两级去重
+
+| 阶段       | 判断方式                                     | 处理方式                         |
+| ---------- | -------------------------------------------- | -------------------------------- |
+| 候选池     | URL 相同，或清洗后的标题完全相同             | 只保留排序更靠前的一篇           |
+| 最终 10 篇 | 标题字符相似度高，或有效词语重合度高         | 视为同一事件，跳过后继续向后补位 |
+
+### 标题处理规则
+
+1. 使用 Unicode NFKC 统一字符形式，并转换为小写。
+2. 去除标点、多余空格和常见新闻前缀，减少格式差异。
+3. 使用 Python 标准库 `difflib.SequenceMatcher` 计算字符相似度。
+4. 对英文标题同时计算有效词语重合度；只有达到保守阈值才判定为同一事件，降低误删风险。
+5. 每次去重输出跳过数量及对应标题，便于检查规则是否过严。
+
+该策略不调用 AI/LLM API，不新增第三方依赖。措辞差异特别大的跨语言标题可能无法完全识别，后续可根据每日结果调整阈值。
 
 ## 容错设计
 

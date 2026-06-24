@@ -27,7 +27,7 @@
 2. `scripts/config.py` — RSS 源配置 + 常量 ✅
 3. `scripts/fetcher.py` — RSS 抓取 + 解析 + 去重 ✅
 4. `scripts/translator.py` — 中英互译 + 降级策略 + 超时控制 ✅
-5. `scripts/aggregator.py` — 主编排脚本 ✅
+5. `scripts/aggregator.py` — 主编排脚本 + 跨来源同事件去重 + 自动补位 ✅
 6. `scripts/bark_pusher.py` — Bark 推送 ✅
 
 ## 阶段 2：GitHub Actions ✅
@@ -47,11 +47,14 @@
 13. GitHub Pages 已开启: https://seeln-la.github.io/news/ ✅
 14. 手动触发 workflow，验证 Bark 推送到达手机 ✅
 15. Cron 触发：每日 UTC 0:00 = 北京时间 8:00，自动运行 ✅
+16. 去重规则测试：相同标题、相似事件、正常新闻保留和 10 篇自动补位均通过 ✅
+17. 历史候选数据检查：相似度阈值未发现明显误删 ✅
 
 ## 日常维护
 
 - 无需任何人工操作，GitHub Actions 每日自动运行
 - 在 `scripts/config.py` 的 `RSS_SOURCES` 列表可增删 RSS 源
 - `scripts/fetcher.py` 会并发抓取，并自动跳过连续失败的来源
+- `scripts/aggregator.py` 会过滤不同来源对同一事件的重复报道，并自动向后补位
 - `data/source_health.json` 会记录坏源状态，系统会自动清理已移除的旧记录
 - Push 到 GitHub 后自动部署网页

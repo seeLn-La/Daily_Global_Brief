@@ -1,9 +1,13 @@
 """主编排脚本：抓取 → 分类 → 排序 → 翻译 → 写入 JSON。"""
 import json
 import os
+import re
 import sys
+import unicodedata
 from collections import defaultdict
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from config import (
     CATEGORY_NAMES,
@@ -189,6 +193,37 @@ STRONG_MATCH_SCORE = {
     "ai": 5,
 }
 
+ENGLISH_STOPWORDS = {
+    "a",
+    "an",
+    "and",
+    "are",
+    "as",
+    "at",
+    "be",
+    "by",
+    "for",
+    "from",
+    "has",
+    "in",
+    "is",
+    "it",
+    "of",
+    "on",
+    "that",
+    "the",
+    "this",
+    "to",
+    "with",
+}
+
+TRACKING_QUERY_KEYS = {
+    "fbclid",
+    "gclid",
+    "mc_cid",
+    "mc_eid",
+}
+
 
 def _ensure_data_dir() -> str:
     """确保数据目录存在，返回绝对路径。"""
@@ -241,6 +276,82 @@ def _rank_articles(articles: list[Article], category: str) -> list[Article]:
     )
 
 
+def _normalize_url(url: str) -> str:
+    """移除常见跟踪参数，识别指向同一文章的 URL。"""
+    parts = urlsplit(url)
+    query = [
+        (key, value)
+        for key, value in parse_qsl(parts.query, keep_blank_values=True)
+        if not key.lower().startswith("utm_") and key.lower() not in TRACKING_QUERY_KEYS
+    ]
+    path = parts.path.rstrip("/") or "/"
+    return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), path, urlencode(query), ""))
+
+
+def _normalize_title(title: str) -> str:
+    """统一标题格式，便于精确比较和相似度计算。"""
+    text = unicodedata.normalize("NFKC", title).lower()
+    text = re.sub(
+        r"^(breaking|exclusive|updated|update|just in)\s*[:：\-—]+\s*",
+        "",
+        text,
+        flags=re.IGNORECASE,
+    )
+    text = re.sub(r"[^\w\u4e00-\u9fff]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _meaningful_tokens(normalized_title: str) -> set[str]:
+    """提取英文标题中的有效词语，过滤常见虚词。"""
+    return {
+        token
+        for token in normalized_title.split()
+        if len(token) > 1 and token not in ENGLISH_STOPWORDS
+    }
+
+
+def _is_same_event(first: Article, second: Article) -> bool:
+    """使用保守阈值判断两篇文章是否在报道同一事件。"""
+    first_title = _normalize_title(first.summary)
+    second_title = _normalize_title(second.summary)
+    if not first_title or not second_title:
+        return False
+    if first_title == second_title:
+        return True
+
+    compact_first = first_title.replace(" ", "")
+    compact_second = second_title.replace(" ", "")
+    if min(len(compact_first), len(compact_second)) < 12:
+        return False
+
+    character_similarity = SequenceMatcher(None, first_title, second_title).ratio()
+    if character_similarity >= 0.88:
+        return True
+
+    first_tokens = _meaningful_tokens(first_title)
+    second_tokens = _meaningful_tokens(second_title)
+    common_count = len(first_tokens & second_tokens)
+    if common_count < 4:
+        return False
+
+    union_count = len(first_tokens | second_tokens)
+    smaller_count = min(len(first_tokens), len(second_tokens))
+    token_overlap = common_count / smaller_count if smaller_count else 0.0
+    token_jaccard = common_count / union_count if union_count else 0.0
+    return token_overlap >= 0.65 and token_jaccard >= 0.40 and character_similarity >= 0.45
+
+
+def _find_duplicate_event(article: Article, selected: list[dict]) -> Article | None:
+    """返回已选列表中的同事件文章；没有重复时返回 None。"""
+    for item in selected:
+        existing = item["article"]
+        if _normalize_url(article.url) == _normalize_url(existing.url):
+            return existing
+        if _is_same_event(article, existing):
+            return existing
+    return None
+
+
 def _select_candidates(cat_articles: list[Article], category: str) -> list[Article]:
     """为单个分类生成候选池。
 
@@ -251,6 +362,24 @@ def _select_candidates(cat_articles: list[Article], category: str) -> list[Artic
     source_counts: dict[str, int] = defaultdict(int)
     candidates: list[Article] = []
     fallback: list[Article] = []
+    seen_urls: set[str] = set()
+    seen_titles: set[str] = set()
+    duplicate_count = 0
+
+    def add_candidate(article: Article) -> bool:
+        """加入候选池；URL 或标题完全重复时跳过。"""
+        nonlocal duplicate_count
+        normalized_url = _normalize_url(article.url)
+        normalized_title = _normalize_title(article.summary)
+        if normalized_url in seen_urls or normalized_title in seen_titles:
+            duplicate_count += 1
+            print(f"  [去重/候选] {article.source}: {article.summary}")
+            return False
+        candidates.append(article)
+        source_counts[article.source] += 1
+        seen_urls.add(normalized_url)
+        seen_titles.add(normalized_title)
+        return True
 
     for article in ranked:
         if _article_score(article, category) < MIN_CANDIDATE_SCORE[category]:
@@ -258,8 +387,7 @@ def _select_candidates(cat_articles: list[Article], category: str) -> list[Artic
             continue
         if source_counts[article.source] >= MAX_CANDIDATES_PER_SOURCE:
             continue
-        candidates.append(article)
-        source_counts[article.source] += 1
+        add_candidate(article)
         if len(candidates) >= MAX_CANDIDATES_PER_CATEGORY:
             break
 
@@ -267,10 +395,12 @@ def _select_candidates(cat_articles: list[Article], category: str) -> list[Artic
         for article in fallback:
             if source_counts[article.source] >= MAX_CANDIDATES_PER_SOURCE:
                 continue
-            candidates.append(article)
-            source_counts[article.source] += 1
+            add_candidate(article)
             if len(candidates) >= MAX_CANDIDATES_PER_CATEGORY:
                 break
+
+    if duplicate_count:
+        print(f"  [去重/候选] {category} 共跳过 {duplicate_count} 篇完全重复文章")
 
     return candidates
 
@@ -283,19 +413,30 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
     """
     selected: list[dict] = []
     seen_sources: set[str] = set()
-    ranked = sorted(
-        candidates,
-        key=lambda article: (
-            -_article_score(article, category),
-            article.published or datetime.min.replace(tzinfo=timezone.utc),
-        ),
-    )
+    reported_duplicates: set[str] = set()
+    ranked = _rank_articles(candidates, category)
+
+    def is_duplicate(article: Article) -> bool:
+        """检查最终列表中的同事件文章，并保证每篇只记录一次日志。"""
+        existing = _find_duplicate_event(article, selected)
+        if existing is None:
+            return False
+        duplicate_key = _normalize_url(article.url)
+        if duplicate_key not in reported_duplicates:
+            reported_duplicates.add(duplicate_key)
+            print(
+                f"  [去重/最终] {article.source}: {article.summary} "
+                f"→ 保留 {existing.source}: {existing.summary}"
+            )
+        return True
 
     for article in ranked:
         score = _article_score(article, category)
         if score < STRONG_MATCH_SCORE[category]:
             continue
         if article.source in seen_sources:
+            continue
+        if is_duplicate(article):
             continue
         selected.append(
             {
@@ -315,6 +456,8 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
             continue
         if any(item["article"] is article for item in selected):
             continue
+        if is_duplicate(article):
+            continue
         selected.append(
             {
                 "article": article,
@@ -331,6 +474,8 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
         for article in ranked:
             if any(item["article"] is article for item in selected):
                 continue
+            if is_duplicate(article):
+                continue
             selected.append(
                 {
                     "article": article,
@@ -341,6 +486,9 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
             )
             if len(selected) >= MAX_ARTICLES_PER_CATEGORY:
                 break
+
+    if reported_duplicates:
+        print(f"  [去重/最终] {category} 共跳过 {len(reported_duplicates)} 篇同事件文章")
 
     return selected
 
