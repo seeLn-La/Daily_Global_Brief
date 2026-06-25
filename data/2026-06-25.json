@@ -1,0 +1,618 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T02:33:32.232927+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Jalapeo 是 OpenAI 和 Broadcom 合作推出的首款 AI 芯片",
+          "summary_en": "Jalapeño is the first AI chip from OpenAI and Broadcom",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator/",
+          "published": "2026-06-24T20:10:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.91
+        },
+        {
+          "summary_zh": "OpenAI 和 Broadcom 宣布推出专为 LLM 大规模推理而设计的芯片",
+          "summary_en": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+          "published": "2026-06-24T22:28:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "欧洲正在反击华盛顿的芯片战",
+          "summary_en": "Europe is pushing back on Washington’s chip war",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+          "published": "2026-06-25T00:08:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+          "summary_en": "Morning Post | The average selling price of mobile phones may rise to 3,800 yuan this year/OpenAI releases its first chip/Starting from 68 yuan, Doubao Professional Edition is officially launched",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669906?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-25T00:03:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "黄金日最佳优惠 LED 面膜和实际有效的生发工具",
+          "summary_en": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
+          "published": "2026-06-24T22:38:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "作家与毒品",
+          "summary_en": "Writers and Drugs",
+          "source": "Hacker News: Front Page",
+          "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+          "published": "2026-06-25T01:50:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "这种飞行太阳能平台可以提供更好的空中互联网服务",
+          "summary_en": "This flying solar-powered platform could deliver better internet from the air",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+          "published": "2026-06-24T09:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.11
+        },
+        {
+          "summary_zh": "成功销售超过 15 辆汽车后，法拉第未来现在邀请您购买其机器人",
+          "summary_en": "After successfully selling over 15 cars, Faraday Future would now like you to buy its robots",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/",
+          "published": "2026-06-24T23:22:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.71
+        },
+        {
+          "summary_zh": "Infosys 前首席执行官创办了一家新初创公司，希望挑战 IT 服务领域",
+          "summary_en": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "published": "2026-06-24T23:26:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.72
+        },
+        {
+          "summary_zh": "苹果新 CEO 想找回「果味」，但苹果设计已经遍地开花",
+          "summary_en": "Apple’s new CEO wants to get back the “fruity flavor,” but Apple’s designs have blossomed everywhere",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669726?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-25T01:52:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.33
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Jalapeño is the first AI chip from OpenAI and Broadcom",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201045/openai-broadcom-jalapeno-inference-processor-ai-accelerator/",
+          "published": "2026-06-24T20:10:40+00:00"
+        },
+        {
+          "summary": "After successfully selling over 15 cars, Faraday Future would now like you to buy its robots",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201189/after-successfully-selling-over-15-cars-faraday-future-would-now-like-you-to-buy-its-robots/",
+          "published": "2026-06-24T23:22:44+00:00"
+        },
+        {
+          "summary": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+          "published": "2026-06-24T22:28:18+00:00"
+        },
+        {
+          "summary": "Europe is pushing back on Washington’s chip war",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+          "published": "2026-06-25T00:08:36+00:00"
+        },
+        {
+          "summary": "早报｜今年手机平均售价或升至3800元/OpenAI发布首款芯片/68元起，豆包专业版正式上线",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669906?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-25T00:03:26+00:00"
+        },
+        {
+          "summary": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "published": "2026-06-24T23:26:52+00:00"
+        },
+        {
+          "summary": "苹果新 CEO 想找回「果味」，但苹果设计已经遍地开花",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1669726?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-25T01:52:41+00:00"
+        },
+        {
+          "summary": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
+          "published": "2026-06-24T20:22:58+00:00"
+        },
+        {
+          "summary": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
+          "published": "2026-06-24T22:38:22+00:00"
+        },
+        {
+          "summary": "How to Opt Out of Google Search’s New AI Data Training Feature",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+          "published": "2026-06-24T22:36:16+00:00"
+        },
+        {
+          "summary": "Writers and Drugs",
+          "source": "Hacker News: Front Page",
+          "url": "https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/",
+          "published": "2026-06-25T01:50:01+00:00"
+        },
+        {
+          "summary": "Bible as RAG Database",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.crosscanon.com/",
+          "published": "2026-06-25T01:42:55+00:00"
+        },
+        {
+          "summary": "This flying solar-powered platform could deliver better internet from the air",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+          "published": "2026-06-24T09:00:00+00:00"
+        },
+        {
+          "summary": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+          "published": "2026-06-24T12:00:00+00:00"
+        },
+        {
+          "summary": "The 16 best robot vacuum deals available during Prime Day",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "published": null
+        },
+        {
+          "summary": "The top tech Prime Day deals to shop on day two",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+          "published": null
+        },
+        {
+          "summary": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3866562600227847?f=rss",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜豆包专业版正式上线；消息称苹果将于7月下旬量产首款可折叠iPhone；华泰证券：海外高成本支撑 远期铝价不宜悲观",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3867032586867972?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "日本液化天然气库存有望受益于中东供应风险",
+          "summary_en": "Japan’s LNG Stocks Seen to Benefit from Middle East Supply Risk",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/japan-s-lng-stocks-seen-to-benefit-from-middle-east-supply-risk",
+          "published": "2026-06-24T22:45:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.55
+        },
+        {
+          "summary_zh": "科技股下跌，纳斯达克、标准普尔指数收低 - 路透中文网",
+          "summary_en": "Nasdaq, S&P end lower as tech stocks fall - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktYX1NzUUhjN2p1VDBmM2lIS0I4S2c1cmFSQjFxUmFCQWNfeXpycEw3VTdPblhTcDZEUjVSeWNnWjNCaEIzNUpnQjhIYm00R3l1NUwtYk5nX3VhTkp2RTVFaU51TnVDVzh5MFpYZTliMzFuZUNmYllmX0JTRVpycmp5OTU5ZnZUdGxiQ01XY3ItenNodklTQUliMzk?oc=5",
+          "published": "2026-06-24T22:40:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.53
+        },
+        {
+          "summary_zh": "为什么 SK 海力士 300 亿美元的美国上市对美光股票来说可能是一把双刃剑",
+          "summary_en": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+          "published": "2026-06-25T01:09:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "韩国首次公开募股（IPO）失败给股市蒙上阴影，财阀结构限制上市",
+          "summary_en": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
+          "published": "2026-06-25T01:35:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "尼克斯队的垃圾桶要多少钱？ 168 美元，或者《一个女人，她的工作》。",
+          "summary_en": "What Does a Knicks Trash Can Cost? $168, or for One Woman, Her Job.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/24/nyregion/knicks-trash-can-jpmorgan-chase.html",
+          "published": "2026-06-25T02:21:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "特朗普与共和党参议员冲突、美光盈利井喷等",
+          "summary_en": "Trump-GOP Senators Clash, Micron Earnings Blowout, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-25/trump-gop-senators-clash-micron-earnings-blowout-more",
+          "published": "2026-06-25T01:50:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "特朗普指责大型石油公司哄抬价格",
+          "summary_en": "Trump accuses big oil firms of price-gouging drivers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25T01:45:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "美光重振人工智能贸易，股市上涨，油价下跌：市场总结",
+          "summary_en": "Stocks Rally as Micron Revives AI Trade, Oil Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+          "published": "2026-06-24T22:04:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.38
+        },
+        {
+          "summary_zh": "这些隐藏的个人消费支出触发因素可能会迫使美联储加息，并震惊市场",
+          "summary_en": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+          "published": "2026-06-25T01:06:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "Phillips 66首席执行官警告霍尔木兹石油中断将导致炼油和石化盈利波动 - 路透中文网",
+          "summary_en": "Phillips 66 CEO warns of refining, petrochemical earnings volatility from Hormuz disruptions - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDR3QjdSTmxIOEdNdXV0ZjBGeEFRM1VwSDNWSGhObG4tSGZXejRlQ0RhYmRzNU8wQ2Z6RHY3RE05dUNsdmloZ0pfRWh6NU9ORFVHSmtwZHBfN1M1UEowWnRYZDNfaFNXa0liM2w3TUFzczhFVk1OVGtoeGE4NmVTR2RLU2lVeTFDd0p6SVY3RWg3TTN1di1rWnFCQXlMV19vNnFoeEROYVFLb0VPX3NaZVdLdFZadG81MmlFb0M2VnQ?oc=5",
+          "published": "2026-06-24T20:56:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Japan’s LNG Stocks Seen to Benefit from Middle East Supply Risk",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/japan-s-lng-stocks-seen-to-benefit-from-middle-east-supply-risk",
+          "published": "2026-06-24T22:45:48+00:00"
+        },
+        {
+          "summary": "Stocks Rally as Micron Revives AI Trade, Oil Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+          "published": "2026-06-24T22:04:22+00:00"
+        },
+        {
+          "summary": "Nasdaq, S&P end lower as tech stocks fall - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYktYX1NzUUhjN2p1VDBmM2lIS0I4S2c1cmFSQjFxUmFCQWNfeXpycEw3VTdPblhTcDZEUjVSeWNnWjNCaEIzNUpnQjhIYm00R3l1NUwtYk5nX3VhTkp2RTVFaU51TnVDVzh5MFpYZTliMzFuZUNmYllmX0JTRVpycmp5OTU5ZnZUdGxiQ01XY3ItenNodklTQUliMzk?oc=5",
+          "published": "2026-06-24T22:40:37+00:00"
+        },
+        {
+          "summary": "Why SK Hynix’s $30 billion U.S. listing could be a double-edged sword for Micron’s stock",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-sk-hynixs-30-billion-u-s-listing-could-be-a-double-edged-sword-for-microns-stock-f4483b0d?mod=mw_rss_topstories",
+          "published": "2026-06-25T01:09:00+00:00"
+        },
+        {
+          "summary": "These hidden PCE triggers could force a Fed rate hike — and shock the market",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/inflation-is-about-more-than-oil-these-two-hidden-triggers-could-force-a-fed-rate-hike-d9fa393e?mod=mw_rss_topstories",
+          "published": "2026-06-25T01:06:00+00:00"
+        },
+        {
+          "summary": "Phillips 66 CEO warns of refining, petrochemical earnings volatility from Hormuz disruptions - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaDR3QjdSTmxIOEdNdXV0ZjBGeEFRM1VwSDNWSGhObG4tSGZXejRlQ0RhYmRzNU8wQ2Z6RHY3RE05dUNsdmloZ0pfRWh6NU9ORFVHSmtwZHBfN1M1UEowWnRYZDNfaFNXa0liM2w3TUFzczhFVk1OVGtoeGE4NmVTR2RLU2lVeTFDd0p6SVY3RWg3TTN1di1rWnFCQXlMV19vNnFoeEROYVFLb0VPX3NaZVdLdFZadG81MmlFb0M2VnQ?oc=5",
+          "published": "2026-06-24T20:56:37+00:00"
+        },
+        {
+          "summary": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/24/south-koreas-ipo-bust-clouds-equity-markets.html",
+          "published": "2026-06-25T01:35:35+00:00"
+        },
+        {
+          "summary": "What Does a Knicks Trash Can Cost? $168, or for One Woman, Her Job.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/24/nyregion/knicks-trash-can-jpmorgan-chase.html",
+          "published": "2026-06-25T02:21:23+00:00"
+        },
+        {
+          "summary": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/24/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-06-25T00:05:01+00:00"
+        },
+        {
+          "summary": "Trump-GOP Senators Clash, Micron Earnings Blowout, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-25/trump-gop-senators-clash-micron-earnings-blowout-more",
+          "published": "2026-06-25T01:50:37+00:00"
+        },
+        {
+          "summary": "Asia Centric: How Leverage ETFs Are Shaking Up Asian Markets",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-24/asia-centric-how-leverage-etfs-are-shaking-up-asian-markets",
+          "published": "2026-06-24T21:00:00+00:00"
+        },
+        {
+          "summary": "Trump accuses big oil firms of price-gouging drivers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25T01:45:33+00:00"
+        },
+        {
+          "summary": "Norma Yaeger, Barrier-Breaking Stockbroker, Dies at 96",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/24/business/norma-yaeger-dead.html",
+          "published": "2026-06-24T17:41:22+00:00"
+        },
+        {
+          "summary": "The legal fight to get equal pay for Germany's disabled workers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-24T23:10:28+00:00"
+        },
+        {
+          "summary": "Meta's Zuckerberg enters the prediction market arena — again, a step behind",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/metas-zuckerberg-enters-the-prediction-market-arena-polymarket-2026-6",
+          "published": null
+        },
+        {
+          "summary": "Score 1 for AI. Law firm staffed by bots wins a case in an English court.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/ai-law-firm-garfield-helps-freelancer-win-court-case-2026-6",
+          "published": null
+        },
+        {
+          "summary": "Oil nears pre-war levels, but a top economist warns lower prices could mean higher inflation",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/energy/articles/oil-nears-pre-war-levels-195424273.html",
+          "published": null
+        },
+        {
+          "summary": "Court filing reveals President Trump spoke to Live Nation CEO before antitrust case was settled",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/court-filing-reveals-president-trump-230909043.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI和博通推出AI推理芯片",
+          "summary_en": "OpenAI and Broadcom Introduce AI Inference Chip",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-broadcom-introduce-ai-inference-chip",
+          "published": "2026-06-24T20:21:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "OpenAI 表示 ChatGPT Instant 现在可以更好地了解用户真正想要什么",
+          "summary_en": "OpenAI says ChatGPT Instant now better understands what users actually want",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+          "published": "2026-06-24T19:54:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "世界模型混战，Momenta率先冲刺IPO",
+          "summary_en": "World model melee, Momenta takes the lead in sprinting for IPO",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438179.html",
+          "published": "2026-06-24T23:20:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "粗略的演示可以解锁精确的机器人动作，在现实世界中获得高达四倍的收益",
+          "summary_en": "Rough demos unlock precise robot actions, with up to fourfold real-world gains",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-rough-demos-precise-robot-actions.html",
+          "published": "2026-06-24T15:40:09-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "2026 年可在本地运行的 7 个最佳编码模型",
+          "summary_en": "Top 7 Coding Models You Can Run Locally in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026",
+          "published": "2026-06-24T10:00:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.36
+        },
+        {
+          "summary_zh": "OpenAI 和 Broadcom 推出“Jalapeño”，一款专为 LLM 推理而构建的定制芯片",
+          "summary_en": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+          "published": "2026-06-24T13:50:56+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "神经机器接口揭示大脑通过抓握协同作用感知手部运动",
+          "summary_en": "Neural-machine interfaces reveal that brain senses hand movement through grasp synergies",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-neural-machine-interfaces-reveal-brain.html",
+          "published": "2026-06-24T15:40:07-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+          "summary_en": "On the first day of the paid version of Doubao, I: Recharge... I have to recharge again? I want to top up again!",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438204.html",
+          "published": "2026-06-25T00:32:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI and Broadcom Introduce AI Inference Chip",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-broadcom-introduce-ai-inference-chip",
+          "published": "2026-06-24T20:21:53+00:00"
+        },
+        {
+          "summary": "OpenAI says ChatGPT Instant now better understands what users actually want",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-chatgpt-instant-now-better-understands-what-users-actually-want/",
+          "published": "2026-06-24T19:54:23+00:00"
+        },
+        {
+          "summary": "OpenAI and Broadcom unveil \"Jalapeño,\" a custom chip built for LLM inference",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-and-broadcom-unveil-jalapeno-a-custom-chip-built-for-llm-inference/",
+          "published": "2026-06-24T13:50:56+00:00"
+        },
+        {
+          "summary": "世界模型混战，Momenta率先冲刺IPO",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438179.html",
+          "published": "2026-06-24T23:20:28+00:00"
+        },
+        {
+          "summary": "Rough demos unlock precise robot actions, with up to fourfold real-world gains",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-rough-demos-precise-robot-actions.html",
+          "published": "2026-06-24T15:40:09-04:00"
+        },
+        {
+          "summary": "Neural-machine interfaces reveal that brain senses hand movement through grasp synergies",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-neural-machine-interfaces-reveal-brain.html",
+          "published": "2026-06-24T15:40:07-04:00"
+        },
+        {
+          "summary": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438204.html",
+          "published": "2026-06-25T00:32:50+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+          "published": "2026-06-24T06:00:00+00:00"
+        },
+        {
+          "summary": "Qualcomm to Acquire AI Platform Developer Modular",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/qualcomm-acquire-ai-platform-developer-modular",
+          "published": "2026-06-24T17:25:55+00:00"
+        },
+        {
+          "summary": "Top 7 Coding Models You Can Run Locally in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026",
+          "published": "2026-06-24T10:00:39+00:00"
+        }
+      ]
+    }
+  }
+}
