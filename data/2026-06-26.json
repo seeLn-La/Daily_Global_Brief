@@ -1,0 +1,636 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T02:35:58.489066+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "西班牙将要求运营商在停电期间保持移动网络正常运行",
+          "summary_en": "Spain will require carriers to keep mobile networks live during power outages",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201931/spain-will-require-carriers-to-keep-mobile-networks-live-during-power-outages/",
+          "published": "2026-06-25T19:33:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.74
+        },
+        {
+          "summary_zh": "早报｜苹果iPad、Mac正式涨价/中兴高管：新一代AI手机近期上市/美光CEO：内存紧张将持续到2027年后",
+          "summary_en": "Morning Post | Apple iPad and Mac officially increase prices/ZTE executives: A new generation of AI mobile phones will be launched soon/Micron CEO: Memory shortage will continue until after 2027",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670010?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-26T00:03:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.87
+        },
+        {
+          "summary_zh": "出于安全考虑，白宫要求 OpenAI 放慢新模型的发布速度",
+          "summary_en": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "published": "2026-06-25T23:34:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "谷歌终于发布了 Android 版金融应用，并承诺在 2026 年晚些时候推出 iOS 版本",
+          "summary_en": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+          "published": "2026-06-25T18:38:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.51
+        },
+        {
+          "summary_zh": "苹果将​​跳过高端 M6 Mac 芯片，转而专注于 AI 的 M7 系列",
+          "summary_en": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+          "published": "2026-06-25T17:38:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.26
+        },
+        {
+          "summary_zh": "Anthropic 认为自己的成功是确保人工智能安全的关键",
+          "summary_en": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+          "published": "2026-06-26T00:49:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "人工智能时代重新定位零售业",
+          "summary_en": "Repositioning retail for the AI era",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+          "published": "2026-06-25T14:22:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "OpenAI 最初只会向政府批准的客户发布 ChatGPT 5.6",
+          "summary_en": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
+          "published": "2026-06-25T22:48:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.55
+        },
+        {
+          "summary_zh": "AI童书身体恐怖版",
+          "summary_en": "AI children's books, body horror edition",
+          "source": "Hacker News: Front Page",
+          "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+          "published": "2026-06-26T01:15:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.16
+        },
+        {
+          "summary_zh": "微软Windows 10扩展更新计划再延长一年",
+          "summary_en": "Microsoft adds another year to Windows 10 extended update program",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "published": "2026-06-25T20:24:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.95
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Spain will require carriers to keep mobile networks live during power outages",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2201931/spain-will-require-carriers-to-keep-mobile-networks-live-during-power-outages/",
+          "published": "2026-06-25T19:33:12+00:00"
+        },
+        {
+          "summary": "OpenAI will initially only release ChatGPT 5.6 to government-approved customers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2202129/openai-will-initially-only-release-chatgpt-5-6-to-government-approved-customers/",
+          "published": "2026-06-25T22:48:26+00:00"
+        },
+        {
+          "summary": "早报｜苹果iPad、Mac正式涨价/中兴高管：新一代AI手机近期上市/美光CEO：内存紧张将持续到2027年后",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670010?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-26T00:03:53+00:00"
+        },
+        {
+          "summary": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "published": "2026-06-25T23:34:39+00:00"
+        },
+        {
+          "summary": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+          "published": "2026-06-25T18:38:51+00:00"
+        },
+        {
+          "summary": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+          "published": "2026-06-25T17:38:44+00:00"
+        },
+        {
+          "summary": "AI children's books, body horror edition",
+          "source": "Hacker News: Front Page",
+          "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+          "published": "2026-06-26T01:15:14+00:00"
+        },
+        {
+          "summary": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+          "published": "2026-06-26T00:49:13+00:00"
+        },
+        {
+          "summary": "Microsoft adds another year to Windows 10 extended update program",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+          "published": "2026-06-25T20:24:09+00:00"
+        },
+        {
+          "summary": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "published": "2026-06-25T20:19:25+00:00"
+        },
+        {
+          "summary": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+          "published": "2026-06-25T23:13:45+00:00"
+        },
+        {
+          "summary": "Repositioning retail for the AI era",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+          "published": "2026-06-25T14:22:59+00:00"
+        },
+        {
+          "summary": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+          "published": "2026-06-25T12:10:00+00:00"
+        },
+        {
+          "summary": "网翎发布了卫星通信终端边缘智算系统 OneLinQ Edge 和新上网机，想把「连得上」变成「用得好」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670000?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-25T11:52:33+00:00"
+        },
+        {
+          "summary": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3869243269387269?f=rss",
+          "published": null
+        },
+        {
+          "summary": "The 16 best robot vacuum deals available during Prime Day",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "published": null
+        },
+        {
+          "summary": "Android 17’s new foldable gaming mode could make flippy phones more fun",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
+          "published": null
+        },
+        {
+          "summary": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3868596994069509?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "中国硬件科技股依靠盈利来维持涨势",
+          "summary_en": "China’s Hardware Tech Stocks Look to Earnings to Sustain Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/china-s-hardware-tech-stocks-look-to-earnings-to-sustain-rally",
+          "published": "2026-06-25T23:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.73
+        },
+        {
+          "summary_zh": "SpaceX FOMO 正式结束。太空股全面受到惩罚。",
+          "summary_en": "SpaceX FOMO is officially over. Space stocks across the board are getting punished.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories",
+          "published": "2026-06-26T02:27:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.46
+        },
+        {
+          "summary_zh": "加拿大股市本季度利润增长 36%，超过标准普尔 500 指数",
+          "summary_en": "Canadian Stocks Poised for 36% Profit Growth This Quarter, Outpacing S&P 500",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-25/s-p-tsx-composite-set-for-36-profit-growth-outpacing-s-p-500",
+          "published": "2026-06-25T21:31:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "美联储古尔斯比在最新通胀数据中看到一线希望 - 路透中文网",
+          "summary_en": "Fed's Goolsbee sees glimmer of hope in latest inflation data - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEFGQUZUX0k1RUJGXzVDc2M3c3BQQkNiY29MM0FSZVRQaUx1dklZSm1aTUltZFNnY0trZlNyLWZqUVNPZXd2dTZSTEY3T09GUTBGMHdOZHBWNmhMWHI3Y3pLOEJTZC0xRWdnMlIxWlA4NEhXMzAyQkRGVlIzOW1wQXM4RnBmNEFjQzNVZTVXLW9xcV9xNWpVc1BBTUNBVTlRQXZFNzFURWw4MkE?oc=5",
+          "published": "2026-06-25T19:16:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.67
+        },
+        {
+          "summary_zh": "医学杂志撤回声称早上进行癌症治疗更有效的研究",
+          "summary_en": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html",
+          "published": "2026-06-26T02:27:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "周五的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/25/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-06-25T23:49:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "暑假开始，航班充电宝起火风险警告",
+          "summary_en": "Warning over power bank fire risk on flights as summer holidays begin",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25T23:28:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.72
+        },
+        {
+          "summary_zh": "伊朗和平协议并不意味着票价便宜。这对航空股来说是个好消息。",
+          "summary_en": "An Iran peace deal doesn't mean cheaper fares. That's great news for airline stocks.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "亚洲股市因科技股抛售和油价下跌而下滑：市场休整",
+          "summary_en": "Asian Stocks Slide on Tech Selloff, Oil Slips: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
+          "published": "2026-06-25T22:05:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.37
+        },
+        {
+          "summary_zh": "由于投资者对巨额支出犹豫不决，微软股价在 6 月份遭遇历史性暴跌",
+          "summary_en": "Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories",
+          "published": "2026-06-25T20:51:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.06
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "China’s Hardware Tech Stocks Look to Earnings to Sustain Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/china-s-hardware-tech-stocks-look-to-earnings-to-sustain-rally",
+          "published": "2026-06-25T23:30:00+00:00"
+        },
+        {
+          "summary": "SpaceX FOMO is officially over. Space stocks across the board are getting punished.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories",
+          "published": "2026-06-26T02:27:00+00:00"
+        },
+        {
+          "summary": "Asian Stocks Slide on Tech Selloff, Oil Slips: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
+          "published": "2026-06-25T22:05:08+00:00"
+        },
+        {
+          "summary": "Canadian Stocks Poised for 36% Profit Growth This Quarter, Outpacing S&P 500",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-25/s-p-tsx-composite-set-for-36-profit-growth-outpacing-s-p-500",
+          "published": "2026-06-25T21:31:52+00:00"
+        },
+        {
+          "summary": "Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories",
+          "published": "2026-06-25T20:51:00+00:00"
+        },
+        {
+          "summary": "Everybody's Business: It’s Hard Out Here for a CEO (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-26/everybody-s-business-it-s-hard-out-here-for-a-ceo-podcast",
+          "published": "2026-06-26T00:22:38+00:00"
+        },
+        {
+          "summary": "Fed's Goolsbee sees glimmer of hope in latest inflation data - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEFGQUZUX0k1RUJGXzVDc2M3c3BQQkNiY29MM0FSZVRQaUx1dklZSm1aTUltZFNnY0trZlNyLWZqUVNPZXd2dTZSTEY3T09GUTBGMHdOZHBWNmhMWHI3Y3pLOEJTZC0xRWdnMlIxWlA4NEhXMzAyQkRGVlIzOW1wQXM4RnBmNEFjQzNVZTVXLW9xcV9xNWpVc1BBTUNBVTlRQXZFNzFURWw4MkE?oc=5",
+          "published": "2026-06-25T19:16:20+00:00"
+        },
+        {
+          "summary": "Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html",
+          "published": "2026-06-26T02:27:02+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/25/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-06-25T23:49:25+00:00"
+        },
+        {
+          "summary": "With a Proposed $250 Bill, Trump Reimagines America by Putting Himself on Its Money",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-american-money.html",
+          "published": "2026-06-26T01:45:52+00:00"
+        },
+        {
+          "summary": "Simpler bank rules risk creating loopholes, study says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmJzRndGeVcwVnpfNlZXMWdsc2RHa0pOR2NSaVphY2VQX2o3bVBJSVQxRXd5NEtEWS02M1V1S2Z5SXd4bDZHRmNUcnFZZmVxVEVsVHdva2Nzb2hiUXBPMXlYcGZMakhQRjU5LXdfdlg4ejMwWXhwY0VLZk0yRlB6TTh0N2lzeHFkTTMxSENtb0Uyckh6UGJZSlVUVFNCYjJkMksyZDEwMGpyZw?oc=5",
+          "published": "2026-06-25T21:16:17+00:00"
+        },
+        {
+          "summary": "Warning over power bank fire risk on flights as summer holidays begin",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25T23:28:13+00:00"
+        },
+        {
+          "summary": "UN agency pauses Hormuz ship evacuation plan after first vessel attack under peace deal",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html",
+          "published": "2026-06-26T02:07:59+00:00"
+        },
+        {
+          "summary": "Teens who hacked TfL were known to police years before cyber-attack",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-25T23:19:48+00:00"
+        },
+        {
+          "summary": "An Iran peace deal doesn't mean cheaper fares. That's great news for airline stocks.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/flight-prices-stay-high-despite-us-peace-deal-iran-2026-6",
+          "published": null
+        },
+        {
+          "summary": "Will AI lower interest rates?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
+          "published": "2026-06-25T09:39:49+00:00"
+        },
+        {
+          "summary": "How JPMorgan went from 3 female CEO contenders to an all-male succession race",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/jpmorgan-women-ceo-succession-race-dimon-rohrbaugh-petno-lake-2026-6",
+          "published": null
+        },
+        {
+          "summary": "US says China trying to discourage states, businesses from engaging with Taiwan",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/us-says-china-trying-discourage-024405429.html",
+          "published": null
+        },
+        {
+          "summary": "Oil nears pre-war levels, but a top economist warns lower prices could mean higher inflation",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/energy/articles/oil-nears-pre-war-levels-195424273.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Agentic AI 机器人帮助科学家与机器人对话，加快实验速度",
+          "summary_en": "Agentic AI bot helps scientists speak to robots, speeding up experiments",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-agentic-ai-bot-scientists-robots.html",
+          "published": "2026-06-25T17:20:02-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.68
+        },
+        {
+          "summary_zh": "Anthropic 指控阿里巴巴窃取了克劳德的能力",
+          "summary_en": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
+          "published": "2026-06-25T18:01:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "大多数主要人工智能聊天机器人在政治问题上仍然偏左，即使是“反唤醒”模型也不例外",
+          "summary_en": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+          "published": "2026-06-25T16:04:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.87
+        },
+        {
+          "summary_zh": "5 个处理文本、图像、音频和视频的开源 Omni AI 模型",
+          "summary_en": "5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video",
+          "published": "2026-06-25T14:00:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.35
+        },
+        {
+          "summary_zh": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+          "summary_en": "Cook raised prices for Apple before leaving! Computers and iPads have been adjusted across the board, but iPhone 18 can’t run either",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438690.html",
+          "published": "2026-06-26T01:26:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "铁电存储器使一颗芯片能够对随机性进行采样并进行生成人工智能计算",
+          "summary_en": "Ferroelectric memory enables one chip to sample randomness and compute for generative AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-ferroelectric-memory-enables-chip-sample.html",
+          "published": "2026-06-25T16:00:12-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.35
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "保险公司转向生成人工智能进行灾难建模，但幻觉和销售逻辑可能会阻碍",
+          "summary_en": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+          "published": "2026-06-25T14:13:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.41
+        },
+        {
+          "summary_zh": "人工智能如何帮助解决其带来的能源挑战",
+          "summary_en": "How AI Could Help Address the Energy Challenge it is Creating",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
+          "published": "2026-06-25T17:23:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.2
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Agentic AI bot helps scientists speak to robots, speeding up experiments",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-agentic-ai-bot-scientists-robots.html",
+          "published": "2026-06-25T17:20:02-04:00"
+        },
+        {
+          "summary": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
+          "published": "2026-06-25T18:01:19+00:00"
+        },
+        {
+          "summary": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+          "published": "2026-06-25T16:04:32+00:00"
+        },
+        {
+          "summary": "Ferroelectric memory enables one chip to sample randomness and compute for generative AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-ferroelectric-memory-enables-chip-sample.html",
+          "published": "2026-06-25T16:00:12-04:00"
+        },
+        {
+          "summary": "5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video",
+          "published": "2026-06-25T14:00:07+00:00"
+        },
+        {
+          "summary": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438690.html",
+          "published": "2026-06-26T01:26:27+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+          "published": "2026-06-25T14:13:14+00:00"
+        },
+        {
+          "summary": "How AI Could Help Address the Energy Challenge it is Creating",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
+          "published": "2026-06-25T17:23:04+00:00"
+        },
+        {
+          "summary": "Using Gemini to Create Google Sheets",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/using-gemini-to-create-google-sheets",
+          "published": "2026-06-25T16:00:08+00:00"
+        },
+        {
+          "summary": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+          "published": "2026-06-25T12:00:00-04:00"
+        },
+        {
+          "summary": "Improving the speed and energy-efficiency of AI agents",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+          "published": "2026-06-25T00:00:00-04:00"
+        },
+        {
+          "summary": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/438364.html",
+          "published": "2026-06-25T09:59:40+00:00"
+        }
+      ]
+    }
+  }
+}
