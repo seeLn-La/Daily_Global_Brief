@@ -1,0 +1,546 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T02:41:51.903808+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "据报道，苹果的触摸屏 MacBook 不会等待 M7 芯片",
+          "summary_en": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
+          "published": "2026-06-28T16:20:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.91
+        },
+        {
+          "summary_zh": "央行官员警告人工智能繁荣可能导致全球金融崩溃",
+          "summary_en": "AI boom risks global financial crash, warn central bankers",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+          "published": "2026-06-29T01:25:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.18
+        },
+        {
+          "summary_zh": "人工智能不足后，福特重新雇用“灰胡子”工程师",
+          "summary_en": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "published": "2026-06-28T19:05:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+          "summary_en": "Morning Post | Exposed iPhone 18 standard version memory increased to 9GB / B site 17th anniversary, Chen Rui: last year’s first full-year profit / independent variable robot completed 4 rounds of financing in 2 months, valuation exceeded 20 billion yuan",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670360?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-29T01:10:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.12
+        },
+        {
+          "summary_zh": "为什么该期刊撤回了马克斯·普朗克 20 世纪 40 年代的两篇论文？",
+          "summary_en": "Why did this journal retract two 1940s papers by Max Planck?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+          "published": "2026-06-28T18:49:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.53
+        },
+        {
+          "summary_zh": "更好的人工智能图像",
+          "summary_en": "Better Images of AI",
+          "source": "Hacker News: Front Page",
+          "url": "https://betterimagesofai.org/",
+          "published": "2026-06-28T23:50:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.79
+        },
+        {
+          "summary_zh": "延长电动汽车续航里程的 5 种简单方法",
+          "summary_en": "5 easy ways to get more range out of your EV",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2203334/easy-ways-get-more-range-out-ev/",
+          "published": "2026-06-28T18:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "加州针对大声流媒体广告的法律将于 7 月 1 日生效",
+          "summary_en": "California law targeting loud streaming ads takes effect on July 1",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+          "published": "2026-06-28T21:34:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.22
+        },
+        {
+          "summary_zh": "连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+          "summary_en": "4 consecutive rounds of financing, investors are shining brightly, and the independent variable valuation exceeds 20 billion",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670322?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-29T01:05:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "这是迄今为止最详细的银河系中心图像",
+          "summary_en": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+          "published": "2026-06-28T09:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.2
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2203348/apple-touchscreen-macbook-launch-before-m7-chips/",
+          "published": "2026-06-28T16:20:44+00:00"
+        },
+        {
+          "summary": "AI boom risks global financial crash, warn central bankers",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+          "published": "2026-06-29T01:25:04+00:00"
+        },
+        {
+          "summary": "Better Images of AI",
+          "source": "Hacker News: Front Page",
+          "url": "https://betterimagesofai.org/",
+          "published": "2026-06-28T23:50:58+00:00"
+        },
+        {
+          "summary": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "published": "2026-06-28T19:05:39+00:00"
+        },
+        {
+          "summary": "5 easy ways to get more range out of your EV",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2203334/easy-ways-get-more-range-out-ev/",
+          "published": "2026-06-28T18:30:00+00:00"
+        },
+        {
+          "summary": "California law targeting loud streaming ads takes effect on July 1",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+          "published": "2026-06-28T21:34:14+00:00"
+        },
+        {
+          "summary": "早报｜曝iPhone 18标准版内存升至9GB/B站17周年，陈睿：去年首次全年盈利/自变量机器人2个月完成4轮融资，估值突破200亿元",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670360?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-29T01:10:24+00:00"
+        },
+        {
+          "summary": "连融 4 轮，投资方群星闪耀，自变量估值突破 200 亿",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670322?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-29T01:05:27+00:00"
+        },
+        {
+          "summary": "Why did this journal retract two 1940s papers by Max Planck?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/",
+          "published": "2026-06-28T18:49:21+00:00"
+        },
+        {
+          "summary": "This Is the Most Detailed Image Yet of the Milky Way's Center",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/this-is-the-most-detailed-image-yet-of-the-milky-ways-center/",
+          "published": "2026-06-28T09:30:00+00:00"
+        },
+        {
+          "summary": "What to Do in Houston If You're Here for Business (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-wired-guide-to-houston-for-business-travelers/",
+          "published": "2026-06-28T12:21:00+00:00"
+        },
+        {
+          "summary": "China’s Z.ai claims it can match Mythos on cybersecurity",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "published": null
+        },
+        {
+          "summary": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3869740772316162?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "published": null
+        },
+        {
+          "summary": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3870720040588295?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "BlueBay 认为日本人工智能股存在近期风险，随后反弹",
+          "summary_en": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally",
+          "published": "2026-06-28T22:00:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "波斯湾袭击事件发生数天后，石油市场小幅走高",
+          "summary_en": "Oil Markets Edge Higher After Days of Attacks in Persian Gulf",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/28/business/oil-markets-edge-higher-after-days-of-attacks-in-persian-gulf.html",
+          "published": "2026-06-28T22:45:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.52
+        },
+        {
+          "summary_zh": "日本出现预测市场并提供购物优惠券",
+          "summary_en": "Prediction Markets Emerge in Japan, With Shopping Vouchers",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/prediction-markets-emerge-in-japan-with-shopping-vouchers",
+          "published": "2026-06-29T02:00:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.33
+        },
+        {
+          "summary_zh": "据报道，美国和伊朗同意停止袭击，油价和股指期货小幅上涨",
+          "summary_en": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+          "published": "2026-06-29T01:35:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "主权投资者将29万亿美元转向能源资产，引发美元担忧 - 路透中文网",
+          "summary_en": "Sovereign investors with $29 trillion pivot to energy assets, flag dollar fears - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTU1TGpUQS1nWm1VemNlanY2aXd4Z014UklJSE5ubTl2Z1BMclhzMHlES1dfYktWd212anFRSWVZRV9rSVlGN0JzR1NZSF9iMmc3Mlp3NHYyNnRJNUdCSlFmdEg1R3VmeG41a3hsc0lIbnRHdWdndmkzTkdDQVMwcmRKVHJudFNQT3Vzdmg3b1Z6VjJGUzNZZ3dJaWhZQXZwZXkyYkJKTDNlNGhyc29OcGtNZmw5XzQtYkJiV0tpc3dyTG1BTlE?oc=5",
+          "published": "2026-06-28T23:08:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "三星和 SK 海力士股价下跌，因投资者准备迎接 1.3 万亿美元的支出计划",
+          "summary_en": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published": "2026-06-29T01:35:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.73
+        },
+        {
+          "summary_zh": "有网球病吗？如何在不付费的情况下进行体育运动",
+          "summary_en": "Got the tennis bug? How to play sport without paying",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-28T23:06:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.6
+        },
+        {
+          "summary_zh": "肯特谈澳大利亚储备银行的新框架",
+          "summary_en": "Kent on Reserve Bank of Australia's New Framework",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-29/kent-on-reserve-bank-of-australia-s-new-framework-video",
+          "published": "2026-06-29T00:51:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.04
+        },
+        {
+          "summary_zh": "美国与伊朗同意进行更多会谈、韩国人工智能投资计划等",
+          "summary_en": "US-Iran Agree to More Talks, S.Korea AI Investment Plan, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-29/us-iran-agree-to-more-talks-s-korea-ai-investment-plan-more",
+          "published": "2026-06-29T02:05:20+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "霍尔木兹海峡的新一轮袭击可能会阻碍航运业的恢复",
+          "summary_en": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
+          "published": "2026-06-29T00:40:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.0
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally",
+          "published": "2026-06-28T22:00:07+00:00"
+        },
+        {
+          "summary": "Kent on Reserve Bank of Australia's New Framework",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-06-29/kent-on-reserve-bank-of-australia-s-new-framework-video",
+          "published": "2026-06-29T00:51:41+00:00"
+        },
+        {
+          "summary": "Oil Markets Edge Higher After Days of Attacks in Persian Gulf",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/28/business/oil-markets-edge-higher-after-days-of-attacks-in-persian-gulf.html",
+          "published": "2026-06-28T22:45:27+00:00"
+        },
+        {
+          "summary": "Prediction Markets Emerge in Japan, With Shopping Vouchers",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/prediction-markets-emerge-in-japan-with-shopping-vouchers",
+          "published": "2026-06-29T02:00:15+00:00"
+        },
+        {
+          "summary": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories",
+          "published": "2026-06-29T01:35:00+00:00"
+        },
+        {
+          "summary": "Sovereign investors with $29 trillion pivot to energy assets, flag dollar fears - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTU1TGpUQS1nWm1VemNlanY2aXd4Z014UklJSE5ubTl2Z1BMclhzMHlES1dfYktWd212anFRSWVZRV9rSVlGN0JzR1NZSF9iMmc3Mlp3NHYyNnRJNUdCSlFmdEg1R3VmeG41a3hsc0lIbnRHdWdndmkzTkdDQVMwcmRKVHJudFNQT3Vzdmg3b1Z6VjJGUzNZZ3dJaWhZQXZwZXkyYkJKTDNlNGhyc29OcGtNZmw5XzQtYkJiV0tpc3dyTG1BTlE?oc=5",
+          "published": "2026-06-28T23:08:09+00:00"
+        },
+        {
+          "summary": "US-Iran Agree to More Talks, S.Korea AI Investment Plan, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-29/us-iran-agree-to-more-talks-s-korea-ai-investment-plan-more",
+          "published": "2026-06-29T02:05:20+00:00"
+        },
+        {
+          "summary": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
+          "published": "2026-06-29T00:40:57+00:00"
+        },
+        {
+          "summary": "Oil climbs following renewed US, Iran strikes in Middle East - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVE4MTEtZkdxUjFqY0VNeW1uZ09lM01DRkRxcVRkTzNFajVCMmx6QWVLdG9NQmRaMFBIdmswQ09GaExRMnNvV1lvS044S3oxQXVOSjYtcmhVelkxbmxJZ0JxOXRJOWNQbmhmSFNpalZUTVEzRldFZ01XdTdtYlhOZDdCazRjeHlJUi1ReEctQ1hfQ2toMnpZQjJXd3BJOWRBNWR4NDczX0diZ09D?oc=5",
+          "published": "2026-06-28T23:34:32+00:00"
+        },
+        {
+          "summary": "Samsung, SK Hynix shares fall as investors brace for reported $1.3 trillion spending plans",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html",
+          "published": "2026-06-29T01:35:51+00:00"
+        },
+        {
+          "summary": "Got the tennis bug? How to play sport without paying",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-28T23:06:00+00:00"
+        },
+        {
+          "summary": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+          "published": "2026-06-29T00:23:33+00:00"
+        },
+        {
+          "summary": "How much should we be prepared to pay for our food?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3ryqywd97do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-28T22:14:29+00:00"
+        },
+        {
+          "summary": "Micron is about to be more profitable than any U.S. company except Nvidia and Google",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/micron-is-about-to-be-more-profitable-than-any-u-s-company-except-nvidia-and-google-3a83e343?mod=mw_rss_topstories",
+          "published": "2026-06-28T14:00:00+00:00"
+        },
+        {
+          "summary": "China cracks down on rule-bending offshore investments",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
+          "published": "2026-06-28T10:33:26+00:00"
+        },
+        {
+          "summary": "Here's what will happen to Rhaenyra Targaryen on 'House of the Dragon,' if it follows her fate in the book",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/rhaenyra-targaryen-death-house-of-the-dragon-fire-and-blood-2024-6",
+          "published": null
+        },
+        {
+          "summary": "The 13 saddest deaths in 'House of the Dragon,' ranked",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/house-of-the-dragon-saddest-deaths-ranked",
+          "published": null
+        },
+        {
+          "summary": "China industrial profits stay resilient as economy leans on factories, exports",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/china-industrial-profits-stay-resilient-044537127.html",
+          "published": null
+        },
+        {
+          "summary": "Ex-Google engineer says Larry Page, Sergey Brin and Sundar Pichai share the same trait—it’s the lesson he swears by as a $7.2 billion AI CEO",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ex-google-engineer-says-larry-110500711.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+          "summary_en": "The domestic answer to space computing power: using photons is more efficient! Musk and Huang are both too convoluted.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439728.html",
+          "published": "2026-06-29T00:09:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.87
+        },
+        {
+          "summary_zh": "惠普公司与 OpenAI 建立 Frontier 战略合作伙伴关系",
+          "summary_en": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "published": "2026-06-28T17:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "随着西方实验室面临定价压力测试，Coinbase 也加入了中国人工智能模型的热潮",
+          "summary_en": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+          "published": "2026-06-28T12:14:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.89
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 500 天的初创公司生存测试中，只有三个 AI 模型的成绩高于启动资金",
+          "summary_en": "Only three AI models finished above starting capital in a 500-day startup survival test",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+          "published": "2026-06-28T10:16:13+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.39
+        },
+        {
+          "summary_zh": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+          "summary_en": "Top list of face-hugging models, I only use yuxinlu1 now",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439603.html",
+          "published": "2026-06-28T13:55:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.31
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439728.html",
+          "published": "2026-06-29T00:09:59+00:00"
+        },
+        {
+          "summary": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/hp-frontier-partnership",
+          "published": "2026-06-28T17:00:00+00:00"
+        },
+        {
+          "summary": "Coinbase joins the rush to Chinese AI models as Western labs face a pricing stress test",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/coinbase-joins-the-rush-to-chinese-ai-models-as-western-labs-face-a-pricing-stress-test/",
+          "published": "2026-06-28T12:14:38+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Only three AI models finished above starting capital in a 500-day startup survival test",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test/",
+          "published": "2026-06-28T10:16:13+00:00"
+        },
+        {
+          "summary": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439603.html",
+          "published": "2026-06-28T13:55:50+00:00"
+        }
+      ]
+    }
+  }
+}
