@@ -1,0 +1,642 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T02:36:24.735648+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "随着人工智能初创公司寻求防御性，Vibe 编码平台 Base44 推出自己的模型",
+          "summary_en": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "published": "2026-06-30T02:28:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.47
+        },
+        {
+          "summary_zh": "现在有适用于 iOS 和 Android 手机的 OpenClaw 应用程序",
+          "summary_en": "There's now an OpenClaw app for iOS and Android phones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
+          "published": "2026-06-29T22:07:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.38
+        },
+        {
+          "summary_zh": "韩国将花费 1T 美元增加存储芯片生产和人形机器人",
+          "summary_en": "South Korea to spend $1T on more memory chip production and humanoid robots",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "published": "2026-06-29T21:09:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "人工智能代理不是你的“同事”",
+          "summary_en": "AI agents are not your “coworkers”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "published": "2026-06-29T18:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "欧洲为何不在冰岛建设人工智能数据中心？",
+          "summary_en": "Why Won't Europe Build AI Data Centers in Iceland?",
+          "source": "Hacker News: Front Page",
+          "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+          "published": "2026-06-30T01:30:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "早报｜Switch2港版官宣涨价/三星SK联手官宣投万亿韩元扩产存储芯片/大疆否认7月全系涨价",
+          "summary_en": "Morning Post｜Switch 2 Hong Kong version officially announced a price increase/Samsung SK teamed up to officially announce a trillion won investment to expand memory chip production/DJI denies price increases for all series in July",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670457?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-30T00:35:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "元承包商冒充青少年向竞争对手的聊天机器人提示有关自杀、性和毒品的信息",
+          "summary_en": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+          "published": "2026-06-29T21:49:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.31
+        },
+        {
+          "summary_zh": "敏感的 iPhone 供应商详细信息是上周塔塔电子公司数据泄露的一部分",
+          "summary_en": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
+          "published": "2026-06-29T23:06:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.63
+        },
+        {
+          "summary_zh": "Chamath Palihapitiya 为其人工智能编码初创公司筹集了 1.35 亿美元的 A 轮融资，并出任首席执行官",
+          "summary_en": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+          "published": "2026-06-29T20:55:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "美国悬赏 1000 万美元获取 Signal 和 WhatsApp 黑客攻击背后组织的信息",
+          "summary_en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+          "published": "2026-06-29T22:05:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.37
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "published": "2026-06-30T02:28:41+00:00"
+        },
+        {
+          "summary": "There's now an OpenClaw app for iOS and Android phones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2204549/theres-now-an-openclaw-app-for-ios-and-android-phones/",
+          "published": "2026-06-29T22:07:14+00:00"
+        },
+        {
+          "summary": "Sensitive iPhone supplier details were part of last week's data leak at Tata Electronics",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2204589/sensitive-iphone-supplier-details-were-part-of-last-weeks-data-leak-at-tata-electronics/",
+          "published": "2026-06-29T23:06:30+00:00"
+        },
+        {
+          "summary": "South Korea to spend $1T on more memory chip production and humanoid robots",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "published": "2026-06-29T21:09:43+00:00"
+        },
+        {
+          "summary": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+          "published": "2026-06-29T20:55:50+00:00"
+        },
+        {
+          "summary": "AI agents are not your “coworkers”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+          "published": "2026-06-29T18:00:00+00:00"
+        },
+        {
+          "summary": "Why Won't Europe Build AI Data Centers in Iceland?",
+          "source": "Hacker News: Front Page",
+          "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+          "published": "2026-06-30T01:30:40+00:00"
+        },
+        {
+          "summary": "早报｜Switch2港版官宣涨价/三星SK联手官宣投万亿韩元扩产存储芯片/大疆否认7月全系涨价",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670457?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-30T00:35:13+00:00"
+        },
+        {
+          "summary": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+          "published": "2026-06-29T22:05:33+00:00"
+        },
+        {
+          "summary": "领克官宣进军拉力赛！领克 07 GT 同步开启预售，16.58 万元起",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670441?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-30T01:45:40+00:00"
+        },
+        {
+          "summary": "Exploring PDP-1 Lisp (1960)",
+          "source": "Hacker News: Front Page",
+          "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+          "published": "2026-06-30T00:56:42+00:00"
+        },
+        {
+          "summary": "The Download: metric weaknesses and AI elephant warnings",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+          "published": "2026-06-29T12:10:00+00:00"
+        },
+        {
+          "summary": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+          "published": "2026-06-29T21:49:26+00:00"
+        },
+        {
+          "summary": "Buying a Mattress in 2026? We Tested 100+ and These Were the Standouts",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-mattresses/",
+          "published": "2026-06-29T21:05:17+00:00"
+        },
+        {
+          "summary": "OpenAI is teasing new hardware… for Codex",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "published": null
+        },
+        {
+          "summary": "T-Mobile is booting customers from its oldest plans",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+          "published": null
+        },
+        {
+          "summary": "自研全域柔性电子皮肤，Moxy摸喜发布首款AI陪伴机器人｜最前线",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3874015941645570?f=rss",
+          "published": null
+        },
+        {
+          "summary": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3873965241931014?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "中国在人工智能繁荣中失利，股市自 01 年以来跌幅最大",
+          "summary_en": "China Loses Out on AI Boom as Stocks Trail by Most Since ‘01",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
+          "published": "2026-06-29T23:01:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.6
+        },
+        {
+          "summary_zh": "当通胀高企时，价值股跑赢成长股。以下是热门时事通讯目前押注的 13 只股票。",
+          "summary_en": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
+          "published": "2026-06-29T20:43:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.03
+        },
+        {
+          "summary_zh": "股市因科技股上涨而收高，美联储库克保住工作等",
+          "summary_en": "Stocks Close Higher on Tech Rally, Fed's Cook Keeps Job, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-29/stocks-close-higher-on-tech-rally-fed-s-cook-keeps-job-more",
+          "published": "2026-06-29T20:17:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "美国战略石油储备石油库存减少550万桶至1983年以来最低水平 - 路透中文网",
+          "summary_en": "Oil stocks in US Strategic Petroleum Reserve fall by 5.5 million to lowest level since 1983 - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDE2T3J0NWhiR3JScFJTYnVFbzlKS3NWbVhtT2xzTkFXMUU4Q21XdDNzZDNKUWM3NWkwaHUwaV9PY3FxTV9WV3k0eTE2aWt2NVo1ckpkaWloUm5NaUZ0S3FPWjd1VkFkMkItYnRqRzlGMTZCV0dEbWdIdDBtbUxxcTdpdXI0aEZEOEJpUHpTNUx1M3dvZFBUOTFHZGRPNWtuU2YzVzBJS20xdllNMm95OGxtYlprWDZTLVRkTUtyd3FRdy1ZM3Q4R1dMdw?oc=5",
+          "published": "2026-06-29T20:07:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "最高法院裁决后，特朗普再次威胁解雇美联储理事丽莎·库克",
+          "summary_en": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+          "published": "2026-06-29T22:18:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "周二的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/29/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-06-29T23:18:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.18
+        },
+        {
+          "summary_zh": "高抵押贷款利率令买家沮丧，房屋更难出售",
+          "summary_en": "Homes harder to sell as high mortgage rates frustrate buyers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-29T23:08:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.64
+        },
+        {
+          "summary_zh": "土耳其从伊朗战争中获胜的经济计划",
+          "summary_en": "Turkey’s economic plan to win from the Iran war",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+          "published": "2026-06-29T20:52:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.57
+        },
+        {
+          "summary_zh": "亚洲股市迎来 2009 年以来最好的季度，日元下跌：市场总结",
+          "summary_en": "Asia Stocks Eye Best Quarter Since 2009, Yen Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+          "published": "2026-06-29T22:06:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.38
+        },
+        {
+          "summary_zh": "特朗普周末对伊朗的袭击继续引发周一股市上涨。这是数据向我们展示的内容。",
+          "summary_en": "Trump’s weekend Iran strikes keep sparking Monday stock rallies. Here’s what the data shows us.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories",
+          "published": "2026-06-29T23:39:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.76
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "China Loses Out on AI Boom as Stocks Trail by Most Since ‘01",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
+          "published": "2026-06-29T23:01:12+00:00"
+        },
+        {
+          "summary": "Asia Stocks Eye Best Quarter Since 2009, Yen Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+          "published": "2026-06-29T22:06:50+00:00"
+        },
+        {
+          "summary": "Value stocks beat growth when inflation is high. Here are 13 stocks top newsletters are betting on now.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/value-stocks-beat-growth-when-inflation-is-high-here-are-13-stocks-top-newsletters-are-betting-on-now-f6f4a265?mod=mw_rss_topstories",
+          "published": "2026-06-29T20:43:00+00:00"
+        },
+        {
+          "summary": "Stocks Close Higher on Tech Rally, Fed's Cook Keeps Job, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-29/stocks-close-higher-on-tech-rally-fed-s-cook-keeps-job-more",
+          "published": "2026-06-29T20:17:06+00:00"
+        },
+        {
+          "summary": "Oil stocks in US Strategic Petroleum Reserve fall by 5.5 million to lowest level since 1983 - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdDE2T3J0NWhiR3JScFJTYnVFbzlKS3NWbVhtT2xzTkFXMUU4Q21XdDNzZDNKUWM3NWkwaHUwaV9PY3FxTV9WV3k0eTE2aWt2NVo1ckpkaWloUm5NaUZ0S3FPWjd1VkFkMkItYnRqRzlGMTZCV0dEbWdIdDBtbUxxcTdpdXI0aEZEOEJpUHpTNUx1M3dvZFBUOTFHZGRPNWtuU2YzVzBJS20xdllNMm95OGxtYlprWDZTLVRkTUtyd3FRdy1ZM3Q4R1dMdw?oc=5",
+          "published": "2026-06-29T20:07:43+00:00"
+        },
+        {
+          "summary": "Trump’s weekend Iran strikes keep sparking Monday stock rallies. Here’s what the data shows us.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories",
+          "published": "2026-06-29T23:39:00+00:00"
+        },
+        {
+          "summary": "Europe's economic resilience gives ECB greater room to move rates, Lagarde says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUszT2lMQnNpaUxGbFpJNG1KMDJJNmF4ZUJKX1g3ejBKbGhxbTRIWGNOTHBBbzA3enRTUFZDLTR6ek1fRnZLV3RUOTdGRFg2V3JOYUVSUFlhOTY5bFo5Y1JvX1V1OFRyTUZCZElwaDRTOVpSWTdITXg0YjZZeWZpWk03U0Rxcy04MzFPRUlIaVM0U0FIOFFfX01BNmpSZmx5OWFBTjZFNEdaQ25RZUJaTjlNOC14Um1LaVpaazJ2Qjh3aTZVMkE?oc=5",
+          "published": "2026-06-29T19:02:15+00:00"
+        },
+        {
+          "summary": "Modi’s Soft Spot for Japan Gives Banks an Edge in Deal Wave",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/features/2026-06-29/modi-s-soft-spot-for-japan-gives-banks-an-edge-in-deal-wave",
+          "published": "2026-06-29T23:00:17+00:00"
+        },
+        {
+          "summary": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+          "published": "2026-06-29T22:18:20+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/29/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-06-29T23:18:45+00:00"
+        },
+        {
+          "summary": "Former Chinese Billionaire and Bannon Associate Is Sentenced for Fraud",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html",
+          "published": "2026-06-30T00:19:50+00:00"
+        },
+        {
+          "summary": "Homes harder to sell as high mortgage rates frustrate buyers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-29T23:08:44+00:00"
+        },
+        {
+          "summary": "Chinese tycoon sentenced to 30 years in US jail",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-06-30T02:08:21+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after the Dow posts new record close: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+          "published": "2026-06-30T02:12:52+00:00"
+        },
+        {
+          "summary": "Turkey’s economic plan to win from the Iran war",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/29/turkeys-economic-plan-to-win-from-the-iran-war",
+          "published": "2026-06-29T20:52:26+00:00"
+        },
+        {
+          "summary": "Newsom and Anthropic reach deal to give local governments discounted access to Claude",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/newsom-anthropic-ink-deal-expand-government-use-2026-6",
+          "published": null
+        },
+        {
+          "summary": "Travis Kalanick's summer commute: a 5-minute jet ski ride",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/travis-kalanick-lake-austin-commute-jet-ski-ride-2026-6",
+          "published": null
+        },
+        {
+          "summary": "GLP-1 weight loss drugs could be risky for women in menopause: Expert",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://health.yahoo.com/your-body/womens-health/menopause/articles/glp-1-weight-loss-drugs-130902618.html",
+          "published": null
+        },
+        {
+          "summary": "Ex-Google engineer says Larry Page, Sergey Brin and Sundar Pichai share the same trait—it’s the lesson he swears by as a $7.2 billion AI CEO",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ex-google-engineer-says-larry-110500711.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "据报道，亚马逊工程师正在提炼人择模型，以在新的基于代币的定价生效之前降低成本",
+          "summary_en": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+          "published": "2026-06-29T18:05:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.37
+        },
+        {
+          "summary_zh": "人类生态学的八项原则可以帮助人工智能为人类福祉服务",
+          "summary_en": "Eight principles from human ecology can help AI work for human well-being",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-principles-human-ecology-ai.html",
+          "published": "2026-06-29T20:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "观点：为什么代币计数掩盖了人工智能投资的投资回报率",
+          "summary_en": "Opinion: Why Token Counting Obscures ROI on AI Investments",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/opinion-token-counting-obscures-roi-ai-investments",
+          "published": "2026-06-29T15:51:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.81
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
+          "summary_en": "The world's first: Hidden space world model, opening up a long-term two-way physical causal chain!",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439891.html",
+          "published": "2026-06-29T14:33:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.49
+        },
+        {
+          "summary_zh": "您的 RAG 管道可能毫无用处。这是一个更好的选择",
+          "summary_en": "Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative",
+          "published": "2026-06-29T14:00:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.35
+        },
+        {
+          "summary_zh": "首届音乐技术研究展示会庆祝新研究生项目首批学生的工作",
+          "summary_en": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
+          "published": "2026-06-29T15:00:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.1
+        },
+        {
+          "summary_zh": "短期培训帮助人们在打击深度造假欺诈的斗争中识别人工智能面孔",
+          "summary_en": "Short training helps people spot AI faces in the battle against deepfake fraud",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-short-people-ai-deepfake-fraud.html",
+          "published": "2026-06-29T15:00:12-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "Meta 限制使用 Claude Code 和 Codex，以防止竞争对手 AI 参与其训练数据",
+          "summary_en": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+          "published": "2026-06-29T15:47:43+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+          "published": "2026-06-29T18:05:37+00:00"
+        },
+        {
+          "summary": "Eight principles from human ecology can help AI work for human well-being",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-principles-human-ecology-ai.html",
+          "published": "2026-06-29T20:00:01-04:00"
+        },
+        {
+          "summary": "Short training helps people spot AI faces in the battle against deepfake fraud",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-short-people-ai-deepfake-fraud.html",
+          "published": "2026-06-29T15:00:12-04:00"
+        },
+        {
+          "summary": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+          "published": "2026-06-29T15:47:43+00:00"
+        },
+        {
+          "summary": "Opinion: Why Token Counting Obscures ROI on AI Investments",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/opinion-token-counting-obscures-roi-ai-investments",
+          "published": "2026-06-29T15:51:41+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "South Korea Unveils $576B AI Chip Push With Samsung and SK Hynix",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/south-korea-unveils-576b-ai-chip-push-samsung-sk-hynix",
+          "published": "2026-06-29T15:13:00+00:00"
+        },
+        {
+          "summary": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439891.html",
+          "published": "2026-06-29T14:33:11+00:00"
+        },
+        {
+          "summary": "Your RAG Pipeline Is Probably Useless. Here’s a Better Alternative",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/your-rag-pipeline-is-probably-useless-heres-a-better-alternative",
+          "published": "2026-06-29T14:00:50+00:00"
+        },
+        {
+          "summary": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
+          "published": "2026-06-29T15:00:00-04:00"
+        },
+        {
+          "summary": "5 AI Coding Subscription Plans That Give Developers the Best Value",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value",
+          "published": "2026-06-29T12:00:38+00:00"
+        },
+        {
+          "summary": "3 Questions: Beyond data-driven aesthetics",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
+          "published": "2026-06-29T14:00:00-04:00"
+        },
+        {
+          "summary": "Mapping Europe’s AI Workforce Opportunity",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "published": "2026-06-29T07:00:00+00:00"
+        },
+        {
+          "summary": "Claude Mythos让梁文锋决定融资",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/06/439863.html",
+          "published": "2026-06-29T08:54:57+00:00"
+        }
+      ]
+    }
+  }
+}
