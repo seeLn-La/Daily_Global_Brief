@@ -1,0 +1,642 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T02:42:11.532690+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "美国政府允许 Anthropic 重新部署其 Mythos 和 Fable 人工智能模型",
+          "summary_en": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+          "published": "2026-07-01T01:59:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.32
+        },
+        {
+          "summary_zh": "OpenClaw 终于在 Android 和 iOS 上可用",
+          "summary_en": "OpenClaw is finally available on Android and iOS",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "published": "2026-06-30T21:53:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.3
+        },
+        {
+          "summary_zh": "Claude Science 是 Anthropic 的最新旗舰产品",
+          "summary_en": "Claude Science is Anthropic’s newest flagship product",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "published": "2026-06-30T21:50:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "新的攻击提供了人工智能浏览器不是一个好主意的又一个原因",
+          "summary_en": "New attack provides one more reason why AI browsers are a bad idea",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "published": "2026-06-30T20:03:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
+          "summary_en": "Morning Post | Apple iPhone 18 Pro leaked on a large scale/SK Hynix launches IPO in the United States/Claude Sonnet 5 officially launched",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-01T00:02:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "特朗普政府正在取消对 Anthropic 的神话和寓言人工智能模型的出口管制",
+          "summary_en": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "published": "2026-06-30T23:23:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "从脑电波到语言：无需手术的沟通新途径",
+          "summary_en": "From brain waves to words: a new path to communication without surgery",
+          "source": "Hacker News: Front Page",
+          "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+          "published": "2026-06-30T21:29:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.2
+        },
+        {
+          "summary_zh": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+          "summary_en": "8:01 Krypton丨The “strictest battery safety order in history” is officially implemented; a large number of Apple’s confidential documents are leaked; OpenAI’s first hardware is exposed",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3876318522077442?f=rss",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "Netflix 使用人工智能将吉恩·怀尔德的声音放入新的真人秀节目中",
+          "summary_en": "Netflix used AI to put Gene Wilder's voice into a new reality show",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
+          "published": "2026-06-30T20:24:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.93
+        },
+        {
+          "summary_zh": "Startup Battlefield Australia 申请数天内截止：7 月 6 日之前申请",
+          "summary_en": "Startup Battlefield Australia application closes in days: Apply before July 6",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+          "published": "2026-06-30T23:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.58
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "US government allows Anthropic to redeploy its Mythos and Fable AI models",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205599/anthropic-redeploy-mythos-fable-ai-models/",
+          "published": "2026-07-01T01:59:26+00:00"
+        },
+        {
+          "summary": "OpenClaw is finally available on Android and iOS",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "published": "2026-06-30T21:53:28+00:00"
+        },
+        {
+          "summary": "Netflix used AI to put Gene Wilder's voice into a new reality show",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205408/netflix-used-ai-to-put-gene-wilder-s-voice-into-a-new-reality-show/",
+          "published": "2026-06-30T20:24:49+00:00"
+        },
+        {
+          "summary": "Startup Battlefield Australia application closes in days: Apply before July 6",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/",
+          "published": "2026-06-30T23:00:00+00:00"
+        },
+        {
+          "summary": "Claude Science is Anthropic’s newest flagship product",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "published": "2026-06-30T21:50:04+00:00"
+        },
+        {
+          "summary": "New attack provides one more reason why AI browsers are a bad idea",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+          "published": "2026-06-30T20:03:14+00:00"
+        },
+        {
+          "summary": "早报｜苹果iPhone 18 Pro大规模泄露/SK海力士启动赴美IPO/Claude Sonnet 5正式上线",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670629?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-01T00:02:41+00:00"
+        },
+        {
+          "summary": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "published": "2026-06-30T23:23:04+00:00"
+        },
+        {
+          "summary": "June research roundup: 6 cool science stories we almost missed",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
+          "published": "2026-06-30T22:11:10+00:00"
+        },
+        {
+          "summary": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+          "published": "2026-06-30T17:36:48+00:00"
+        },
+        {
+          "summary": "From brain waves to words: a new path to communication without surgery",
+          "source": "Hacker News: Front Page",
+          "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+          "published": "2026-06-30T21:29:13+00:00"
+        },
+        {
+          "summary": "Forestiere Underground Gardens",
+          "source": "Hacker News: Front Page",
+          "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+          "published": "2026-07-01T01:23:09+00:00"
+        },
+        {
+          "summary": "Daisy’s First Headphones Are Premium, High-Quality—and Just a Little Bit Cheaper",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/daisy-sound-yet-another-company-is-making-premium-high-end-headphones/",
+          "published": "2026-06-30T21:07:32+00:00"
+        },
+        {
+          "summary": "8点1氪丨“史上最严电池安全令”正式施行；苹果大量机密文件遭泄露；OpenAI首款硬件曝光",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3876318522077442?f=rss",
+          "published": null
+        },
+        {
+          "summary": "苹果涨价后很贵，但以后的 iPhone 可能会更贵",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670412?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-06-30T09:00:05+00:00"
+        },
+        {
+          "summary": "告别硬件出海上一个十年，前安克CMO做了款AI时代的Memory产品｜硬氪专访",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3867992509125636?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Amazon fined $2.25 million for failing to help identity theft victims",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
+          "published": null
+        },
+        {
+          "summary": "007 First Light’s developer lays off staff but claims its next franchise will continue",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/959713/io-interactive-project-fantasy-layoffs",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着股市上涨，美国劳动力市场稳定",
+          "summary_en": "US Labor Market Steady as Stocks Gain",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-01/us-labor-market-steady-as-stocks-gain-video",
+          "published": "2026-07-01T00:01:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.83
+        },
+        {
+          "summary_zh": "彭博商业周刊日报：芯片股飙升（播客）",
+          "summary_en": "Bloomberg Businessweek Daily: Chip Stocks Soar (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-30/bloomberg-businessweek-daily-chip-stocks-soar-podcast",
+          "published": "2026-06-30T21:59:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.32
+        },
+        {
+          "summary_zh": "据彭博社报道，Uber 支持的 Lime IPO 定价为每股 25 美元 - 路透中文网",
+          "summary_en": "Uber-backed Lime prices IPO at $25 per share, Bloomberg News reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEhkcDhDalYzbWVGZ1RKLVVLczlYNEFQaHhBdU5pS3JqWVVLTWktVktWWVRHZE1rcUh4NjdQQVYtTHpYSUdHdHlXSzhDMl94MWg0TUlDYl9uWHk1N0NVbEdRcWVrVVlGbjdYM05IcThZQWtZSk5lTGtRNVFRaWlhYWF3QUdkOFNwQlg5MmpKbTkxdTdINHFvYjRnZU0xckdfS21FcURwWEg1WVJ0?oc=5",
+          "published": "2026-07-01T01:04:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.09
+        },
+        {
+          "summary_zh": "股市创下 2020 年以来最强劲季度表现",
+          "summary_en": "Stocks Notch Strongest Quarter Since 2020",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html",
+          "published": "2026-06-30T20:45:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.02
+        },
+        {
+          "summary_zh": "耐克的盈利超出了华尔街的预期——但问题在于",
+          "summary_en": "Nike earnings crushed Wall Street’s estimates — but here’s the catch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
+          "published": "2026-07-01T00:19:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "特朗普上任第一年就从加密货币中赚取了超过 10 亿美元",
+          "summary_en": "Trump made more than $1bn from crypto in first year back in office",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T01:45:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.27
+        },
+        {
+          "summary_zh": "吉姆·克莱默 (Jim Cramer) 表示，人工智能行业已经发生转变，这些股票现在处于领先地位",
+          "summary_en": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
+          "published": "2026-06-30T22:24:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.93
+        },
+        {
+          "summary_zh": "针对全球货币的新广场协议行不通",
+          "summary_en": "A new Plaza Accord for global currencies wouldn’t work",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+          "published": "2026-06-30T19:46:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.27
+        },
+        {
+          "summary_zh": "Getty 表示将结束合并后 Shutterstock 股价下跌",
+          "summary_en": "Shutterstock Shares Fall After Getty Says It Will End Merger",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-30/shutterstock-shares-fall-after-getty-says-it-will-end-merger",
+          "published": "2026-06-30T22:27:32+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.44
+        },
+        {
+          "summary_zh": "股市收复六月损失，出生公民权得以维持",
+          "summary_en": "Stocks Claw Back June Losses, Birthright Citizenship Stands",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-30/stocks-claw-back-june-losses-birthright-citizenship-stands",
+          "published": "2026-06-30T21:02:02+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.08
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "US Labor Market Steady as Stocks Gain",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-01/us-labor-market-steady-as-stocks-gain-video",
+          "published": "2026-07-01T00:01:49+00:00"
+        },
+        {
+          "summary": "Shutterstock Shares Fall After Getty Says It Will End Merger",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-30/shutterstock-shares-fall-after-getty-says-it-will-end-merger",
+          "published": "2026-06-30T22:27:32+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Chip Stocks Soar (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-30/bloomberg-businessweek-daily-chip-stocks-soar-podcast",
+          "published": "2026-06-30T21:59:41+00:00"
+        },
+        {
+          "summary": "Uber-backed Lime prices IPO at $25 per share, Bloomberg News reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEhkcDhDalYzbWVGZ1RKLVVLczlYNEFQaHhBdU5pS3JqWVVLTWktVktWWVRHZE1rcUh4NjdQQVYtTHpYSUdHdHlXSzhDMl94MWg0TUlDYl9uWHk1N0NVbEdRcWVrVVlGbjdYM05IcThZQWtZSk5lTGtRNVFRaWlhYWF3QUdkOFNwQlg5MmpKbTkxdTdINHFvYjRnZU0xckdfS21FcURwWEg1WVJ0?oc=5",
+          "published": "2026-07-01T01:04:00+00:00"
+        },
+        {
+          "summary": "Stocks Claw Back June Losses, Birthright Citizenship Stands",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-06-30/stocks-claw-back-june-losses-birthright-citizenship-stands",
+          "published": "2026-06-30T21:02:02+00:00"
+        },
+        {
+          "summary": "Stocks Notch Strongest Quarter Since 2020",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html",
+          "published": "2026-06-30T20:45:51+00:00"
+        },
+        {
+          "summary": "Nike earnings crushed Wall Street’s estimates — but here’s the catch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
+          "published": "2026-07-01T00:19:00+00:00"
+        },
+        {
+          "summary": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
+          "published": "2026-06-30T22:48:00+00:00"
+        },
+        {
+          "summary": "Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html",
+          "published": "2026-07-01T01:59:33+00:00"
+        },
+        {
+          "summary": "BlackRock cools on emerging markets, sees value in euro government debt - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXFrZTBTQ1IwNGx3Vkk4bnZGNWp2a1ZtdVQ1Y1hDMGpPcjdjOXNfd3BZbkU0eEFjRy01SG1zLWFPSUNrMlYyLUJtdGhobHVDTmN3bTlVUWFSU3pIdWZNOXdCeFBsZDdvQXVkWmdhaGtZSDNPVzNQQUx6dFhKbWEzUnZReEoxRGxtcnhnQi1za3dsVC1WWVVtWUJVdXg4SHl1WVMxaHhoV1AtVlhWQ0E?oc=5",
+          "published": "2026-06-30T17:27:30+00:00"
+        },
+        {
+          "summary": "Trump made more than $1bn from crypto in first year back in office",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T01:45:58+00:00"
+        },
+        {
+          "summary": "Anthropic says US lifts export ban on its advanced AI tools",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T01:13:36+00:00"
+        },
+        {
+          "summary": "Jim Cramer says the AI trade has shifted — and these stocks are leading now",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/06/30/jim-cramer-ai-trade-shifted-stocks-leading-now.html",
+          "published": "2026-06-30T22:24:43+00:00"
+        },
+        {
+          "summary": "CNBC Daily Open: AI demand fuels investors' portfolios while oil posts biggest monthly decline",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/01/cnbc-daily-open-ai-demand-fuels-investors-portfolio-while-oil-posts-biggest-monthly-decline.html",
+          "published": "2026-07-01T02:23:55+00:00"
+        },
+        {
+          "summary": "A new Plaza Accord for global currencies wouldn’t work",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work",
+          "published": "2026-06-30T19:46:45+00:00"
+        },
+        {
+          "summary": "Being \"intentional\" with content will help brands win in GEO, says Chime's top marketer, Vineet Mehra",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/chime-cmo-vineet-mehra-cannes-lions-2026-6",
+          "published": null
+        },
+        {
+          "summary": "Anthropic to restore access to Fable 5 after negotiations with White House",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-restores-fable-5-mythos-access-trump-white-house-talks-2026-6",
+          "published": null
+        },
+        {
+          "summary": "ABC has no business on public airwaves because it operates 'like a partisan cable network,’ watchdog tells FCC",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/abc-no-business-public-airwaves-180021801.html",
+          "published": null
+        },
+        {
+          "summary": "Markets to have best quarter in years as gas prices stay high",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/markets-best-quarter-years-gas-221653989.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 的 Claude 模型现已在 Microsoft Foundry 中提供",
+          "summary_en": "Anthropic’s Claude Models Now Available in Microsoft Foundry",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
+          "published": "2026-06-30T14:34:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.47
+        },
+        {
+          "summary_zh": "Anthropic 的新款 Claude Sonnet 5 缩小了与价格更高的 Opus 型号系列的差距",
+          "summary_en": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+          "published": "2026-06-30T18:46:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒",
+          "summary_en": "The video version of Nano Banana is here! Built-in Gemini world knowledge; it only takes 4 seconds to produce the original banana picture",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/440985.html",
+          "published": "2026-07-01T01:11:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "中央情报局局长将尖端人工智能与核武器进行比较",
+          "summary_en": "CIA boss compares cutting-edge AI to nuclear weapons",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-cia-boss-edge-ai-nuclear.html",
+          "published": "2026-06-30T16:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.33
+        },
+        {
+          "summary_zh": "加密货币交易所 OKX 希望人工智能代理相互雇佣并支付报酬",
+          "summary_en": "Crypto exchange OKX wants AI agents to hire and pay each other",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+          "published": "2026-06-30T09:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "问答：今天的代理人工智能是什么？我们希望它是什么？",
+          "summary_en": "Q&A: What is agentic AI today, and what do we want it to be?",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+          "published": "2026-06-30T11:30:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.2
+        },
+        {
+          "summary_zh": "ChatGPT 的采用范围如何扩大",
+          "summary_en": "How ChatGPT adoption has expanded",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "published": "2026-06-30T09:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.08
+        },
+        {
+          "summary_zh": "构建本地人工智能系统：Qwen3.6 + MCP",
+          "summary_en": "Building Local AI Systems: Qwen3.6 + MCPs",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps",
+          "published": "2026-06-30T14:00:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.33
+        },
+        {
+          "summary_zh": "Anthropic 与 Claude Science 合作瞄准另一个应用",
+          "summary_en": "With Claude Science, Anthropic Targets Another Application",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
+          "published": "2026-06-30T21:27:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.19
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic’s Claude Models Now Available in Microsoft Foundry",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
+          "published": "2026-06-30T14:34:51+00:00"
+        },
+        {
+          "summary": "With Claude Science, Anthropic Targets Another Application",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
+          "published": "2026-06-30T21:27:58+00:00"
+        },
+        {
+          "summary": "Anthropic's new Claude Sonnet 5 closes the gap to the pricier Opus model series",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-new-claude-sonnet-5-closes-the-gap-to-the-pricier-opus-model-series/",
+          "published": "2026-06-30T18:46:10+00:00"
+        },
+        {
+          "summary": "Anthropic launches Claude Science, an AI workspace built specifically for researchers",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-launches-claude-science-an-ai-workspace-built-specifically-for-researchers/",
+          "published": "2026-06-30T18:03:48+00:00"
+        },
+        {
+          "summary": "视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/440985.html",
+          "published": "2026-07-01T01:11:39+00:00"
+        },
+        {
+          "summary": "CIA boss compares cutting-edge AI to nuclear weapons",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-06-cia-boss-edge-ai-nuclear.html",
+          "published": "2026-06-30T16:00:01-04:00"
+        },
+        {
+          "summary": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441001.html",
+          "published": "2026-07-01T01:22:28+00:00"
+        },
+        {
+          "summary": "Crypto exchange OKX wants AI agents to hire and pay each other",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+          "published": "2026-06-30T09:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+          "published": "2026-06-30T14:00:00+00:00"
+        },
+        {
+          "summary": "Q&A: What is agentic AI today, and what do we want it to be?",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+          "published": "2026-06-30T11:30:00-04:00"
+        },
+        {
+          "summary": "How ChatGPT adoption has expanded",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+          "published": "2026-06-30T09:00:00+00:00"
+        },
+        {
+          "summary": "Building Local AI Systems: Qwen3.6 + MCPs",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-local-ai-systems-qwen3-6-mcps",
+          "published": "2026-06-30T14:00:14+00:00"
+        },
+        {
+          "summary": "7 Real-World Python Projects You Can Build in 2026 (With Guides)",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides",
+          "published": "2026-06-30T12:00:54+00:00"
+        }
+      ]
+    }
+  }
+}
