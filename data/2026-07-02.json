@@ -1,0 +1,618 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T02:31:37.271384+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "报告称 SpaceX 正在测试手持式人工智能设备，马斯克称这“完全错误”",
+          "summary_en": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
+          "published": "2026-07-01T20:09:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.91
+        },
+        {
+          "summary_zh": "SpaceX 有一个人工智能设备原型，听起来确实像手机",
+          "summary_en": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "published": "2026-07-01T18:54:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.6
+        },
+        {
+          "summary_zh": "开放“零知识证明”技术，促进年龄保障中的隐私",
+          "summary_en": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+          "published": "2026-07-01T22:27:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "T-Mobile 在诉讼中将数万台虚拟机从 VMware 中移除",
+          "summary_en": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "published": "2026-07-01T21:21:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.21
+        },
+        {
+          "summary_zh": "法学硕士陷入了群体思维的困境。这家初创公司正试图将他们赶走。",
+          "summary_en": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "published": "2026-07-01T14:35:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+          "summary_en": "Morning Post｜Revealed that the design of Apple Watch will be greatly changed, and the old watch strap may be eliminated/Fable 5 is lifted after the wave of account bans/The appearance of Samsung glasses is exposed",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670732?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-02T00:10:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.91
+        },
+        {
+          "summary_zh": "7 月 4 日最佳烧烤和干锅优惠：Weber、Traeger、Recteq",
+          "summary_en": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/",
+          "published": "2026-07-01T23:16:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.69
+        },
+        {
+          "summary_zh": "苹果的“隐藏我的电子邮件”可能并没有隐藏任何东西",
+          "summary_en": "Apple's Hide My Email may not be hiding anything",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
+          "published": "2026-07-01T20:57:11+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.11
+        },
+        {
+          "summary_zh": "Neocloud Together AI 融资 8 亿美元，估值跃升至 8.3B 美元",
+          "summary_en": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "published": "2026-07-01T18:29:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.49
+        },
+        {
+          "summary_zh": "构建开源扫地机器人 – 认识 Oomwoo",
+          "summary_en": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+          "source": "Hacker News: Front Page",
+          "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+          "published": "2026-07-02T00:48:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.07
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Report suggests SpaceX is testing a handheld AI device, Musk says it's 'utterly false'",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206334/space-x-is-reportedly-testing-a-handheld-ai-device/",
+          "published": "2026-07-01T20:09:31+00:00"
+        },
+        {
+          "summary": "Apple's Hide My Email may not be hiding anything",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206382/apple-s-hide-my-email-may-not-be-hiding-anything/",
+          "published": "2026-07-01T20:57:11+00:00"
+        },
+        {
+          "summary": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "published": "2026-07-01T18:54:18+00:00"
+        },
+        {
+          "summary": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+          "published": "2026-07-01T18:29:14+00:00"
+        },
+        {
+          "summary": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+          "published": "2026-07-01T22:27:47+00:00"
+        },
+        {
+          "summary": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+          "published": "2026-07-01T21:21:21+00:00"
+        },
+        {
+          "summary": "Building an Open-Source Robot Vacuum – Meet Oomwoo",
+          "source": "Hacker News: Front Page",
+          "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+          "published": "2026-07-02T00:48:01+00:00"
+        },
+        {
+          "summary": "NASA chief praises progress Blue Origin is making after launch failure",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+          "published": "2026-07-01T19:57:36+00:00"
+        },
+        {
+          "summary": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+          "published": "2026-07-01T14:35:16+00:00"
+        },
+        {
+          "summary": "早报｜曝Apple Watch设计将大改，旧表带或被淘汰/封号潮后，Fable 5解禁/三星眼镜外观曝光",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670732?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-02T00:10:07+00:00"
+        },
+        {
+          "summary": "The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/",
+          "published": "2026-07-01T23:16:11+00:00"
+        },
+        {
+          "summary": "You Can Now Sound the Alarm on AI Behaving Badly",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+          "published": "2026-07-01T18:10:00+00:00"
+        },
+        {
+          "summary": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+          "published": "2026-07-01T12:10:00+00:00"
+        },
+        {
+          "summary": "大规模封号后，Claude 突然发布更便宜的新模型",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670577?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-01T11:49:05+00:00"
+        },
+        {
+          "summary": "硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3877057215393793?f=rss",
+          "published": null
+        },
+        {
+          "summary": "《智能网联汽车 组合驾驶辅助系统安全要求》强制性国家标准正式发布",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3877810175275271?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Elon Musk denies a report about SpaceX’s AI phone prototype",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+          "published": null
+        },
+        {
+          "summary": "Apple’s entry-level MacBook Pro could be up for a redesign",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "由于对 Meta 和苹果公司的担忧打击芯片制造商，韩国股市下跌",
+          "summary_en": "Korean Stocks Fall as Jitters Over Meta and Apple Hit Chipmakers",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers",
+          "published": "2026-07-02T00:23:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.96
+        },
+        {
+          "summary_zh": "随着轮换交易的增加，闪迪和美光的股价下跌，但供应短缺应该会限制损失",
+          "summary_en": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
+          "published": "2026-07-01T21:51:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "彭博商业周刊日报：预测市场（播客）",
+          "summary_en": "Bloomberg Businessweek Daily: Prediction Markets (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-businessweek-daily-prediction-markets-podcast",
+          "published": "2026-07-01T21:54:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.35
+        },
+        {
+          "summary_zh": "特朗普谈财务披露：股市上涨，人人获利 - 路透中文网",
+          "summary_en": "Trump on financial disclosures: Everyone's profiting because stock market is up - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckRNOWtHUzRSMHpnVGhBLUdDTkhEVUZLWjUzZ1Zaa1M0ZkxERjFxYmpSX0NBeHdIWHpsQjBpRU8tcy1nU21MZ3BQODBXX1FOc0JHUERLWk1JNWVGZzJWQUI5QWc1d2taT2pWa1pSZ0dqQzhXbHFWUWtQbXN6dms1eGY4QndOQTFXZnJJMVFobDZ0SkNKdXB2Tjd1bEw1WTJ6YWtkR202SGZYVk8xSEpBNnp4NVUtaTgzSVhn?oc=5",
+          "published": "2026-07-01T16:35:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.02
+        },
+        {
+          "summary_zh": "美联储沃什表示通胀带来的风险比几周前要小",
+          "summary_en": "Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html",
+          "published": "2026-07-01T18:16:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "周四的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-01T23:13:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.18
+        },
+        {
+          "summary_zh": "“大学毕业后我们不得不使用食品银行”",
+          "summary_en": "'We had to use a food bank after university’",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/crel0y74dr9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T22:34:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.51
+        },
+        {
+          "summary_zh": "全球对韩国的兴趣在 24 小时韩元交易之前增长",
+          "summary_en": "Global Appetite for Korea Grows Ahead of 24-Hour Won Trading",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/global-appetite-for-korea-grows-ahead-of-24-hour-won-trading",
+          "published": "2026-07-02T02:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.37
+        },
+        {
+          "summary_zh": "分析师表示，这是“一代人”购买太空和国防股票的最佳时机",
+          "summary_en": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+          "published": "2026-07-01T21:58:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "彭博社 Daybreak Asia：投资者权衡人工智能贸易（播客）",
+          "summary_en": "Bloomberg Daybreak Asia: Investors Weigh AI Trade (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-02/bloomberg-daybreak-asia-investors-weigh-ai-trade-podcast",
+          "published": "2026-07-02T01:19:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.2
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korean Stocks Fall as Jitters Over Meta and Apple Hit Chipmakers",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers",
+          "published": "2026-07-02T00:23:00+00:00"
+        },
+        {
+          "summary": "Global Appetite for Korea Grows Ahead of 24-Hour Won Trading",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/global-appetite-for-korea-grows-ahead-of-24-hour-won-trading",
+          "published": "2026-07-02T02:00:00+00:00"
+        },
+        {
+          "summary": "Sandisk’s and Micron’s stocks sink as the rotation trade builds, but supply shortages should limit losses",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/sandisks-and-microns-stocks-sink-as-the-rotation-trade-builds-but-supply-shortages-should-limit-losses-94a05f82?mod=mw_rss_topstories",
+          "published": "2026-07-01T21:51:00+00:00"
+        },
+        {
+          "summary": "This is the best time ‘in a generation’ to buy space and defense stocks, analysts say",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-is-the-best-time-in-a-generation-to-buy-space-and-defense-stocks-analysts-say-df4a85a4?mod=mw_rss_topstories",
+          "published": "2026-07-01T21:58:00+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Prediction Markets (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-businessweek-daily-prediction-markets-podcast",
+          "published": "2026-07-01T21:54:51+00:00"
+        },
+        {
+          "summary": "Trump on financial disclosures: Everyone's profiting because stock market is up - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNckRNOWtHUzRSMHpnVGhBLUdDTkhEVUZLWjUzZ1Zaa1M0ZkxERjFxYmpSX0NBeHdIWHpsQjBpRU8tcy1nU21MZ3BQODBXX1FOc0JHUERLWk1JNWVGZzJWQUI5QWc1d2taT2pWa1pSZ0dqQzhXbHFWUWtQbXN6dms1eGY4QndOQTFXZnJJMVFobDZ0SkNKdXB2Tjd1bEw1WTJ6YWtkR202SGZYVk8xSEpBNnp4NVUtaTgzSVhn?oc=5",
+          "published": "2026-07-01T16:35:35+00:00"
+        },
+        {
+          "summary": "Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html",
+          "published": "2026-07-01T18:16:10+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Investors Weigh AI Trade (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-02/bloomberg-daybreak-asia-investors-weigh-ai-trade-podcast",
+          "published": "2026-07-02T01:19:15+00:00"
+        },
+        {
+          "summary": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/01/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-01T23:13:46+00:00"
+        },
+        {
+          "summary": "Fed's Warsh plans to harness better economic data within a year - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUXR1YVRvS3Q3cEZZWTc1azJpN3UwbkxzUm1mTVktZHdYQkxURm51WUNmakZqTWdUcFFPZkdwVkk5TWRjQU9oOUMyV28wUDZMQTBub0ZBcjBtTFVwbkpXekxfLTAxdVhnUmNJcTNyYWN4SENLYmVFdGIweUFvQW1ZMjF5UFdEM3I1SkpkaW5TTE5iMWpwOVplb2N6VFgySE96U3B6eg?oc=5",
+          "published": "2026-07-01T17:13:28+00:00"
+        },
+        {
+          "summary": "Stocks Notch Strongest Quarter Since 2020",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html",
+          "published": "2026-07-01T17:05:13+00:00"
+        },
+        {
+          "summary": "'We had to use a food bank after university’",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/crel0y74dr9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T22:34:03+00:00"
+        },
+        {
+          "summary": "I needed to use a food bank after graduating - now I want to end the stigma",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c04y3zq63wwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-01T22:17:19+00:00"
+        },
+        {
+          "summary": "Alibaba-affiliate Ant Group rushes into humanoid robots with a dozen deals in 18 months",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/01/alibaba-affiliate-ant-group-enters-the-humanoid-robot-market-with-12-deals.html",
+          "published": "2026-07-02T01:00:01+00:00"
+        },
+        {
+          "summary": "CMOs today need to disrupt themselves, says Adobe's top marketer Lara Balazs",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/adobe-cmo-lara-balazscannes-lions-2026-7",
+          "published": null
+        },
+        {
+          "summary": "CMOs that embrace AI transformation are well positioned to be future CEOs, says Deloitte Digital's Mark Singer",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/deloitte-digital-mark-singer-cmo-cannes-lions-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Markets to have best quarter in years as gas prices stay high",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/markets-best-quarter-years-gas-221653989.html",
+          "published": null
+        },
+        {
+          "summary": "CEO of $248 billion cybersecurity company says workers are about to face a ‘Darwinian moment’ thanks to AI: Evolve or get cut",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ceo-248-billion-cybersecurity-company-144738635.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "为什么人工智能小说仍然感觉平淡：新测试显示角色缺乏神秘感和复杂性",
+          "summary_en": "Why AI fiction still feels flat: New test shows characters lack mystery and complexity",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-fiction-flat-characters-lack.html",
+          "published": "2026-07-01T17:20:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "Anthropic 推出 Sonnet 5，解除对《神鬼寓言 5》、《神话 5》的限制",
+          "summary_en": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
+          "published": "2026-07-01T16:33:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.01
+        },
+        {
+          "summary_zh": "SpaceX 向投资者展示了一款由 xAI 技术驱动的超薄 AI 智能手机原型",
+          "summary_en": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+          "published": "2026-07-01T19:47:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "媒体中的麻省理工学院：为美国未来 250 年进行创新和教育",
+          "summary_en": "MIT in the media: Innovating and educating for the next 250 years of America",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+          "published": "2026-07-01T16:30:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.49
+        },
+        {
+          "summary_zh": "研究人员发现，人工智能与人类的关系是真实的，但也存在风险",
+          "summary_en": "AI-human relationships are real and come with risks, researchers find",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-human-relationships-real.html",
+          "published": "2026-07-01T16:20:08-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "Claude Sonnet 5 延续了 Anthropic 将价格上涨隐藏在代币利率不变背后的模式",
+          "summary_en": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+          "published": "2026-07-01T11:12:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.67
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Google 通过 Nano Banana Lite 2 扩展 AI 成像产品",
+          "summary_en": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
+          "published": "2026-07-01T13:04:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.14
+        },
+        {
+          "summary_zh": "5 个轻松构建应用程序的 AI 编码平台",
+          "summary_en": "5 AI Coding Platforms to Build Apps Without the Headache",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache",
+          "published": "2026-07-01T12:00:56+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.87
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Why AI fiction still feels flat: New test shows characters lack mystery and complexity",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-fiction-flat-characters-lack.html",
+          "published": "2026-07-01T17:20:07-04:00"
+        },
+        {
+          "summary": "AI-human relationships are real and come with risks, researchers find",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-human-relationships-real.html",
+          "published": "2026-07-01T16:20:08-04:00"
+        },
+        {
+          "summary": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
+          "published": "2026-07-01T16:33:53+00:00"
+        },
+        {
+          "summary": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+          "published": "2026-07-01T19:47:31+00:00"
+        },
+        {
+          "summary": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+          "published": "2026-07-01T11:12:09+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "MIT in the media: Innovating and educating for the next 250 years of America",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+          "published": "2026-07-01T16:30:00-04:00"
+        },
+        {
+          "summary": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
+          "published": "2026-07-01T13:04:22+00:00"
+        },
+        {
+          "summary": "5 AI Coding Platforms to Build Apps Without the Headache",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache",
+          "published": "2026-07-01T12:00:56+00:00"
+        },
+        {
+          "summary": "OceanBase湖库一体，重新定义AI数据库",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441386.html",
+          "published": "2026-07-01T09:05:10+00:00"
+        },
+        {
+          "summary": "Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/441124.html",
+          "published": "2026-07-01T03:46:20+00:00"
+        }
+      ]
+    }
+  }
+}
