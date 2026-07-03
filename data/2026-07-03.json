@@ -1,0 +1,636 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T02:07:01.365320+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Cloudflare将过滤掉为AI公司服务的网络爬虫",
+          "summary_en": "Cloudflare will filter out web crawlers that serve AI companies",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/",
+          "published": "2026-07-02T21:17:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.29
+        },
+        {
+          "summary_zh": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
+          "summary_en": "Morning Post | It is revealed that Apple plans to produce 10 million folding iPhones/Nintendo responds to rumors of 10% salary increase for all employees/Huawei Hongmeng 6 terminal equipment exceeds 70 million",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-03T00:06:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.0
+        },
+        {
+          "summary_zh": "最后申请机会 — Startup Battlefield Australia 申请将于 7 月 6 日截止",
+          "summary_en": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+          "published": "2026-07-03T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.97
+        },
+        {
+          "summary_zh": "下载：一家初创公司为人工智能的群体思维问题找到了解决方案",
+          "summary_en": "The Download: a startup has a solution for AI’s groupthink problem",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+          "published": "2026-07-02T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "GitHub 自豪地宣布您现在可以通过 CD-ROM 获取公共存储库",
+          "summary_en": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+          "source": "Hacker News: Front Page",
+          "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+          "published": "2026-07-03T00:01:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.98
+        },
+        {
+          "summary_zh": "Cursor 能否继续作为 SpaceX 内部 OpenAI 和 Anthropic 模型的平台？",
+          "summary_en": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+          "published": "2026-07-02T18:01:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.48
+        },
+        {
+          "summary_zh": "美国联邦航空局提议：超音速客机如果安静就可以飞越美国城市",
+          "summary_en": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+          "published": "2026-07-02T17:29:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.34
+        },
+        {
+          "summary_zh": "Meta 发布了一款用于制作生成式 AI 游戏的应用程序",
+          "summary_en": "Meta has released an app for making generative AI games",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/",
+          "published": "2026-07-02T22:53:42+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.7
+        },
+        {
+          "summary_zh": "马克·扎克伯格告诉员工，人工智能代理的进展没有他希望的那么快",
+          "summary_en": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "published": "2026-07-02T23:38:10+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "利用人工智能实现卓越运营",
+          "summary_en": "Achieving operational excellence with AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+          "published": "2026-07-02T15:37:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.88
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Cloudflare will filter out web crawlers that serve AI companies",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207360/cloudflare-will-filter-out-web-crawlers-that-serve-ai-companies/",
+          "published": "2026-07-02T21:17:10+00:00"
+        },
+        {
+          "summary": "早报｜曝苹果计划生产1000万台折叠iPhone/任天堂回应全员涨薪10%传闻/华为鸿蒙6终端设备突破7000万",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670862?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-03T00:06:06+00:00"
+        },
+        {
+          "summary": "Meta has released an app for making generative AI games",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207426/meta-has-released-an-app-for-making-generative-ai-games/",
+          "published": "2026-07-02T22:53:42+00:00"
+        },
+        {
+          "summary": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+          "published": "2026-07-03T00:00:00+00:00"
+        },
+        {
+          "summary": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "published": "2026-07-02T23:38:10+00:00"
+        },
+        {
+          "summary": "The Download: a startup has a solution for AI’s groupthink problem",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+          "published": "2026-07-02T12:10:00+00:00"
+        },
+        {
+          "summary": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+          "source": "Hacker News: Front Page",
+          "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+          "published": "2026-07-03T00:01:26+00:00"
+        },
+        {
+          "summary": "Achieving operational excellence with AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+          "published": "2026-07-02T15:37:08+00:00"
+        },
+        {
+          "summary": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+          "published": "2026-07-02T18:01:20+00:00"
+        },
+        {
+          "summary": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+          "published": "2026-07-02T17:29:37+00:00"
+        },
+        {
+          "summary": "CarPlay Is Additive",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+          "published": "2026-07-03T01:02:45+00:00"
+        },
+        {
+          "summary": "The Onion’s ‘Infowars’ Parody Is Here. Alex Jones Is Going to Hate It",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-onions-infowars-parody-is-here-alex-jones-is-going-to-hate-it/",
+          "published": "2026-07-03T00:00:00+00:00"
+        },
+        {
+          "summary": "Newly discovered PamStealer isn't your typical macOS malware",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+          "published": "2026-07-02T19:38:57+00:00"
+        },
+        {
+          "summary": "法拉利大师操刀设计，预售 14.38 万起！小鹏 MONA L03 大脚步冲进市场",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670830?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-02T15:38:28+00:00"
+        },
+        {
+          "summary": "谁能想到，系统流「爽文」最先被AI Agent实现了",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3878522627518471?f=rss",
+          "published": null
+        },
+        {
+          "summary": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3879236702433537?f=rss",
+          "published": null
+        },
+        {
+          "summary": "AI won’t save advertising, says Digitas’ Amy Lanzi",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
+          "published": null
+        },
+        {
+          "summary": "Sony’s PlayStation disc factory is already being repurposed",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "科技股抛售后股市企稳，金价上涨：市场结束",
+          "summary_en": "Stocks Stabilize After Tech-Led Selloff, Gold Up: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-02T22:10:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.51
+        },
+        {
+          "summary_zh": "美国就业数据降温为美联储和股市赢得了更多时间 - 路透中文网",
+          "summary_en": "Cooling US jobs data buys the Fed and stock market more time - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGg2SFp1b01MWjdIT3J0dDdEd2ZkRkNnZmJDQkVzQ2tTa0hubXN6cmthRjVWd2FGUE1fcHNpQjhWYlY3UXdodjNiUGFQaXlnSVc1TmFudURlLVduQTlOakEwMFk2MG16WWlKM0hySnpUNlNtd3RHdWtjSEU2bEN4VlVSc1F5dFRqdHFKcnNoWVJ1N2xlbEtUMm15RWNKdw?oc=5",
+          "published": "2026-07-02T19:59:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.97
+        },
+        {
+          "summary_zh": "特朗普抨击“敌对”美联储，并表示沃什在利率问题上“必须做他必须做的事情”",
+          "summary_en": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+          "published": "2026-07-02T22:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.6
+        },
+        {
+          "summary_zh": "周末法：新闻权力、出生权和竞选财务（播客）",
+          "summary_en": "Weekend Law: Pres Power, Birthright & Campaign Finance (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-03/weekend-law-pres-power-birthright-campaign-finance-podcast",
+          "published": "2026-07-03T01:47:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.42
+        },
+        {
+          "summary_zh": "鸡蛋生产商支付 330 万美元和解联邦价格垄断诉讼",
+          "summary_en": "Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html",
+          "published": "2026-07-02T21:35:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "亚洲市场交易涨跌互现，芯片暴跌打压市场情绪：实时更新",
+          "summary_en": "Asia markets trade mixed as chip slump weighs on sentiment: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+          "published": "2026-07-03T01:48:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.93
+        },
+        {
+          "summary_zh": "人工智能“不聪明”，那么人工智能的下一步是什么？",
+          "summary_en": "AI is 'not smart' so what's next in artificial intelligence?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T23:02:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.73
+        },
+        {
+          "summary_zh": "经济学人总是错的吗？",
+          "summary_en": "Is The Economist always wrong?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+          "published": "2026-07-02T14:22:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.07
+        },
+        {
+          "summary_zh": "特朗普盟友再次推动重塑美联储",
+          "summary_en": "Trump Allies Renew Push to Reshape Federal Reserve",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/trump-allies-renew-push-to-reshape-federal-reserve-video",
+          "published": "2026-07-03T01:58:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.46
+        },
+        {
+          "summary_zh": "特朗普数十亿美元的加密货币大手笔让一些普通投资者蒙受巨额损失",
+          "summary_en": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
+          "published": "2026-07-02T22:12:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.52
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stocks Stabilize After Tech-Led Selloff, Gold Up: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-02T22:10:18+00:00"
+        },
+        {
+          "summary": "Trump Allies Renew Push to Reshape Federal Reserve",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/trump-allies-renew-push-to-reshape-federal-reserve-video",
+          "published": "2026-07-03T01:58:22+00:00"
+        },
+        {
+          "summary": "Cooling US jobs data buys the Fed and stock market more time - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGg2SFp1b01MWjdIT3J0dDdEd2ZkRkNnZmJDQkVzQ2tTa0hubXN6cmthRjVWd2FGUE1fcHNpQjhWYlY3UXdodjNiUGFQaXlnSVc1TmFudURlLVduQTlOakEwMFk2MG16WWlKM0hySnpUNlNtd3RHdWtjSEU2bEN4VlVSc1F5dFRqdHFKcnNoWVJ1N2xlbEtUMm15RWNKdw?oc=5",
+          "published": "2026-07-02T19:59:29+00:00"
+        },
+        {
+          "summary": "Trump blasts ‘hostile’ Fed and says Warsh ‘has to do what he has to do’ on interest rates",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-blasts-hostile-fed-and-says-warsh-has-to-do-what-he-has-to-do-on-interest-rates-60b5d16b?mod=mw_rss_topstories",
+          "published": "2026-07-02T22:30:00+00:00"
+        },
+        {
+          "summary": "Trump’s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
+          "published": "2026-07-02T22:12:00+00:00"
+        },
+        {
+          "summary": "Sandwich chain Jersey Mike's looks to public markets with US IPO filing - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFVwb1p1bHltcTl2OXpPdEdycVY1SmFBbDl2ZVhjRVRaZk9aNmZaUTdIQ1dMYTFnTHd1QXprQnNBbDNlZU1xVWFFWGNlaWo2M1A2WUN2WmEwd3RGYmpqdDJncTJCdDNjRnIybC1WVzExNmlzWDVySS1NcjhmWGVkdG5QYTc3MUxCWGxUWDlR?oc=5",
+          "published": "2026-07-02T18:03:05+00:00"
+        },
+        {
+          "summary": "Weekend Law: Pres Power, Birthright & Campaign Finance (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-03/weekend-law-pres-power-birthright-campaign-finance-podcast",
+          "published": "2026-07-03T01:47:35+00:00"
+        },
+        {
+          "summary": "Trump Allies Efforts to Reshape Fed, Heat Scorches East US",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-03/trump-allies-efforts-to-reshape-fed-heat-scorches-east-us",
+          "published": "2026-07-03T01:40:26+00:00"
+        },
+        {
+          "summary": "Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html",
+          "published": "2026-07-02T21:35:51+00:00"
+        },
+        {
+          "summary": "Many Children Don’t Have ‘Trump Accounts.’ Some Are Missing Out on $1,000.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html",
+          "published": "2026-07-03T01:17:20+00:00"
+        },
+        {
+          "summary": "Asia markets trade mixed as chip slump weighs on sentiment: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+          "published": "2026-07-03T01:48:54+00:00"
+        },
+        {
+          "summary": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
+          "published": "2026-07-02T23:04:58+00:00"
+        },
+        {
+          "summary": "AI is 'not smart' so what's next in artificial intelligence?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T23:02:09+00:00"
+        },
+        {
+          "summary": "'We give up to £400': How much should you gift at a wedding?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-02T23:01:24+00:00"
+        },
+        {
+          "summary": "Is The Economist always wrong?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+          "published": "2026-07-02T14:22:37+00:00"
+        },
+        {
+          "summary": "How much will a 4th of July cookout cost this year?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/02/how-much-will-a-4th-of-july-cookout-cost-this-year",
+          "published": "2026-07-02T09:41:44+00:00"
+        },
+        {
+          "summary": "Tesla's reward for crushing sales estimates: Its worst stock drop in a year",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/tesla-sales-q2-ev-gas-prices-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Jensen Huang's iconic leather jacket is going up for auction",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/jensen-huang-nvidia-ceo-black-leather-jacket-auction-sothebys-2026-7",
+          "published": null
+        },
+        {
+          "summary": "CNN journalist jumps ship to MS NOW over fears of new leadership after merger: report",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/cnn-journalist-jumps-ship-ms-013254473.html",
+          "published": null
+        },
+        {
+          "summary": "America's housing market could run out of something more important than homes",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/real-estate/articles/americas-housing-market-could-run-103002841.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 表示，它削减了 Claude Code 80% 的系统提示，因为《神鬼寓言 5》模型“想要更小的系统提示”",
+          "summary_en": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+          "published": "2026-07-02T16:20:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "通过对视觉显着性进行建模，人工智能提高了艺术产品设计的评级",
+          "summary_en": "By modeling visual saliency, AI improves ratings of artistic product designs",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-visual-saliency-ai-artistic-product.html",
+          "published": "2026-07-02T21:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.72
+        },
+        {
+          "summary_zh": "提示：下一个人工智能挑战不是模型。这是组织。",
+          "summary_en": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization.",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "published": "2026-07-02T19:02:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.73
+        },
+        {
+          "summary_zh": "世界模型的新用途：不做选手，去当裁判",
+          "summary_en": "New use of the world model: instead of being a player, become a referee",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442138.html",
+          "published": "2026-07-03T01:19:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.3
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "2026 年您应该了解的 10 个代理人工智能框架",
+          "summary_en": "10 Agentic AI Frameworks You Should Know in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+          "published": "2026-07-02T14:00:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.47
+        },
+        {
+          "summary_zh": "微软押注于人类来扩展人工智能",
+          "summary_en": "Microsoft Bets on Humans to Scale AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
+          "published": "2026-07-02T20:58:10+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "AI 代理现在可以以专业质量完成 16% 的自由职业，高于八个月前的 2.5%",
+          "summary_en": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+          "published": "2026-07-02T12:37:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.13
+        },
+        {
+          "summary_zh": "微软、AWS部署工程师大军帮助破解人工智能难题",
+          "summary_en": "Microsoft, AWS deploy engineer armies to help crack AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-microsoft-aws-deploy-armies-ai.html",
+          "published": "2026-07-02T12:40:05-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.64
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+          "published": "2026-07-02T16:20:29+00:00"
+        },
+        {
+          "summary": "By modeling visual saliency, AI improves ratings of artistic product designs",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-visual-saliency-ai-artistic-product.html",
+          "published": "2026-07-02T21:00:01-04:00"
+        },
+        {
+          "summary": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization.",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+          "published": "2026-07-02T19:02:35+00:00"
+        },
+        {
+          "summary": "世界模型的新用途：不做选手，去当裁判",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442138.html",
+          "published": "2026-07-03T01:19:18+00:00"
+        },
+        {
+          "summary": "Microsoft Bets on Humans to Scale AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
+          "published": "2026-07-02T20:58:10+00:00"
+        },
+        {
+          "summary": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+          "published": "2026-07-02T12:37:49+00:00"
+        },
+        {
+          "summary": "Microsoft, AWS deploy engineer armies to help crack AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-microsoft-aws-deploy-armies-ai.html",
+          "published": "2026-07-02T12:40:05-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "10 Agentic AI Frameworks You Should Know in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+          "published": "2026-07-02T14:00:42+00:00"
+        },
+        {
+          "summary": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "published": "2026-07-02T11:28:36+00:00"
+        },
+        {
+          "summary": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+          "published": "2026-07-02T05:30:00+00:00"
+        },
+        {
+          "summary": "Humanity’s Last Exam is a Distraction",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/humanitys-last-exam-is-a-distraction",
+          "published": "2026-07-02T12:00:59+00:00"
+        }
+      ]
+    }
+  }
+}
