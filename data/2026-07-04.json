@@ -1,0 +1,590 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T02:05:08.298721+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "一种使死去捐献者眼球复活的装置可以使眼睛移植成为可能",
+          "summary_en": "A device that revives eyeballs from dead donors could make eye transplants possible",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+          "published": "2026-07-03T17:34:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "今年您需要的唯一人工智能术语表",
+          "summary_en": "The only AI glossary you’ll need this year",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "published": "2026-07-03T21:20:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "MSI Center – 如何在几秒钟内获得SYSTEM权限",
+          "summary_en": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "source": "Hacker News: Front Page",
+          "url": "https://mrbruh.com/msicenter/",
+          "published": "2026-07-04T00:57:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "奋进号航天飞机将于今年晚些时候公开展示",
+          "summary_en": "The Space Shuttle Endeavour goes on public display later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207813/space-shuttle-endeavour-goes-on-public-display-later-this-year/",
+          "published": "2026-07-03T19:41:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.9
+        },
+        {
+          "summary_zh": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+          "summary_en": "Morning Post｜DJI Shadow Stone Patent War Returns to China/Alibaba Bans Claude Code Internally/After Jasmine Milk White was ordered to pay LV 10.3 million, she hired a legal lawyer with a monthly salary of 40,000",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670957?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-04T01:00:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.23
+        },
+        {
+          "summary_zh": "3 家核初创公司实现了一个重大里程碑。为什么它重要——为什么不重要",
+          "summary_en": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+          "published": "2026-07-03T18:13:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.53
+        },
+        {
+          "summary_zh": "火箭报告：印度初创公司即将首次发射； SpaceX 的千禧里程碑",
+          "summary_en": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+          "published": "2026-07-03T13:55:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.46
+        },
+        {
+          "summary_zh": "让你的大脑思考和观察的电路",
+          "summary_en": "The circuit that lets your brain think and see",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+          "published": "2026-07-03T22:56:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "国际版 Google Pixel 与美国版有所不同 - 差异如下",
+          "summary_en": "International Google Pixels are different than American models - here's how",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205901/how-international-google-pixel-phones-different-american/",
+          "published": "2026-07-03T18:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "Dune 键盘设备可以作为您的会议控制器等",
+          "summary_en": "The Dune keypad device can be your meeting controller and more",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+          "published": "2026-07-03T18:28:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.6
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "A device that revives eyeballs from dead donors could make eye transplants possible",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+          "published": "2026-07-03T17:34:37+00:00"
+        },
+        {
+          "summary": "The only AI glossary you’ll need this year",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "published": "2026-07-03T21:20:00+00:00"
+        },
+        {
+          "summary": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "source": "Hacker News: Front Page",
+          "url": "https://mrbruh.com/msicenter/",
+          "published": "2026-07-04T00:57:44+00:00"
+        },
+        {
+          "summary": "The Space Shuttle Endeavour goes on public display later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207813/space-shuttle-endeavour-goes-on-public-display-later-this-year/",
+          "published": "2026-07-03T19:41:47+00:00"
+        },
+        {
+          "summary": "The circuit that lets your brain think and see",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+          "published": "2026-07-03T22:56:17+00:00"
+        },
+        {
+          "summary": "International Google Pixels are different than American models - here's how",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2205901/how-international-google-pixel-phones-different-american/",
+          "published": "2026-07-03T18:30:00+00:00"
+        },
+        {
+          "summary": "The Dune keypad device can be your meeting controller and more",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/03/the-dune-keypad-device-can-be-your-meeting-controller-and-more/",
+          "published": "2026-07-03T18:28:30+00:00"
+        },
+        {
+          "summary": "早报｜大疆影石专利战火烧回国内/阿里内部全面禁用Claude Code/茉莉奶白被判赔LV 1030万后，月薪4万招法务",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670957?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-04T01:00:51+00:00"
+        },
+        {
+          "summary": "3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/",
+          "published": "2026-07-03T18:13:15+00:00"
+        },
+        {
+          "summary": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+          "published": "2026-07-03T13:55:35+00:00"
+        },
+        {
+          "summary": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+          "published": "2026-07-03T12:10:00+00:00"
+        },
+        {
+          "summary": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+          "published": "2026-07-03T12:00:36+00:00"
+        },
+        {
+          "summary": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+          "published": "2026-07-03T16:30:00+00:00"
+        },
+        {
+          "summary": "对话乐享科技 CEO 郭人杰：具身智能有希望诞生苹果级别的公司，我们有机会成为这家丨多样性公司",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670916?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-03T09:40:09+00:00"
+        },
+        {
+          "summary": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "published": null
+        },
+        {
+          "summary": "36氪首发 | 剑桥副教授创业硅光芯片，已合作欧莱雅、华为，获一亿投资",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3879991356157952?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
+          "published": null
+        },
+        {
+          "summary": "While you’re watching the World Cup, the feds may be watching you",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "人工智能革命期间的风险投资：Mamoon Hamid 的商业硕士",
+          "summary_en": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
+          "published": "2026-07-03T21:13:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.28
+        },
+        {
+          "summary_zh": "最热门的股市导致最大的损失",
+          "summary_en": "The Hottest Stock Markets Lead to the Biggest Losses",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html",
+          "published": "2026-07-03T09:01:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "美国东部电网运营商下令紧急限制用电量接近纪录 - 路透中文网",
+          "summary_en": "Eastern US power grid operator orders emergency curbs as electricity use nears record - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1AxOV83VXpuZGNyLTd1Q2hFVHVXR29GQ3VRZy1BaDhUSkFkVVM2SEtJenlGTkhDRUdjOHY1cVNCOFF3dWZOVFgzSWtqR3NDSHlOekpzazEwOGNvakxfb3cxYWtJX1lyc0VKeGZRTVpfeENhMjMxZkhUTUhOMGNiSVc5Rk43OWt4MmlfM29wY2Nha0J6bmh6SWRNVHBVYzFfMjhVd1hPZFB2eGVHY2dGRkFaTjFYa3J2OWRvV2oteE5KN3czelE?oc=5",
+          "published": "2026-07-03T23:13:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.79
+        },
+        {
+          "summary_zh": "美国酷热，特朗普捍卫商业交易等等",
+          "summary_en": "Extreme Heat in the U.S, Trump Defends Business Dealings, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-03/extreme-heat-in-the-u-s-trump-defends-business-dealings-more",
+          "published": "2026-07-03T18:31:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.61
+        },
+        {
+          "summary_zh": "以下是 2026 年 7 月值得在 Netflix、Hulu、HBO Max 等平台上观看的内容",
+          "summary_en": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+          "published": "2026-07-03T20:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.98
+        },
+        {
+          "summary_zh": "联邦调查局寻求降低新泽西州价值 1 亿美元的熟食欺诈者的刑期，但其中的一些原因被隐藏",
+          "summary_en": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+          "published": "2026-07-04T01:04:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.75
+        },
+        {
+          "summary_zh": "阿伯丁机场保安人员罢工得以避免",
+          "summary_en": "Security staff strikes averted at Aberdeen Airport",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-03T20:51:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.2
+        },
+        {
+          "summary_zh": "凯雷聘请银行为 RCM 业务在印度进行 4 亿美元的首次公开募股",
+          "summary_en": "Carlyle Hires Banks for $400 Million India IPO of RCM Business",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/carlyle-hires-banks-for-400-million-india-ipo-of-rcm-business",
+          "published": "2026-07-03T12:17:40+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "华尔街未来一周随着科技股的波动，投资者寻找美联储的线索和盈利迹象 - 路透中文网",
+          "summary_en": "Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0tveDdSOXExRGpVVlBScWdpNnJPRnVsb0RLejhQemhuNVZhMXlOZ1NteS1KQzBLWU5rQzZTeDFRSDRFbmlzQllPR0hqaVdmdm9iUzQyM3J6NTBLMVNfUTRPQTlrcFFnMUZpa2JyOUc1QXVpYjRxZEV2SDFyc3RYempsdU5mX3VIbUhBb1p0ZU55YWFERlZDbEpmSV8xS3JxcUgzNUcxQnUwbk1YMkRGOWxiUEVVV0U?oc=5",
+          "published": "2026-07-03T10:36:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "美国：以色列密谋杀害伊朗谈判代表、极端高温等",
+          "summary_en": "US: Israel Plot to Kill Iranian Negotiators, Extreme Heat, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-04/us-israel-plot-to-kill-iranian-negotiators-extreme-heat-more",
+          "published": "2026-07-04T02:02:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.49
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
+          "published": "2026-07-03T21:13:04+00:00"
+        },
+        {
+          "summary": "Carlyle Hires Banks for $400 Million India IPO of RCM Business",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/carlyle-hires-banks-for-400-million-india-ipo-of-rcm-business",
+          "published": "2026-07-03T12:17:40+00:00"
+        },
+        {
+          "summary": "The Hottest Stock Markets Lead to the Biggest Losses",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/03/business/stocks-investing-markets.html",
+          "published": "2026-07-03T09:01:03+00:00"
+        },
+        {
+          "summary": "Eastern US power grid operator orders emergency curbs as electricity use nears record - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1AxOV83VXpuZGNyLTd1Q2hFVHVXR29GQ3VRZy1BaDhUSkFkVVM2SEtJenlGTkhDRUdjOHY1cVNCOFF3dWZOVFgzSWtqR3NDSHlOekpzazEwOGNvakxfb3cxYWtJX1lyc0VKeGZRTVpfeENhMjMxZkhUTUhOMGNiSVc5Rk43OWt4MmlfM29wY2Nha0J6bmh6SWRNVHBVYzFfMjhVd1hPZFB2eGVHY2dGRkFaTjFYa3J2OWRvV2oteE5KN3czelE?oc=5",
+          "published": "2026-07-03T23:13:21+00:00"
+        },
+        {
+          "summary": "Wall St Week Ahead Investors look for Fed clues, earnings signs as tech wobbles - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0tveDdSOXExRGpVVlBScWdpNnJPRnVsb0RLejhQemhuNVZhMXlOZ1NteS1KQzBLWU5rQzZTeDFRSDRFbmlzQllPR0hqaVdmdm9iUzQyM3J6NTBLMVNfUTRPQTlrcFFnMUZpa2JyOUc1QXVpYjRxZEV2SDFyc3RYempsdU5mX3VIbUhBb1p0ZU55YWFERlZDbEpmSV8xS3JxcUgzNUcxQnUwbk1YMkRGOWxiUEVVV0U?oc=5",
+          "published": "2026-07-03T10:36:51+00:00"
+        },
+        {
+          "summary": "Extreme Heat in the U.S, Trump Defends Business Dealings, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-03/extreme-heat-in-the-u-s-trump-defends-business-dealings-more",
+          "published": "2026-07-03T18:31:13+00:00"
+        },
+        {
+          "summary": "US: Israel Plot to Kill Iranian Negotiators, Extreme Heat, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-04/us-israel-plot-to-kill-iranian-negotiators-extreme-heat-more",
+          "published": "2026-07-04T02:02:57+00:00"
+        },
+        {
+          "summary": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+          "published": "2026-07-03T20:00:00+00:00"
+        },
+        {
+          "summary": "Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
+          "published": "2026-07-03T19:34:00+00:00"
+        },
+        {
+          "summary": "David S. Doty, Judge Who Helped Shape the Modern N.F.L., Dies at 96",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/03/sports/football/david-s-doty-dead.html",
+          "published": "2026-07-03T19:21:31+00:00"
+        },
+        {
+          "summary": "Feds seek lower prison term for $100M New Jersey deli fraudster — but some reasons why are hidden",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+          "published": "2026-07-04T01:04:34+00:00"
+        },
+        {
+          "summary": "Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
+          "published": "2026-07-03T15:34:44+00:00"
+        },
+        {
+          "summary": "Security staff strikes averted at Aberdeen Airport",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-03T20:51:58+00:00"
+        },
+        {
+          "summary": "How to avoid fees when spending abroad",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c621jpvxd9vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-03T16:26:56+00:00"
+        },
+        {
+          "summary": "From secluded estates to a former monastery, take a look at Palantir CEO Alex Karp's lavish properties",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/palantir-ceo-alex-karp-homes-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Trump says he expects Musk to donate SpaceX stock to Trump Accounts, despite their 'little dispute'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/donald-trump-elon-musk-spacex-stock-trump-accounts-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Fed seen less likely to raise rates as job growth slows",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-seen-less-likely-raise-130759582.html",
+          "published": null
+        },
+        {
+          "summary": "Chess federation suspends former world champion who accused Naroditsky of cheating",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://sports.yahoo.com/articles/chess-federation-suspends-former-world-005816255.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "微软通过彻底改革的 Copilot 和 AutoPilot 代理追随 Anthropic 和 OpenAI 进入人工智能超级应用竞赛",
+          "summary_en": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+          "published": "2026-07-03T19:24:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.83
+        },
+        {
+          "summary_zh": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+          "summary_en": "From LLM to JEPA, Chinese teams are moving “world models” into cells",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442746.html",
+          "published": "2026-07-03T14:28:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.6
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "自从人工智能模型开始寻找错误以来，安全漏洞报告呈爆炸式增长",
+          "summary_en": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+          "published": "2026-07-03T16:49:47+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Python 中的 Claude API 入门",
+          "summary_en": "Getting Started with the Claude API in Python",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python",
+          "published": "2026-07-03T12:00:25+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.98
+        },
+        {
+          "summary_zh": "移动吧，梅西！机器人足球运动员让韩国观众兴奋不已",
+          "summary_en": "Move over, Messi! Robot footballers thrill crowds in South Korea",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-messi-robot-footballers-thrill-crowds.html",
+          "published": "2026-07-03T07:48:36-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.43
+        },
+        {
+          "summary_zh": "人工智能竞赛削弱了谷歌、亚马逊的气候承诺",
+          "summary_en": "AI race weakens climate pledges at Google, Amazon",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-weakens-climate-pledges-google.html",
+          "published": "2026-07-03T03:10:43-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.27
+        },
+        {
+          "summary_zh": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+          "summary_en": "Fable 5 is back with 24 hours of bad reviews! My benchmark scores plummeted, I refused to answer questions, and I secretly scolded users.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442567.html",
+          "published": "2026-07-03T12:17:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.05
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+          "published": "2026-07-03T19:24:40+00:00"
+        },
+        {
+          "summary": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+          "published": "2026-07-03T16:49:47+00:00"
+        },
+        {
+          "summary": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442746.html",
+          "published": "2026-07-03T14:28:38+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Getting Started with the Claude API in Python",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/getting-started-with-the-claude-api-in-python",
+          "published": "2026-07-03T12:00:25+00:00"
+        },
+        {
+          "summary": "Move over, Messi! Robot footballers thrill crowds in South Korea",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-messi-robot-footballers-thrill-crowds.html",
+          "published": "2026-07-03T07:48:36-04:00"
+        },
+        {
+          "summary": "AI race weakens climate pledges at Google, Amazon",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-weakens-climate-pledges-google.html",
+          "published": "2026-07-03T03:10:43-04:00"
+        },
+        {
+          "summary": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442567.html",
+          "published": "2026-07-03T12:17:37+00:00"
+        }
+      ]
+    }
+  }
+}
