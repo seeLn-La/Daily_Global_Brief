@@ -1,0 +1,496 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T02:13:44.335172+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "您的智能手表和人工智能如何检测疾病的早期迹象",
+          "summary_en": "How your smartwatch and AI might detect early signs of illness",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
+          "published": "2026-07-04T18:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.57
+        },
+        {
+          "summary_zh": "《中程》希望好莱坞电影公司透露其人工智能使用的细节",
+          "summary_en": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "published": "2026-07-04T18:00:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "科学家用鼻喷雾剂逆转大脑衰老",
+          "summary_en": "Scientists reverse brain aging, with a nasal spray",
+          "source": "Hacker News: Front Page",
+          "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+          "published": "2026-07-04T23:41:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.87
+        },
+        {
+          "summary_zh": "评论：《女超人》并不是低票房所暗示的灾难",
+          "summary_en": "Review: Supergirl is not the disaster its low box office suggests",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+          "published": "2026-07-04T16:49:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.15
+        },
+        {
+          "summary_zh": "安全综述：Apple 的“隐藏我的电子邮件”服务无法隐藏您的电子邮件",
+          "summary_en": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
+          "published": "2026-07-04T10:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.57
+        },
+        {
+          "summary_zh": "特斯拉将机器人出租车服务扩展到迈阿密的一小部分地区",
+          "summary_en": "Tesla expands robotaxi service to small section of Miami",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+          "published": "2026-07-04T17:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "谷歌新广告想象在人工智能的帮助下撰写的《独立宣言》",
+          "summary_en": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "published": "2026-07-04T20:55:25+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress",
+          "summary_en": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "source": "Hacker News: Front Page",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+          "published": "2026-07-04T21:35:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.34
+        },
+        {
+          "summary_zh": "提交您的问题：在线浪漫诈骗的世界内部",
+          "summary_en": "Submit Your Questions: Inside The World of Online Romance Scams",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+          "published": "2026-07-04T16:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.94
+        },
+        {
+          "summary_zh": "当嗅觉能力消失时",
+          "summary_en": "When the ability to smell goes away",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+          "published": "2026-07-04T11:04:31+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.71
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How your smartwatch and AI might detect early signs of illness",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2206130/how-smartwatch-use-ai-to-detect-sickness/",
+          "published": "2026-07-04T18:30:00+00:00"
+        },
+        {
+          "summary": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "published": "2026-07-04T18:00:05+00:00"
+        },
+        {
+          "summary": "Tesla expands robotaxi service to small section of Miami",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2207974/tesla-expands-robotaxi-service-to-small-section-of-miami/",
+          "published": "2026-07-04T17:30:00+00:00"
+        },
+        {
+          "summary": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "published": "2026-07-04T20:55:25+00:00"
+        },
+        {
+          "summary": "Scientists reverse brain aging, with a nasal spray",
+          "source": "Hacker News: Front Page",
+          "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+          "published": "2026-07-04T23:41:10+00:00"
+        },
+        {
+          "summary": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "source": "Hacker News: Front Page",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+          "published": "2026-07-04T21:35:30+00:00"
+        },
+        {
+          "summary": "Review: Supergirl is not the disaster its low box office suggests",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+          "published": "2026-07-04T16:49:14+00:00"
+        },
+        {
+          "summary": "Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/",
+          "published": "2026-07-04T10:30:00+00:00"
+        },
+        {
+          "summary": "Submit Your Questions: Inside The World of Online Romance Scams",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+          "published": "2026-07-04T16:00:00+00:00"
+        },
+        {
+          "summary": "When the ability to smell goes away",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+          "published": "2026-07-04T11:04:31+00:00"
+        },
+        {
+          "summary": "史上最强的 MacBook 要来了，苹果要 All in AI",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1670819?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-04T02:43:11+00:00"
+        },
+        {
+          "summary": "业内首个AI-eSIM产业协同平台成立",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Matic’s robot vacuum is getting a $250 price hike in September",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+          "published": null
+        },
+        {
+          "summary": "The fanfiction community is at war with AI — and itself",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "published": null
+        },
+        {
+          "summary": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3880629882679301?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "道达尔首席执行官认为中东生产商急于出售石油库存",
+          "summary_en": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/total-ceo-sees-mideast-producers-desperate-to-sell-oil-stocks",
+          "published": "2026-07-04T09:49:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "为什么六月就业和通胀数据利好债券",
+          "summary_en": "Why June’s jobs and inflation data are bullish for bonds",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
+          "published": "2026-07-04T18:37:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "美国庆祝成立 250 周年，恶劣天气和酷热，更多",
+          "summary_en": "America Celebrates Its 250th, Severe Weather & Extreme Heat,More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-04/america-celebrates-its-250th-severe-weather-extreme-heat-more",
+          "published": "2026-07-04T22:02:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "“MANGOS”股票已经转软了吗？",
+          "summary_en": "Are the ‘MANGOS’ Stocks Already Turning Soft?",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html",
+          "published": "2026-07-04T09:00:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.2
+        },
+        {
+          "summary_zh": "随着中东液化天然气供应恢复，印度取消天然气限制 - 路透中文网",
+          "summary_en": "India withdraws gas curbs as Middle East LNG supply resumes - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUhNa0VmU05LVzl6WE1MZmZKUmRoRmU5Q1hSZy0yUnhKOU9JUE9vMmtaN21wYVZGVk5nTFB0ZDJlU2xtbkEyaUl6QlE5Y1ZPVUhXUFdGVDFRSlBKVTRteHdGaGo0YVFILTBKVmZxTWxPcy1TMVZQWjhwWFhQZTNKMXk3WEZYTVJqX0xjYjY4d0szeURGSnkwUWxWRlRXYUI4Q043VVk5M0pkMF9L?oc=5",
+          "published": "2026-07-04T16:25:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.05
+        },
+        {
+          "summary_zh": "恶劣天气扰乱了一些美国建国 250 周年庆祝活动；特朗普表示他仍将在华盛顿发表讲话",
+          "summary_en": "Severe weather disrupts some America 250th celebrations; Trump says he will still speak in DC",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/04/trump-to-mark-us-250th-anniversary-with-campaign-style-rally.html",
+          "published": "2026-07-05T02:07:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.97
+        },
+        {
+          "summary_zh": "德国第二次增长反弹机会现在开始",
+          "summary_en": "Germany’s Second Chance for Growth Rebound Starts Now",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
+          "published": "2026-07-04T20:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.94
+        },
+        {
+          "summary_zh": "由于一项新的联邦规定，保险公司将屋顶更换费用转嫁给房主——正好赶上冰雹和飓风季节",
+          "summary_en": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+          "published": "2026-07-04T18:19:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "特朗普和普京谈话，风暴迫使 7 月 4 日活动撤离",
+          "summary_en": "Storms Force Evacuations of July 4th Events, Trump & Putin Talk",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-05/storms-force-evacuations-of-july-4th-events-trump-putin-talk",
+          "published": "2026-07-05T00:38:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "特朗普账户将在美国第 250 周年独立日庆祝活动拉开帷幕 - 路透中文网",
+          "summary_en": "Trump Accounts to debut as US kicks off 250th Independence Day celebrations - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdl81dTVpMVFTMlB1alhyU1pPazFyLTVGWjlHWG50d1ZuZWZjRGptdnl0V3hmSjQ4dWxlWFFQVE9La0xwODJNZDgtd1J5RWh1dEtReUFncTNTdUthcTFLWjY4Y3RTS2xOeHFRUU9wWUphbWFsZlB1VFk0dmZWdkpzeTFkejBsWm1FTjVYc1VLazZhaWhuR0xRLTlZTDRkMXRRUlB6dVNHREV0Mk1Ia3VyUE41VDQ2MnMxX0NEMUQ1VQ?oc=5",
+          "published": "2026-07-04T16:03:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.96
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Total CEO Sees Mideast Producers Desperate to Sell Oil Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/total-ceo-sees-mideast-producers-desperate-to-sell-oil-stocks",
+          "published": "2026-07-04T09:49:29+00:00"
+        },
+        {
+          "summary": "Germany’s Second Chance for Growth Rebound Starts Now",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-04/germany-s-second-chance-for-growth-rebound-starts-now",
+          "published": "2026-07-04T20:00:00+00:00"
+        },
+        {
+          "summary": "Why June’s jobs and inflation data are bullish for bonds",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
+          "published": "2026-07-04T18:37:00+00:00"
+        },
+        {
+          "summary": "Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories",
+          "published": "2026-07-04T18:19:00+00:00"
+        },
+        {
+          "summary": "America Celebrates Its 250th, Severe Weather & Extreme Heat,More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-04/america-celebrates-its-250th-severe-weather-extreme-heat-more",
+          "published": "2026-07-04T22:02:23+00:00"
+        },
+        {
+          "summary": "Storms Force Evacuations of July 4th Events, Trump & Putin Talk",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-05/storms-force-evacuations-of-july-4th-events-trump-putin-talk",
+          "published": "2026-07-05T00:38:06+00:00"
+        },
+        {
+          "summary": "Are the ‘MANGOS’ Stocks Already Turning Soft?",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html",
+          "published": "2026-07-04T09:00:46+00:00"
+        },
+        {
+          "summary": "India withdraws gas curbs as Middle East LNG supply resumes - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUhNa0VmU05LVzl6WE1MZmZKUmRoRmU5Q1hSZy0yUnhKOU9JUE9vMmtaN21wYVZGVk5nTFB0ZDJlU2xtbkEyaUl6QlE5Y1ZPVUhXUFdGVDFRSlBKVTRteHdGaGo0YVFILTBKVmZxTWxPcy1TMVZQWjhwWFhQZTNKMXk3WEZYTVJqX0xjYjY4d0szeURGSnkwUWxWRlRXYUI4Q043VVk5M0pkMF9L?oc=5",
+          "published": "2026-07-04T16:25:11+00:00"
+        },
+        {
+          "summary": "Severe weather disrupts some America 250th celebrations; Trump says he will still speak in DC",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/04/trump-to-mark-us-250th-anniversary-with-campaign-style-rally.html",
+          "published": "2026-07-05T02:07:19+00:00"
+        },
+        {
+          "summary": "Trump Accounts to debut as US kicks off 250th Independence Day celebrations - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdl81dTVpMVFTMlB1alhyU1pPazFyLTVGWjlHWG50d1ZuZWZjRGptdnl0V3hmSjQ4dWxlWFFQVE9La0xwODJNZDgtd1J5RWh1dEtReUFncTNTdUthcTFLWjY4Y3RTS2xOeHFRUU9wWUphbWFsZlB1VFk0dmZWdkpzeTFkejBsWm1FTjVYc1VLazZhaWhuR0xRLTlZTDRkMXRRUlB6dVNHREV0Mk1Ia3VyUE41VDQ2MnMxX0NEMUQ1VQ?oc=5",
+          "published": "2026-07-04T16:03:09+00:00"
+        },
+        {
+          "summary": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html",
+          "published": "2026-07-04T10:28:34+00:00"
+        },
+        {
+          "summary": "I’ve worked with over 5,000 kids: I swear by this No. 1 parenting rule—it’s ‘surprisingly simple’",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/04/ive-studied-over-5000-kidsi-keep-giving-parents-the-same-surprisingly-simple-advice.html",
+          "published": "2026-07-04T17:03:15+00:00"
+        },
+        {
+          "summary": "Trump Accounts are now live. Here's how to register.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/trump-account-how-to-register-your-child-2026-7",
+          "published": null
+        },
+        {
+          "summary": "I wouldn't trade my daughter for anything. I wish I knew more about the challenges of IVF.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/had-daughter-at-42-through-ivf-marta-milans-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Fed's Warsh vows to 'disappoint' anyone who thinks he will tolerate inflation above 2%",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/warsh-hits-international-stage-peers-101241127.html",
+          "published": null
+        },
+        {
+          "summary": "Chess federation suspends former world champion who accused Naroditsky of cheating",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://sports.yahoo.com/articles/chess-federation-suspends-former-world-005816255.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "开源工具 pxpipe 隐藏 PNG 中的文本，可将 Claude Code 和 Fable 5 代币成本降低高达 70%",
+          "summary_en": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+          "published": "2026-07-04T18:11:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Anthropic 开发者分享《神鬼寓言 5》的提示技巧，重点是首先找到自己的盲点",
+          "summary_en": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+          "published": "2026-07-04T12:37:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.1
+        },
+        {
+          "summary_zh": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+          "summary_en": "Guangxiang Technology has completed hundreds of millions of yuan in angel round financing and laid out physical native base models",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442958.html",
+          "published": "2026-07-04T05:52:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.41
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
+          "published": "2026-07-04T18:11:33+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Anthropic developer shares prompting tips for Fable 5 that focus on finding your own blind spots first",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-developer-shares-prompting-tips-for-fable-5-that-focus-on-finding-your-own-blind-spots-first/",
+          "published": "2026-07-04T12:37:51+00:00"
+        },
+        {
+          "summary": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/442958.html",
+          "published": "2026-07-04T05:52:21+00:00"
+        }
+      ]
+    }
+  }
+}
