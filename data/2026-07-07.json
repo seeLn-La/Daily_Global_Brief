@@ -1,0 +1,618 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T02:13:55.014657+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+          "summary_en": "Morning Post｜Revealed that Huawei Mate90 will be equipped with \"Tao's Law\" new Kirin chip/Intel raises CPU price/Enterprise WeChat releases AI recording hardware",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-07T00:14:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.0
+        },
+        {
+          "summary_zh": "Google 现在会将所有 Android 备份数据计入您的存储上限",
+          "summary_en": "Google will now count all Android backup data toward your storage cap",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2209189/google-will-now-count-all-android-backup-data-toward-your-storage-cap/",
+          "published": "2026-07-06T22:09:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "“第一次”人工智能运行的勒索软件攻击仍然需要人类",
+          "summary_en": "The ‘first’ AI-run ransomware attack still needed a human",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "published": "2026-07-06T23:56:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.93
+        },
+        {
+          "summary_zh": "您家族在 OpenAI 中持有 300 美元的股份",
+          "summary_en": "Your family’s $300 stake in OpenAI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "published": "2026-07-06T18:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "人工智能：投资回报率跑道可能在科技行业之外很长",
+          "summary_en": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+          "published": "2026-07-06T21:09:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "英国 F1：自动化软件是压垮期望的罪魁祸首",
+          "summary_en": "F1 in Britain: Automated software to blame for crushing expectations",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+          "published": "2026-07-06T15:45:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "美国投资者很快将有机会投资另一家乘着人工智能热潮的存储器制造商SK海力士",
+          "summary_en": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "published": "2026-07-06T23:21:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.78
+        },
+        {
+          "summary_zh": "谷歌现在使用您上传的搜索媒体来训练人工智能",
+          "summary_en": "Google now uses your uploaded search media to train AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai/",
+          "published": "2026-07-06T19:13:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "小型人工智能模型在网络不可靠的地方受到关注",
+          "summary_en": "Small AI Models Gain Traction In places with unreliable networks",
+          "source": "Hacker News: Front Page",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "published": "2026-07-06T23:59:54+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.94
+        },
+        {
+          "summary_zh": "FCC 将终止拜登时代强制 ISP 列出所有费用的规定",
+          "summary_en": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "published": "2026-07-06T21:13:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.25
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-07T00:14:24+00:00"
+        },
+        {
+          "summary": "Google will now count all Android backup data toward your storage cap",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2209189/google-will-now-count-all-android-backup-data-toward-your-storage-cap/",
+          "published": "2026-07-06T22:09:56+00:00"
+        },
+        {
+          "summary": "The ‘first’ AI-run ransomware attack still needed a human",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "published": "2026-07-06T23:56:14+00:00"
+        },
+        {
+          "summary": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "published": "2026-07-06T23:21:03+00:00"
+        },
+        {
+          "summary": "Google now uses your uploaded search media to train AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2208978/google-now-uses-your-uploaded-search-media-to-train-ai/",
+          "published": "2026-07-06T19:13:52+00:00"
+        },
+        {
+          "summary": "Your family’s $300 stake in OpenAI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "published": "2026-07-06T18:00:00+00:00"
+        },
+        {
+          "summary": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+          "published": "2026-07-06T21:09:23+00:00"
+        },
+        {
+          "summary": "Small AI Models Gain Traction In places with unreliable networks",
+          "source": "Hacker News: Front Page",
+          "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+          "published": "2026-07-06T23:59:54+00:00"
+        },
+        {
+          "summary": "F1 in Britain: Automated software to blame for crushing expectations",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+          "published": "2026-07-06T15:45:55+00:00"
+        },
+        {
+          "summary": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+          "published": "2026-07-06T21:13:37+00:00"
+        },
+        {
+          "summary": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+          "published": "2026-07-06T13:00:00+00:00"
+        },
+        {
+          "summary": "Bentley Torcal EV: Price, Specs, Availability",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/",
+          "published": "2026-07-06T11:30:00+00:00"
+        },
+        {
+          "summary": "The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
+          "published": "2026-07-06T14:50:52+00:00"
+        },
+        {
+          "summary": "预售 25.98 万元起！全新坦克 300 轴距加长，舒适性大提升",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671103?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-06T14:35:27+00:00"
+        },
+        {
+          "summary": "Former Xbox studios Double Fine and Compulsion will keep games after going indie",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/961749/xbox-layoffs-compulsion-double-fine-indie",
+          "published": null
+        },
+        {
+          "summary": "Microsoft is selling off four Xbox studios as part of significant gaming cuts",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+          "published": null
+        },
+        {
+          "summary": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3883943959621634?f=rss",
+          "published": null
+        },
+        {
+          "summary": "36氪首发丨上科大博士团队加速国产超高速光电探测芯片量产，获千万级天使轮融资",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3884289424437511?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "科技股疲软，三星股价下跌：市场总结",
+          "summary_en": "Stocks Slip as Tech Weakness Weighs, Samsung Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-06T22:10:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.49
+        },
+        {
+          "summary_zh": "据《华尔街日报》报道，美国大型银行正在探讨 Fiserv 网络交易 - 路透",
+          "summary_en": "Big US banks explore Fiserv network deal, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhwOGt1Zmp0VmY5VENZakNnTmtxMTBLTG9mZnNvdXgwMTlPRmNpcUZWanVzZWNJTmpKU0tPYkFSUUxMN2kwNl9qSldsbVdBZm5qS3RKN3A0RDhFdnVnTkJqME5tdGkyaTJxRUg4dW9BU2hDYzh3WDRpc2pEVzY3ZTdna2NkN1V5ajlkek02cmdGRXVtc09rU0Q3NDJsUHdtTllib3NhR1Q?oc=5",
+          "published": "2026-07-06T23:33:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.83
+        },
+        {
+          "summary_zh": "国会暑假期间股市上涨。原因如下。",
+          "summary_en": "Stocks rally when Congress goes on summer break. Here’s why.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+          "published": "2026-07-06T21:18:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "周二的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/06/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-06T23:11:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.24
+        },
+        {
+          "summary_zh": "科技巨头在人工智能贸易复苏中提振股票",
+          "summary_en": "Tech Giants Lift Stocks in AI Trade Revival",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-06/tech-giants-lift-stocks-in-ai-trade-revival",
+          "published": "2026-07-06T21:01:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.2
+        },
+        {
+          "summary_zh": "AI 热潮推动芯片销售，三星利润跃升 1,800%",
+          "summary_en": "Samsung profits jump 1,800% as AI boom drives chip sales",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T00:58:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "世界银行放弃了气候目标",
+          "summary_en": "The World Bank has ditched its climate targets",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+          "published": "2026-07-06T19:40:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "建立黑人护发帝国的乔治·E·约翰逊 (George E. Johnson) 去世，享年 99 岁",
+          "summary_en": "George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html",
+          "published": "2026-07-06T21:24:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.29
+        },
+        {
+          "summary_zh": "失去加拿大分包交易后韩华海洋股价暴跌逾 20%",
+          "summary_en": "Hanwha Ocean Plunges Over 20% After Losing Canada Sub Deal",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/hanwha-ocean-stocks-sink-after-losing-canada-sub-deal-to-germany",
+          "published": "2026-07-07T00:52:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.16
+        },
+        {
+          "summary_zh": "中国蓬勃发展的零工经济掩盖了就业市场的痛苦，给福利体系带来压力 - 路透中文网",
+          "summary_en": "China's booming gig economy masks job market pain, strains welfare system - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXZHYVVRQ3N3dDJiYmwzWXlNLVZDa2pnNkdVQVFGR2REVURMR1FRczFvNGUxVmJ4N2ZNX0lpQ2l6OWpRRmZkQmhFbDFEN2gxSjlHQkRxYkticWllMGJLcFd3Y2EwVXRpd0I0OWlFdUo4WWV1NHlVcEY3SVMxRzJBbnFYTlQ2UDJEU1JnUkpOeDNVcVVxem5kcG0weXotSlpJa2g0UnB2ejdKUGFWbWM3SlRRUkVOZnFWT09aS2hITVNVb0liVzJIcWJ3?oc=5",
+          "published": "2026-07-06T23:06:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.72
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stocks Slip as Tech Weakness Weighs, Samsung Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-06T22:10:26+00:00"
+        },
+        {
+          "summary": "Hanwha Ocean Plunges Over 20% After Losing Canada Sub Deal",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/hanwha-ocean-stocks-sink-after-losing-canada-sub-deal-to-germany",
+          "published": "2026-07-07T00:52:53+00:00"
+        },
+        {
+          "summary": "Big US banks explore Fiserv network deal, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDhwOGt1Zmp0VmY5VENZakNnTmtxMTBLTG9mZnNvdXgwMTlPRmNpcUZWanVzZWNJTmpKU0tPYkFSUUxMN2kwNl9qSldsbVdBZm5qS3RKN3A0RDhFdnVnTkJqME5tdGkyaTJxRUg4dW9BU2hDYzh3WDRpc2pEVzY3ZTdna2NkN1V5ajlkek02cmdGRXVtc09rU0Q3NDJsUHdtTllib3NhR1Q?oc=5",
+          "published": "2026-07-06T23:33:00+00:00"
+        },
+        {
+          "summary": "China's booming gig economy masks job market pain, strains welfare system - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXZHYVVRQ3N3dDJiYmwzWXlNLVZDa2pnNkdVQVFGR2REVURMR1FRczFvNGUxVmJ4N2ZNX0lpQ2l6OWpRRmZkQmhFbDFEN2gxSjlHQkRxYkticWllMGJLcFd3Y2EwVXRpd0I0OWlFdUo4WWV1NHlVcEY3SVMxRzJBbnFYTlQ2UDJEU1JnUkpOeDNVcVVxem5kcG0weXotSlpJa2g0UnB2ejdKUGFWbWM3SlRRUkVOZnFWT09aS2hITVNVb0liVzJIcWJ3?oc=5",
+          "published": "2026-07-06T23:06:19+00:00"
+        },
+        {
+          "summary": "Stocks rally when Congress goes on summer break. Here’s why.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+          "published": "2026-07-06T21:18:00+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/06/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-06T23:11:35+00:00"
+        },
+        {
+          "summary": "If the stock market’s double bubble bursts, it could usher in the next crash",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/if-the-stock-markets-double-bubble-bursts-it-could-usher-in-the-next-crash-de54c1b2?mod=mw_rss_topstories",
+          "published": "2026-07-06T21:11:00+00:00"
+        },
+        {
+          "summary": "Tech Giants Lift Stocks in AI Trade Revival",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-06/tech-giants-lift-stocks-in-ai-trade-revival",
+          "published": "2026-07-06T21:01:01+00:00"
+        },
+        {
+          "summary": "Samsung profits jump 1,800% as AI boom drives chip sales",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T00:58:45+00:00"
+        },
+        {
+          "summary": "Platner Urged to Drop Senate Bid, Samsung Profit Surges, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-07/platner-urged-to-drop-senate-bid-samsung-profit-surges-more",
+          "published": "2026-07-07T00:45:52+00:00"
+        },
+        {
+          "summary": "Jim Cramer says these are the 5 stocks to buy during this market rotation",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/06/jim-cramer-stocks-buy-during-market-rotation.html",
+          "published": "2026-07-06T22:29:20+00:00"
+        },
+        {
+          "summary": "Amazon bars breastfeeding boss from business course",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-06T23:31:21+00:00"
+        },
+        {
+          "summary": "The World Bank has ditched its climate targets",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/06/the-world-bank-has-ditched-its-climate-targets",
+          "published": "2026-07-06T19:40:33+00:00"
+        },
+        {
+          "summary": "George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html",
+          "published": "2026-07-06T21:24:08+00:00"
+        },
+        {
+          "summary": "Ships Are Moving In and Out of the Persian Gulf, Easing Oil Prices",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html",
+          "published": "2026-07-06T20:08:12+00:00"
+        },
+        {
+          "summary": "11 Disney org charts reveal the execs with power under CEO Josh D'Amaro in TV, tech, and more",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/disney-org-charts-josh-damaro-dana-walden-jimmy-pitaro-espn-2026-7",
+          "published": null
+        },
+        {
+          "summary": "A new Kentucky AI data center will power Anthropic as part of a 20-year deal",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-terawulf-data-center-lease-hawesville-kentucky-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The stock market is about to suffer a ‘snapback’ and will lose much of this year’s gains as ‘speculation is hitting extreme levels,’ BofA warns",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-suffer-snapback-lose-194341951.html",
+          "published": null
+        },
+        {
+          "summary": "America Celebrates 250th Anniversary Amid Intense Storms",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/america-celebrates-250th-anniversary-amid-122813098.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Cloudflare 用搜索、训练和代理爬虫的精细控制取代了其全面的 AI 机器人块",
+          "summary_en": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+          "published": "2026-07-06T18:54:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.67
+        },
+        {
+          "summary_zh": "Claude的脑子里，也长出了一块「意识」",
+          "summary_en": "A piece of \"consciousness\" also grew in Claude's mind",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/444741.html",
+          "published": "2026-07-07T01:38:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "研究人员首次发现人工智能代理的“隐藏能源成本”",
+          "summary_en": "Researchers identify the 'hidden energy cost' of AI agents for the first time",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hidden-energy-ai-agents.html",
+          "published": "2026-07-06T10:40:03-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "小语言模型为下一代智能体提供支持的 5 种方式",
+          "summary_en": "5 Ways Small Language Models Are Powering Next-Gen Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents",
+          "published": "2026-07-06T12:00:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.95
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "迈向一个让所有人都能受益于神经技术的未来",
+          "summary_en": "Toward a future that preserves benefits of neurotechnology for all",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+          "published": "2026-07-06T15:50:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.4
+        },
+        {
+          "summary_zh": "智普AI推出ZCode，以极低的成本挑战Claude Code和OpenAI Codex",
+          "summary_en": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+          "published": "2026-07-06T18:28:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.56
+        },
+        {
+          "summary_zh": "人工智能作为倾听的耳朵：有用还是有风险？",
+          "summary_en": "AI as a listening ear: Helpful or risky?",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-ear-risky.html",
+          "published": "2026-07-06T14:40:01-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.11
+        },
+        {
+          "summary_zh": "数据科学家正在成为人工智能管理者，而不是模型构建者",
+          "summary_en": "Data Scientists Are Becoming AI Managers, Not Model Builders",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
+          "published": "2026-07-06T16:00:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.94
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+          "published": "2026-07-06T18:54:45+00:00"
+        },
+        {
+          "summary": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+          "published": "2026-07-06T18:28:26+00:00"
+        },
+        {
+          "summary": "Claude的脑子里，也长出了一块「意识」",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/444741.html",
+          "published": "2026-07-07T01:38:18+00:00"
+        },
+        {
+          "summary": "Researchers identify the 'hidden energy cost' of AI agents for the first time",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hidden-energy-ai-agents.html",
+          "published": "2026-07-06T10:40:03-04:00"
+        },
+        {
+          "summary": "5 Ways Small Language Models Are Powering Next-Gen Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-ways-small-language-models-are-powering-next-gen-agents",
+          "published": "2026-07-06T12:00:53+00:00"
+        },
+        {
+          "summary": "AI as a listening ear: Helpful or risky?",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-ear-risky.html",
+          "published": "2026-07-06T14:40:01-04:00"
+        },
+        {
+          "summary": "Data Scientists Are Becoming AI Managers, Not Model Builders",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
+          "published": "2026-07-06T16:00:09+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "在联合国，这家中国公司给AI“减负”：不堆算力，而是给机器人装了个“类脑”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/444733.html",
+          "published": "2026-07-06T10:40:27+00:00"
+        },
+        {
+          "summary": "Toward a future that preserves benefits of neurotechnology for all",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+          "published": "2026-07-06T15:50:00-04:00"
+        }
+      ]
+    }
+  }
+}
