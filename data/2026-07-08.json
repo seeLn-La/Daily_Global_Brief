@@ -1,0 +1,636 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T01:54:32.942538+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+          "summary_en": "Morning Post｜Revealed that Apple’s foldable screen iPhone is already in mass production/DeepSeek or self-developed AI inference chip/This year’s 618 mobile phone sales fell 13% year-on-year",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671233?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-08T00:07:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "Meta 构建了一个 AI 检测工具来识别使用其新模型创建的图像和视频",
+          "summary_en": "Meta built an AI detection tool to ID images and video created with its new models",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
+          "published": "2026-07-07T23:23:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.87
+        },
+        {
+          "summary_zh": "为什么开源人工智能的兴起还没有伤害 Anthropic……",
+          "summary_en": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "published": "2026-07-07T20:04:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.04
+        },
+        {
+          "summary_zh": "显示 HN：Chiptune 广播",
+          "summary_en": "Show HN: Chiptune Radio",
+          "source": "Hacker News: Front Page",
+          "url": "https://chiptune-radio.alephvoid.com/",
+          "published": "2026-07-08T00:55:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "面对美国出口管制，中国DeepSeek计划自产芯片",
+          "summary_en": "Facing US export controls, China's DeepSeek plans to make its own chips",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "published": "2026-07-07T16:14:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.09
+        },
+        {
+          "summary_zh": "Meta 现在允许任何人在 AI 图像中使用您的 Instagram 照片 - 除非您选择退出",
+          "summary_en": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+          "published": "2026-07-07T21:59:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
+          "summary_en": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+          "published": "2026-07-07T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "路透社：DeepSeek正在开发自己的AI芯片",
+          "summary_en": "Reuters: DeepSeek is developing its own AI chips",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2209378/deepseek-reportedly-developing-ai-chips/",
+          "published": "2026-07-07T11:57:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "最终延期：澳大利亚创业战场申请现已于 7 月 20 日截止",
+          "summary_en": "Final extension: Startup Battlefield Australia applications now close July 20",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+          "published": "2026-07-07T22:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.65
+        },
+        {
+          "summary_zh": "腾达固件（多个版本）包含隐藏认证后门",
+          "summary_en": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+          "source": "Hacker News: Front Page",
+          "url": "https://kb.cert.org/vuls/id/213560",
+          "published": "2026-07-08T00:08:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.06
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671233?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-08T00:07:58+00:00"
+        },
+        {
+          "summary": "Meta built an AI detection tool to ID images and video created with its new models",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2210223/meta-built-an-ai-detection-tool-to-id-images-and-video-created-with-its-new-models/",
+          "published": "2026-07-07T23:23:52+00:00"
+        },
+        {
+          "summary": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "published": "2026-07-07T20:04:32+00:00"
+        },
+        {
+          "summary": "Reuters: DeepSeek is developing its own AI chips",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2209378/deepseek-reportedly-developing-ai-chips/",
+          "published": "2026-07-07T11:57:33+00:00"
+        },
+        {
+          "summary": "Final extension: Startup Battlefield Australia applications now close July 20",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-applications-now-close-july-20/",
+          "published": "2026-07-07T22:30:00+00:00"
+        },
+        {
+          "summary": "Show HN: Chiptune Radio",
+          "source": "Hacker News: Front Page",
+          "url": "https://chiptune-radio.alephvoid.com/",
+          "published": "2026-07-08T00:55:19+00:00"
+        },
+        {
+          "summary": "Facing US export controls, China's DeepSeek plans to make its own chips",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "published": "2026-07-07T16:14:53+00:00"
+        },
+        {
+          "summary": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+          "source": "Hacker News: Front Page",
+          "url": "https://kb.cert.org/vuls/id/213560",
+          "published": "2026-07-08T00:08:51+00:00"
+        },
+        {
+          "summary": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+          "published": "2026-07-07T19:52:59+00:00"
+        },
+        {
+          "summary": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+          "published": "2026-07-07T21:59:29+00:00"
+        },
+        {
+          "summary": "OpenAI’s Chief Futurist Is Leaving the Company",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+          "published": "2026-07-07T21:30:00+00:00"
+        },
+        {
+          "summary": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+          "published": "2026-07-07T12:10:00+00:00"
+        },
+        {
+          "summary": "The foundational elements of AI architecture that IT leaders need to scale",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+          "published": "2026-07-07T11:10:52+00:00"
+        },
+        {
+          "summary": "刷完 Fable 5 爆火玩法，我发现自己用 AI 第一步就错了",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671120?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-07T08:11:08+00:00"
+        },
+        {
+          "summary": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+          "published": null
+        },
+        {
+          "summary": "Anthropic is launching Claude Cowork on mobile and web",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+          "published": null
+        },
+        {
+          "summary": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3886238403129353?f=rss",
+          "published": null
+        },
+        {
+          "summary": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3885479689465858?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "欧洲经济一团糟。它的股票市场很抢手",
+          "summary_en": "Europe’s economy is a mess. Its stock markets are a steal",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
+          "published": "2026-07-07T19:20:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.36
+        },
+        {
+          "summary_zh": "通用汽车支持的 Momenta 在香港首次公开募股 7.52 亿美元后股价上涨",
+          "summary_en": "GM-Backed Momenta Rises in HK Debut After $752 Million IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/gm-backed-momenta-set-for-hong-kong-debut-after-752-million-ipo",
+          "published": "2026-07-07T23:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.77
+        },
+        {
+          "summary_zh": "由于投资者怀疑内存市场是否已接近顶部，美光科技股价下跌",
+          "summary_en": "Micron’s stock falls as investors wonder if the memory market is near the top",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+          "published": "2026-07-07T22:43:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.7
+        },
+        {
+          "summary_zh": "纽约联储研究显示，金融机构的健康状况是银行挤兑的关键因素 - 路透中文网",
+          "summary_en": "Financial institutions' health is key factor in bank runs, New York Fed research shows - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVQ0S0FROExmQUlyQ1hYTy03ZDNtRTFuY0ZfMUVtSjd4cWN1Si1JekwzTzg1bE5VcUIyS1F5cnJaSzdXS2xzSXRVTlAyYVE5WHpVcDd1VFVXTEdTMWtoYmZzRFJHUFFGd0NjREUwaVQwMzYyVFF1aXFCX0RRV3VDcHJNdVJEY3QweXAtdnBCVTVkbnFnazl1dFJWb1YtMEZFc0YzaWlxMHRWenE0V05md25VRWlrMVNCT0N1ZU5uSUNoREFqV1BJ?oc=5",
+          "published": "2026-07-07T18:53:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "周三的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/07/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-07T23:31:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "加拿大的“炸弹银行”刚刚起步，可能已经有了合并伙伴",
+          "summary_en": "Canada’s ‘Bomb Bank’ Is Just Starting and May Already Have a Merger Partner",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-07/canada-s-defence-security-and-resilience-bank-may-have-a-merger-partner",
+          "published": "2026-07-07T21:15:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.34
+        },
+        {
+          "summary_zh": "从漱口水到染发剂：减肥针如何改变购物习惯",
+          "summary_en": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T23:11:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.82
+        },
+        {
+          "summary_zh": "伊朗对霍尔木兹海峡船只的袭击威胁石油流动",
+          "summary_en": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+          "published": "2026-07-07T22:01:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.53
+        },
+        {
+          "summary_zh": "Adobe 的股票便宜得诱人。投资者应该咬紧牙关吗？",
+          "summary_en": "Adobe’s stock is temptingly cheap. Should investors bite?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
+          "published": "2026-07-07T22:35:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.67
+        },
+        {
+          "summary_zh": "埃克森美孚因战争驱动的石油上涨而利润激增 37 亿美元",
+          "summary_en": "Exxon Sees $3.7 Billion Profit Surge From War-Driven Oil Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/exxon-sees-3-7-billion-profit-surge-from-war-driven-oil-rally",
+          "published": "2026-07-07T21:29:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.39
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Europe’s economy is a mess. Its stock markets are a steal",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/07/europes-economy-is-a-mess-its-stock-markets-are-a-steal",
+          "published": "2026-07-07T19:20:24+00:00"
+        },
+        {
+          "summary": "GM-Backed Momenta Rises in HK Debut After $752 Million IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/gm-backed-momenta-set-for-hong-kong-debut-after-752-million-ipo",
+          "published": "2026-07-07T23:00:00+00:00"
+        },
+        {
+          "summary": "Micron’s stock falls as investors wonder if the memory market is near the top",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/microns-stock-falls-as-investors-wonder-if-the-memory-market-is-near-the-top-ab2d2feb?mod=mw_rss_topstories",
+          "published": "2026-07-07T22:43:00+00:00"
+        },
+        {
+          "summary": "Adobe’s stock is temptingly cheap. Should investors bite?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/adobes-stock-is-temptingly-cheap-should-investors-bite-196258b5?mod=mw_rss_topstories",
+          "published": "2026-07-07T22:35:00+00:00"
+        },
+        {
+          "summary": "Exxon Sees $3.7 Billion Profit Surge From War-Driven Oil Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-07/exxon-sees-3-7-billion-profit-surge-from-war-driven-oil-rally",
+          "published": "2026-07-07T21:29:00+00:00"
+        },
+        {
+          "summary": "Financial institutions' health is key factor in bank runs, New York Fed research shows - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVQ0S0FROExmQUlyQ1hYTy03ZDNtRTFuY0ZfMUVtSjd4cWN1Si1JekwzTzg1bE5VcUIyS1F5cnJaSzdXS2xzSXRVTlAyYVE5WHpVcDd1VFVXTEdTMWtoYmZzRFJHUFFGd0NjREUwaVQwMzYyVFF1aXFCX0RRV3VDcHJNdVJEY3QweXAtdnBCVTVkbnFnazl1dFJWb1YtMEZFc0YzaWlxMHRWenE0V05md25VRWlrMVNCT0N1ZU5uSUNoREFqV1BJ?oc=5",
+          "published": "2026-07-07T18:53:17+00:00"
+        },
+        {
+          "summary": "AI has taken over the stock market. The bond market is next",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next",
+          "published": "2026-07-07T20:08:30+00:00"
+        },
+        {
+          "summary": "Exxon signals Q2 profit windfall as higher oil prices boost bottom line - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXlvX2Y4cVBldFJ5ajRsRVpOZkcyd2g0NVV1c3RmOVBPSHAwWkI4Wmt6dWZ3djBUVDNtQ0ZlYjJ1aTZ1akZJMjg4WHprbmxGUmtmdktuelg1eURDY0ctRlBURV8xY1ZKVjB6dGEwMENPdnFXTzlEYnZoTnVMOWxoUVN4cUl3Q1FpR1ZITzJvdEZxOGJBT1pVa3VudjNnT0kyYkVzTA?oc=5",
+          "published": "2026-07-07T21:50:00+00:00"
+        },
+        {
+          "summary": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/07/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-07T23:31:23+00:00"
+        },
+        {
+          "summary": "Canada’s ‘Bomb Bank’ Is Just Starting and May Already Have a Merger Partner",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-07/canada-s-defence-security-and-resilience-bank-may-have-a-merger-partner",
+          "published": "2026-07-07T21:15:50+00:00"
+        },
+        {
+          "summary": "Stocks Close Lower on Tech Rout, NYC High-Rise is Collapse Risk",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-07/stocks-close-lower-on-tech-rout-nyc-high-rise-is-collapse-risk",
+          "published": "2026-07-07T20:18:45+00:00"
+        },
+        {
+          "summary": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-07T23:11:48+00:00"
+        },
+        {
+          "summary": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+          "published": "2026-07-07T20:45:08+00:00"
+        },
+        {
+          "summary": "Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
+          "published": "2026-07-07T22:01:00+00:00"
+        },
+        {
+          "summary": "Samsung Made More Profit Last Quarter Than the Last Two Years Combined",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html",
+          "published": "2026-07-07T17:57:42+00:00"
+        },
+        {
+          "summary": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T01:04:44+00:00"
+        },
+        {
+          "summary": "A century-old barbecue restaurant has its top-secret barbecue sauce recipe locked in a bank vault",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/mcclards-barbecue-arkansas-sauce-recipe-locked-in-a-bank-vault",
+          "published": null
+        },
+        {
+          "summary": "Read 48 pitch decks that creator-economy startups used to raise millions of dollars",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/pitch-decks-used-by-content-creator-economy-startups",
+          "published": null
+        },
+        {
+          "summary": "Ex-PepsiCo CEO Indra Nooyi worked from midnight until 5 a.m. as a receptionist to pay for her Yale degree—and she says ‘respect went up’ because of it",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/small-business/articles/ex-pepsico-ceo-indra-nooyi-160106291.html",
+          "published": null
+        },
+        {
+          "summary": "Canada orders 12 submarines from Germany in largest defence deal of its kind",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/canada-picks-german-firm-tkms-211900849.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "随着微软逐步淘汰 OpenAI 和 Anthropic 模型以削减成本，Copilot 变得便宜",
+          "summary_en": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+          "published": "2026-07-07T18:35:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.67
+        },
+        {
+          "summary_zh": "SQL、Pandas 和 AI 代理：哪个能最好地解决分析问题？",
+          "summary_en": "SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best",
+          "published": "2026-07-07T16:00:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.03
+        },
+        {
+          "summary_zh": "自动化系统推进高效的人工智能工作流程",
+          "summary_en": "Automation system advances efficient AI workflows",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-automation-advances-efficient-ai-workflows.html",
+          "published": "2026-07-07T15:00:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.27
+        },
+        {
+          "summary_zh": "三个理想火枪手创业，打破具身最快百台交付纪录",
+          "summary_en": "Three ideal musketeers start a business and break the record for the fastest delivery of 100 units",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/445531.html",
+          "published": "2026-07-08T00:44:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "新手程序员如何开发军事应用的人工智能程序",
+          "summary_en": "How novice coders can develop AI programs for military applications",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+          "published": "2026-07-07T13:25:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.88
+        },
+        {
+          "summary_zh": "自动驾驶公司从 AMD 获得资金和芯片",
+          "summary_en": "Self-Driving Company Gets Funding and Chips From AMD",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/self-driving-company-funding-chips-from-amd",
+          "published": "2026-07-07T14:02:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.53
+        },
+        {
+          "summary_zh": "Anthropic 的 Claude Cowork AI 代理现已在移动和网络上推出",
+          "summary_en": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+          "published": "2026-07-07T17:04:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.29
+        },
+        {
+          "summary_zh": "AI将为我们做什么？低收入国家的年轻人对其潜力更加积极",
+          "summary_en": "What will AI do for us? Young adults in lower-income countries feel more positive about its potential",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-young-adults-income-countries.html",
+          "published": "2026-07-07T14:40:10-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.19
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+          "published": "2026-07-07T18:35:58+00:00"
+        },
+        {
+          "summary": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+          "published": "2026-07-07T17:04:30+00:00"
+        },
+        {
+          "summary": "SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best",
+          "published": "2026-07-07T16:00:29+00:00"
+        },
+        {
+          "summary": "Automation system advances efficient AI workflows",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-automation-advances-efficient-ai-workflows.html",
+          "published": "2026-07-07T15:00:07-04:00"
+        },
+        {
+          "summary": "三个理想火枪手创业，打破具身最快百台交付纪录",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/445531.html",
+          "published": "2026-07-08T00:44:02+00:00"
+        },
+        {
+          "summary": "What will AI do for us? Young adults in lower-income countries feel more positive about its potential",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-young-adults-income-countries.html",
+          "published": "2026-07-07T14:40:10-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "10 Probability Concepts for Machine Learning Explained Simply",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply",
+          "published": "2026-07-07T12:00:36+00:00"
+        },
+        {
+          "summary": "How novice coders can develop AI programs for military applications",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+          "published": "2026-07-07T13:25:00-04:00"
+        },
+        {
+          "summary": "Self-Driving Company Gets Funding and Chips From AMD",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/self-driving-company-funding-chips-from-amd",
+          "published": "2026-07-07T14:02:34+00:00"
+        },
+        {
+          "summary": "Jesse Thaler named director of the Laboratory for Nuclear Science",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
+          "published": "2026-07-07T10:45:00-04:00"
+        },
+        {
+          "summary": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/445608.html",
+          "published": "2026-07-07T11:43:08+00:00"
+        }
+      ]
+    }
+  }
+}
