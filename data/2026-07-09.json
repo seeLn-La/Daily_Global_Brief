@@ -1,0 +1,630 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T02:07:43.301188+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "在欧盟的支持下，QuantumDiamonds 旨在加快芯片制造速度",
+          "summary_en": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+          "published": "2026-07-08T20:29:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.09
+        },
+        {
+          "summary_zh": "EmTech AI 2026：人工智能平台的崛起",
+          "summary_en": "EmTech AI 2026: The Rise of the AI Platform",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+          "published": "2026-07-08T16:26:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "联邦贸易委员会达成和解，赋予约翰迪尔农场设备维修权",
+          "summary_en": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
+          "published": "2026-07-08T20:06:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.99
+        },
+        {
+          "summary_zh": "常春藤盟校教授怀疑人工智能作弊，下令进行现场决赛；成绩下降50%",
+          "summary_en": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "published": "2026-07-08T21:42:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "梅西和罗纳尔多正在建立技术组合。莫·萨拉赫正在玩一场不同的比赛",
+          "summary_en": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+          "published": "2026-07-08T21:08:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "我喜欢的一个软件工程面试问题：计算中位数",
+          "summary_en": "A software engineering interview question I like: computing the median",
+          "source": "Hacker News: Front Page",
+          "url": "https://krisshamloo.com/blog/007",
+          "published": "2026-07-09T00:38:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "早报｜努比亚确认推出全球首款AI智能体手机/法拉利高管:中国车企做的是快消品/华为天才少年回应DeepSeek面试争议",
+          "summary_en": "Morning Post | Nubia confirms the launch of the world's first AI smartphone/Ferrari executive: Chinese car companies are engaged in FMCG/Huawei's young genius responds to DeepSeek interview controversy",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671401?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-09T00:11:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "大众汽车在波兰的一个太阳能农场雇佣了 100 只羊",
+          "summary_en": "Volkswagen is employing 100 sheep at a solar farm in Poland",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
+          "published": "2026-07-08T23:22:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.81
+        },
+        {
+          "summary_zh": "这家初创公司认为机器人技术即将迎来它的 ChatGPT 时刻",
+          "summary_en": "This startup thinks robotics is about to have its ChatGPT moment",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "published": "2026-07-08T19:19:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "MIRA：在《火箭联盟》中训练的多人互动世界模型",
+          "summary_en": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+          "source": "Hacker News: Front Page",
+          "url": "https://mira-wm.com/",
+          "published": "2026-07-09T00:27:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.09
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+          "published": "2026-07-08T20:29:50+00:00"
+        },
+        {
+          "summary": "EmTech AI 2026: The Rise of the AI Platform",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+          "published": "2026-07-08T16:26:10+00:00"
+        },
+        {
+          "summary": "FTC reaches settlement that brings right-to-repair to John Deere farm equipment",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2210939/ftc-reaches-settlement-that-brings-right-to-repair-to-john-deere-farm-equipment/",
+          "published": "2026-07-08T20:06:11+00:00"
+        },
+        {
+          "summary": "Volkswagen is employing 100 sheep at a solar farm in Poland",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
+          "published": "2026-07-08T23:22:18+00:00"
+        },
+        {
+          "summary": "This startup thinks robotics is about to have its ChatGPT moment",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "published": "2026-07-08T19:19:15+00:00"
+        },
+        {
+          "summary": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "published": "2026-07-08T21:42:44+00:00"
+        },
+        {
+          "summary": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+          "published": "2026-07-08T21:08:26+00:00"
+        },
+        {
+          "summary": "A software engineering interview question I like: computing the median",
+          "source": "Hacker News: Front Page",
+          "url": "https://krisshamloo.com/blog/007",
+          "published": "2026-07-09T00:38:02+00:00"
+        },
+        {
+          "summary": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+          "source": "Hacker News: Front Page",
+          "url": "https://mira-wm.com/",
+          "published": "2026-07-09T00:27:57+00:00"
+        },
+        {
+          "summary": "早报｜努比亚确认推出全球首款AI智能体手机/法拉利高管:中国车企做的是快消品/华为天才少年回应DeepSeek面试争议",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671401?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-09T00:11:13+00:00"
+        },
+        {
+          "summary": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
+          "published": "2026-07-08T19:01:19+00:00"
+        },
+        {
+          "summary": "The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/",
+          "published": "2026-07-08T20:27:18+00:00"
+        },
+        {
+          "summary": "奔驰全新纯电 GLC 转型 AI，新版型同步开启预售，29.99 万元起",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671374?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-08T16:15:38+00:00"
+        },
+        {
+          "summary": "The Download: worms fight pollution, and geoengineering faces reality",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+          "published": "2026-07-08T12:10:00+00:00"
+        },
+        {
+          "summary": "中信建投：AI PCB需求放量、高阶升级趋势明确，打开设备耗材新空间",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3887685210372611?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Twelve South’s AirFly Pro is a great travel companion, and it’s on sale for $40",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/962910/twelve-south-airfly-pro-summer-travel-gadgets-deal-sale",
+          "published": null
+        },
+        {
+          "summary": "This jumping $800 robot camera dog filled me with joy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+          "published": null
+        },
+        {
+          "summary": "36氪首发 | 物理AI公司获晶科能源、国投创新等数亿融资，要做全球能源基础设施“大脑”",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3887726503688968?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "豪华汽车公司杜邦注册集团将选择银行进行首次公开​​募股",
+          "summary_en": "Luxury Car Firm DuPont Registry Group to Pick Banks for IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/luxury-car-firm-dupont-registry-group-said-to-pick-banks-for-ipo",
+          "published": "2026-07-08T22:53:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.69
+        },
+        {
+          "summary_zh": "沃什首次美联储会议上，部分官员表示支持加息",
+          "summary_en": "At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html",
+          "published": "2026-07-08T19:34:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "股票走势：能源股、博通、英伟达（播客）",
+          "summary_en": "Stock Movers: Energy Stocks, Broadcom, Nvidia (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-08/stock-movers-energy-stocks-broadcom-nvidia-podcast",
+          "published": "2026-07-08T21:11:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "投资者十年来从未如此看好美元。巴克如何能够继续攀升。",
+          "summary_en": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
+          "published": "2026-07-08T21:01:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "我经营英国最大的银行，这里有五种管理资金的方法",
+          "summary_en": "I run the UK's biggest bank, here are five ways to manage your money",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T23:10:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.76
+        },
+        {
+          "summary_zh": "迈克尔·伯里 (Michael Burry) 押注体育博彩公司 DraftKings 和 Flutter，认为预测市场受到监管限制",
+          "summary_en": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+          "published": "2026-07-08T21:59:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.97
+        },
+        {
+          "summary_zh": "液化天然气市场在冬季到来之前可能出现的三种破裂方式",
+          "summary_en": "Three ways the LNG market could crack before winter",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter",
+          "published": "2026-07-08T14:08:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "日本顶级眼镜制造商如何通过通胀考验",
+          "summary_en": "How Japan's Top Eyewear Maker is Passing Inflation Test",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video",
+          "published": "2026-07-09T01:10:38+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.26
+        },
+        {
+          "summary_zh": "Zyn 的受欢迎程度让烟草公司竞相获利",
+          "summary_en": "Zyn’s Popularity Has Tobacco Companies Racing to Cash In",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html",
+          "published": "2026-07-09T02:06:07+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.49
+        },
+        {
+          "summary_zh": "李维斯 (Levi's) 正在寻找赢得顾客的新方法 - 着眼于上衣和“牛仔奢侈品”",
+          "summary_en": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
+          "published": "2026-07-09T00:38:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.13
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Luxury Car Firm DuPont Registry Group to Pick Banks for IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-08/luxury-car-firm-dupont-registry-group-said-to-pick-banks-for-ipo",
+          "published": "2026-07-08T22:53:35+00:00"
+        },
+        {
+          "summary": "How Japan's Top Eyewear Maker is Passing Inflation Test",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video",
+          "published": "2026-07-09T01:10:38+00:00"
+        },
+        {
+          "summary": "At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html",
+          "published": "2026-07-08T19:34:27+00:00"
+        },
+        {
+          "summary": "Zyn’s Popularity Has Tobacco Companies Racing to Cash In",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/06/business/zyn-nicotine-pouches-tobacco.html",
+          "published": "2026-07-09T02:06:07+00:00"
+        },
+        {
+          "summary": "Stock Movers: Energy Stocks, Broadcom, Nvidia (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-08/stock-movers-energy-stocks-broadcom-nvidia-podcast",
+          "published": "2026-07-08T21:11:50+00:00"
+        },
+        {
+          "summary": "Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories",
+          "published": "2026-07-08T21:01:00+00:00"
+        },
+        {
+          "summary": "Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories",
+          "published": "2026-07-09T00:38:00+00:00"
+        },
+        {
+          "summary": "Stock Movers: Broadcom, Terawulf, Travel Stocks (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-08/stock-movers-broadcom-terawulf-travel-stocks-podcast",
+          "published": "2026-07-08T20:22:08+00:00"
+        },
+        {
+          "summary": "I run the UK's biggest bank, here are five ways to manage your money",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T23:10:10+00:00"
+        },
+        {
+          "summary": "Michael Burry bets on sportsbooks DraftKings and Flutter, sees prediction markets curbed by regulation",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html",
+          "published": "2026-07-08T21:59:27+00:00"
+        },
+        {
+          "summary": "China consumer price growth weakens in June while producer inflation rises on export orders",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html",
+          "published": "2026-07-09T01:53:20+00:00"
+        },
+        {
+          "summary": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-08T19:23:33+00:00"
+        },
+        {
+          "summary": "Three ways the LNG market could crack before winter",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/08/three-ways-the-lng-market-could-crack-before-winter",
+          "published": "2026-07-08T14:08:15+00:00"
+        },
+        {
+          "summary": "New York and San Francisco are some of the hottest markets for renters, but a tiny Northeastern city beat them both",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/hottest-rental-markets-usa-cities-2026",
+          "published": null
+        },
+        {
+          "summary": "Jeff Bezos' Blue Origin is raising external funding for the first time. Read the CEO's email to staff.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/jeff-bezos-blue-origin-raising-10-billion-funding-read-memo-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Famed investor Jeremy Grantham says history will end up laughing at SpaceX, the ‘craziest IPO in the history of man’ that just joined the Nasdaq 100",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/famed-investor-jeremy-grantham-says-121525766.html",
+          "published": null
+        },
+        {
+          "summary": "Close to a million investors of the Trump memecoin lost a collective $3.8 billion, even as the president disclosed $636 million in earnings",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/close-to-a-million-investors-of-the-trump-memecoin-lost-a-collective-38-billion-even-as-the-president-disclosed-636-million-in-earnings-193407130.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Nvidia 与 Hugging Face 合作开发开源机器人模型",
+          "summary_en": "Nvidia, Hugging Face Collaborate on Open Source Robot Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
+          "published": "2026-07-08T19:35:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.87
+        },
+        {
+          "summary_zh": "混合人工智能模型减少了股票和加密货币的财务预测错误",
+          "summary_en": "Hybrid AI model cuts financial forecasting error across stocks and crypto",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hybrid-ai-financial-error-stocks.html",
+          "published": "2026-07-08T14:10:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "Google Deepmind 为 Gemini API 托管代理添加后台执行和 MCP 支持",
+          "summary_en": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/",
+          "published": "2026-07-08T14:45:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.66
+        },
+        {
+          "summary_zh": "OpenAI 前高管 Kevin Weil 现已成为 Stoke Space 董事会成员",
+          "summary_en": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+          "published": "2026-07-08T12:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.97
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "我们与政府和国家安全伙伴关系的方法",
+          "summary_en": "Our approach to government and national security partnerships",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "published": "2026-07-08T13:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.34
+        },
+        {
+          "summary_zh": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+          "summary_en": "50FPS, 70% cost reduction, MoXin MoWorld brings the world model into the industrial era",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/446411.html",
+          "published": "2026-07-08T13:29:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.34
+        },
+        {
+          "summary_zh": "Meta 的 Muse 形象可能正是中小企业所需要的",
+          "summary_en": "Meta’s Muse Image Might be Just What SMBs Need",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
+          "published": "2026-07-08T22:47:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "ChatGPT 现在可以同时听和说，让 AI 对话看起来更加人性化",
+          "summary_en": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/",
+          "published": "2026-07-08T18:18:55+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.55
+        },
+        {
+          "summary_zh": "随着超薄芯片堆栈使高带宽内存密度提高四倍，人工智能内存瓶颈可能会缓解",
+          "summary_en": "AI memory bottleneck may ease as ultrathin chip stacks quadruple high-bandwidth memory density",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-memory-denser-ultrathin-chip.html",
+          "published": "2026-07-08T15:00:03-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.22
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Nvidia, Hugging Face Collaborate on Open Source Robot Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
+          "published": "2026-07-08T19:35:56+00:00"
+        },
+        {
+          "summary": "Hybrid AI model cuts financial forecasting error across stocks and crypto",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hybrid-ai-financial-error-stocks.html",
+          "published": "2026-07-08T14:10:01-04:00"
+        },
+        {
+          "summary": "Meta’s Muse Image Might be Just What SMBs Need",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
+          "published": "2026-07-08T22:47:14+00:00"
+        },
+        {
+          "summary": "Google Deepmind adds background execution and MCP support to Gemini API managed agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-adds-background-execution-and-mcp-support-to-gemini-api-managed-agents/",
+          "published": "2026-07-08T14:45:35+00:00"
+        },
+        {
+          "summary": "ChatGPT can now listen and talk at the same time, making AI conversations seem more human",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human/",
+          "published": "2026-07-08T18:18:55+00:00"
+        },
+        {
+          "summary": "AI memory bottleneck may ease as ultrathin chip stacks quadruple high-bandwidth memory density",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-memory-denser-ultrathin-chip.html",
+          "published": "2026-07-08T15:00:03-04:00"
+        },
+        {
+          "summary": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+          "published": "2026-07-08T12:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Our approach to government and national security partnerships",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "published": "2026-07-08T13:30:00+00:00"
+        },
+        {
+          "summary": "Separating signal from noise in coding evaluations",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "published": "2026-07-08T13:00:00+00:00"
+        },
+        {
+          "summary": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+          "published": "2026-07-08T13:00:00+00:00"
+        },
+        {
+          "summary": "50FPS、成本打掉70%，魔芯MoWorld把世界模型带进产业时代",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/446411.html",
+          "published": "2026-07-08T13:29:44+00:00"
+        },
+        {
+          "summary": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/446075.html",
+          "published": "2026-07-08T09:08:31+00:00"
+        },
+        {
+          "summary": "How to Clean Messy CSV Files with Python: A Beginner’s Guide",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide",
+          "published": "2026-07-08T15:10:39+00:00"
+        }
+      ]
+    }
+  }
+}
