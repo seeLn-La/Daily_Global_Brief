@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T02:06:30.996022+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "一家人工智能代理初创公司刚刚让其代理进行 1 亿美元的融资",
+          "summary_en": "An AI agent startup just let its agent run its $100M fundraise",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "published": "2026-07-09T22:08:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.51
+        },
+        {
+          "summary_zh": "OpenAI 发布了一个新的 ChatGPT 工具，用于所有与工作相关的事情",
+          "summary_en": "OpenAI releases a new ChatGPT tool for all things work related",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
+          "published": "2026-07-09T20:50:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "OpenAI 希望它的新工具能够为您并与您一起完成工作",
+          "summary_en": "OpenAI wants its new tool to do your work for you and with you",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "published": "2026-07-09T21:25:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
+          "summary_en": "Anthropic found a hidden space where Claude puzzles over concepts",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "published": "2026-07-09T20:22:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "OpenAI 负责 AGI 部署的首席执行官 Fidji Simo 即将辞职",
+          "summary_en": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+          "published": "2026-07-09T23:13:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.78
+        },
+        {
+          "summary_zh": "构建您自己的漏洞利用工具",
+          "summary_en": "Build your own vulnerability harness",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+          "published": "2026-07-10T01:28:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.34
+        },
+        {
+          "summary_zh": "早报｜微信新增转账红包「一键直达」功能/GPT-5.6正式上线/小米澎程车内「可变大空间」",
+          "summary_en": "Morning Post | WeChat adds a new \"one-click direct\" function for transferring red envelopes/GPT-5.6 is officially launched/\"Variable large space\" in Xiaomi Pengcheng car",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671523?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-10T00:19:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.05
+        },
+        {
+          "summary_zh": "Meta的新型AI芯片将于9月开始生产",
+          "summary_en": "Meta’s new AI chips will begin production in September",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+          "published": "2026-07-09T17:17:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.3
+        },
+        {
+          "summary_zh": "谷歌上人工智能生成的广告有望很快得到披露",
+          "summary_en": "AI-generated ads on Google will hopefully get disclosures soon",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
+          "published": "2026-07-09T20:06:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.0
+        },
+        {
+          "summary_zh": "Windows Defender 0day 补丁可能允许攻击者填满硬盘",
+          "summary_en": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "published": "2026-07-09T20:52:55+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.19
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "An AI agent startup just let its agent run its $100M fundraise",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "published": "2026-07-09T22:08:58+00:00"
+        },
+        {
+          "summary": "Meta’s new AI chips will begin production in September",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+          "published": "2026-07-09T17:17:37+00:00"
+        },
+        {
+          "summary": "OpenAI releases a new ChatGPT tool for all things work related",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211869/openai-releases-chatgpt-work-tool-macos-windows-web-plans/",
+          "published": "2026-07-09T20:50:04+00:00"
+        },
+        {
+          "summary": "AI-generated ads on Google will hopefully get disclosures soon",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2211839/ai-generated-ads-google-get-disclosures-soon/",
+          "published": "2026-07-09T20:06:17+00:00"
+        },
+        {
+          "summary": "OpenAI wants its new tool to do your work for you and with you",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "published": "2026-07-09T21:25:55+00:00"
+        },
+        {
+          "summary": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "published": "2026-07-09T20:52:55+00:00"
+        },
+        {
+          "summary": "Anthropic found a hidden space where Claude puzzles over concepts",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+          "published": "2026-07-09T20:22:28+00:00"
+        },
+        {
+          "summary": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+          "published": "2026-07-09T12:10:00+00:00"
+        },
+        {
+          "summary": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+          "published": "2026-07-09T23:13:18+00:00"
+        },
+        {
+          "summary": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+          "published": "2026-07-09T21:47:57+00:00"
+        },
+        {
+          "summary": "Build your own vulnerability harness",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.cloudflare.com/build-your-own-vulnerability-harness/",
+          "published": "2026-07-10T01:28:43+00:00"
+        },
+        {
+          "summary": "Star Just Ate a Planet, and It's Not Done Yet",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+          "published": "2026-07-10T01:20:16+00:00"
+        },
+        {
+          "summary": "早报｜微信新增转账红包「一键直达」功能/GPT-5.6正式上线/小米澎程车内「可变大空间」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671523?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-10T00:19:07+00:00"
+        },
+        {
+          "summary": "租电 27.48 万元起！去掉了第三排的蔚来 ES8 大五座版，能装下 21 个行李箱",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671502?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-09T17:45:34+00:00"
+        },
+        {
+          "summary": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "published": null
+        },
+        {
+          "summary": "Google will now tell you if an ad was made with AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+          "published": null
+        },
+        {
+          "summary": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3888180493318921?f=rss",
+          "published": null
+        },
+        {
+          "summary": "36氪首发 | 英伟达全球首家触觉仿真合作伙伴再获数亿融资，上半年订单超去年四倍",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3889141540370949?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "亚洲股市扩大科技股涨幅，日元走强：市场总结",
+          "summary_en": "Asian Stocks Extend Gains on Tech, Yen Strengthens: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-09T22:08:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.51
+        },
+        {
+          "summary_zh": "沃尔玛能否帮助美联储利用实时美国经济数据？我们即将找到答案。",
+          "summary_en": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
+          "published": "2026-07-09T21:52:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.44
+        },
+        {
+          "summary_zh": "世界杯上最重要的比赛是耐克对阵耐克。阿迪达斯",
+          "summary_en": "The World Cup’s Biggest Match Is Nike Vs. Adidas",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/09/business/world-cup-nike-adidas.html",
+          "published": "2026-07-10T01:54:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "美联储Perli重申准备金管理购买的灵活路径 - 路透中文网",
+          "summary_en": "Fed's Perli reiterates flexible path of reserve management buying - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3JMUlV0YUlhYlpJbnR3d1hHYy05cUVjUWYtWVNEZ1YwTTM1M042YWRFZ29XY3EtVnIwZEppeTBJby05UkNNT0ppZ3F6SFctaFgwTHBmTWZEVUtacmM1d3JWTGdQNWVNTlBSY0trZUdpZjExS0RNNk5QRlFndzk0cjdvUnphcmExcjI0bndJV1JFRmRWVlpvVVZtMUVHQTN0Ym4xTHY2bFJvYzExU2MxcUJIUkQ?oc=5",
+          "published": "2026-07-09T17:44:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.41
+        },
+        {
+          "summary_zh": "股市收高，霍尔木兹交通量暴跌，更多",
+          "summary_en": "Stocks Close Higher, Hormuz Traffic Plummets, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-09/stocks-close-higher-hormuz-traffic-plummets-more",
+          "published": "2026-07-09T20:11:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "韩国芯片巨头 SK 海力士在美国出售股票筹集 265 亿美元",
+          "summary_en": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10T01:45:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.41
+        },
+        {
+          "summary_zh": "预测市场引发内幕交易担忧。以下是高盛和其他公司的回应",
+          "summary_en": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+          "published": "2026-07-09T18:52:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.19
+        },
+        {
+          "summary_zh": "摩根大通、花旗银行家将加入香港联交所上市小组",
+          "summary_en": "JPMorgan, Citi Bankers to Join Hong Kong Exchange Listing Panel",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/jpmorgan-citi-bankers-to-join-hong-kong-exchange-listing-panel",
+          "published": "2026-07-10T01:24:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.32
+        },
+        {
+          "summary_zh": "SK海力士即将进军美国市场。以下是有关该交易的信息。",
+          "summary_en": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+          "published": "2026-07-09T22:07:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.5
+        },
+        {
+          "summary_zh": "美国结束对进口飞机及零部件的调查，但不寻求新关税 - 路透中文网",
+          "summary_en": "US ends probe into imported airplanes, parts without seeking new tariffs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFRGTXA2S05hd0NFajB5ZkFrMl82dzV3dnhEa0p3OHVkYzFwWWRJcjN5dkFpQzhYMzdCa1h2V0xxeFBieWM3RHg2NDZJWGpQNFlRVjlfcjBncGRrSjlZbmdWb2tWY3NQYlczYXpqamJyd0VRTk8wbXZLWXhqYk16WkJzSmwxT3E4NTlFZnZfanZhbDV1LWh5bXU0QXQyVmt2TVc4VkxCNEpTTDNuNGVaWmN4Z1NXS3JPZ2ptX1BWS0R0MG9JWDlDM2pvY0FEc0U?oc=5",
+          "published": "2026-07-09T21:15:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.29
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Asian Stocks Extend Gains on Tech, Yen Strengthens: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-09T22:08:45+00:00"
+        },
+        {
+          "summary": "JPMorgan, Citi Bankers to Join Hong Kong Exchange Listing Panel",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/jpmorgan-citi-bankers-to-join-hong-kong-exchange-listing-panel",
+          "published": "2026-07-10T01:24:06+00:00"
+        },
+        {
+          "summary": "Can Walmart help the Fed harness real-time U.S. economic data? We’re about to find out.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-walmart-help-the-fed-harness-real-time-u-s-economic-data-were-about-to-find-out-e625925a?mod=mw_rss_topstories",
+          "published": "2026-07-09T21:52:00+00:00"
+        },
+        {
+          "summary": "SK Hynix is about to hit the U.S. market. Here’s what to know about the deal.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+          "published": "2026-07-09T22:07:00+00:00"
+        },
+        {
+          "summary": "The World Cup’s Biggest Match Is Nike Vs. Adidas",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/09/business/world-cup-nike-adidas.html",
+          "published": "2026-07-10T01:54:48+00:00"
+        },
+        {
+          "summary": "Fed's Perli reiterates flexible path of reserve management buying - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3JMUlV0YUlhYlpJbnR3d1hHYy05cUVjUWYtWVNEZ1YwTTM1M042YWRFZ29XY3EtVnIwZEppeTBJby05UkNNT0ppZ3F6SFctaFgwTHBmTWZEVUtacmM1d3JWTGdQNWVNTlBSY0trZUdpZjExS0RNNk5QRlFndzk0cjdvUnphcmExcjI0bndJV1JFRmRWVlpvVVZtMUVHQTN0Ym4xTHY2bFJvYzExU2MxcUJIUkQ?oc=5",
+          "published": "2026-07-09T17:44:41+00:00"
+        },
+        {
+          "summary": "US ends probe into imported airplanes, parts without seeking new tariffs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFRGTXA2S05hd0NFajB5ZkFrMl82dzV3dnhEa0p3OHVkYzFwWWRJcjN5dkFpQzhYMzdCa1h2V0xxeFBieWM3RHg2NDZJWGpQNFlRVjlfcjBncGRrSjlZbmdWb2tWY3NQYlczYXpqamJyd0VRTk8wbXZLWXhqYk16WkJzSmwxT3E4NTlFZnZfanZhbDV1LWh5bXU0QXQyVmt2TVc4VkxCNEpTTDNuNGVaWmN4Z1NXS3JPZ2ptX1BWS0R0MG9JWDlDM2pvY0FEc0U?oc=5",
+          "published": "2026-07-09T21:15:18+00:00"
+        },
+        {
+          "summary": "Stocks Close Higher, Hormuz Traffic Plummets, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-09/stocks-close-higher-hormuz-traffic-plummets-more",
+          "published": "2026-07-09T20:11:32+00:00"
+        },
+        {
+          "summary": "A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html",
+          "published": "2026-07-09T15:52:25+00:00"
+        },
+        {
+          "summary": "Modi Receives Rockstar Welcome in Melbourne, Seals Deals With Albanese",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-09/modi-s-australian-visit-westpac-s-ai-chief-rest-job-cuts-australia-briefing",
+          "published": "2026-07-09T23:36:02+00:00"
+        },
+        {
+          "summary": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10T01:45:01+00:00"
+        },
+        {
+          "summary": "Interest rates may need to rise this year, says Bank of England economist",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-09T17:37:11+00:00"
+        },
+        {
+          "summary": "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+          "published": "2026-07-09T18:52:22+00:00"
+        },
+        {
+          "summary": "Anduril CEO says it's bad to IPO in ‘middle of a hype cycle’",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/09/anduril-ceo-ipo-defense.html",
+          "published": "2026-07-09T20:45:46+00:00"
+        },
+        {
+          "summary": "China may struggle to fund Xi Jinping’s tech dreams",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/china-may-struggle-to-fund-xi-jinpings-tech-dreams",
+          "published": "2026-07-09T08:27:02+00:00"
+        },
+        {
+          "summary": "An ageing society might not cost too much",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/09/an-ageing-society-might-not-cost-too-much",
+          "published": "2026-07-09T08:26:42+00:00"
+        },
+        {
+          "summary": "The Fed's new task forces feature big names in business, from Marc Andreessen to Asha Sharma",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/fed-chair-warsh-task-force-members-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Meta launches a new AI coding model with 'very aggressive' pricing, CEO Mark Zuckerberg says",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/meta-launches-muse-spark-1-1-cost-effective-ai-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Famed investor Jeremy Grantham says history will end up laughing at SpaceX, the ‘craziest IPO in the history of man’ that just joined the Nasdaq 100",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/famed-investor-jeremy-grantham-says-121525766.html",
+          "published": null
+        },
+        {
+          "summary": "Trump's plan for a triumphal arch in DC wins early approval from a key federal agency",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/us--trump-triumphal-arch-040626291.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "GPT-5.6 现在是 Microsoft 365 Copilot 中的首选模型",
+          "summary_en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "published": "2026-07-09T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "Anthropic 的克劳德新功能正在悄悄向你推销 AI",
+          "summary_en": "Anthropic’s new Claude feature is quietly selling you on AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "published": "2026-07-09T14:53:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.7
+        },
+        {
+          "summary_zh": "使用人工智能辅助合约开发降低去中心化金融系统的计算成本",
+          "summary_en": "Lowering computational costs in decentralized finance systems using AI-assisted contract development",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-lowering-decentralized-ai.html",
+          "published": "2026-07-09T20:40:04-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.64
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "IBM 通过一系列新功能扩展了 Bob AI 平台",
+          "summary_en": "IBM Extends Bob AI Platform With Array of New Features",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
+          "published": "2026-07-09T17:53:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "Anthropic、OpenAI 和 SpaceX 规模超过过去 25 年的科技退出规模",
+          "summary_en": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "published": "2026-07-09T14:51:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "新闻媒体敦促法官在一场高风险的人工智能版权纠纷中制裁 OpenAI",
+          "summary_en": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-news-outlets-urge-sanction-openai.html",
+          "published": "2026-07-09T13:44:58-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.91
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "ChatGPT 现在是您最雄心勃勃的工作的合作伙伴",
+          "summary_en": "ChatGPT is now a partner for your most ambitious work",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "published": "2026-07-09T10:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.47
+        },
+        {
+          "summary_zh": "Grok 4.5是SpaceXAI首次真正进入企业",
+          "summary_en": "Grok 4.5 Is SpaceXAI’s First Real Entry Into the Enterprise",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
+          "published": "2026-07-09T17:20:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.31
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "published": "2026-07-09T13:00:00+00:00"
+        },
+        {
+          "summary": "Anthropic’s new Claude feature is quietly selling you on AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+          "published": "2026-07-09T14:53:09+00:00"
+        },
+        {
+          "summary": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+          "published": "2026-07-09T14:51:00+00:00"
+        },
+        {
+          "summary": "Lowering computational costs in decentralized finance systems using AI-assisted contract development",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-lowering-decentralized-ai.html",
+          "published": "2026-07-09T20:40:04-04:00"
+        },
+        {
+          "summary": "News outlets urge a judge to sanction OpenAI in a high-stakes AI copyright fight",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-news-outlets-urge-sanction-openai.html",
+          "published": "2026-07-09T13:44:58-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "ChatGPT is now a partner for your most ambitious work",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+          "published": "2026-07-09T10:00:00+00:00"
+        },
+        {
+          "summary": "IBM Extends Bob AI Platform With Array of New Features",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
+          "published": "2026-07-09T17:53:25+00:00"
+        },
+        {
+          "summary": "Grok 4.5 Is SpaceXAI’s First Real Entry Into the Enterprise",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/grok-4-5-spacexai-s-first-real-entry-into-enterprise",
+          "published": "2026-07-09T17:20:28+00:00"
+        },
+        {
+          "summary": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/446658.html",
+          "published": "2026-07-09T06:29:30+00:00"
+        },
+        {
+          "summary": "Running OpenClaw with Ollama",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/running-openclaw-with-ollama",
+          "published": "2026-07-09T14:00:15+00:00"
+        },
+        {
+          "summary": "Tiny robot boats build floating structures",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+          "published": "2026-07-09T11:50:00-04:00"
+        },
+        {
+          "summary": "Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447508.html",
+          "published": "2026-07-09T12:18:17+00:00"
+        },
+        {
+          "summary": "7 Steps to Automating Descriptive Statistics with Python",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-steps-to-automating-descriptive-statistics-with-python",
+          "published": "2026-07-09T12:00:39+00:00"
+        }
+      ]
+    }
+  }
+}
