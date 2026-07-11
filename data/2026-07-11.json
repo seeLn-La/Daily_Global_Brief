@@ -1,0 +1,630 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T01:53:00.117422+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "苹果在商业秘密盗窃诉讼中称 OpenAI 硬件业务“烂到了核心”",
+          "summary_en": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/",
+          "published": "2026-07-10T21:39:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.45
+        },
+        {
+          "summary_zh": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+          "summary_en": "Morning Post | Apple sues OpenAI/Nubian Ni Fei reveals details of AI smart phone/Xiaomi Pengcheng N90 lifting roof exposed",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-11T00:14:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.09
+        },
+        {
+          "summary_zh": "强烈反对后，Meta 删除了 Instagram 上有争议的人工智能功能",
+          "summary_en": "Meta removes controversial AI feature on Instagram after backlash",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "published": "2026-07-10T23:55:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "OpenAI 的安全主管将离开公司",
+          "summary_en": "OpenAI’s Head of Safety Is Leaving the Company",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+          "published": "2026-07-11T01:07:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "选择正确的 AI 代理内存策略：决策树方法",
+          "summary_en": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+          "source": "Hacker News: Front Page",
+          "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+          "published": "2026-07-11T00:43:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.21
+        },
+        {
+          "summary_zh": "量子纠错可以不断地重新校准处理器",
+          "summary_en": "Quantum error correction can constantly recalibrate a processor",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+          "published": "2026-07-10T23:02:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.79
+        },
+        {
+          "summary_zh": "下载：Claude 的内部运作和 OpenAI 的“超级应用程序”",
+          "summary_en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+          "published": "2026-07-10T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "Meta 停用可让您生成任何公共 Instagram 帐户的 AI 图像的功能",
+          "summary_en": "Meta deactivates feature that let you generate AI images of any public Instagram account",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images/",
+          "published": "2026-07-11T01:33:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.42
+        },
+        {
+          "summary_zh": "美国网络机构 CISA 透露，该机构必须在事件发生期间制定其事件手册",
+          "summary_en": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+          "published": "2026-07-11T01:01:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "苹果起诉 OpenAI 涉嫌窃取硬件机密",
+          "summary_en": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+          "published": "2026-07-10T20:44:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.21
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Apple calls OpenAI's hardware business 'rotten to its core' in trade secret theft lawsuit",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212759/apple-calls-openais-hardware-business-rotten-to-its-core-in-trade-secret-theft-lawsuit/",
+          "published": "2026-07-10T21:39:50+00:00"
+        },
+        {
+          "summary": "Meta deactivates feature that let you generate AI images of any public Instagram account",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212843/meta-deactivates-muse-image-public-instagram-post-ai-images/",
+          "published": "2026-07-11T01:33:52+00:00"
+        },
+        {
+          "summary": "早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-11T00:14:02+00:00"
+        },
+        {
+          "summary": "Meta removes controversial AI feature on Instagram after backlash",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "published": "2026-07-10T23:55:07+00:00"
+        },
+        {
+          "summary": "OpenAI’s Head of Safety Is Leaving the Company",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+          "published": "2026-07-11T01:07:26+00:00"
+        },
+        {
+          "summary": "US cyber agency CISA had to build its incident playbook during the incident, agency reveals",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+          "published": "2026-07-11T01:01:28+00:00"
+        },
+        {
+          "summary": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+          "published": "2026-07-10T20:44:05+00:00"
+        },
+        {
+          "summary": "Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach",
+          "source": "Hacker News: Front Page",
+          "url": "https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/",
+          "published": "2026-07-11T00:43:39+00:00"
+        },
+        {
+          "summary": "Meta pulls new AI image feature after days of backlash",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+          "published": "2026-07-11T00:40:36+00:00"
+        },
+        {
+          "summary": "Quantum error correction can constantly recalibrate a processor",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+          "published": "2026-07-10T23:02:30+00:00"
+        },
+        {
+          "summary": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+          "published": "2026-07-10T22:37:22+00:00"
+        },
+        {
+          "summary": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+          "published": "2026-07-10T12:10:00+00:00"
+        },
+        {
+          "summary": "Sperm donors need limits, says a European fertility group",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+          "published": "2026-07-10T09:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI安全系统负责人据悉将离职",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3890587147238152?f=rss",
+          "published": null
+        },
+        {
+          "summary": "奇瑞风云 A9 预售，11.59 万元起，想做同级最美纯电轿车",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671578?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-10T06:42:51+00:00"
+        },
+        {
+          "summary": "Apple sues OpenAI for allegedly stealing hardware secrets",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "published": null
+        },
+        {
+          "summary": "苹果在重磅诉讼中起诉OpenAI窃取商业机密‌",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3890533737806343?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "《华尔街日报》称，米高梅度假村已与迪勒进行交易谈判",
+          "summary_en": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
+          "published": "2026-07-10T23:02:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.79
+        },
+        {
+          "summary_zh": "《纽约时报》指责联邦就业局进行报复",
+          "summary_en": "New York Times Accuses Federal Employment Agency of Retaliation",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html",
+          "published": "2026-07-11T01:33:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.42
+        },
+        {
+          "summary_zh": "美联储报告称关税、伊朗战争和人工智能建设导致通胀“加剧” - 路透中文网",
+          "summary_en": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmpCaExTSktkWXFGQjlDZ2pzOHlSNm0xcXJqcWJGUkdNaWRlSnJldzhzSUZaT2drZy1RZVM5TmVJbGltTHhUU3hzeFpvbGZjbmlJWkxjejUwZVY0UTFscU45ekt2LWlBZUM3c1dtc2R1VE05OXA3NmxCVUxBVVFUQ0ZuSm0zejV6ZlE?oc=5",
+          "published": "2026-07-10T16:30:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "专家警告称，为美联储撤销稳定经济的降息做好准备",
+          "summary_en": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
+          "published": "2026-07-10T19:02:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "普拉博沃向新加坡和印度示好，因为市场地位面临风险，大亨们转移资金",
+          "summary_en": "Prabowo Courts Singapore and India as Market Status at Risk, Tycoons Shift Funds",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-11/indonesia-s-prabowo-hosts-modi-singapore-s-wong-in-jakarta-diplomatic-meetings",
+          "published": "2026-07-11T01:00:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "瑞银表示，在盈利之前购买这些支付股息的房地产股票",
+          "summary_en": "Buy these dividend-paying real estate stocks ahead of earnings, says UBS",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/10/buy-these-dividend-paying-real-estate-stocks-ahead-of-earnings-says-ubs.html",
+          "published": "2026-07-10T19:41:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "您应该更换银行账户吗？",
+          "summary_en": "Should you be switching bank accounts?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c24yjeze14mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10T13:38:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.44
+        },
+        {
+          "summary_zh": "标准普尔全球：国际足联将提供短期经济提振",
+          "summary_en": "S&P Global: FIFA to Offer Short-Term Economic Boost",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
+          "published": "2026-07-10T22:53:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.75
+        },
+        {
+          "summary_zh": "SK 海力士股价在美国上市首日上涨",
+          "summary_en": "SK Hynix Stock Rises on First Day of US Trading",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
+          "published": "2026-07-10T20:08:13+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.06
+        },
+        {
+          "summary_zh": "Meta 股价重获新生，创下多年来最好的一周表现",
+          "summary_en": "Meta’s stock roars back to life as it notches its best week in years",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+          "published": "2026-07-10T22:24:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.63
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-10/mgm-resorts-engaged-in-deal-talks-with-diller-wsj-says",
+          "published": "2026-07-10T23:02:50+00:00"
+        },
+        {
+          "summary": "S&P Global: FIFA to Offer Short-Term Economic Boost",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
+          "published": "2026-07-10T22:53:26+00:00"
+        },
+        {
+          "summary": "New York Times Accuses Federal Employment Agency of Retaliation",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html",
+          "published": "2026-07-11T01:33:43+00:00"
+        },
+        {
+          "summary": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmpCaExTSktkWXFGQjlDZ2pzOHlSNm0xcXJqcWJGUkdNaWRlSnJldzhzSUZaT2drZy1RZVM5TmVJbGltTHhUU3hzeFpvbGZjbmlJWkxjejUwZVY0UTFscU45ekt2LWlBZUM3c1dtc2R1VE05OXA3NmxCVUxBVVFUQ0ZuSm0zejV6ZlE?oc=5",
+          "published": "2026-07-10T16:30:28+00:00"
+        },
+        {
+          "summary": "SK Hynix Stock Rises on First Day of US Trading",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html",
+          "published": "2026-07-10T20:08:13+00:00"
+        },
+        {
+          "summary": "Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories",
+          "published": "2026-07-10T19:02:00+00:00"
+        },
+        {
+          "summary": "Meta’s stock roars back to life as it notches its best week in years",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
+          "published": "2026-07-10T22:24:00+00:00"
+        },
+        {
+          "summary": "Prabowo Courts Singapore and India as Market Status at Risk, Tycoons Shift Funds",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-11/indonesia-s-prabowo-hosts-modi-singapore-s-wong-in-jakarta-diplomatic-meetings",
+          "published": "2026-07-11T01:00:02+00:00"
+        },
+        {
+          "summary": "Stocks Close Modestly Higher, Cease Fire Ends But Talks Continue",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-10/stocks-close-modestly-higher-cease-fire-ends-but-talks-continue",
+          "published": "2026-07-10T20:07:47+00:00"
+        },
+        {
+          "summary": "Meta AI image detector fails to identify some of its own cropped AI images, Reuters analysis finds - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdFhDN2xpWkkxOUxmT0V6VXVRclktUGVBWW01V1M3dFlZbFRGM1o1bjNVVlI4a09ZdVBPak15S0JXVFFWVXFOckJZVE5oYklpTDNQMjdudmVPU281dmRyMzlwNmJBMm9LRTJQY292UXZURGhYUl83Vl9fTW5iTzVyX0RQMG5mUm1vTXZnYUNpd3hBYzdlYzZXdFc3bTVQVmhhTHFQNzRXNE4wWFhQNGh1UHcwSkEzQUFJQU9tYXNR?oc=5",
+          "published": "2026-07-10T23:05:48+00:00"
+        },
+        {
+          "summary": "Buy these dividend-paying real estate stocks ahead of earnings, says UBS",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/10/buy-these-dividend-paying-real-estate-stocks-ahead-of-earnings-says-ubs.html",
+          "published": "2026-07-10T19:41:14+00:00"
+        },
+        {
+          "summary": "As bank earnings approach, a market anomaly emerges",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/10/as-bank-earnings-approach-a-market-anomaly-emerges.html",
+          "published": "2026-07-10T17:18:36+00:00"
+        },
+        {
+          "summary": "Should you be switching bank accounts?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c24yjeze14mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10T13:38:50+00:00"
+        },
+        {
+          "summary": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-10T16:42:35+00:00"
+        },
+        {
+          "summary": "The US EV market comes back from the dead. Thank high gas prices.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/electric-vehicles-us-sales-rebound-gas-prices-tesla-2026-7",
+          "published": null
+        },
+        {
+          "summary": "AI-enabled cheating is forcing some schools to go analog",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Top Iranian officials admitted to the supreme leader that the U.S. naval blockade was crushing the economy, report says, as Trump eyes reimposing it",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/top-iranian-officials-admitted-supreme-162000309.html",
+          "published": null
+        },
+        {
+          "summary": "Jasmine Crockett blasts her Texas Democratic primary loss as ‘racist race'",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/jasmine-crockett-blasts-her-texas-153347109.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 的 GPT-5.6 Sol 自动对较小的 Luna 模型进行了“相当未指定的提示”的后训练",
+          "summary_en": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+          "published": "2026-07-10T21:12:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.33
+        },
+        {
+          "summary_zh": "为菜鸟解释微调（预训练模型如何学习新技能）",
+          "summary_en": "Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills",
+          "published": "2026-07-10T14:00:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.53
+        },
+        {
+          "summary_zh": "Hugging Face 的 Clem Delangue 表示，开源人工智能比以往任何时候都更重要",
+          "summary_en": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "published": "2026-07-10T19:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.78
+        },
+        {
+          "summary_zh": "新的仪表板工具可让您监控 Claude 使用情况",
+          "summary_en": "New Dashboard Tool Lets You Monitor Claude Usage",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
+          "published": "2026-07-10T17:19:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "受大脑启发的硬件为人工智能系统带来更快、更低功耗的异常检测",
+          "summary_en": "Brain-inspired hardware brings faster, lower-power anomaly detection to AI systems",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-brain-hardware-faster-power-anomaly.html",
+          "published": "2026-07-10T12:04:22-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.55
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+          "summary_en": "AI biological research and development has entered the \"operating system era\", Xu Jinbo's team MoleculeOS officially opened",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447832.html",
+          "published": "2026-07-10T14:13:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.59
+        },
+        {
+          "summary_zh": "OpenAI 工作人员确定了 GPT-5.6 Sol 的五个推理级别中的哪一个适合哪种任务复杂性",
+          "summary_en": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+          "published": "2026-07-10T17:52:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.5
+        },
+        {
+          "summary_zh": "GPT-5.6如何体现新的人工智能法规",
+          "summary_en": "How GPT-5.6 Reflects the New AI Regulation",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/how-gpt-5-6-reflects-new-ai-regulation",
+          "published": "2026-07-10T14:40:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.7
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+          "published": "2026-07-10T21:12:47+00:00"
+        },
+        {
+          "summary": "Fine-Tuning Explained for Noobs (How Pretrained Models Learn New Skills)",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/fine-tuning-explained-for-noobs-how-pretrained-models-learn-new-skills",
+          "published": "2026-07-10T14:00:32+00:00"
+        },
+        {
+          "summary": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+          "published": "2026-07-10T17:52:06+00:00"
+        },
+        {
+          "summary": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "published": "2026-07-10T19:00:00+00:00"
+        },
+        {
+          "summary": "New Dashboard Tool Lets You Monitor Claude Usage",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
+          "published": "2026-07-10T17:19:56+00:00"
+        },
+        {
+          "summary": "How GPT-5.6 Reflects the New AI Regulation",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/how-gpt-5-6-reflects-new-ai-regulation",
+          "published": "2026-07-10T14:40:28+00:00"
+        },
+        {
+          "summary": "Brain-inspired hardware brings faster, lower-power anomaly detection to AI systems",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-brain-hardware-faster-power-anomaly.html",
+          "published": "2026-07-10T12:04:22-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Researchers develop 'hierarchical AI agent' that tackles complex errands with ease",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hierarchical-ai-agent-tackles-complex.html",
+          "published": "2026-07-10T07:47:13-04:00"
+        },
+        {
+          "summary": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447832.html",
+          "published": "2026-07-10T14:13:37+00:00"
+        },
+        {
+          "summary": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447691.html",
+          "published": "2026-07-10T09:41:25+00:00"
+        },
+        {
+          "summary": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/deutsche-telekom",
+          "published": "2026-07-10T07:00:00+00:00"
+        },
+        {
+          "summary": "Local Video Summarization Pipeline: Processing Frames with SmolVLM2-2.2B",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/local-video-summarization-pipeline-processing-frames-with-smolvlm2-2-2b",
+          "published": "2026-07-10T12:00:51+00:00"
+        }
+      ]
+    }
+  }
+}
