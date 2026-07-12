@@ -1,0 +1,550 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T01:56:00.528429+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "据报道，菲比·盖茨 (Phoebe Gates) 的人工智能购物应用程序 Phia 声称通过虚假点击获得了不劳而获的联盟销售",
+          "summary_en": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/",
+          "published": "2026-07-11T20:29:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "里德·乔布斯更愿意谈论治愈癌症而不是他的姓氏",
+          "summary_en": "Reed Jobs would rather talk about curing cancer than his last name",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "published": "2026-07-12T00:16:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.08
+        },
+        {
+          "summary_zh": "云中断及其触发的 SLA 积分的公共分类账",
+          "summary_en": "A public ledger of cloud outages and the SLA credits they trigger",
+          "source": "Hacker News: Front Page",
+          "url": "https://slacreditwatch.com",
+          "published": "2026-07-12T00:02:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.03
+        },
+        {
+          "summary_zh": "AI 发现了 Linux 中一个每个人都错过了 15 年的根本错误",
+          "summary_en": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+          "published": "2026-07-11T10:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.64
+        },
+        {
+          "summary_zh": "一颗木星大小的行星逃脱了恒星的死亡",
+          "summary_en": "A Jupiter-size planet that escaped its star's death",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "published": "2026-07-11T12:00:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.02
+        },
+        {
+          "summary_zh": "据报道，作为公司重组的一部分，OpenAI 的安全主管将离职",
+          "summary_en": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/",
+          "published": "2026-07-11T15:39:12+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.93
+        },
+        {
+          "summary_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
+          "summary_en": "Mesh LLM: distributed AI computing on iroh",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "published": "2026-07-11T22:38:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.68
+        },
+        {
+          "summary_zh": "这台冰沙机是纽约热浪期间的救星",
+          "summary_en": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "published": "2026-07-11T22:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "公共土地放牧法规改革旨在减少公众参与",
+          "summary_en": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+          "published": "2026-07-11T11:11:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.81
+        },
+        {
+          "summary_zh": "Beatbot AquaSense X 评测：自动清洁的泳池机器人",
+          "summary_en": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/beatbot-aquasense-x/",
+          "published": "2026-07-11T11:02:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.78
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Phoebe Gates' AI shopping app Phia reportedly claimed unearned affiliate sales through fake clicks",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212973/phoebe-gates-ai-shopping-app-phia-affiliate-sales-fake-clicks/",
+          "published": "2026-07-11T20:29:36+00:00"
+        },
+        {
+          "summary": "Reed Jobs would rather talk about curing cancer than his last name",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+          "published": "2026-07-12T00:16:06+00:00"
+        },
+        {
+          "summary": "A public ledger of cloud outages and the SLA credits they trigger",
+          "source": "Hacker News: Front Page",
+          "url": "https://slacreditwatch.com",
+          "published": "2026-07-12T00:02:27+00:00"
+        },
+        {
+          "summary": "OpenAI's head of safety is reportedly leaving as part of company reorganization",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2212941/openai-head-of-safety-leaving-company-reorganization/",
+          "published": "2026-07-11T15:39:12+00:00"
+        },
+        {
+          "summary": "Mesh LLM: distributed AI computing on iroh",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "published": "2026-07-11T22:38:57+00:00"
+        },
+        {
+          "summary": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "published": "2026-07-11T22:00:00+00:00"
+        },
+        {
+          "summary": "AI Found a Root Bug in Linux That Everyone Missed for 15 Years",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/",
+          "published": "2026-07-11T10:30:00+00:00"
+        },
+        {
+          "summary": "A Jupiter-size planet that escaped its star's death",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "published": "2026-07-11T12:00:58+00:00"
+        },
+        {
+          "summary": "Overhaul of public lands grazing regulations seeks to cut public involvement",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
+          "published": "2026-07-11T11:11:26+00:00"
+        },
+        {
+          "summary": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/beatbot-aquasense-x/",
+          "published": "2026-07-11T11:02:00+00:00"
+        },
+        {
+          "summary": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+          "published": null
+        },
+        {
+          "summary": "The perfect kit for all your tiny repairs",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+          "published": null
+        },
+        {
+          "summary": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3890553690192384?f=rss",
+          "published": null
+        },
+        {
+          "summary": "After years of teasing, the viral Nopia synth is ‘basically finished’",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "韩国领先世界的股票现在的交易价格比以往任何时候都便宜",
+          "summary_en": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
+          "published": "2026-07-12T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.02
+        },
+        {
+          "summary_zh": "我的保险公司说我的屋顶掉了几块瓦片。损失理赔员发现风暴造成的损失达 10,000 美元。怎么会发生这种事？",
+          "summary_en": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+          "published": "2026-07-11T21:45:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "美国疾病预防控制中心称，在刚果的美国公民埃博拉病毒检测呈阳性 - 路透中文网",
+          "summary_en": "US citizen in Congo tests positive for Ebola virus, US CDC says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXYxZnBYby1GYk9jWEp4czFxdFhyaTlFSEVTZHBoZENRakIzSXhFczZFWERQYl96OVpjVmNrRGN0S2xpNDVweElCZjllZTNVUXZpR25GYXRpMWRJMm1Wci04aUN2MVc5MjFWREdfaGV1UUZoM01neExuZVRXdGFkVU9iQW5zbEJtSmRwVHZJZXo0X0Y0cUsxM3JhUF9KSFVHM3B4dGVsTXVjV1hKalR4SzlCOGdsRGlIM1IxY1VhU3UteHhUYkE?oc=5",
+          "published": "2026-07-11T23:43:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.95
+        },
+        {
+          "summary_zh": "美国对伊朗发动新的打击，伊朗：“霍尔木兹关闭”，更多",
+          "summary_en": "US Launches New Strikes on Iran, Iran: “Hormuz Closed”, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-12/us-launches-new-strikes-on-iran-iran-hormuz-closed-more",
+          "published": "2026-07-12T00:33:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.16
+        },
+        {
+          "summary_zh": "美国银行表示，这些股票在盈利前值得买入",
+          "summary_en": "Bank of America says these stocks are a buy heading into earnings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/11/buy-these-five-stocks-ahead-of-earnings-bank-of-america-says.html",
+          "published": "2026-07-11T13:04:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.78
+        },
+        {
+          "summary_zh": "特朗普加大对媒体施压，泰晤士报记者被传唤",
+          "summary_en": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
+          "published": "2026-07-11T15:56:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "沃什和美国通胀将为 7 月美联储决策定下基调",
+          "summary_en": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
+          "published": "2026-07-11T20:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.02
+        },
+        {
+          "summary_zh": "国会暑假期间股市上涨。原因如下。",
+          "summary_en": "Stocks rally when Congress goes on summer break. Here’s why.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+          "published": "2026-07-11T16:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "伊朗拒绝美国谈判、《纽约时报》记者收到司法部传票等",
+          "summary_en": "Iran Rejects US Talks, NYT Reporters Get DOJ Subpoenas, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-11/iran-rejects-us-talks-nyt-reporters-get-doj-subpoenas-more-mrgzia9t",
+          "published": "2026-07-11T23:17:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.84
+        },
+        {
+          "summary_zh": "五角大楼称，德黑兰袭击霍尔木兹集装箱船后，美国对伊朗发动空袭",
+          "summary_en": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+          "published": "2026-07-12T01:45:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.96
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
+          "published": "2026-07-12T00:00:00+00:00"
+        },
+        {
+          "summary": "Warsh and US Inflation Will Set Tone for July Fed Decision",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-11/warsh-and-us-inflation-will-set-tone-for-july-fed-decision",
+          "published": "2026-07-11T20:00:00+00:00"
+        },
+        {
+          "summary": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
+          "published": "2026-07-11T21:45:00+00:00"
+        },
+        {
+          "summary": "Stocks rally when Congress goes on summer break. Here’s why.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-rally-when-congress-goes-on-summer-break-here-is-the-hidden-reason-e70a6be3?mod=mw_rss_topstories",
+          "published": "2026-07-11T16:00:00+00:00"
+        },
+        {
+          "summary": "US citizen in Congo tests positive for Ebola virus, US CDC says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXYxZnBYby1GYk9jWEp4czFxdFhyaTlFSEVTZHBoZENRakIzSXhFczZFWERQYl96OVpjVmNrRGN0S2xpNDVweElCZjllZTNVUXZpR25GYXRpMWRJMm1Wci04aUN2MVc5MjFWREdfaGV1UUZoM01neExuZVRXdGFkVU9iQW5zbEJtSmRwVHZJZXo0X0Y0cUsxM3JhUF9KSFVHM3B4dGVsTXVjV1hKalR4SzlCOGdsRGlIM1IxY1VhU3UteHhUYkE?oc=5",
+          "published": "2026-07-11T23:43:18+00:00"
+        },
+        {
+          "summary": "US Launches New Strikes on Iran, Iran: “Hormuz Closed”, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-12/us-launches-new-strikes-on-iran-iran-hormuz-closed-more",
+          "published": "2026-07-12T00:33:31+00:00"
+        },
+        {
+          "summary": "Iran Rejects US Talks, NYT Reporters Get DOJ Subpoenas, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-11/iran-rejects-us-talks-nyt-reporters-get-doj-subpoenas-more-mrgzia9t",
+          "published": "2026-07-11T23:17:09+00:00"
+        },
+        {
+          "summary": "Bank of America says these stocks are a buy heading into earnings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/11/buy-these-five-stocks-ahead-of-earnings-bank-of-america-says.html",
+          "published": "2026-07-11T13:04:04+00:00"
+        },
+        {
+          "summary": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
+          "published": "2026-07-11T15:56:20+00:00"
+        },
+        {
+          "summary": "U.S. launches airstrikes against Iran after Tehran attacks container ship in Hormuz, Pentagon says",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/11/us-airstrikes-iran-strait-hormuz.html",
+          "published": "2026-07-12T01:45:21+00:00"
+        },
+        {
+          "summary": "Kansas City, the Smallest World Cup Host, Has the World at Its Feet",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/11/business/kansas-city-world-cup-host.html",
+          "published": "2026-07-11T14:28:53+00:00"
+        },
+        {
+          "summary": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5",
+          "published": "2026-07-11T12:25:56+00:00"
+        },
+        {
+          "summary": "Kalshi's 'unusual' management style has more than 100 employees report to both founders, CEO says",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/kalshi-ceo-tarek-mansour-org-structure-employees-report-to-founders-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Will Trump Accounts deliver for American children?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11T07:41:18+00:00"
+        },
+        {
+          "summary": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
+          "published": null
+        },
+        {
+          "summary": "'We've saved 34 tonnes of food and a carpet'",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5yznlrxeyeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-11T05:48:13+00:00"
+        },
+        {
+          "summary": "CEO under fire for mass layoffs amid foreign worker hiring spree now appointed to Fed's task force on jobs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/ceo-under-fire-mass-layoffs-162223016.html",
+          "published": null
+        },
+        {
+          "summary": "Top Iranian officials admitted to the supreme leader that the U.S. naval blockade was crushing the economy, report says, as Trump eyes reimposing it",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/top-iranian-officials-admitted-supreme-162000309.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "据报道，OpenAI 的 GPT-5.6 Sol Ultra 在不到一小时内解决了一道 50 年前的数学问题",
+          "summary_en": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+          "published": "2026-07-11T17:38:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "苹果提起诉讼，指控 ChatGPT 制造商 OpenAI 窃取商业机密",
+          "summary_en": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-apple-lawsuit-accusing-chatgpt-maker.html",
+          "published": "2026-07-11T03:17:58-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.34
+        },
+        {
+          "summary_zh": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+          "summary_en": "GPT-5.6 solves 50 years of mathematical conjectures in one hour, 700-word prompt controls 64 sub-agents",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447873.html",
+          "published": "2026-07-11T05:30:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.39
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "恐怖组织正在使用每一个主要的人工智能聊天机器人来进行攻击计划和武器开发",
+          "summary_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+          "published": "2026-07-11T17:04:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.29
+        },
+        {
+          "summary_zh": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "summary_en": "China’s first 100,000-card cluster is completed! National computing power supports the “100,000-card era”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "published": "2026-07-11T10:07:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.55
+        },
+        {
+          "summary_zh": "音乐行业推出人工智能生成的内容标签",
+          "summary_en": "Music industry launches AI-generated content labels",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-music-industry-ai-generated-content.html",
+          "published": "2026-07-11T03:50:01-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.48
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+          "published": "2026-07-11T17:38:35+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-apple-lawsuit-accusing-chatgpt-maker.html",
+          "published": "2026-07-11T03:17:58-04:00"
+        },
+        {
+          "summary": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+          "published": "2026-07-11T17:04:28+00:00"
+        },
+        {
+          "summary": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447873.html",
+          "published": "2026-07-11T05:30:11+00:00"
+        },
+        {
+          "summary": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "published": "2026-07-11T10:07:17+00:00"
+        },
+        {
+          "summary": "Music industry launches AI-generated content labels",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-music-industry-ai-generated-content.html",
+          "published": "2026-07-11T03:50:01-04:00"
+        }
+      ]
+    }
+  }
+}
