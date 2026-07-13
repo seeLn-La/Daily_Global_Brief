@@ -1,0 +1,508 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T01:57:55.507707+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Summer Games Done Quick 再次为无国界医生组织筹集超过 200 万美元",
+          "summary_en": "Summer Games Done Quick once again raises over $2 million for Doctors Without Borders",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/",
+          "published": "2026-07-12T21:25:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "询问 HN：为 AI 生成的文章添加标记",
+          "summary_en": "Ask HN: Add flag for AI-generated articles",
+          "source": "Hacker News: Front Page",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "published": "2026-07-13T01:24:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒",
+          "summary_en": "Morning Post｜Revealed that Apple M7 Ultra supports up to 1.5TB of memory/Hynix CEO: Next year we will face the most severe storage shortage in history/Ottman Musk once again openly confronts",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-13T00:26:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "TechCrunch Mobility：机器人出租车最后通牒",
+          "summary_en": "TechCrunch Mobility: A robotaxi ultimatum",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+          "published": "2026-07-12T16:07:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "Uber 的自动驾驶汽车战略：放慢其采用速度",
+          "summary_en": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+          "published": "2026-07-12T19:55:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.99
+        },
+        {
+          "summary_zh": "莫阿纳背后的真正谜团：1700年后，为什么波利尼西亚人突然向东航行？",
+          "summary_en": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+          "published": "2026-07-12T11:12:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.81
+        },
+        {
+          "summary_zh": "您对人工智能欣赏日有何计划？",
+          "summary_en": "What are your plans for AI Appreciation Day?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
+          "published": "2026-07-12T20:30:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "Kode Dot 面向创客、渗透测试人员和极客的可编程袖珍设备",
+          "summary_en": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+          "source": "Hacker News: Front Page",
+          "url": "https://kode.diy",
+          "published": "2026-07-12T21:27:29+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.37
+        },
+        {
+          "summary_zh": "2026 年最佳泳池清洁机器人：Beatbot、iGarden、Dreame",
+          "summary_en": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+          "published": "2026-07-12T11:09:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.8
+        },
+        {
+          "summary_zh": "苹果失败的自动驾驶汽车计划留下了强大的人工智能芯片的遗产",
+          "summary_en": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Summer Games Done Quick once again raises over $2 million for Doctors Without Borders",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2213171/summer-games-done-quick-raises-over-2-million-for-doctors-without-borders/",
+          "published": "2026-07-12T21:25:14+00:00"
+        },
+        {
+          "summary": "What are your plans for AI Appreciation Day?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2213147/what-are-your-plans-for-ai-appreciation-day/",
+          "published": "2026-07-12T20:30:53+00:00"
+        },
+        {
+          "summary": "Ask HN: Add flag for AI-generated articles",
+          "source": "Hacker News: Front Page",
+          "url": "https://news.ycombinator.com/item?id=48886741",
+          "published": "2026-07-13T01:24:20+00:00"
+        },
+        {
+          "summary": "早报｜曝苹果M7 Ultra最高支持1.5TB内存/海力士CEO:明年将迎史上最严峻储存短缺/马斯克奥特曼再次公开对垒",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671746?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-13T00:26:28+00:00"
+        },
+        {
+          "summary": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+          "source": "Hacker News: Front Page",
+          "url": "https://kode.diy",
+          "published": "2026-07-12T21:27:29+00:00"
+        },
+        {
+          "summary": "TechCrunch Mobility: A robotaxi ultimatum",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+          "published": "2026-07-12T16:07:00+00:00"
+        },
+        {
+          "summary": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/",
+          "published": "2026-07-12T19:55:37+00:00"
+        },
+        {
+          "summary": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+          "published": "2026-07-12T11:12:19+00:00"
+        },
+        {
+          "summary": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-pool-cleaning-robots/",
+          "published": "2026-07-12T11:09:00+00:00"
+        },
+        {
+          "summary": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "published": null
+        },
+        {
+          "summary": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3893305996442118?f=rss",
+          "published": null
+        },
+        {
+          "summary": "腾讯 WorkBuddy 入门指南：更适合国人体质的 Codex，真的能替我干活",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671739?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-12T09:52:10+00:00"
+        },
+        {
+          "summary": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "published": null
+        },
+        {
+          "summary": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3890553690192384?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "SK海力士在首尔上市后股价下跌",
+          "summary_en": "SK Hynix Shares Drop in Seoul After Much-Hyped US Trading Debut",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut",
+          "published": "2026-07-13T01:27:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.37
+        },
+        {
+          "summary_zh": "美国和伊朗之间最近爆发罢工后，油价上涨，股指期货下跌",
+          "summary_en": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+          "published": "2026-07-13T01:47:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.46
+        },
+        {
+          "summary_zh": "美国和伊朗周末反复袭击后油价上涨",
+          "summary_en": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+          "published": "2026-07-13T01:52:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "美国和伊朗升级中东袭击后油价上涨3% - 路透中文网",
+          "summary_en": "Oil jumps 3% after US, Iran escalate strikes in Mideast - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
+          "published": "2026-07-12T23:24:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "美国袭击伊朗，林赛·格雷厄姆死于主动脉破裂等",
+          "summary_en": "US Strikes Iran, Lindsey Graham Dies From Aortic Rupture, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-13/us-strikes-iran-lindsey-graham-dies-from-aortic-rupture-more",
+          "published": "2026-07-13T01:56:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "取消与西班牙长达 118 年的边境管制，直布罗陀进入新时代",
+          "summary_en": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-12T23:29:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.88
+        },
+        {
+          "summary_zh": "美国和伊朗再次发动空袭后股指期货下跌：实时更新",
+          "summary_en": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+          "published": "2026-07-13T01:22:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.85
+        },
+        {
+          "summary_zh": "美国金融霸权上空乌云密布",
+          "summary_en": "Storm clouds gather over America’s financial supremacy",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+          "published": "2026-07-12T17:05:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.78
+        },
+        {
+          "summary_zh": "美伊冲突重振通胀和加息风险，金价下跌",
+          "summary_en": "Gold Drops as US-Iran Strikes Revive Inflation, Rate-Hike Risks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
+          "published": "2026-07-12T23:13:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.82
+        },
+        {
+          "summary_zh": "为什么花旗集团是本周银行报告财报时值得关注的对象",
+          "summary_en": "Why Citigroup is the one to watch when banks report earnings this week",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+          "published": "2026-07-12T19:31:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.89
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "SK Hynix Shares Drop in Seoul After Much-Hyped US Trading Debut",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut",
+          "published": "2026-07-13T01:27:43+00:00"
+        },
+        {
+          "summary": "Gold Drops as US-Iran Strikes Revive Inflation, Rate-Hike Risks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/gold-declines-as-renewed-us-iran-strikes-raise-rate-hike-bets",
+          "published": "2026-07-12T23:13:35+00:00"
+        },
+        {
+          "summary": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+          "published": "2026-07-13T01:47:00+00:00"
+        },
+        {
+          "summary": "Why Citigroup is the one to watch when banks report earnings this week",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
+          "published": "2026-07-12T19:31:00+00:00"
+        },
+        {
+          "summary": "Oil Rises After Weekend of Back-and-Forth Strikes by U.S. and Iran",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html",
+          "published": "2026-07-13T01:52:32+00:00"
+        },
+        {
+          "summary": "States Prepare Lawsuit to Block Paramount’s Merger With Warner Bros.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html",
+          "published": "2026-07-12T20:17:50+00:00"
+        },
+        {
+          "summary": "Oil jumps 3% after US, Iran escalate strikes in Mideast - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFpPY1lfc0lIc0xsNVlaSkZQanVuM3RZd0lUMTdLMlktT0dLajFOWExXSTZEd1pJd1kteDBWeTk5UnFHMmFtdUE1cWdmMEZwaDR4M09lV3NENXlhTHIwOUc1NEhTbGNYQTBZUmFNYlRIT3RUWWNyc3JZOXR2WXFrTWRFTmc1V2FHWnlDRW90YkJrOW1WWGstZ0d1bS1JaEJYZTcya0dUdkN4VzZQczhz?oc=5",
+          "published": "2026-07-12T23:24:27+00:00"
+        },
+        {
+          "summary": "Europe recorded 10,000 excess deaths during late-June heatwave, data show - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHBJbVNOU1YwZVlzckc5bzdtRVU3bnJtRHRnckl1Yjk1TDdCSHZTTDNTdjJ4R1pSYjF6R3VLb0JVS1p3VWJOLVdHSlh5RHp1RkNWaGdrQWVGZDE2OWllenU4TF91c2lwWEdSdG9uX3g2VzNMZ2s0TGNuQldjemRrVy00UUwzNTdCcjJFVnhhR3JwbTJhYmZHWnotQlBIUjRuNlV0dWdKZ2QtTFZfOF85WEpsRlFSZVpGM2xIN2pHR19pRUVldnk0?oc=5",
+          "published": "2026-07-12T23:12:39+00:00"
+        },
+        {
+          "summary": "US Strikes Iran, Lindsey Graham Dies From Aortic Rupture, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-13/us-strikes-iran-lindsey-graham-dies-from-aortic-rupture-more",
+          "published": "2026-07-13T01:56:10+00:00"
+        },
+        {
+          "summary": "US Attacks Iran, Senator Lindsey Graham Dies from Aortic Rupture",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-13/us-attacks-iran-senator-lindsey-graham-dies-from-aortic-rupture",
+          "published": "2026-07-13T01:16:42+00:00"
+        },
+        {
+          "summary": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-12T23:29:06+00:00"
+        },
+        {
+          "summary": "Why switching to save money is easier than you might think",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-12T23:28:01+00:00"
+        },
+        {
+          "summary": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
+          "published": "2026-07-13T01:22:27+00:00"
+        },
+        {
+          "summary": "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+          "published": "2026-07-13T01:25:20+00:00"
+        },
+        {
+          "summary": "Storm clouds gather over America’s financial supremacy",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy",
+          "published": "2026-07-12T17:05:30+00:00"
+        },
+        {
+          "summary": "Senate powerhouse Lindsey Graham has died. Here's how he remade corporate taxes, tariffs, and defense.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/lindsey-graham-views-policies-corporate-tax-defense-spending-trade-tariffs-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Ormund Hightower is becoming a key player in 'House of the Dragon.' Here's how he dies in the book.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/how-does-ormund-hightower-die-book-house-of-the-dragon-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Iran war heats up while US weapon stocks remain depleted, risking military’s ability to fight future wars",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/iran-war-heats-while-us-103026768.html",
+          "published": null
+        },
+        {
+          "summary": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Claude Code 现在有一个内置浏览器，可以让人工智能在外部网站上阅读、点击和输入",
+          "summary_en": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+          "published": "2026-07-12T15:02:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.77
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "一项涵盖五个平台的研究显示，LinkedIn 是无可争议的长篇 AI 废话之王",
+          "summary_en": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+          "published": "2026-07-12T16:41:47+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.18
+        },
+        {
+          "summary_zh": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+          "summary_en": "In 1998, a professor from Harbin Institute of Technology started his own business, making a humanoid dexterous manipulation world model.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/448034.html",
+          "published": "2026-07-12T08:29:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.13
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+          "published": "2026-07-12T15:02:06+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
+          "published": "2026-07-12T16:41:47+00:00"
+        },
+        {
+          "summary": "98年哈工大教授创业，要做人形灵巧操作世界模型",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/448034.html",
+          "published": "2026-07-12T08:29:46+00:00"
+        }
+      ]
+    }
+  }
+}
