@@ -1,0 +1,636 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T01:44:55.486485+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "iOS 27、macOS 27 和更多 Apple 平台的公开测试版现已推出",
+          "summary_en": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+          "published": "2026-07-13T20:45:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.25
+        },
+        {
+          "summary_zh": "视频生成初创公司 PixVerse 融资 4.39 亿美元，估值飙升至 20 亿美元以上",
+          "summary_en": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "published": "2026-07-14T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "Anthropic 最新的人工智能发现展示了什么，没有展示什么",
+          "summary_en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "published": "2026-07-13T18:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.56
+        },
+        {
+          "summary_zh": "乌克兰无人机袭击迫使俄罗斯停止在重要海上走廊的航运",
+          "summary_en": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+          "published": "2026-07-13T20:41:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.24
+        },
+        {
+          "summary_zh": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻",
+          "summary_en": "Morning Post | Apple iPhone 20 may usher in major design adjustments/Hainan plans to ban the sale of fuel vehicles in 2030/Byte responds to explore autonomous driving rumors",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-14T00:16:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "2026 年世界杯 VAR 的问题不在于技术，而在于解释它的人",
+          "summary_en": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+          "published": "2026-07-13T19:55:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.04
+        },
+        {
+          "summary_zh": "Show HN: Sx 2.0 – 通过 Dropbox 文件夹与您的团队分享 AI 技能",
+          "summary_en": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+          "source": "Hacker News: Front Page",
+          "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+          "published": "2026-07-13T23:26:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.93
+        },
+        {
+          "summary_zh": "微软正在使 Windows 搜索框更加精简和有用",
+          "summary_en": "Microsoft is making the Windows Search Box more streamlined and useful",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/",
+          "published": "2026-07-13T21:12:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "Uber 酒店、机器人出租车产品负责人以及该公司为何不想“为所有人提供一切”",
+          "summary_en": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "published": "2026-07-14T00:45:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "显示 HN：ContextVault – 为您的 AI 和您的团队提供共享内存层",
+          "summary_en": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.contextvault.dev/",
+          "published": "2026-07-13T23:22:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.91
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2214198/public-betas-for-ios-27-macos-27-and-more-apple-platforms-are-now-available/",
+          "published": "2026-07-13T20:45:24+00:00"
+        },
+        {
+          "summary": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "published": "2026-07-14T00:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft is making the Windows Search Box more streamlined and useful",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2214227/microsoft-is-making-the-windows-search-box-more-streamlined-and-useful/",
+          "published": "2026-07-13T21:12:19+00:00"
+        },
+        {
+          "summary": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "published": "2026-07-14T00:45:00+00:00"
+        },
+        {
+          "summary": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+          "published": "2026-07-13T18:00:00+00:00"
+        },
+        {
+          "summary": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+          "published": "2026-07-13T20:41:26+00:00"
+        },
+        {
+          "summary": "早报｜苹果iPhone 20或迎来大幅设计调整/海南规划2030年禁售燃油车/字节回应探索自动驾驶传闻",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671983?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-14T00:16:36+00:00"
+        },
+        {
+          "summary": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
+          "published": "2026-07-13T19:55:12+00:00"
+        },
+        {
+          "summary": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+          "source": "Hacker News: Front Page",
+          "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+          "published": "2026-07-13T23:26:52+00:00"
+        },
+        {
+          "summary": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.contextvault.dev/",
+          "published": "2026-07-13T23:22:18+00:00"
+        },
+        {
+          "summary": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "published": "2026-07-13T19:17:51+00:00"
+        },
+        {
+          "summary": "Siri AI Is Becoming Apple’s Everything Tool",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+          "published": "2026-07-13T21:39:09+00:00"
+        },
+        {
+          "summary": "The Download: a donor conception cap and world models for AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+          "published": "2026-07-13T12:10:00+00:00"
+        },
+        {
+          "summary": "英伟达 AIPC 中国首秀，笔记本里装下一座「曼哈顿」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671945?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-13T10:19:45+00:00"
+        },
+        {
+          "summary": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3879780282495236?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Microsoft tests Windows Search without all the ads and fluff",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+          "published": null
+        },
+        {
+          "summary": "OnePlus is reportedly bailing on the US",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe",
+          "published": null
+        },
+        {
+          "summary": "中信证券：AI产业趋势再次成为影响美股科技股下半年走势核心变量",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3894767298771974?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "由于盈利前景黯淡，中华航空股票表现逊于国泰航空",
+          "summary_en": "China Airline Stocks Underperform Cathay as Earnings View Dims",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/china-airline-stocks-underperform-cathay-as-earnings-view-dims",
+          "published": "2026-07-14T01:24:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.42
+        },
+        {
+          "summary_zh": "SpaceX 的股价有可能跌破 IPO 价格。如果确实如此，投资者会面临“危机”吗？",
+          "summary_en": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+          "published": "2026-07-13T22:08:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.6
+        },
+        {
+          "summary_zh": "美联储克里斯托弗·沃勒警告称，如果通胀居高不下，美联储将很快加息",
+          "summary_en": "The Fed’s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
+          "published": "2026-07-13T17:52:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.53
+        },
+        {
+          "summary_zh": "美国银行聘请九名高级投资银行家瞄准美国中端市场 - 路透中文网",
+          "summary_en": "Bank of America hires nine senior investment bankers to target US middle market - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2piVTMzejIzNkdzSEk0X3RPNlNzTkJwcE5EaTBIcG5HRGU2X3hFLVByeE1mYmtoS1pydmZTT28wM2p6ekNNRDNCS1dxb21VZnpkeTltY1liYjIxaDQ0LWhGemNvU0lpUDJzWlBfS3ZWbkZDdmpSYU5jT2VLZVNBbmRLdkdUWTEtOHpXWFNjd09KZXFvUkZCVERNd0tsZlRZbXpaTlI4ckstTkVzZGFNMU5GLXREYXpsRVUycldpT0RZWUky?oc=5",
+          "published": "2026-07-13T15:55:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "随着中东紧张局势升级，股票期货几乎没有变化；交易员等待收益和通胀数据：实时更新",
+          "summary_en": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+          "published": "2026-07-14T01:37:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.97
+        },
+        {
+          "summary_zh": "股市收低，美国实施霍尔木兹封锁，更多",
+          "summary_en": "Stocks Close Lower, US To Enforce Hormuz Blockade, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-13/stocks-close-lower-us-to-enforce-hormuz-blockade-more",
+          "published": "2026-07-13T20:10:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "加利福尼亚州提起诉讼，阻止派拉蒙华纳兄弟大型合并",
+          "summary_en": "California leads lawsuit to block Paramount Warner Bros mega merger",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-13T23:17:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "女性养家糊口的严重短缺",
+          "summary_en": "The stubborn scarcity of female breadwinners",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
+          "published": "2026-07-13T19:12:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.36
+        },
+        {
+          "summary_zh": "沃什的证词显示，在通胀数据公布之前，美联储加息的赌注就增加了",
+          "summary_en": "Fed Rate-Hike Bets Mount Before Inflation Data, Warsh Testimony",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/fed-rate-hike-bets-mount-before-inflation-data-warsh-testimony",
+          "published": "2026-07-14T00:25:13+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.17
+        },
+        {
+          "summary_zh": "为什么投资者的借贷狂欢是股市的一个警告信号",
+          "summary_en": "Why a borrowing binge by investors is a warning sign for the stock market",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+          "published": "2026-07-13T22:19:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.64
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "China Airline Stocks Underperform Cathay as Earnings View Dims",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/china-airline-stocks-underperform-cathay-as-earnings-view-dims",
+          "published": "2026-07-14T01:24:30+00:00"
+        },
+        {
+          "summary": "Fed Rate-Hike Bets Mount Before Inflation Data, Warsh Testimony",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/fed-rate-hike-bets-mount-before-inflation-data-warsh-testimony",
+          "published": "2026-07-14T00:25:13+00:00"
+        },
+        {
+          "summary": "SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories",
+          "published": "2026-07-13T22:08:00+00:00"
+        },
+        {
+          "summary": "Why a borrowing binge by investors is a warning sign for the stock market",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories",
+          "published": "2026-07-13T22:19:00+00:00"
+        },
+        {
+          "summary": "The Fed’s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
+          "published": "2026-07-13T17:52:04+00:00"
+        },
+        {
+          "summary": "Bank of America hires nine senior investment bankers to target US middle market - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2piVTMzejIzNkdzSEk0X3RPNlNzTkJwcE5EaTBIcG5HRGU2X3hFLVByeE1mYmtoS1pydmZTT28wM2p6ekNNRDNCS1dxb21VZnpkeTltY1liYjIxaDQ0LWhGemNvU0lpUDJzWlBfS3ZWbkZDdmpSYU5jT2VLZVNBbmRLdkdUWTEtOHpXWFNjd09KZXFvUkZCVERNd0tsZlRZbXpaTlI4ckstTkVzZGFNMU5GLXREYXpsRVUycldpT0RZWUky?oc=5",
+          "published": "2026-07-13T15:55:42+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/13/stock-market-today-live-updates.html",
+          "published": "2026-07-14T01:37:58+00:00"
+        },
+        {
+          "summary": "Shein executive chairman to pass the baton as IPO nears completion, sources say - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEtob1dIV05DZlNIMEJCTHVNRnNYS2gwcHVycHNUak9fczVocVMtbFNMcnBFLXN4S2FEa2JFMGNwZmtaTzJLemhuT0RJYmxURjcwQlJHcTRNdnRwYlJjSlZCTzlyd0dWdVJtR0g5LURSZnU1OW5pUjc5SE1qUTBMZWd1aTVQOEdXanc0T1NIeWxNT1VROFV6SnJDVXdtUjBOWG9kUGI5Mktoa3BXRFR1QWpYakl3VEV2MnA0RS12WjBpeElm?oc=5",
+          "published": "2026-07-13T23:25:46+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-07-13T23:36:15+00:00"
+        },
+        {
+          "summary": "Stocks Close Lower, US To Enforce Hormuz Blockade, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-13/stocks-close-lower-us-to-enforce-hormuz-blockade-more",
+          "published": "2026-07-13T20:10:26+00:00"
+        },
+        {
+          "summary": "California leads lawsuit to block Paramount Warner Bros mega merger",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-13T23:17:32+00:00"
+        },
+        {
+          "summary": "Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html",
+          "published": "2026-07-13T23:00:14+00:00"
+        },
+        {
+          "summary": "Canada-US Bridge Deal Leaves Both Sides Claiming Victory",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-13/canada-s-carney-downplays-trump-s-gordie-howe-bridge-toll-deal",
+          "published": "2026-07-13T21:10:04+00:00"
+        },
+        {
+          "summary": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-13T23:42:24+00:00"
+        },
+        {
+          "summary": "The stubborn scarcity of female breadwinners",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/13/the-stubborn-scarcity-of-female-breadwinners",
+          "published": "2026-07-13T19:12:11+00:00"
+        },
+        {
+          "summary": "Flock is falling out of favor with police departments",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/flock-safety-cameras-police-departments-lapd-2026-7",
+          "published": null
+        },
+        {
+          "summary": "California's new EV incentive gives a leg up to Lucid and Rivian",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/california-ev-rebate-rivian-lucid-price-cap-exemption-explained-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+          "published": null
+        },
+        {
+          "summary": "Weight-loss implant could one day replace Ozempic injections",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/science/articles/weight-loss-implant-could-one-151649791.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "人工智能代理创建虚拟游乐场来帮助机器人获得关键的训练数据",
+          "summary_en": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+          "published": "2026-07-13T14:50:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "纳德拉呼吁 OpenAI 和 Anthropic 等人工智能实验室在使用其他人的数据进行训练时禁止蒸馏",
+          "summary_en": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+          "published": "2026-07-13T14:28:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.68
+        },
+        {
+          "summary_zh": "对 380 万亿人工智能代币的分析揭示了该技术如何改变金融市场",
+          "summary_en": "Analysis of 380 trillion AI tokens reveals how the technology is transforming financial markets",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-analysis-trillion-ai-tokens-reveals.html",
+          "published": "2026-07-13T12:40:17-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.73
+        },
+        {
+          "summary_zh": "菲尔兹奖提前泄露！王虹邓煜双双在列",
+          "summary_en": "Fields Medal leaked ahead of time! Wang Hong and Deng Yu are both on the list",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449407.html",
+          "published": "2026-07-14T00:42:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.24
+        },
+        {
+          "summary_zh": "企业应如何应对经济学家的人工智能风险信",
+          "summary_en": "How Enterprises Should Respond to Economists’ AI Risk Letter",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
+          "published": "2026-07-13T20:16:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.13
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "带轮廓的结构化语言模型生成",
+          "summary_en": "Structured Language Model Generation with Outlines",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/structured-language-model-generation-with-outlines",
+          "published": "2026-07-13T14:00:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.56
+        },
+        {
+          "summary_zh": "OpenAI新的提示指南告诉用户停止过度思考并从结果开始",
+          "summary_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+          "published": "2026-07-13T17:47:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.51
+        },
+        {
+          "summary_zh": "自动驾驶汽车：险些发生的驾驶数据可以加快 AV 算法的训练",
+          "summary_en": "Self-driving cars: Near-miss driving data can expedite AV algorithm training",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-cars-av-algorithm.html",
+          "published": "2026-07-13T10:20:01-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.15
+        },
+        {
+          "summary_zh": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+          "summary_en": "Agent requires both quantity and brains! Inspur Information maintains 40,000 Agents in a single cabinet while allowing large models to form teams to answer questions.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449311.html",
+          "published": "2026-07-13T11:59:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.06
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+          "published": "2026-07-13T14:50:00-04:00"
+        },
+        {
+          "summary": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+          "published": "2026-07-13T14:28:50+00:00"
+        },
+        {
+          "summary": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+          "published": "2026-07-13T17:47:39+00:00"
+        },
+        {
+          "summary": "Analysis of 380 trillion AI tokens reveals how the technology is transforming financial markets",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-analysis-trillion-ai-tokens-reveals.html",
+          "published": "2026-07-13T12:40:17-04:00"
+        },
+        {
+          "summary": "菲尔兹奖提前泄露！王虹邓煜双双在列",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449407.html",
+          "published": "2026-07-14T00:42:57+00:00"
+        },
+        {
+          "summary": "Self-driving cars: Near-miss driving data can expedite AV algorithm training",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-cars-av-algorithm.html",
+          "published": "2026-07-13T10:20:01-04:00"
+        },
+        {
+          "summary": "How Enterprises Should Respond to Economists’ AI Risk Letter",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
+          "published": "2026-07-13T20:16:25+00:00"
+        },
+        {
+          "summary": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449311.html",
+          "published": "2026-07-13T11:59:57+00:00"
+        },
+        {
+          "summary": "Chinese Tech Vendors Converge on Humanoid Robotics and Embodied AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/chinese-tech-vendors-converge-humanoid-robotics-embodied-ai",
+          "published": "2026-07-13T18:15:24+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Structured Language Model Generation with Outlines",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/structured-language-model-generation-with-outlines",
+          "published": "2026-07-13T14:00:03+00:00"
+        },
+        {
+          "summary": "How MIT students are helping to prevent cyberattacks",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+          "published": "2026-07-13T15:10:00-04:00"
+        },
+        {
+          "summary": "5 Real-World SQL Projects to Build Your Data Portfolio",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio",
+          "published": "2026-07-13T12:00:38+00:00"
+        }
+      ]
+    }
+  }
+}
