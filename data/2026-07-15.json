@@ -1,0 +1,636 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T01:41:30.313116+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "据报道，OpenAI 的第一款硬件设备是一款可移动的无屏扬声器",
+          "summary_en": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "published": "2026-07-14T22:22:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.67
+        },
+        {
+          "summary_zh": "前员工起诉 Meta 涉嫌在裁员期间使用有偏见的人工智能系统",
+          "summary_en": "Former employees sue over Meta's alleged use of biased AI systems during layoffs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215258/former-employees-sue-over-meta-s-alleged-use-of-biased-ai-systems-during-layoffs/",
+          "published": "2026-07-14T21:18:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.4
+        },
+        {
+          "summary_zh": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+          "summary_en": "Morning Post | OpenAI’s first hardware exposed/Xiangjie G9 was approved for Beijing L3 autonomous driving road test license/Lei Jun posted results of Xiaomi robot working in the factory",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672037?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-15T00:34:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "这些彩绘电子纹身可能是可穿戴生物传感器的未来",
+          "summary_en": "These painted e-tattoos could be the future of wearable biosensors",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+          "published": "2026-07-14T17:31:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "TS-2026-009：Tailscale SSH 中的不安全参数处理允许 root 访问",
+          "summary_en": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "source": "Hacker News: Front Page",
+          "url": "https://tailscale.com/security-bulletins",
+          "published": "2026-07-15T01:08:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "英国正计划对 16 岁和 17 岁的青少年实施社交媒体宵禁",
+          "summary_en": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+          "published": "2026-07-14T22:08:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.61
+        },
+        {
+          "summary_zh": "下载：克劳德的内部运作，以及世界模特的未来",
+          "summary_en": "The Download: Claude’s inner workings, and the future of world models",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+          "published": "2026-07-14T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.12
+        },
+        {
+          "summary_zh": "OpenAI 研究员 Miles Wang 正在洽谈创办估值 20 亿美元的人工智能药物发现初创公司",
+          "summary_en": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "published": "2026-07-15T00:27:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.19
+        },
+        {
+          "summary_zh": "三大出版商就人工智能版权侵权向谷歌发起挑战",
+          "summary_en": "Three publishers challenge Google over AI copyright infringement",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/",
+          "published": "2026-07-14T20:28:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.2
+        },
+        {
+          "summary_zh": "诉讼称 Meta 的裁员决定是由人工智能而非人类做出的",
+          "summary_en": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "published": "2026-07-14T20:05:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "published": "2026-07-14T22:22:24+00:00"
+        },
+        {
+          "summary": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+          "published": "2026-07-15T00:27:04+00:00"
+        },
+        {
+          "summary": "Former employees sue over Meta's alleged use of biased AI systems during layoffs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215258/former-employees-sue-over-meta-s-alleged-use-of-biased-ai-systems-during-layoffs/",
+          "published": "2026-07-14T21:18:23+00:00"
+        },
+        {
+          "summary": "早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672037?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-15T00:34:14+00:00"
+        },
+        {
+          "summary": "Three publishers challenge Google over AI copyright infringement",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215206/three-publishers-challenge-google-over-ai-copyright-infringement/",
+          "published": "2026-07-14T20:28:41+00:00"
+        },
+        {
+          "summary": "These painted e-tattoos could be the future of wearable biosensors",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+          "published": "2026-07-14T17:31:58+00:00"
+        },
+        {
+          "summary": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "source": "Hacker News: Front Page",
+          "url": "https://tailscale.com/security-bulletins",
+          "published": "2026-07-15T01:08:26+00:00"
+        },
+        {
+          "summary": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+          "published": "2026-07-14T20:05:53+00:00"
+        },
+        {
+          "summary": "LeMario: Training a JEPA World Model on Super Mario Bros",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.benjamin-bai.com/projects/lemario",
+          "published": "2026-07-14T22:30:47+00:00"
+        },
+        {
+          "summary": "The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/",
+          "published": "2026-07-14T22:08:30+00:00"
+        },
+        {
+          "summary": "The Download: Claude’s inner workings, and the future of world models",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+          "published": "2026-07-14T12:10:00+00:00"
+        },
+        {
+          "summary": "YouTube and X Have Become ‘Gateways’ to Nudify Apps",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+          "published": "2026-07-14T16:05:18+00:00"
+        },
+        {
+          "summary": "PsiQuantum has a plan to make a massive quantum computer out of light",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+          "published": "2026-07-14T08:00:00+00:00"
+        },
+        {
+          "summary": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3895322613185543?f=rss",
+          "published": null
+        },
+        {
+          "summary": "比亚迪王朝大改车型命名规则：L 系列消失，MAX 和 Ultra 将代表旗舰",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1671991?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-14T07:42:37+00:00"
+        },
+        {
+          "summary": "Windows 11’s big patch Tuesday allows you to hold off on updates for longer",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates",
+          "published": null
+        },
+        {
+          "summary": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3896138695706497?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着交易和股票交易激增，摩根大通公布美国银行有史以来最高的季度利润 - 路透中文网",
+          "summary_en": "JPMorgan posts highest quarterly profit ever by a U.S. bank as dealmaking, stock trading surge - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXZXdWw0Um15aXgwRy1uU3dobEJIREY5cDItRFd0d2ZvQjRDdXdVdHZJNmtWWmNuVG5hVWlNZmlXaVQ0eWJ2WndSM1JMOGtIQmpWM29XeVR0OVVheFZQNGVfNmhlYldNdjlfLU1MazZLMjJGVmc4TzdvSWRKNnVkRjNJemVxNGtrck5EWVA5c1dWdUdBSW92Y0RBWDRrdms?oc=5",
+          "published": "2026-07-14T17:06:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.36
+        },
+        {
+          "summary_zh": "沃什重申美联储降低通胀的承诺，但没有具体说明如何降低通胀",
+          "summary_en": "Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
+          "published": "2026-07-14T22:51:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.79
+        },
+        {
+          "summary_zh": "这个被忽视的指数是比标准普尔 500 指数更好的投资",
+          "summary_en": "This overlooked index is a better investment than the S&P 500",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+          "published": "2026-07-14T23:32:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.96
+        },
+        {
+          "summary_zh": "疲软通胀数据提振市场后，股指期货持平：实时更新",
+          "summary_en": "Stock futures are flat after soft inflation reading lifts market: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+          "published": "2026-07-15T00:27:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "从温布尔登毛巾到苏格兰威士忌：印英贸易协议对购物者意味着什么",
+          "summary_en": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-14T22:17:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.65
+        },
+        {
+          "summary_zh": "投资大师犯了哪些错误",
+          "summary_en": "What investment gurus get wrong",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong",
+          "published": "2026-07-14T17:21:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.92
+        },
+        {
+          "summary_zh": "标普 500 指数和纳斯达克指数收高，因通胀数据温和、银行盈利稳健 - 路透中文网",
+          "summary_en": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+          "published": "2026-07-14T20:21:10+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.17
+        },
+        {
+          "summary_zh": "大银行打破盈利记录，但“结构性”风险迫在眉睫",
+          "summary_en": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
+          "published": "2026-07-14T21:15:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.39
+        },
+        {
+          "summary_zh": "周三的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-07-14T23:12:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "IBM 的盈利预警意味着什么：硬件正在“吃掉每个人的午餐”",
+          "summary_en": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+          "published": "2026-07-14T21:10:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.37
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "JPMorgan posts highest quarterly profit ever by a U.S. bank as dealmaking, stock trading surge - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXZXdWw0Um15aXgwRy1uU3dobEJIREY5cDItRFd0d2ZvQjRDdXdVdHZJNmtWWmNuVG5hVWlNZmlXaVQ0eWJ2WndSM1JMOGtIQmpWM29XeVR0OVVheFZQNGVfNmhlYldNdjlfLU1MazZLMjJGVmc4TzdvSWRKNnVkRjNJemVxNGtrck5EWVA5c1dWdUdBSW92Y0RBWDRrdms?oc=5",
+          "published": "2026-07-14T17:06:32+00:00"
+        },
+        {
+          "summary": "Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
+          "published": "2026-07-14T22:51:21+00:00"
+        },
+        {
+          "summary": "S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5",
+          "published": "2026-07-14T20:21:10+00:00"
+        },
+        {
+          "summary": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
+          "published": "2026-07-14T21:15:05+00:00"
+        },
+        {
+          "summary": "This overlooked index is a better investment than the S&P 500",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+          "published": "2026-07-14T23:32:00+00:00"
+        },
+        {
+          "summary": "Stock futures are flat after soft inflation reading lifts market: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/14/stock-market-today-live-updates.html",
+          "published": "2026-07-15T00:27:12+00:00"
+        },
+        {
+          "summary": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/14/wednesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-07-14T23:12:08+00:00"
+        },
+        {
+          "summary": "What IBM’s profit warning means: Hardware is ‘eating everyone’s lunch’",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+          "published": "2026-07-14T21:10:00+00:00"
+        },
+        {
+          "summary": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-14T22:17:43+00:00"
+        },
+        {
+          "summary": "Xbox workers stunned after jobs 'bloodbath'",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-15T00:09:04+00:00"
+        },
+        {
+          "summary": "What investment gurus get wrong",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong",
+          "published": "2026-07-14T17:21:18+00:00"
+        },
+        {
+          "summary": "Trump’s Hormuz brinkmanship is worsening a global fuel crunch",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/14/trumps-hormuz-brinkmanship-is-worsening-a-global-fuel-crunch",
+          "published": "2026-07-14T18:22:01+00:00"
+        },
+        {
+          "summary": "'Big Short' star Michael Burry says buying a home is rarely a good investment — but may still be worth it",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/big-short-michael-burry-housing-market-real-estate-investing-stocks-2026-7",
+          "published": null
+        },
+        {
+          "summary": "See what United's new 'Eurobusiness' economy layout on its new Airbus A321XLRs will look like",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/united-blocking-middle-seats-on-new-airbus-a321xlrs-2026-6",
+          "published": null
+        },
+        {
+          "summary": "'A troubling precedent': Businesses ask Senate to kill a plan to limit stock buybacks and dividends",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/troubling-precedent-businesses-ask-senate-144028233.html",
+          "published": null
+        },
+        {
+          "summary": "‘Close to as good as it gets’: Jamie Dimon just offered another warning on bubbly markets as Wall Street had a monster quarter",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/close-good-gets-jamie-dimon-191701053.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 为教师开放 Claude，并承诺不会根据学生数据训练模型",
+          "summary_en": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+          "published": "2026-07-14T17:24:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.43
+        },
+        {
+          "summary_zh": "人工智能代理创建虚拟游乐场来帮助机器人获得关键的训练数据",
+          "summary_en": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-agents-virtual-playgrounds-robots.html",
+          "published": "2026-07-14T09:56:41-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.06
+        },
+        {
+          "summary_zh": "帮助AI模型满足现实世界",
+          "summary_en": "Helping AI models to meet the real world",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+          "published": "2026-07-14T16:25:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.68
+        },
+        {
+          "summary_zh": "Spotify 通过类似 ChatGPT 的音乐助手扩展其人工智能推广",
+          "summary_en": "Spotify expands its AI push with a ChatGPT-like music assistant",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+          "published": "2026-07-14T14:06:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.61
+        },
+        {
+          "summary_zh": "Oracle 通过代理 AI 工具专注于融合应用程序开发人员",
+          "summary_en": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
+          "published": "2026-07-14T16:53:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "阶跃入局，重构智能体时代操作系统",
+          "summary_en": "Step into the game and reconstruct the operating system for the era of intelligent agents",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449979.html",
+          "published": "2026-07-14T18:43:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.76
+        },
+        {
+          "summary_zh": "代理时代如何管理人工智能投资",
+          "summary_en": "How to manage AI investments in the agentic era",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "published": "2026-07-14T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.58
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "减少 LLM 延迟和生产中推理成本的 12 种方法",
+          "summary_en": "12 Ways to Reduce LLM Latency and Inference Costs in Production",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production",
+          "published": "2026-07-14T12:00:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.08
+        },
+        {
+          "summary_zh": "大型语言模型通常优先考虑西方道德价值观，而忽视其他文化",
+          "summary_en": "Large language models often prioritize Western moral values, overlooking other cultures",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-large-language-prioritize-western-moral.html",
+          "published": "2026-07-14T17:00:04-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.83
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+          "published": "2026-07-14T17:24:27+00:00"
+        },
+        {
+          "summary": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-agents-virtual-playgrounds-robots.html",
+          "published": "2026-07-14T09:56:41-04:00"
+        },
+        {
+          "summary": "Large language models often prioritize Western moral values, overlooking other cultures",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-large-language-prioritize-western-moral.html",
+          "published": "2026-07-14T17:00:04-04:00"
+        },
+        {
+          "summary": "Helping AI models to meet the real world",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+          "published": "2026-07-14T16:25:00-04:00"
+        },
+        {
+          "summary": "Spotify expands its AI push with a ChatGPT-like music assistant",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+          "published": "2026-07-14T14:06:47+00:00"
+        },
+        {
+          "summary": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
+          "published": "2026-07-14T16:53:12+00:00"
+        },
+        {
+          "summary": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+          "published": "2026-07-14T14:00:00-04:00"
+        },
+        {
+          "summary": "阶跃入局，重构智能体时代操作系统",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/449979.html",
+          "published": "2026-07-14T18:43:55+00:00"
+        },
+        {
+          "summary": "How to manage AI investments in the agentic era",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "published": "2026-07-14T10:00:00+00:00"
+        },
+        {
+          "summary": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+          "published": "2026-07-14T14:00:00+00:00"
+        },
+        {
+          "summary": "Mistral AI Unveils Vision Model for Robot Navigation",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/mistral-ai-unveils-vision-model-robot-navigation",
+          "published": "2026-07-14T13:46:55+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Google Search now generates AI images when it can't find what you're looking for on the web",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-search-now-generates-ai-images-when-it-cant-find-what-youre-looking-for-on-the-web/",
+          "published": "2026-07-14T16:20:58+00:00"
+        },
+        {
+          "summary": "12 Ways to Reduce LLM Latency and Inference Costs in Production",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/12-ways-to-reduce-llm-latency-and-inference-costs-in-production",
+          "published": "2026-07-14T12:00:33+00:00"
+        },
+        {
+          "summary": "Getting Started with Conductor for Gemini CLI",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/getting-started-with-conductor-for-gemini-cli",
+          "published": "2026-07-14T14:00:24+00:00"
+        },
+        {
+          "summary": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/448475.html",
+          "published": "2026-07-14T12:36:48+00:00"
+        }
+      ]
+    }
+  }
+}
