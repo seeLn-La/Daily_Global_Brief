@@ -1,0 +1,654 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T01:50:53.709976+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜国行苹果AI要来了，将搭载千问模型/曝DeepSeek计划明年上市/Codex首款硬件发布",
+          "summary_en": "Morning Post | The Bank of China’s Apple AI is coming and will be equipped with the Qianwen model/DeepSeek plans to be launched next year/Codex’s first hardware released",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-16T00:49:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.24
+        },
+        {
+          "summary_zh": "据报道，苹果正在收购人工智能芯片公司",
+          "summary_en": "Apple is reportedly shopping for AI chip companies",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215912/apple-is-reportedly-shopping-for-ai-chip-companies/",
+          "published": "2026-07-15T18:00:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.54
+        },
+        {
+          "summary_zh": "当 Greylock 表示可以筹集更多资金时，为什么将其新基金的上限设定为 $1.5B",
+          "summary_en": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+          "published": "2026-07-16T00:20:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf]",
+          "summary_en": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "published": "2026-07-15T21:16:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "认识一下 GPT-Red：LLM 超级黑客 OpenAI，旨在使其模型更安全",
+          "summary_en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "published": "2026-07-15T17:09:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "工程师识别并解释侏罗纪公园中出现的每台 90 年代计算机",
+          "summary_en": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+          "published": "2026-07-15T21:04:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "Bose 能否帮助 Skullcandy 摆脱廉价品的名声？",
+          "summary_en": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
+          "published": "2026-07-16T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.04
+        },
+        {
+          "summary_zh": "Skullcandy Crusher 1080 评测：触觉低音与超静音 ANC 的结合",
+          "summary_en": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+          "published": "2026-07-16T00:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.04
+        },
+        {
+          "summary_zh": "据报道，微软正在培训销售人员谈论 OpenAI 和 Anthropic",
+          "summary_en": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "published": "2026-07-15T23:59:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.04
+        },
+        {
+          "summary_zh": "OpenAI 的第一个品牌硬件是……发光键盘？",
+          "summary_en": "OpenAI's first branded hardware is... a light-up keyboard?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "published": "2026-07-15T16:00:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.04
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜国行苹果AI要来了，将搭载千问模型/曝DeepSeek计划明年上市/Codex首款硬件发布",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-16T00:49:18+00:00"
+        },
+        {
+          "summary": "Apple is reportedly shopping for AI chip companies",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215912/apple-is-reportedly-shopping-for-ai-chip-companies/",
+          "published": "2026-07-15T18:00:09+00:00"
+        },
+        {
+          "summary": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+          "published": "2026-07-16T00:20:42+00:00"
+        },
+        {
+          "summary": "Skullcandy Crusher 1080 review: Haptic bass meets whisper-quiet ANC",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2215794/skullcandy-crusher-1080-review/",
+          "published": "2026-07-16T00:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "published": "2026-07-15T23:59:44+00:00"
+        },
+        {
+          "summary": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "published": "2026-07-15T21:16:36+00:00"
+        },
+        {
+          "summary": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "published": "2026-07-15T17:09:37+00:00"
+        },
+        {
+          "summary": "Engineer identifies and explains every '90s computer seen in Jurassic Park",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
+          "published": "2026-07-15T21:04:22+00:00"
+        },
+        {
+          "summary": "OpenAI's first branded hardware is... a light-up keyboard?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+          "published": "2026-07-15T16:00:33+00:00"
+        },
+        {
+          "summary": "Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/",
+          "published": "2026-07-16T00:00:00+00:00"
+        },
+        {
+          "summary": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
+          "published": "2026-07-15T21:49:01+00:00"
+        },
+        {
+          "summary": "Free Remote Desktop Without Servers",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/Teylersf/freeremotedesk",
+          "published": "2026-07-16T00:25:10+00:00"
+        },
+        {
+          "summary": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+          "published": "2026-07-15T12:10:00+00:00"
+        },
+        {
+          "summary": "苹果想要「掐死」OpenAI 手机",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672040?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-15T03:39:38+00:00"
+        },
+        {
+          "summary": "众筹近400万美金，这家明星AI体育硬件公司做了款多合一教练机器人 ｜产品观察",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3896586337978244?f=rss",
+          "published": null
+        },
+        {
+          "summary": "8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3897553391978371?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/966219/apple-care-plus-price-increase",
+          "published": null
+        },
+        {
+          "summary": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "日本私募股权基金寻求 19 亿美元经济安全投资",
+          "summary_en": "Japan PE Fund Seeks $1.9 Billion Economic-Security Investments",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-pe-fund-seeks-1-9-billion-economic-security-investments",
+          "published": "2026-07-16T00:44:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.22
+        },
+        {
+          "summary_zh": "美联储调查显示经济活动上升，通胀略有放缓 - 路透中文网",
+          "summary_en": "Economic activity rising and inflation easing slightly, Fed survey shows - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUQ3OW9PNzNUalA5VmRRb2Jmb0t4YUNLRTlZUk90RW9FdTBza2xPalR1Q3dUdzRXYVhOdktERGJPSVVPdFRLTndSbTBPQ1hZc0N5YTMyLVh4ZnJlTGpwMkxjcHdzcnZZV3laZV9JZDlqQlg0bndwbFQyelJTTm81RmRaOW1hVjlzV3VNWmk5LThnX2p4UVdqclZqNExmT3U2WlZnM28xVG9JUmhHa0F0Rw?oc=5",
+          "published": "2026-07-15T19:14:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.85
+        },
+        {
+          "summary_zh": "你错过了十年来的债券交易——而且它肯定能跑赢通胀",
+          "summary_en": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
+          "published": "2026-07-15T22:21:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.63
+        },
+        {
+          "summary_zh": "美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击",
+          "summary_en": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+          "published": "2026-07-15T22:05:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.06
+        },
+        {
+          "summary_zh": "Twitter 20 岁了：两个十年的模因、运动和热门话题",
+          "summary_en": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+          "published": "2026-07-16T01:42:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "彭博黎明亚洲：市场观点、美国贸易政策（播客）",
+          "summary_en": "Bloomberg Daybreak Asia: Market View, US Trade Policy (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-daybreak-asia-market-view-us-trade-policy-podcast",
+          "published": "2026-07-16T01:07:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "SpaceX 股价跌破上市首日价",
+          "summary_en": "SpaceX share price drops below stock market debut",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-15T18:11:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "中国的贸易逆差正在缩小。还有其他惊喜",
+          "summary_en": "China’s trade gap is narrowing. And other surprises",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/15/chinas-trade-gap-is-narrowing-and-other-surprises",
+          "published": "2026-07-15T17:55:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.02
+        },
+        {
+          "summary_zh": "全球投资者寻找创意后门参与中国大型长鑫存储IPO",
+          "summary_en": "Global Investors Hunt For Creative Backdoors Into China’s Mega CXMT IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
+          "published": "2026-07-15T23:45:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.98
+        },
+        {
+          "summary_zh": "华尔街收高，因通胀数据温和且盈利强劲 - 路透中文网",
+          "summary_en": "Wall St ends higher on cool inflation data, strong earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5",
+          "published": "2026-07-15T22:50:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.75
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Japan PE Fund Seeks $1.9 Billion Economic-Security Investments",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-16/japan-pe-fund-seeks-1-9-billion-economic-security-investments",
+          "published": "2026-07-16T00:44:36+00:00"
+        },
+        {
+          "summary": "Global Investors Hunt For Creative Backdoors Into China’s Mega CXMT IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-15/global-investors-hunt-for-creative-backdoors-into-china-s-mega-cxmt-ipo",
+          "published": "2026-07-15T23:45:26+00:00"
+        },
+        {
+          "summary": "Economic activity rising and inflation easing slightly, Fed survey shows - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUQ3OW9PNzNUalA5VmRRb2Jmb0t4YUNLRTlZUk90RW9FdTBza2xPalR1Q3dUdzRXYVhOdktERGJPSVVPdFRLTndSbTBPQ1hZc0N5YTMyLVh4ZnJlTGpwMkxjcHdzcnZZV3laZV9JZDlqQlg0bndwbFQyelJTTm81RmRaOW1hVjlzV3VNWmk5LThnX2p4UVdqclZqNExmT3U2WlZnM28xVG9JUmhHa0F0Rw?oc=5",
+          "published": "2026-07-15T19:14:37+00:00"
+        },
+        {
+          "summary": "Wall St ends higher on cool inflation data, strong earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5",
+          "published": "2026-07-15T22:50:44+00:00"
+        },
+        {
+          "summary": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
+          "published": "2026-07-15T22:21:00+00:00"
+        },
+        {
+          "summary": "Small-cap outperformance is persisting — and these 15 quality stocks pay rich dividends",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/small-cap-outperformance-is-persisting-and-these-15-quality-stocks-pay-rich-dividends-5a814386?mod=mw_rss_topstories",
+          "published": "2026-07-15T22:20:00+00:00"
+        },
+        {
+          "summary": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+          "published": "2026-07-15T22:05:14+00:00"
+        },
+        {
+          "summary": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+          "published": "2026-07-16T01:42:12+00:00"
+        },
+        {
+          "summary": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/15/business/media/new-york-times-subpoenas-quash.html",
+          "published": "2026-07-16T01:38:22+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Market View, US Trade Policy (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-daybreak-asia-market-view-us-trade-policy-podcast",
+          "published": "2026-07-16T01:07:43+00:00"
+        },
+        {
+          "summary": "Second Wave of US Strikes Continues, Warsh Testifies on Fed",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-15/second-wave-of-us-strikes-continues-warsh-testifies-on-fed",
+          "published": "2026-07-15T23:51:52+00:00"
+        },
+        {
+          "summary": "Bank of Korea raises rates to 2.75% in first hike in over three years",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/16/bok-interest-rate-monetary-policy-markets-kospi-skhynix.html",
+          "published": "2026-07-16T01:33:03+00:00"
+        },
+        {
+          "summary": "SpaceX share price drops below stock market debut",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-15T18:11:57+00:00"
+        },
+        {
+          "summary": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-15T23:00:42+00:00"
+        },
+        {
+          "summary": "China’s trade gap is narrowing. And other surprises",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/15/chinas-trade-gap-is-narrowing-and-other-surprises",
+          "published": "2026-07-15T17:55:22+00:00"
+        },
+        {
+          "summary": "Emergent's CEO shares what he looks for in developers in the AI era",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/emergent-ceo-vibe-coding-software-engineer-ai-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Lucid denied bankruptcy rumors. Its make-or-break midsize EV is still a race against time.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/lucid-ceo-bankruptcy-rumors-false-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Russia says foreign troops sent to Ukraine after a peace deal would be legitimate targets",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/russia-says-foreign-troops-sent-134312599.html",
+          "published": null
+        },
+        {
+          "summary": "Former Obama White House attorney says ‘it was a mistake’ to deal with Epstein and she regrets it",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic、黑石集团押注下一个万亿美元的人工智能业务是实施，而不仅仅是模型",
+          "summary_en": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "published": "2026-07-15T13:10:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.33
+        },
+        {
+          "summary_zh": "Perplexity AI 为特工推出太空沙箱",
+          "summary_en": "Perplexity AI Introduces Space Sandbox for Agents",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+          "published": "2026-07-15T20:48:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.24
+        },
+        {
+          "summary_zh": "OpenAI 现在正在使用 AI 来攻击自己的 AI，而且它的表现比人类以往任何时候都好",
+          "summary_en": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
+          "published": "2026-07-15T19:47:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.99
+        },
+        {
+          "summary_zh": "研究发现，数据集过滤对文本到图像模型中的 CSAM 生成仅提供有限的保护",
+          "summary_en": "Dataset filtering provides only limited protection against CSAM generation in text-to-image models, study finds",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-dataset-filtering-limited-csam-generation.html",
+          "published": "2026-07-15T09:40:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.96
+        },
+        {
+          "summary_zh": "用于编排本地人工智能代理的 7 个 Python 框架",
+          "summary_en": "7 Python Frameworks for Orchestrating Local AI Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents",
+          "published": "2026-07-15T12:00:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+          "summary_en": "Won the 2026 WAIC \"Treasure of the Museum\"! Large-model native smartphone STEPX Neo unlocks a new paradigm of AI interaction",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/450652.html",
+          "published": "2026-07-15T06:43:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.72
+        },
+        {
+          "summary_zh": "3 个问题：神经透明度和人工智能设计的未来",
+          "summary_en": "3 Questions: Neural transparency and the future of AI design",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+          "published": "2026-07-15T16:25:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.64
+        },
+        {
+          "summary_zh": "GPT-Red：释放自我完善的稳健性",
+          "summary_en": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "published": "2026-07-15T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.54
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Vint Cerf 正在制定一项在开放互联网上释放人工智能代理的计划",
+          "summary_en": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "published": "2026-07-15T12:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.04
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "published": "2026-07-15T13:10:47+00:00"
+        },
+        {
+          "summary": "Perplexity AI Introduces Space Sandbox for Agents",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+          "published": "2026-07-15T20:48:12+00:00"
+        },
+        {
+          "summary": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "published": "2026-07-15T12:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI is now using AI to attack its own AI, and it's working better than humans ever did",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-is-now-using-ai-to-attack-its-own-ai-and-its-working-better-than-humans-ever-did/",
+          "published": "2026-07-15T19:47:53+00:00"
+        },
+        {
+          "summary": "Dataset filtering provides only limited protection against CSAM generation in text-to-image models, study finds",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-dataset-filtering-limited-csam-generation.html",
+          "published": "2026-07-15T09:40:01-04:00"
+        },
+        {
+          "summary": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
+          "published": "2026-07-15T21:42:30+00:00"
+        },
+        {
+          "summary": "OpenAI's Codex now encrypts instructions between AI agents, leaving developers blind to internal delegation",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-codex-now-encrypts-instructions-between-ai-agents-leaving-developers-blind-to-internal-delegation/",
+          "published": "2026-07-15T08:30:48+00:00"
+        },
+        {
+          "summary": "7 Python Frameworks for Orchestrating Local AI Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents",
+          "published": "2026-07-15T12:00:56+00:00"
+        },
+        {
+          "summary": "This AI tool doesn't just speak languages—it invents them",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-tool-doesnt-languages.html",
+          "published": "2026-07-15T13:50:01-04:00"
+        },
+        {
+          "summary": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/450652.html",
+          "published": "2026-07-15T06:43:37+00:00"
+        },
+        {
+          "summary": "3 Questions: Neural transparency and the future of AI design",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+          "published": "2026-07-15T16:25:00-04:00"
+        },
+        {
+          "summary": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "published": "2026-07-15T10:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "The US is advancing AI safety through state and federal action",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "published": "2026-07-15T12:00:00+00:00"
+        },
+        {
+          "summary": "Stop Using If-Else Chains: Use the Registry Pattern in Python Instead",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead",
+          "published": "2026-07-15T14:00:06+00:00"
+        },
+        {
+          "summary": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/450831.html",
+          "published": "2026-07-15T09:18:03+00:00"
+        }
+      ]
+    }
+  }
+}
