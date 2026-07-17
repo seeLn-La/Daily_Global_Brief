@@ -1,0 +1,654 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T01:54:53.003490+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Roblox 将于今年晚些时候在移动设备上提供人工智能生成的游戏创作",
+          "summary_en": "Roblox will offer AI-generated game creation on mobile later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217106/roblox-will-offer-ai-generated-game-creation-on-mobile-later-this-year/",
+          "published": "2026-07-16T21:32:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.41
+        },
+        {
+          "summary_zh": "官方消息：欧盟将迫使谷歌共享搜索数据并在Android上开放人工智能",
+          "summary_en": "It's official: EU will force Google to share search data and open up AI on Android",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+          "published": "2026-07-16T20:41:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.2
+        },
+        {
+          "summary_zh": "Roblox 在其移动应用程序中推出了人工智能驱动的游戏创建功能",
+          "summary_en": "Roblox launches an AI-powered game-creation feature in its mobile app",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+          "published": "2026-07-16T18:22:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "早报｜真我暂停产品更新/华为撤回「世界」商标申请/努比亚全球首款AI智能体手机搭载豆包手机助手",
+          "summary_en": "Morning Post | Realme suspends product updates/Huawei withdraws trademark application for \"World\"/Nubia's world's first AI smartphone equipped with Doubao mobile assistant",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672229?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-17T00:22:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "我的汽车的 OTA 更新破坏了 Android Auto",
+          "summary_en": "My car’s OTA update broke Android Auto",
+          "source": "Hacker News: Front Page",
+          "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+          "published": "2026-07-16T22:29:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.65
+        },
+        {
+          "summary_zh": "苹果为何起诉 OpenAI、纽约对数据中心发起攻击以及有关环孢子虫病的知识",
+          "summary_en": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+          "published": "2026-07-16T22:17:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
+          "summary_en": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+          "published": "2026-07-16T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "Netflix 表示今年已在“大约 300 部”影片中使用了人工智能",
+          "summary_en": "Netflix says it's already used AI in 'roughly 300' titles this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
+          "published": "2026-07-16T22:51:47+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.74
+        },
+        {
+          "summary_zh": "对人形机器人的恐惧促使人类工人在现代汽车工厂罢工",
+          "summary_en": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+          "published": "2026-07-16T20:09:48+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.06
+        },
+        {
+          "summary_zh": "可口可乐 Fairlife 乳品厂因勒索软件攻击而暂停生产",
+          "summary_en": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+          "published": "2026-07-16T21:22:31+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.37
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Roblox will offer AI-generated game creation on mobile later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217106/roblox-will-offer-ai-generated-game-creation-on-mobile-later-this-year/",
+          "published": "2026-07-16T21:32:54+00:00"
+        },
+        {
+          "summary": "Netflix says it's already used AI in 'roughly 300' titles this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217157/netflix-says-it-s-already-used-ai-in-roughly-300-titles-this-year/",
+          "published": "2026-07-16T22:51:47+00:00"
+        },
+        {
+          "summary": "It's official: EU will force Google to share search data and open up AI on Android",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+          "published": "2026-07-16T20:41:45+00:00"
+        },
+        {
+          "summary": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+          "published": "2026-07-16T20:09:48+00:00"
+        },
+        {
+          "summary": "Roblox launches an AI-powered game-creation feature in its mobile app",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+          "published": "2026-07-16T18:22:06+00:00"
+        },
+        {
+          "summary": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+          "published": "2026-07-16T21:22:31+00:00"
+        },
+        {
+          "summary": "早报｜真我暂停产品更新/华为撤回「世界」商标申请/努比亚全球首款AI智能体手机搭载豆包手机助手",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672229?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-17T00:22:41+00:00"
+        },
+        {
+          "summary": "My car’s OTA update broke Android Auto",
+          "source": "Hacker News: Front Page",
+          "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
+          "published": "2026-07-16T22:29:44+00:00"
+        },
+        {
+          "summary": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+          "published": "2026-07-16T22:17:27+00:00"
+        },
+        {
+          "summary": "Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/",
+          "published": "2026-07-16T21:06:59+00:00"
+        },
+        {
+          "summary": "Google Kills Custom Search API on Jan 1, 2027",
+          "source": "Hacker News: Front Page",
+          "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+          "published": "2026-07-17T01:03:25+00:00"
+        },
+        {
+          "summary": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+          "published": "2026-07-16T12:10:00+00:00"
+        },
+        {
+          "summary": "24.98 万元，新一代理想 L6 上市：51kWh 大电池、旗舰芯片下放，开始补操控这一课",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672196?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-16T14:57:46+00:00"
+        },
+        {
+          "summary": "Why heat pumps are still so hot in the US",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
+          "published": "2026-07-16T10:00:00+00:00"
+        },
+        {
+          "summary": "AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3899005204399749?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Fortnite is getting a bunch of AI-powered ‘personas’",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
+          "published": null
+        },
+        {
+          "summary": "Netflix says around 300 titles used generative AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
+          "published": null
+        },
+        {
+          "summary": "商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3898370289846153?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "中国人工智能股1000%以上的利润增幅可能无法重振涨势",
+          "summary_en": "China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-ai-stocks-1000-plus-profit-gain-may-fail-to-revive-rally",
+          "published": "2026-07-17T00:14:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.08
+        },
+        {
+          "summary_zh": "随着 SpaceX 的股价首次收于低于 IPO 价格，该公司正在为一次重要的发射做准备",
+          "summary_en": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+          "published": "2026-07-16T23:36:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.92
+        },
+        {
+          "summary_zh": "每个人的事：如何从总统职位中获利（播客）",
+          "summary_en": "Everybody's Business: How to Profit off a Presidency (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-17/everybody-s-business-how-to-profit-off-a-presidency-podcast",
+          "published": "2026-07-17T00:41:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.19
+        },
+        {
+          "summary_zh": "SpaceX 股价跌至 IPO 价格，卖空者获利 87 亿美元 - 路透中文网",
+          "summary_en": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdHdsRkVXay1pdUdiNG4wNjlIaWpvOU9NQ3Vpci1UZVlycHZDWG1XdXB0NVFJVDFZSFFfZ0pZZWoyb0J2SG1RYi11eV92dUltUFFsM2VEWlR6d2ZwdUxhRHBNUXRBcVBPQVQ5NXdzUElGdEpCQXdsdlhzcFc1ckF2NTNNMjlVRFZfR0JtNGZtb2VFRHBkMTlfLXRISkRtSWU2SXRUMTRnUXBtUUFDUnFmTmFteEdNOGx0ejhBVjI3SEFnaWw4dU93aQ?oc=5",
+          "published": "2026-07-16T20:30:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "日本芯片股追随华尔街人工智能抛售潮，软银股价下跌 8%",
+          "summary_en": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+          "published": "2026-07-17T01:07:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "Netflix 收入增长 13% 至 126 亿美元",
+          "summary_en": "Netflix Revenue Grows 13% to $12.6 Billion",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/16/business/media/netflix-earnings.html",
+          "published": "2026-07-16T22:51:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.73
+        },
+        {
+          "summary_zh": "特朗普媒体将出售对关键社交帖子的早期访问权",
+          "summary_en": "Trump Media to sell early access to key social posts",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-17T01:27:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.39
+        },
+        {
+          "summary_zh": "中国芯片股回调导致投资者担忧升至四年来新高",
+          "summary_en": "China Chip Stock Pullback Drives Investor Fear to Four-Year High",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-chip-stock-pullback-drives-investor-fear-to-four-year-high",
+          "published": "2026-07-17T01:13:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.33
+        },
+        {
+          "summary_zh": "通用电气提高利润前景，但随着蓬勃发展的订单增长降温，股价下跌",
+          "summary_en": "GE boosts profit outlook, but stock falls as booming order growth cools",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+          "published": "2026-07-16T23:12:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.82
+        },
+        {
+          "summary_zh": "由于芯片疲软抵消了稳健的盈利和经济数据，华尔街收低 - 路透中文网",
+          "summary_en": "Wall Street ends lower as chip weakness offsets solid earnings, economic data - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGU5QUxvUmRMUXgzYmxBbXIxRnM5aTE2Q014TV9HeVlIdVQ0RGV4aWx3a0RMQ2djdUdvSEwtX2diaDZ2QkhfaWE4WmFpb1pWTzlsajhWaTdqYWp4N0hnSjRRWGVIQU93VnA1czVqOGZYekhOMDNWMmZFSnVxTmxybHhxR2NLTVJDR3NxWVE5ZDFEUC11N2NvU0NXSTJrbTJXbXNsQjZsZklUb19vVy1wMi1mU1YxSGc?oc=5",
+          "published": "2026-07-16T20:18:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "China AI Stocks’ 1000%-Plus Profit Gain May Fail to Revive Rally",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-ai-stocks-1000-plus-profit-gain-may-fail-to-revive-rally",
+          "published": "2026-07-17T00:14:42+00:00"
+        },
+        {
+          "summary": "China Chip Stock Pullback Drives Investor Fear to Four-Year High",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/china-chip-stock-pullback-drives-investor-fear-to-four-year-high",
+          "published": "2026-07-17T01:13:27+00:00"
+        },
+        {
+          "summary": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
+          "published": "2026-07-16T23:36:00+00:00"
+        },
+        {
+          "summary": "GE boosts profit outlook, but stock falls as booming order growth cools",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
+          "published": "2026-07-16T23:12:00+00:00"
+        },
+        {
+          "summary": "Everybody's Business: How to Profit off a Presidency (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-17/everybody-s-business-how-to-profit-off-a-presidency-podcast",
+          "published": "2026-07-17T00:41:12+00:00"
+        },
+        {
+          "summary": "Short sellers notch $8.7 bln profit as SpaceX shares dip to IPO price - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdHdsRkVXay1pdUdiNG4wNjlIaWpvOU9NQ3Vpci1UZVlycHZDWG1XdXB0NVFJVDFZSFFfZ0pZZWoyb0J2SG1RYi11eV92dUltUFFsM2VEWlR6d2ZwdUxhRHBNUXRBcVBPQVQ5NXdzUElGdEpCQXdsdlhzcFc1ckF2NTNNMjlVRFZfR0JtNGZtb2VFRHBkMTlfLXRISkRtSWU2SXRUMTRnUXBtUUFDUnFmTmFteEdNOGx0ejhBVjI3SEFnaWw4dU93aQ?oc=5",
+          "published": "2026-07-16T20:30:04+00:00"
+        },
+        {
+          "summary": "Wall Street ends lower as chip weakness offsets solid earnings, economic data - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGU5QUxvUmRMUXgzYmxBbXIxRnM5aTE2Q014TV9HeVlIdVQ0RGV4aWx3a0RMQ2djdUdvSEwtX2diaDZ2QkhfaWE4WmFpb1pWTzlsajhWaTdqYWp4N0hnSjRRWGVIQU93VnA1czVqOGZYekhOMDNWMmZFSnVxTmxybHhxR2NLTVJDR3NxWVE5ZDFEUC11N2NvU0NXSTJrbTJXbXNsQjZsZklUb19vVy1wMi1mU1YxSGc?oc=5",
+          "published": "2026-07-16T20:18:28+00:00"
+        },
+        {
+          "summary": "SoftBank sinks 8% as Japanese chip stocks track Wall Street AI sell-off",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/17/softbank-chip-stocks-asia-wall-street-ai-rout.html",
+          "published": "2026-07-17T01:07:37+00:00"
+        },
+        {
+          "summary": "Netflix Revenue Grows 13% to $12.6 Billion",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/16/business/media/netflix-earnings.html",
+          "published": "2026-07-16T22:51:03+00:00"
+        },
+        {
+          "summary": "Inflation Too Hot for Too Long, Fed Official Warns",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/inflation-too-hot-for-too-long-fed-official-warns",
+          "published": "2026-07-16T21:54:50+00:00"
+        },
+        {
+          "summary": "Truth Social Parent to Sell Faster Access to Trump’s Posts",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/16/business/energy-environment/trump-truth-social-api-access.html",
+          "published": "2026-07-17T00:28:29+00:00"
+        },
+        {
+          "summary": "Trump Media to sell early access to key social posts",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-17T01:27:36+00:00"
+        },
+        {
+          "summary": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
+          "published": "2026-07-16T22:28:40+00:00"
+        },
+        {
+          "summary": "The financial winners and losers from the World Cup",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-16T23:16:14+00:00"
+        },
+        {
+          "summary": "How to shrink the Fed’s $7trn balance-sheet",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/16/how-to-shrink-the-feds-7trn-balance-sheet",
+          "published": "2026-07-16T09:06:46+00:00"
+        },
+        {
+          "summary": "Can Kevin Warsh’s Fed force 5 reimagine monetary policymaking?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/16/can-kevin-warshs-fed-force-5-reimagine-monetary-policymaking",
+          "published": "2026-07-16T09:02:38+00:00"
+        },
+        {
+          "summary": "SpaceX aborts first Starship launch since its massive IPO",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/spacex-aborts-first-starship-launch-since-massive-ipo-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Netflix shares fell 8% after it turned in lukewarm earnings and cut back on how frequently it releases viewing data",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/netflix-second-quarter-earnings-engagement-report-short-form-video-2026-7",
+          "published": null
+        },
+        {
+          "summary": "‘We did not adapt and move quickly enough’: IBM CEO’s admission of weakness fails to prevent historic 25% stock crash",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-not-adapt-move-quickly-205651328.html",
+          "published": null
+        },
+        {
+          "summary": "Former Obama White House attorney says ‘it was a mistake’ to deal with Epstein and she regrets it",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 推出 GPT-Red 测试 AI 模型安全性",
+          "summary_en": "OpenAI Unveils GPT-Red to Test AI Model Safety",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-ugpt-red-tests-ai-model-safety",
+          "published": "2026-07-16T21:32:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.41
+        },
+        {
+          "summary_zh": "Kimi的开放模型K3接近GPT-5.6 Sol和Fable 5，同时标志着超廉价中国人工智能的终结",
+          "summary_en": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+          "published": "2026-07-16T19:49:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.98
+        },
+        {
+          "summary_zh": "Moonshot 即将推出的 Kimi 3 有望缩小与 Anthropic Opus 4.8 的差距",
+          "summary_en": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+          "published": "2026-07-16T14:26:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "人工智能驱动的选举预测揭示了语言模型中隐藏的偏好",
+          "summary_en": "AI-powered election forecasts reveal hidden preferences inside language models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powered-election-reveal-hidden.html",
+          "published": "2026-07-16T07:40:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.44
+        },
+        {
+          "summary_zh": "为什么青少年应该获得安全的人工智能",
+          "summary_en": "Why teens deserve access to safe AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "published": "2026-07-16T16:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.02
+        },
+        {
+          "summary_zh": "使用 Pi 编码代理",
+          "summary_en": "Working with Pi Coding Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/working-with-pi-coding-agents",
+          "published": "2026-07-16T14:00:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.52
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "OpenAI 希望开发人员停止输入命令并开始使用操纵杆来控制他们的 AI 代理",
+          "summary_en": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
+          "published": "2026-07-16T14:31:34+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.65
+        },
+        {
+          "summary_zh": "思维机器推出广泛而高效的模型",
+          "summary_en": "Thinking Machines Rolls Out Broad but Efficient Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
+          "published": "2026-07-16T18:35:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "无论人工智能下一步走向何方，老年人都希望拥有发言权",
+          "summary_en": "Wherever AI is heading next, older people want a say",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-older-people.html",
+          "published": "2026-07-16T15:00:09-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.27
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI Unveils GPT-Red to Test AI Model Safety",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-ugpt-red-tests-ai-model-safety",
+          "published": "2026-07-16T21:32:28+00:00"
+        },
+        {
+          "summary": "Kimi's open model K3 nears GPT-5.6 Sol and Fable 5 while signaling the end of super cheap Chinese AI",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/kimis-open-model-k3-nears-gpt-5-6-sol-and-fable-5-while-signaling-the-end-of-super-cheap-chinese-ai/",
+          "published": "2026-07-16T19:49:39+00:00"
+        },
+        {
+          "summary": "OpenAI wants developers to stop typing commands and start using a joystick to control their AI agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-wants-developers-to-stop-typing-commands-and-start-using-a-joystick-to-control-their-ai-agents/",
+          "published": "2026-07-16T14:31:34+00:00"
+        },
+        {
+          "summary": "Thinking Machines Rolls Out Broad but Efficient Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
+          "published": "2026-07-16T18:35:21+00:00"
+        },
+        {
+          "summary": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+          "published": "2026-07-16T14:26:29+00:00"
+        },
+        {
+          "summary": "AI-powered election forecasts reveal hidden preferences inside language models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powered-election-reveal-hidden.html",
+          "published": "2026-07-16T07:40:01-04:00"
+        },
+        {
+          "summary": "Wherever AI is heading next, older people want a say",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-older-people.html",
+          "published": "2026-07-16T15:00:09-04:00"
+        },
+        {
+          "summary": "Why teens deserve access to safe AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "published": "2026-07-16T16:00:00+00:00"
+        },
+        {
+          "summary": "Working with Pi Coding Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/working-with-pi-coding-agents",
+          "published": "2026-07-16T14:00:16+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "published": "2026-07-16T13:17:59+00:00"
+        },
+        {
+          "summary": "10 YouTube Channels Keeping You Ahead in AI",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai",
+          "published": "2026-07-16T12:11:23+00:00"
+        },
+        {
+          "summary": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/451576.html",
+          "published": "2026-07-16T15:12:41+00:00"
+        },
+        {
+          "summary": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/451371.html",
+          "published": "2026-07-16T09:29:09+00:00"
+        },
+        {
+          "summary": "A better way to turn 2D designs into 3D models for rapid prototyping",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+          "published": "2026-07-16T00:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
