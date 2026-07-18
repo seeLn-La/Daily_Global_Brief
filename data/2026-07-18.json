@@ -1,0 +1,636 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T01:45:03.913539+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Zoox 召回软件，因为其机器人轴可能会被烟雾迷惑",
+          "summary_en": "Zoox issues software recall because its robotaxis may be confused by smoke",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/",
+          "published": "2026-07-17T19:10:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.86
+        },
+        {
+          "summary_zh": "早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC",
+          "summary_en": "Morning Post｜Apple raises Apple Music price/Xiaomi SU7 fake crash review blogger sentenced to one year and eight months/Nubian and Step Star smartphones unveiled at WAIC",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-18T00:49:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "关于软件工程中人工智能的脾气暴躁的长篇大论",
+          "summary_en": "A grumpy screed about AI in software engineering",
+          "source": "Hacker News: Front Page",
+          "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+          "published": "2026-07-18T00:40:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "核初创公司 Valar Atomics 正在洽谈以 60 亿美元估值筹集新资金",
+          "summary_en": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+          "published": "2026-07-17T19:22:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "糖尿病驱逐争议出现令人不安的新细节",
+          "summary_en": "Troubling new details emerge on diabetes ouster controversy",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+          "published": "2026-07-17T17:08:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.35
+        },
+        {
+          "summary_zh": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
+          "summary_en": "The Download: perimenopause misinformation and China’s latest AI leap",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+          "published": "2026-07-17T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "《奥德赛》的强烈反对非常失败",
+          "summary_en": "‘The Odyssey’ Backlash Failed Tremendously",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+          "published": "2026-07-17T17:09:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.35
+        },
+        {
+          "summary_zh": "现在有一个 API 用于将特朗普的真相社交帖子主流化",
+          "summary_en": "There's now an API for mainlining Trump's Truth Social posts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/",
+          "published": "2026-07-17T22:05:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.59
+        },
+        {
+          "summary_zh": "申请将在 48 小时内截止——这是澳大利亚创始人需要了解的有关 Stripe x Startup Battlefield 的所有信息",
+          "summary_en": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+          "published": "2026-07-17T23:08:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.85
+        },
+        {
+          "summary_zh": "德克萨斯州赢得法院命令，因违反年龄验证法而暂停域名",
+          "summary_en": "Texas wins court order to suspend domain name for violating age-verification law",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+          "published": "2026-07-17T22:35:55+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.71
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Zoox issues software recall because its robotaxis may be confused by smoke",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217803/zoox-issues-software-recall-because-its-robotaxis-may-be-confused-by-smoke/",
+          "published": "2026-07-17T19:10:22+00:00"
+        },
+        {
+          "summary": "There's now an API for mainlining Trump's Truth Social posts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2217943/there-s-now-an-api-for-mainlining-trump-s-truth-social-posts/",
+          "published": "2026-07-17T22:05:37+00:00"
+        },
+        {
+          "summary": "早报｜苹果上调Apple Music价格/小米SU7虚假碰撞测评博主被判一年八个月/努比亚、阶跃星辰智能体手机亮相WAIC",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672338?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-18T00:49:59+00:00"
+        },
+        {
+          "summary": "A grumpy screed about AI in software engineering",
+          "source": "Hacker News: Front Page",
+          "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+          "published": "2026-07-18T00:40:08+00:00"
+        },
+        {
+          "summary": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+          "published": "2026-07-17T19:22:00+00:00"
+        },
+        {
+          "summary": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+          "published": "2026-07-17T23:08:00+00:00"
+        },
+        {
+          "summary": "Texas wins court order to suspend domain name for violating age-verification law",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+          "published": "2026-07-17T22:35:55+00:00"
+        },
+        {
+          "summary": "Troubling new details emerge on diabetes ouster controversy",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+          "published": "2026-07-17T17:08:05+00:00"
+        },
+        {
+          "summary": "The Download: perimenopause misinformation and China’s latest AI leap",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+          "published": "2026-07-17T12:10:00+00:00"
+        },
+        {
+          "summary": "Ars is looking for a senior technology reporter, and you might be it!",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+          "published": "2026-07-17T15:52:28+00:00"
+        },
+        {
+          "summary": "‘The Odyssey’ Backlash Failed Tremendously",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+          "published": "2026-07-17T17:09:13+00:00"
+        },
+        {
+          "summary": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+          "published": "2026-07-17T19:50:38+00:00"
+        },
+        {
+          "summary": "不听劝的阶跃闯进手机战场，造一台为人机共生的终端｜WAIC",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672281?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-17T11:31:43+00:00"
+        },
+        {
+          "summary": "There’s a lot of hype around perimenopause. Don’t buy it.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+          "published": "2026-07-17T09:00:00+00:00"
+        },
+        {
+          "summary": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3896564485572489?f=rss",
+          "published": null
+        },
+        {
+          "summary": "TikTok is testing an AI likeness detection tool",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "published": null
+        },
+        {
+          "summary": "Apple’s plot to crush OpenAI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "published": null
+        },
+        {
+          "summary": "9点1氪丨ofo停更5年突然发文，运营主体仍处存续状态；苹果市值重返全球第一；乐事回应“蓝色薯片”来源",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3900449325287305?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "芯片股跌入熊市，美国考虑人工智能看门狗",
+          "summary_en": "Chip Stocks Descend into Bear Market, US Considers AI Watchdog",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-descend-into-bear-market-us-considers-ai-watchdog",
+          "published": "2026-07-18T01:10:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.36
+        },
+        {
+          "summary_zh": "马丁·施克雷利 (Martin Shkreli) 回归，做空股票并与所有人较量",
+          "summary_en": "Martin Shkreli Is Back, Shorting Stocks and Taking On Everyone",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
+          "published": "2026-07-17T20:15:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.13
+        },
+        {
+          "summary_zh": "SpaceX 推迟了一次重要的发射——其股价连续第二天收盘低于 IPO 价格",
+          "summary_en": "SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
+          "published": "2026-07-17T22:55:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.79
+        },
+        {
+          "summary_zh": "股市因对科技和人工智能的焦虑而下跌开支",
+          "summary_en": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+          "published": "2026-07-17T20:17:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "Truist 季度利润因投资银行和交易业务强劲而增长 - 路透中文网",
+          "summary_en": "Truist's quarterly profit rises on strength in investment banking and trading - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFktUlVGS1NBSlBfRlZUbE5ReFBGYnJDUElFOVdmTmhDLWNCYUhRNkViNWc2YTFoU0JvaEZSV3JHSTZtRmkzaDl2Y0dkWmxUT3o4MzFwQXdWYnR0YVhMS3JMU2VrLWtlck9aVUNKdUpZUTYtdzg1TUpRZ3JMMEczbEZ3NF9Qa0xPRmJzWUVIdDdFMThkOEtRNXJNQTQzZ3RJbkhWOC1MZjl3Q2lPQUlibkg5c3BsTXRpNnNr?oc=5",
+          "published": "2026-07-17T11:38:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.97
+        },
+        {
+          "summary_zh": "Netflix 股价因盈利预测令人失望而下跌，该公司表示将减少参与度更新",
+          "summary_en": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+          "published": "2026-07-17T20:06:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.59
+        },
+        {
+          "summary_zh": "为什么女性应该公开谈论金钱",
+          "summary_en": "Why women should speak openly about money",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cvgwdxqj3k4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-17T18:15:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.63
+        },
+        {
+          "summary_zh": "19 只（大部分）科技股 7 月份下跌至少 25%",
+          "summary_en": "19 (mostly) tech stocks that have fallen at least 25% in July",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
+          "published": "2026-07-17T21:45:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.5
+        },
+        {
+          "summary_zh": "通胀乐观情绪盛行，国债每周上涨",
+          "summary_en": "Treasuries Post Weekly Advance as Inflation Optimism Prevails",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/treasuries-post-weekly-advance-as-inflation-optimism-prevails",
+          "published": "2026-07-17T19:46:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "美联储7月决定前加息呼声高涨，利率仍维持不变 - 路透中文网",
+          "summary_en": "Fed rate-hike voices swell before July decision, rates still seen on hold - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1g1bEw4cTg3OFRTdGhlT3N3eF9NVklLM204aVQwbkowQ0hvcU1yOHhsZXZlcXZBTXY3Zl9xRTdjSHRCY1NtNnV0TndVRkI4anNtSzVyeEhOT2Vnd0NLaWNvNnlzRkdkMFlLTENvY0pNQTFVTE9JaUlvaXpkeFhmZ0VMQXBVdVpFZ1JPdjNubGVOelFUVUlCdmVKLUFDU25CR2U0MDJOU2QxVXJOSndOOW4td0U?oc=5",
+          "published": "2026-07-17T18:59:42+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.81
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Chip Stocks Descend into Bear Market, US Considers AI Watchdog",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-descend-into-bear-market-us-considers-ai-watchdog",
+          "published": "2026-07-18T01:10:08+00:00"
+        },
+        {
+          "summary": "Martin Shkreli Is Back, Shorting Stocks and Taking On Everyone",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
+          "published": "2026-07-17T20:15:00+00:00"
+        },
+        {
+          "summary": "Chip Stocks Slide into Bear Market, US Considers AI Watchdog",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-slide-into-bear-market-us-considers-ai-watchdog",
+          "published": "2026-07-18T00:10:07+00:00"
+        },
+        {
+          "summary": "SpaceX postponed a crucial launch — and its stock went on to close below IPO price for second day",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
+          "published": "2026-07-17T22:55:00+00:00"
+        },
+        {
+          "summary": "19 (mostly) tech stocks that have fallen at least 25% in July",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
+          "published": "2026-07-17T21:45:00+00:00"
+        },
+        {
+          "summary": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+          "published": "2026-07-17T20:17:16+00:00"
+        },
+        {
+          "summary": "Treasuries Post Weekly Advance as Inflation Optimism Prevails",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/treasuries-post-weekly-advance-as-inflation-optimism-prevails",
+          "published": "2026-07-17T19:46:27+00:00"
+        },
+        {
+          "summary": "Truist's quarterly profit rises on strength in investment banking and trading - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFktUlVGS1NBSlBfRlZUbE5ReFBGYnJDUElFOVdmTmhDLWNCYUhRNkViNWc2YTFoU0JvaEZSV3JHSTZtRmkzaDl2Y0dkWmxUT3o4MzFwQXdWYnR0YVhMS3JMU2VrLWtlck9aVUNKdUpZUTYtdzg1TUpRZ3JMMEczbEZ3NF9Qa0xPRmJzWUVIdDdFMThkOEtRNXJNQTQzZ3RJbkhWOC1MZjl3Q2lPQUlibkg5c3BsTXRpNnNr?oc=5",
+          "published": "2026-07-17T11:38:42+00:00"
+        },
+        {
+          "summary": "Fed rate-hike voices swell before July decision, rates still seen on hold - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc1g1bEw4cTg3OFRTdGhlT3N3eF9NVklLM204aVQwbkowQ0hvcU1yOHhsZXZlcXZBTXY3Zl9xRTdjSHRCY1NtNnV0TndVRkI4anNtSzVyeEhOT2Vnd0NLaWNvNnlzRkdkMFlLTENvY0pNQTFVTE9JaUlvaXpkeFhmZ0VMQXBVdVpFZ1JPdjNubGVOelFUVUlCdmVKLUFDU25CR2U0MDJOU2QxVXJOSndOOW4td0U?oc=5",
+          "published": "2026-07-17T18:59:42+00:00"
+        },
+        {
+          "summary": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+          "published": "2026-07-17T20:50:32+00:00"
+        },
+        {
+          "summary": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+          "published": "2026-07-17T20:06:48+00:00"
+        },
+        {
+          "summary": "Leather jacket worn by Nvidia CEO goes for just under $1 million at Sotheby's auction",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/17/leather-jacket-worn-by-nvidia-ceo-goes-for-just-under-1-million-at-sothebys-auction-.html",
+          "published": "2026-07-17T23:18:35+00:00"
+        },
+        {
+          "summary": "Why women should speak openly about money",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/cvgwdxqj3k4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-17T18:15:23+00:00"
+        },
+        {
+          "summary": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-17T16:53:04+00:00"
+        },
+        {
+          "summary": "Trump wants Canada to pay more tariffs for the 'filthy, polluted, and unhealthy' wildfire smoke",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/trump-blames-canada-for-wildfire-smoke-threatens-new-tariffs-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The mayor of SF has a message for AV companies: 'Prove it before you deploy it'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/daniel-lurie-sf-tougher-regulations-robotaxis-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Former Intel CEO says the chipmaker went off the rails ‘when it started to be run by business people’",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/articles/former-intel-ceo-says-chipmaker-185823655.html",
+          "published": null
+        },
+        {
+          "summary": "JPMorgan CEO Jamie Dimon says 300,000 workers are needed to rebuild American shipbuilding—with jobs paying $100,000 without a college degree",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/small-business/articles/jpmorgan-ceo-jamie-dimon-says-150837858.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+          "summary_en": "PPIO releases intelligent model gateway to create an intelligent Token factory for the Agent era",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/453467.html",
+          "published": "2026-07-17T22:32:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.7
+        },
+        {
+          "summary_zh": "GPT-5.6 在获得完全访问权限时会删除用户文件，OpenAI 表示不应该这样做，但确实如此",
+          "summary_en": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
+          "published": "2026-07-17T19:35:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.96
+        },
+        {
+          "summary_zh": "对于 OpenAI 来说，苹果的诉讼来得正是时候",
+          "summary_en": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "published": "2026-07-17T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.56
+        },
+        {
+          "summary_zh": "中国人工智能初创公司发布大规模开放权重模型",
+          "summary_en": "Chinese AI Startup Releases Massive Open Weight Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+          "published": "2026-07-17T16:22:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.16
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "5 个关于 Agentic AI 的免费资源",
+          "summary_en": "5 FREE Resources on Agentic AI",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-free-resources-on-agentic-ai",
+          "published": "2026-07-17T12:00:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.06
+        },
+        {
+          "summary_zh": "中国的Moonshot AI以大肆宣传的模型追逐“DeepSeek时刻”",
+          "summary_en": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-china-moonshot-ai-deepseek-moment.html",
+          "published": "2026-07-17T06:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.06
+        },
+        {
+          "summary_zh": "人工智能时代的记分卡",
+          "summary_en": "A scorecard for the AI age",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "published": "2026-07-17T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.56
+        },
+        {
+          "summary_zh": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+          "summary_en": "The world's first 720° continuous backflip robot dog is here! Yufan Intelligent and \"Civet\" two pavilions jointly show for the first time at WAIC",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/453506.html",
+          "published": "2026-07-18T01:17:23+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.39
+        },
+        {
+          "summary_zh": "扎克伯格出售多余人工智能计算的计划可能会在 Anthropic 找到第一个大客户",
+          "summary_en": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+          "published": "2026-07-17T21:16:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.38
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/453467.html",
+          "published": "2026-07-17T22:32:47+00:00"
+        },
+        {
+          "summary": "GPT-5.6 is deleting user files when given full access, and OpenAI says it shouldn't but did",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gpt-5-6-is-deleting-user-files-when-given-full-access-and-openai-says-it-shouldnt-but-did/",
+          "published": "2026-07-17T19:35:52+00:00"
+        },
+        {
+          "summary": "全球首款720°连续后空翻机器狗来了！宇泛智能携“灵猫”双馆联袂首秀WAIC",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/453506.html",
+          "published": "2026-07-18T01:17:23+00:00"
+        },
+        {
+          "summary": "Zuckerberg's plan to sell excess AI compute could finds its first big customer in Anthropic",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/zuckerbergs-plan-to-sell-excess-ai-compute-could-finds-its-first-big-customer-in-anthropic/",
+          "published": "2026-07-17T21:16:00+00:00"
+        },
+        {
+          "summary": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "published": "2026-07-17T14:00:00+00:00"
+        },
+        {
+          "summary": "Chinese AI Startup Releases Massive Open Weight Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+          "published": "2026-07-17T16:22:42+00:00"
+        },
+        {
+          "summary": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+          "published": "2026-07-17T20:12:21+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "5 FREE Resources on Agentic AI",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-free-resources-on-agentic-ai",
+          "published": "2026-07-17T12:00:22+00:00"
+        },
+        {
+          "summary": "China's Moonshot AI chases 'DeepSeek moment' with much-hyped model",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-china-moonshot-ai-deepseek-moment.html",
+          "published": "2026-07-17T06:00:01-04:00"
+        },
+        {
+          "summary": "Git Worktrees for AI Development",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/git-worktrees-for-ai-development",
+          "published": "2026-07-17T14:00:33+00:00"
+        },
+        {
+          "summary": "Startups bet on AI—and a leaner future",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-startups-ai-leaner-future.html",
+          "published": "2026-07-17T08:00:03-04:00"
+        },
+        {
+          "summary": "A scorecard for the AI age",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "published": "2026-07-17T10:00:00+00:00"
+        },
+        {
+          "summary": "Following the questions where they lead",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
+          "published": "2026-07-17T13:25:00-04:00"
+        }
+      ]
+    }
+  }
+}
