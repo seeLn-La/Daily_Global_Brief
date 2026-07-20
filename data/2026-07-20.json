@@ -1,0 +1,572 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T03:25:59.618355+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Netflix 斥资 5.87 亿美元收购本·阿弗莱克 (Ben Affleck) 的人工智能电影制作初创公司",
+          "summary_en": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+          "published": "2026-07-19T21:45:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "柯达 EC35 是一款适合初学者的便携式 35 毫米胶片相机",
+          "summary_en": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218273/kodak-ec35-pocketable-beginner-friendly-35mm-film-camera/",
+          "published": "2026-07-19T22:15:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.21
+        },
+        {
+          "summary_zh": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个",
+          "summary_en": "Morning Post | The Dark Side of the Moon is revealed to be on the market within half a year at the earliest/Honor Robot Phone opens for pre-order/IDC: There will be more than 2.2 billion active smartphones in the world in 2030",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672471?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-20T00:17:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.72
+        },
+        {
+          "summary_zh": "Moonshine：让您可以将游戏从 PC 传输到任何运行 Moonlight 的设备",
+          "summary_en": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/hgaiser/moonshine",
+          "published": "2026-07-20T00:16:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "印度第一枚私人开发的火箭首次戏剧性地进入轨道",
+          "summary_en": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "published": "2026-07-19T22:11:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.19
+        },
+        {
+          "summary_zh": "苹果的诉讼会破坏 OpenAI 的硬件计划吗？",
+          "summary_en": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "published": "2026-07-19T19:24:45+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.5
+        },
+        {
+          "summary_zh": "NASA 分享了 Psyche 太空船在火星上的美丽延时摄影",
+          "summary_en": "NASA shares beautiful timelapse of the Psyche spacecraft's view over Mars",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218251/nasa-mars-timelapse-psyche-spacecraft-close-approach/",
+          "published": "2026-07-19T19:08:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.43
+        },
+        {
+          "summary_zh": "使用 Drop 删除您的数据",
+          "summary_en": "Delete Your Data with Drop",
+          "source": "Hacker News: Front Page",
+          "url": "https://privacy.ca.gov/",
+          "published": "2026-07-20T02:19:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.22
+        },
+        {
+          "summary_zh": "随着蚊子分布范围的扩大，更好的监测是预防疾病的关键",
+          "summary_en": "As mosquito ranges expand, better monitoring is key to preventing disease",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+          "published": "2026-07-19T11:19:31+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.47
+        },
+        {
+          "summary_zh": "如何观看 2026 年 FIFA 世界杯决赛：西班牙对阵阿根廷",
+          "summary_en": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
+          "published": "2026-07-19T09:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.89
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+          "published": "2026-07-19T21:45:00+00:00"
+        },
+        {
+          "summary": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "published": "2026-07-19T19:24:45+00:00"
+        },
+        {
+          "summary": "The Kodak EC35 is a pocketable, beginner-friendly 35mm film camera",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218273/kodak-ec35-pocketable-beginner-friendly-35mm-film-camera/",
+          "published": "2026-07-19T22:15:58+00:00"
+        },
+        {
+          "summary": "早报｜曝月之暗面最快半年内上市/荣耀Robot Phone开启预约/IDC:2030年全球活跃智能体将超22亿个",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672471?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-20T00:17:26+00:00"
+        },
+        {
+          "summary": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/hgaiser/moonshine",
+          "published": "2026-07-20T00:16:50+00:00"
+        },
+        {
+          "summary": "NASA shares beautiful timelapse of the Psyche spacecraft's view over Mars",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218251/nasa-mars-timelapse-psyche-spacecraft-close-approach/",
+          "published": "2026-07-19T19:08:51+00:00"
+        },
+        {
+          "summary": "Delete Your Data with Drop",
+          "source": "Hacker News: Front Page",
+          "url": "https://privacy.ca.gov/",
+          "published": "2026-07-20T02:19:22+00:00"
+        },
+        {
+          "summary": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+          "published": "2026-07-19T22:11:21+00:00"
+        },
+        {
+          "summary": "As mosquito ranges expand, better monitoring is key to preventing disease",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+          "published": "2026-07-19T11:19:31+00:00"
+        },
+        {
+          "summary": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/",
+          "published": "2026-07-19T09:00:00+00:00"
+        },
+        {
+          "summary": "Best Power Banks (2026): My Picks After Testing Over 100",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+          "published": "2026-07-19T11:00:00+00:00"
+        },
+        {
+          "summary": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3903396279125888?f=rss",
+          "published": null
+        },
+        {
+          "summary": "谁还在卷参数？WAIC2026全是能干活的实体AI！",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3903383663478403?f=rss",
+          "published": null
+        },
+        {
+          "summary": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review",
+          "published": null
+        },
+        {
+          "summary": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着债券收益率攀升，印度私人银行看到企业贷款增加",
+          "summary_en": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
+          "published": "2026-07-20T02:44:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "随着美国和伊朗之间的战斗加剧，油价上涨，股指期货持平",
+          "summary_en": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+          "published": "2026-07-20T03:02:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.4
+        },
+        {
+          "summary_zh": "很多股票都在这个市场上发挥着作用——你只需要把目光投向科技以外的领域",
+          "summary_en": "Plenty of stocks are working in this market — you just have to look beyond tech",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
+          "published": "2026-07-20T00:33:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "彭博社 Daybreak Asia：Moonshot AI 考虑 IPO（播客）",
+          "summary_en": "Bloomberg Daybreak Asia: Moonshot AI Weighs IPO (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-daybreak-asia-moonshot-ai-weighs-ipo-podcast",
+          "published": "2026-07-20T02:24:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "FDA称泰勒农场环孢子虫的发现是假阳性 - 路透中文网",
+          "summary_en": "FDA says Taylor Farms cyclospora finding was a false positive - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEd1VXJyM01PeEdDZkdyV0VLajdELXE2bVFnS0RfLWNQeHJGcm5vaU45cFF2VXZUbjdkZGFVZ05pZWFQcFZPUU1QUzZnYkVEUXlPYjVnR3kxaWNUeWlQeXdFTDhYT1JoTV9obWtxR0t5YWc0UER4QVk3M1RRWkk2RXdwN1FtZlh3SFBodW92V2Rpb2pQeWtOYk00dGx2d05NWjROcDR2dUp6ODdPYWo5MlQ1b3pQTFNuU19CSUpFU052Z2NhbTg5VnZUaw?oc=5",
+          "published": "2026-07-20T00:50:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "美伊冲突加剧，油价突破每桶 90 美元",
+          "summary_en": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
+          "published": "2026-07-19T22:22:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.24
+        },
+        {
+          "summary_zh": "这位农民想退出可卡因行业 - 但他做不到",
+          "summary_en": "This farmer wanted to quit the cocaine industry - he couldn't",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-19T23:18:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.47
+        },
+        {
+          "summary_zh": "亿万富翁福雷斯特购买股份，钨矿商股价上涨",
+          "summary_en": "Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
+          "published": "2026-07-20T01:36:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.04
+        },
+        {
+          "summary_zh": "随着美国和伊朗加强对中东的袭击，布伦特原油价格突破90美元 - 路透中文网",
+          "summary_en": "Brent oil tops $90 as US, Iran intensify attacks in Middle East - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+          "published": "2026-07-20T00:16:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "三星生物制品公司将以 18 亿美元收购多肽",
+          "summary_en": "Samsung Biologics to Buy PolyPeptide in $1.8 Billion Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-19/samsung-biologics-agrees-to-buy-polypeptide-in-1-8-billion-deal",
+          "published": "2026-07-19T23:48:20+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.59
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
+          "published": "2026-07-20T02:44:27+00:00"
+        },
+        {
+          "summary": "Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
+          "published": "2026-07-20T01:36:04+00:00"
+        },
+        {
+          "summary": "Oil prices rise, stock futures flat as fighting between U.S. and Iran intensifies",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+          "published": "2026-07-20T03:02:00+00:00"
+        },
+        {
+          "summary": "Plenty of stocks are working in this market — you just have to look beyond tech",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/19/plenty-of-stocks-are-working-in-this-market-just-look-beyond-tech.html",
+          "published": "2026-07-20T00:33:52+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Moonshot AI Weighs IPO (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-daybreak-asia-moonshot-ai-weighs-ipo-podcast",
+          "published": "2026-07-20T02:24:46+00:00"
+        },
+        {
+          "summary": "FDA says Taylor Farms cyclospora finding was a false positive - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVEd1VXJyM01PeEdDZkdyV0VLajdELXE2bVFnS0RfLWNQeHJGcm5vaU45cFF2VXZUbjdkZGFVZ05pZWFQcFZPUU1QUzZnYkVEUXlPYjVnR3kxaWNUeWlQeXdFTDhYT1JoTV9obWtxR0t5YWc0UER4QVk3M1RRWkk2RXdwN1FtZlh3SFBodW92V2Rpb2pQeWtOYk00dGx2d05NWjROcDR2dUp6ODdPYWo5MlQ1b3pQTFNuU19CSUpFU052Z2NhbTg5VnZUaw?oc=5",
+          "published": "2026-07-20T00:50:00+00:00"
+        },
+        {
+          "summary": "Brent oil tops $90 as US, Iran intensify attacks in Middle East - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbDB0dzIyZzhDNXdvemNBWHdxR3dnWXcwVk4xM082SDRRTm9xel9yX3hJeFBDN1hyQXZpRlVWcElHNi13amFSaXFZLUEtYWpva20xcmFjLWt2TEc0QjFlMDJRMHFPZ3dpb0hZNlBib1ZMNk4xNXdPcmNfUHRpRzNzVDRtdmZlY2MydWVLdS1uVnZXSkdHZjlYelZOZ1M0SXlnVzlBSGFUUU43YlE?oc=5",
+          "published": "2026-07-20T00:16:00+00:00"
+        },
+        {
+          "summary": "Samsung Biologics to Buy PolyPeptide in $1.8 Billion Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-19/samsung-biologics-agrees-to-buy-polypeptide-in-1-8-billion-deal",
+          "published": "2026-07-19T23:48:20+00:00"
+        },
+        {
+          "summary": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+          "published": "2026-07-19T19:06:00+00:00"
+        },
+        {
+          "summary": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
+          "published": "2026-07-19T22:22:29+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after Wall Street suffers losing week: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+          "published": "2026-07-20T02:51:14+00:00"
+        },
+        {
+          "summary": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html",
+          "published": "2026-07-19T15:22:46+00:00"
+        },
+        {
+          "summary": "This farmer wanted to quit the cocaine industry - he couldn't",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-19T23:18:03+00:00"
+        },
+        {
+          "summary": "Are you a parent missing out on £27 a week? Here's how to check",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-19T23:16:47+00:00"
+        },
+        {
+          "summary": "As a registered dietitian and executive member, I always stock up on these 7 Costco items for budget-friendly meals",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/best-things-to-buy-costco-from-executive-member-dietitian-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Alys Rivers will be a key player in 'House of the Dragon' if her story follows the plot of 'Fire and Blood.' Here's what to know.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/house-of-the-dragon-alys-rivers-explained-2024-6",
+          "published": null
+        },
+        {
+          "summary": "When I lost my business, I started renting out my indoor pool to earn money. Now, it's my full-time job.",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/lifestyle/articles/lost-business-started-renting-indoor-132101796.html",
+          "published": null
+        },
+        {
+          "summary": "I pay my employees $1,000 a month per child for day care. It's one of my ice cream company's best investments.",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/small-business/articles/pay-employees-1-000-month-094401183.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "研究人员警告说，隐藏的提示可能会在人工智能代理中植入错误记忆",
+          "summary_en": "Hidden prompts can plant false memories in AI agents, researchers warn",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hidden-prompts-false-memories-ai.html",
+          "published": "2026-07-19T10:20:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.73
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "谷歌 Deepmind 认为视频生成器已经包含了计算机视觉所缺失的世界模型",
+          "summary_en": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+          "published": "2026-07-19T10:17:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.22
+        },
+        {
+          "summary_zh": "围观WAIC模型「读心术」！现场火火火火火",
+          "summary_en": "Watch the WAIC model \"mind reading\"! Fire fire fire fire scene",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/455031.html",
+          "published": "2026-07-19T11:55:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.63
+        },
+        {
+          "summary_zh": "新的驾驶人工智能对可能的路线进行排序，以做出更安全、更清晰的决策",
+          "summary_en": "New driving AI ranks possible routes for safer, clearer decisions",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-routes-safer-clearer-decisions.html",
+          "published": "2026-07-19T13:40:02-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.56
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "当语言模型模仿作者风格时，人工智能文本检测器会陷入困境",
+          "summary_en": "AI text detectors struggle when language models mimic an author's style",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+          "published": "2026-07-19T08:35:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.79
+        },
+        {
+          "summary_zh": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+          "summary_en": "The 2026 World Artificial Intelligence Conference \"Future Computing·Future Computing Power\" special forum was held in Shanghai, and consensus was gathered on five questions",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/454774.html",
+          "published": "2026-07-19T11:01:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.4
+        },
+        {
+          "summary_zh": "根据欧盟人工智能法案，您的人工智能系统是否已经属于高风险？",
+          "summary_en": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
+          "published": "2026-07-19T09:50:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Hidden prompts can plant false memories in AI agents, researchers warn",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-hidden-prompts-false-memories-ai.html",
+          "published": "2026-07-19T10:20:01-04:00"
+        },
+        {
+          "summary": "New driving AI ranks possible routes for safer, clearer decisions",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-routes-safer-clearer-decisions.html",
+          "published": "2026-07-19T13:40:02-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+          "published": "2026-07-19T10:17:49+00:00"
+        },
+        {
+          "summary": "AI text detectors struggle when language models mimic an author's style",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+          "published": "2026-07-19T08:35:26+00:00"
+        },
+        {
+          "summary": "围观WAIC模型「读心术」！现场火火火火火",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/455031.html",
+          "published": "2026-07-19T11:55:52+00:00"
+        },
+        {
+          "summary": "2026世界人工智能大会“未来计算·未来算力”专题论坛在沪召开，共识凝聚五问",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/454774.html",
+          "published": "2026-07-19T11:01:00+00:00"
+        },
+        {
+          "summary": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
+          "published": "2026-07-19T09:50:14+00:00"
+        }
+      ]
+    }
+  }
+}
