@@ -1,0 +1,624 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T01:53:20.739290+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "据报道 Colossal Biosciences 正在洽谈以 20B-30B 估值筹集新资金",
+          "summary_en": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+          "published": "2026-07-20T23:39:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.94
+        },
+        {
+          "summary_zh": "第一个符合 UL 3700 标准的插入式太阳能微型逆变器现已在美国上市",
+          "summary_en": "The first UL 3700-compliant plug-in solar microinverter is now available in the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219291/the-first-ul-3700-compliant-plug-in-solar-microinverter-is-now-available-in-the-us/",
+          "published": "2026-07-20T21:55:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.51
+        },
+        {
+          "summary_zh": "中国的人工智能模型让特朗普的人工智能世界陷入了自相矛盾",
+          "summary_en": "China’s AI models have Trump’s AI world at war with itself",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "published": "2026-07-20T18:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.53
+        },
+        {
+          "summary_zh": "DA：警察用随身摄像头用 iPhone 拍摄囚犯的裸体，但其他摄像头拍到了他",
+          "summary_en": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+          "published": "2026-07-20T22:15:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "早报｜二季度华为手机份额升至23%/广汽本田与本田续签合资协议至2038年/《复仇者联盟5》首曝预告",
+          "summary_en": "Morning Post | Huawei’s mobile phone share rose to 23% in the second quarter/Guangzhou Automobile Honda and Honda renewed their joint venture agreement until 2038/First trailer for \"Avengers 5\"",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672637?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-21T00:54:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "多次向市议会、警察和公众撒谎，导致信誉丧失",
+          "summary_en": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+          "published": "2026-07-21T00:33:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.17
+        },
+        {
+          "summary_zh": "即使是轻微的睡眠不足也可能导致体重增加",
+          "summary_en": "Even Mild Sleep Deprivation May Lead to Weight Gain",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
+          "published": "2026-07-20T19:06:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.8
+        },
+        {
+          "summary_zh": "谷歌正在开发一款新的人工智能芯片，旨在提高 Gemini 的效率",
+          "summary_en": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "published": "2026-07-20T21:21:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.37
+        },
+        {
+          "summary_zh": "亚马逊 Fire TV 自适应显示今天正式推出",
+          "summary_en": "Amazon's Adaptive Display for Fire TVs is officially rolling out today",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219335/amazon-adaptive-display-for-fire-tvs-is-officially-rolling-out-today/",
+          "published": "2026-07-20T23:02:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "RIP 讨价还价箱：索尼无盘 PlayStation 计划的价格影响",
+          "summary_en": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+          "published": "2026-07-20T18:06:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+          "published": "2026-07-20T23:39:35+00:00"
+        },
+        {
+          "summary": "The first UL 3700-compliant plug-in solar microinverter is now available in the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219291/the-first-ul-3700-compliant-plug-in-solar-microinverter-is-now-available-in-the-us/",
+          "published": "2026-07-20T21:55:05+00:00"
+        },
+        {
+          "summary": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "published": "2026-07-20T21:21:15+00:00"
+        },
+        {
+          "summary": "Amazon's Adaptive Display for Fire TVs is officially rolling out today",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219335/amazon-adaptive-display-for-fire-tvs-is-officially-rolling-out-today/",
+          "published": "2026-07-20T23:02:44+00:00"
+        },
+        {
+          "summary": "China’s AI models have Trump’s AI world at war with itself",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "published": "2026-07-20T18:00:00+00:00"
+        },
+        {
+          "summary": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+          "published": "2026-07-20T22:15:51+00:00"
+        },
+        {
+          "summary": "RIP bargain bin: The price impact of Sony's disc-free PlayStation plan",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gaming/2026/07/our-playstation-price-analysis-shows-why-physical-games-still-matter/",
+          "published": "2026-07-20T18:06:05+00:00"
+        },
+        {
+          "summary": "早报｜二季度华为手机份额升至23%/广汽本田与本田续签合资协议至2038年/《复仇者联盟5》首曝预告",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672637?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-21T00:54:22+00:00"
+        },
+        {
+          "summary": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+          "published": "2026-07-21T00:33:53+00:00"
+        },
+        {
+          "summary": "The Download: AI hiring biases, and weather data sabotage",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+          "published": "2026-07-20T12:10:00+00:00"
+        },
+        {
+          "summary": "Jellyfin founder Andrew leaves team",
+          "source": "Hacker News: Front Page",
+          "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+          "published": "2026-07-20T23:15:41+00:00"
+        },
+        {
+          "summary": "Even Mild Sleep Deprivation May Lead to Weight Gain",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
+          "published": "2026-07-20T19:06:08+00:00"
+        },
+        {
+          "summary": "The Galaxy Card Is Samsung’s Answer to the Apple Card",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/",
+          "published": "2026-07-20T21:00:00+00:00"
+        },
+        {
+          "summary": "苹果国行 AI 刷屏之外，三星也把端侧大脑交给国产 AI",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672593?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-20T11:40:22+00:00"
+        },
+        {
+          "summary": "速腾聚创第二代全固态感知平台发布，要做物理AI数据入口｜最前线",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3903885834028931?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Here are the 30,000 songs Sony is suing Udio’s AI music generator over",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "published": null
+        },
+        {
+          "summary": "SpaceX in your index fund, explained",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+          "published": null
+        },
+        {
+          "summary": "WAIC上，AI开始接管人类的欲望",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3903687507904387?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "全球股市推动澳大利亚养老基金年涨幅达到 9.5%",
+          "summary_en": "Global Stocks Lift Australian Pension Funds to 9.5% Annual Gain",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/global-stocks-lift-australian-pension-funds-to-9-5-annual-gain",
+          "published": "2026-07-21T00:14:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.09
+        },
+        {
+          "summary_zh": "为什么廉价的中国人工智能模型实际上可能对英伟达、美光和其他芯片股有利",
+          "summary_en": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+          "published": "2026-07-20T22:21:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.62
+        },
+        {
+          "summary_zh": "杰米戴蒙表示市场低估了风险，他不会以当前价格购买股票或国债",
+          "summary_en": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+          "published": "2026-07-20T23:01:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.28
+        },
+        {
+          "summary_zh": "美国对加拿大征收 50% 关税，派拉蒙与 WBD 合并搁置",
+          "summary_en": "US Slaps 50% Tariffs on Canada, Paramount-WBD Merger on Hold",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-21/us-slaps-50-tariffs-on-canada-paramount-wbd-merger-on-hold",
+          "published": "2026-07-21T00:59:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "胡塞武装威胁中东航运，石油市场紧张",
+          "summary_en": "Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
+          "published": "2026-07-20T20:28:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "华尔街股指下跌，伊朗和财报季成为焦点 - 路透中文网",
+          "summary_en": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+          "published": "2026-07-20T22:56:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "20 多岁的年轻人大举押注科技股",
+          "summary_en": "The 20-somethings betting big on tech stocks",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-20T22:00:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.53
+        },
+        {
+          "summary_zh": "亚洲股市随着筹码反弹、油价下跌而复苏：市场收尾",
+          "summary_en": "Asian Stocks Recover as Chips Rebound, Oil Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-20T22:09:48+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.57
+        },
+        {
+          "summary_zh": "特朗普将对许多加拿大商品征收 50% 的关税",
+          "summary_en": "Trump to Impose 50% Tariff on Many Canadian Goods",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+          "published": "2026-07-21T00:25:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "油价波动导致股市收低，法官暂停派拉蒙交易",
+          "summary_en": "Stocks Close Lower on Oil Swings, Judge Pauses Paramount Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-20/stocks-close-lower-on-oil-swings-judge-pauses-paramount-deal",
+          "published": "2026-07-20T20:20:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.11
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Global Stocks Lift Australian Pension Funds to 9.5% Annual Gain",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/global-stocks-lift-australian-pension-funds-to-9-5-annual-gain",
+          "published": "2026-07-21T00:14:57+00:00"
+        },
+        {
+          "summary": "Asian Stocks Recover as Chips Rebound, Oil Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-20T22:09:48+00:00"
+        },
+        {
+          "summary": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
+          "published": "2026-07-20T22:21:00+00:00"
+        },
+        {
+          "summary": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+          "published": "2026-07-20T23:01:01+00:00"
+        },
+        {
+          "summary": "US Slaps 50% Tariffs on Canada, Paramount-WBD Merger on Hold",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-21/us-slaps-50-tariffs-on-canada-paramount-wbd-merger-on-hold",
+          "published": "2026-07-21T00:59:10+00:00"
+        },
+        {
+          "summary": "Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
+          "published": "2026-07-20T20:28:37+00:00"
+        },
+        {
+          "summary": "Trump to Impose 50% Tariff on Many Canadian Goods",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+          "published": "2026-07-21T00:25:52+00:00"
+        },
+        {
+          "summary": "Stocks Close Lower on Oil Swings, Judge Pauses Paramount Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-20/stocks-close-lower-on-oil-swings-judge-pauses-paramount-deal",
+          "published": "2026-07-20T20:20:39+00:00"
+        },
+        {
+          "summary": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
+          "published": "2026-07-21T00:13:00+00:00"
+        },
+        {
+          "summary": "Wall Street indexes fall, with Iran and earnings season in focus - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOakxUc2hmUzNWRUJsczdpQTNsVHY4ZURqeFpTOEZkSFlGMk8zRFZxZHE5aHNIRUtTYzAwejgweG55eXNZQTc5S083Vm9HbGQ4T1E1S1RBbjcxQVJGdGFwcnNJM0pIbzRZZGtSV3hBQUZLSVp4V0pXUFRKMGZyZ0xqY0VIaHBtUjItQUY5dXgzREZYT0xUNWJJTkxlSUhrUS1FczhIYkV6VDJHQndKOFJJUm5zYy1OdVV3dVlUWGFrQjB2OGN0TUE?oc=5",
+          "published": "2026-07-20T22:56:37+00:00"
+        },
+        {
+          "summary": "The 20-somethings betting big on tech stocks",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-20T22:00:41+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/20/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-20T23:12:07+00:00"
+        },
+        {
+          "summary": "US imposes new 50% tariffs on some Canadian products - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVWJmZE81SUhjQV9Kc0hseUFwMGlDNml3alZscUFqSjljaUh5LTZRSEFjQXo4Y3JHSTdyNkVqLXFjOGZTQWoxUGY1LVRqQVFtSGx3aWhGWmhxR25LNDU5Nm5SQWFELWRER1dfeXNsdWV5Z05RMWRtTEF2em15T25JYm51SHdCRXNWNDd6YUdhY3dTdw?oc=5",
+          "published": "2026-07-20T21:12:00+00:00"
+        },
+        {
+          "summary": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21T00:34:47+00:00"
+        },
+        {
+          "summary": "Paramount's WBD deal is on pause after judge orders a merger delay",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/paramount-wbd-deal-merger-pause-judge-orders-temporary-restraining-order-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The US-Canada trade war heats up again as Trump imposes a 50% tariff on some Canadian goods",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/trump-canada-tariffs-section388-wildfire-smoke-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The Treasury is walking a tightrope on U.S. debt by relying so much on short-term rates that are at the mercy of a suddenly very hawkish Fed",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/treasury-walking-tightrope-u-debt-163238432.html",
+          "published": null
+        },
+        {
+          "summary": "Speaker Johnson warns students are 'indoctrinated' to see US through 'wrong lenses' as nation celebrates 250th",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/speaker-johnson-warns-students-indoctrinated-140039617.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "研究人员开发人工智能代理技术来自动化半导体设计验证",
+          "summary_en": "Researchers develop AI agent technology to automate semiconductor design verification",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-agent-technology-automate-semiconductor.html",
+          "published": "2026-07-20T16:20:09-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "据报道，谷歌的“Frozen v2”芯片将 Gemini 的架构直接烘焙到硅中以提高效率",
+          "summary_en": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+          "published": "2026-07-20T18:08:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.56
+        },
+        {
+          "summary_zh": "长视野模型时代的安全性和对准",
+          "summary_en": "Safety and alignment in an era of long-horizon models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "published": "2026-07-20T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.53
+        },
+        {
+          "summary_zh": "初创公司成立代工厂开发芯片材料",
+          "summary_en": "Startup Launches Foundry to Develop Materials for Chips",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
+          "published": "2026-07-20T19:16:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.85
+        },
+        {
+          "summary_zh": "设置 Claude 代码以实现高性能代理编程的初学者指南",
+          "summary_en": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming",
+          "published": "2026-07-20T14:00:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.53
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+          "summary_en": "Different model factories and the same Agentic Infra, the foundation of the AGI era finally emerges",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/455805.html",
+          "published": "2026-07-20T10:33:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.67
+        },
+        {
+          "summary_zh": "由于需求淹没容量，中国的新人工智能模式停止了新的订阅",
+          "summary_en": "China's new AI model halts new subscriptions as demand swamps capacity",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-china-ai-halts-subscriptions-demand.html",
+          "published": "2026-07-20T14:00:04-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.03
+        },
+        {
+          "summary_zh": "据报道，特朗普政府通过制裁和软压力对中国人工智能模型制定了缓慢的禁令",
+          "summary_en": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+          "published": "2026-07-20T14:03:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.54
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Researchers develop AI agent technology to automate semiconductor design verification",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-agent-technology-automate-semiconductor.html",
+          "published": "2026-07-20T16:20:09-04:00"
+        },
+        {
+          "summary": "China's new AI model halts new subscriptions as demand swamps capacity",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-china-ai-halts-subscriptions-demand.html",
+          "published": "2026-07-20T14:00:04-04:00"
+        },
+        {
+          "summary": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+          "published": "2026-07-20T18:08:33+00:00"
+        },
+        {
+          "summary": "Trump administration reportedly builds a slow-motion ban on Chinese AI models through sanctions and soft pressure",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/trump-administration-reportedly-builds-a-slow-motion-ban-on-chinese-ai-models-through-sanctions-and-soft-pressure/",
+          "published": "2026-07-20T14:03:53+00:00"
+        },
+        {
+          "summary": "Safety and alignment in an era of long-horizon models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "published": "2026-07-20T10:00:00+00:00"
+        },
+        {
+          "summary": "Startup Launches Foundry to Develop Materials for Chips",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
+          "published": "2026-07-20T19:16:44+00:00"
+        },
+        {
+          "summary": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming",
+          "published": "2026-07-20T14:00:23+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "As AI Spending Climbs, Enterprises Get Serious About Token Costs",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/as-ai-spending-climbs-enterprises-serious-about-token-cost",
+          "published": "2026-07-20T12:05:10+00:00"
+        },
+        {
+          "summary": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/455805.html",
+          "published": "2026-07-20T10:33:23+00:00"
+        },
+        {
+          "summary": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/455730.html",
+          "published": "2026-07-20T09:21:30+00:00"
+        },
+        {
+          "summary": "Top 5 MCP Servers for High-Performance Agentic Development",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development",
+          "published": "2026-07-20T12:00:25+00:00"
+        }
+      ]
+    }
+  }
+}
