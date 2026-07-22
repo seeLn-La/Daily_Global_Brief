@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T01:52:05.775701+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Meta 正在为没有想象力的人测试一款 AI 睡前故事应用程序",
+          "summary_en": "Meta is testing an AI bedtime story app for people with no imagination",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "published": "2026-07-21T23:55:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "Substack 正在添加 AI 检测功能",
+          "summary_en": "Substack is adding an AI detection feature",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+          "published": "2026-07-21T18:54:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "谷歌发布 Gemini 3.6 Flash 和网络安全 AI，并预告 3.5 Pro 和 Gemini 4",
+          "summary_en": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+          "published": "2026-07-21T16:58:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "AI动漫是如何创作的",
+          "summary_en": "How an AI Anime Is Created",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.aventos.dev/our-process?view=blog",
+          "published": "2026-07-22T00:53:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "全新路虎揽胜GT是否会步捷豹的后尘？",
+          "summary_en": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
+          "published": "2026-07-21T23:01:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.79
+        },
+        {
+          "summary_zh": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了",
+          "summary_en": "Just now, Gemini 3.6 Flash was officially released, but netizens laughed even louder",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672647?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-22T01:43:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.46
+        },
+        {
+          "summary_zh": "下载：中国人工智能分裂白宫，版权支出创纪录",
+          "summary_en": "The Download: Chinese AI divides the White House, and a record copyright payout",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+          "published": "2026-07-21T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "Jack Dorsey 正在与 Buzz 对抗 Slack，Buzz 是一个面向团队及其人工智能代理的群聊平台",
+          "summary_en": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+          "published": "2026-07-21T19:43:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.97
+        },
+        {
+          "summary_zh": "据报道，苹果已经修复了隐藏我的电子邮件漏洞",
+          "summary_en": "Apple has reportedly fixed its Hide My Email vulnerability",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/",
+          "published": "2026-07-21T18:51:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "OpenAI 和 Hugging Face 解决模型评估期间的安全事件",
+          "summary_en": "OpenAI and Hugging Face address security incident during model evaluation",
+          "source": "Hacker News: Front Page",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "published": "2026-07-21T20:09:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.07
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Meta is testing an AI bedtime story app for people with no imagination",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "published": "2026-07-21T23:55:10+00:00"
+        },
+        {
+          "summary": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+          "published": "2026-07-21T19:43:41+00:00"
+        },
+        {
+          "summary": "Substack is adding an AI detection feature",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+          "published": "2026-07-21T18:54:20+00:00"
+        },
+        {
+          "summary": "Apple has reportedly fixed its Hide My Email vulnerability",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/",
+          "published": "2026-07-21T18:51:19+00:00"
+        },
+        {
+          "summary": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+          "published": "2026-07-21T16:58:25+00:00"
+        },
+        {
+          "summary": "How an AI Anime Is Created",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.aventos.dev/our-process?view=blog",
+          "published": "2026-07-22T00:53:00+00:00"
+        },
+        {
+          "summary": "OpenAI and Hugging Face address security incident during model evaluation",
+          "source": "Hacker News: Front Page",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+          "published": "2026-07-21T20:09:52+00:00"
+        },
+        {
+          "summary": "Sony releases one last trailer for Spider-Man: Brand New Day",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
+          "published": "2026-07-21T19:50:10+00:00"
+        },
+        {
+          "summary": "Is the All-New Range Rover GT Stepping on Jaguar’s Tail?",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/",
+          "published": "2026-07-21T23:01:00+00:00"
+        },
+        {
+          "summary": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+          "published": "2026-07-21T22:50:01+00:00"
+        },
+        {
+          "summary": "刚刚，Gemini 3.6 Flash 正式发布，但网友笑得更大声了",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672647?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-22T01:43:00+00:00"
+        },
+        {
+          "summary": "早报｜iPhone 20 Pro Max或搭载约7英寸屏幕/曝小米上调今年手机出货目标至1.1亿部/Gemini 3.6 Flash发布,输出Token减少17%",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672713?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-22T00:34:32+00:00"
+        },
+        {
+          "summary": "The Download: Chinese AI divides the White House, and a record copyright payout",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+          "published": "2026-07-21T12:10:00+00:00"
+        },
+        {
+          "summary": "Advancing next-gen AI with materials science innovation",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+          "published": "2026-07-21T10:37:34+00:00"
+        },
+        {
+          "summary": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+          "published": null
+        },
+        {
+          "summary": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "published": null
+        },
+        {
+          "summary": "Novo Tellus联合RCF与NRFC完成对锐速矿业设备公司的收购",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3906111090742662?f=rss",
+          "published": null
+        },
+        {
+          "summary": "滔搏：耐克产品线上平台销售将于2027年1月1日起全面终止",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3906092452124035?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "经纪商表示保证金平仓接近尾声，韩国股市上涨",
+          "summary_en": "Korean Stocks Jump as Brokers Say Margin Unwind Nearing End",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end",
+          "published": "2026-07-22T01:18:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.36
+        },
+        {
+          "summary_zh": "特朗普计划对仿制药征收关税",
+          "summary_en": "Trump Plans to Impose Tariffs on Generic Drugs",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html",
+          "published": "2026-07-22T01:24:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.39
+        },
+        {
+          "summary_zh": "超微股价飙升，利润率意外翻倍",
+          "summary_en": "Super Micro’s stock soars as its margins unexpectedly double",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
+          "published": "2026-07-22T00:33:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.17
+        },
+        {
+          "summary_zh": "空中客车公司计划到 2029 年将盈利增加近一倍并启动回购计划 - 路透中文网",
+          "summary_en": "Airbus targets near-doubling of earnings by 2029, launches buyback - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUVkTnFtMTFjc0VLZUtnYWRwQmdsSGFweDA4a3BDR1VQQW1OSGcyYmtsdS1NNDBSbkxuMVFfMjJhNFAxVnRaaEtFTlpScENqdVJXaVVKQWpVem1RT2gzTVV5b05ISXhwMXkwZ1hCamw5YTZzdjFPSHB3bkVnY3VvSmlGaUhkYThBa2VmeEVxLUJLMC1SVFJCS3FXRXpKQ1lLRnBsNFZsMVdOUVVIc2hBdFM5UzhpWVpxbFVWVlJRaw?oc=5",
+          "published": "2026-07-21T22:49:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.74
+        },
+        {
+          "summary_zh": "韩国股市的抛售可能很快就会平息。这对美国市场来说可能是个好消息",
+          "summary_en": "The sell-off in Korean stocks may soon subside. That could be good news for U.S. markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/21/korean-stocks-may-recover-soon-it-could-be-good-news-for-us-markets.html",
+          "published": "2026-07-21T20:00:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.54
+        },
+        {
+          "summary_zh": "美国结束对伊朗的最新打击，美国仿制药关税计划",
+          "summary_en": "US Concludes Latest Iran Strikes, US Generic Drugs Tariff Plan",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-22/us-concludes-latest-iran-strikes-us-generic-drugs-tariff-plan",
+          "published": "2026-07-22T01:48:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "投资者如何学会忍受通货膨胀",
+          "summary_en": "How investors learned to live with inflation",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
+          "published": "2026-07-21T17:29:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.9
+        },
+        {
+          "summary_zh": "“这令人沮丧”——加拿大人对美国新关税的反应",
+          "summary_en": "'It's frustrating' - Canadians react to new US tariffs",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21T20:52:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "投资者对埃隆·马斯克 (Elon Musk) 的 Neuralink 在二级市场的估值为 420 亿美元",
+          "summary_en": "Investors are valuing Elon Musk's Neuralink at $42 billion on secondary markets",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/investors-valuing-elon-musks-neuralink-at-42-billion-2026-7",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "亚洲股市因科技股上涨而上涨，油价上涨：市场总结",
+          "summary_en": "Asian Stocks Advance on Tech Rally, Oil Climbs: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-21T22:07:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.57
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korean Stocks Jump as Brokers Say Margin Unwind Nearing End",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end",
+          "published": "2026-07-22T01:18:07+00:00"
+        },
+        {
+          "summary": "Asian Stocks Advance on Tech Rally, Oil Climbs: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-21T22:07:30+00:00"
+        },
+        {
+          "summary": "Trump Plans to Impose Tariffs on Generic Drugs",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html",
+          "published": "2026-07-22T01:24:53+00:00"
+        },
+        {
+          "summary": "Super Micro’s stock soars as its margins unexpectedly double",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
+          "published": "2026-07-22T00:33:00+00:00"
+        },
+        {
+          "summary": "Why energy stocks still look so cheap, even after their big rally this month",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-energy-stocks-still-look-so-cheap-even-after-their-big-rally-this-month-7f1a298b?mod=mw_rss_topstories",
+          "published": "2026-07-21T20:27:00+00:00"
+        },
+        {
+          "summary": "Airbus targets near-doubling of earnings by 2029, launches buyback - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUVkTnFtMTFjc0VLZUtnYWRwQmdsSGFweDA4a3BDR1VQQW1OSGcyYmtsdS1NNDBSbkxuMVFfMjJhNFAxVnRaaEtFTlpScENqdVJXaVVKQWpVem1RT2gzTVV5b05ISXhwMXkwZ1hCamw5YTZzdjFPSHB3bkVnY3VvSmlGaUhkYThBa2VmeEVxLUJLMC1SVFJCS3FXRXpKQ1lLRnBsNFZsMVdOUVVIc2hBdFM5UzhpWVpxbFVWVlJRaw?oc=5",
+          "published": "2026-07-21T22:49:02+00:00"
+        },
+        {
+          "summary": "The sell-off in Korean stocks may soon subside. That could be good news for U.S. markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/21/korean-stocks-may-recover-soon-it-could-be-good-news-for-us-markets.html",
+          "published": "2026-07-21T20:00:29+00:00"
+        },
+        {
+          "summary": "US Concludes Latest Iran Strikes, US Generic Drugs Tariff Plan",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-22/us-concludes-latest-iran-strikes-us-generic-drugs-tariff-plan",
+          "published": "2026-07-22T01:48:16+00:00"
+        },
+        {
+          "summary": "US Finishes Latest Iran Strikes, US to Tariff Generic Drugs",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-22/us-finishes-latest-iran-strikes-us-to-tariff-generic-drugs",
+          "published": "2026-07-22T01:10:04+00:00"
+        },
+        {
+          "summary": "U.S. auto industry races to purge Chinese connected-car hardware amid federal push - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3k0VFhMXzdjcHd4SUczVkNmWVNQU1U5OHY3dHFVdjNzVklhYS01c0FnaW9vbUVrVnpaNFNvd3JGZ2FQUXAybzdXekU4Y1ptT1JVN0p0WEVJQUdEaS1HSDFvN29lbllLbmlQZThVaWphaUUxdVNSLURqSDlSZF9zTzBpRzIxSFJyMlhlUVZQZEZZTWg2N0o2d1Y1bG81RXVacXBCZHZrSEpxNjkxZWZnU3VxbE8xVFhJa2N3OVFqd053WUliQzFKd1BtUm9jVE02UHc?oc=5",
+          "published": "2026-07-21T20:37:27+00:00"
+        },
+        {
+          "summary": "Trump Lifts Ban on Direct Flights to Lebanon",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html",
+          "published": "2026-07-22T00:23:11+00:00"
+        },
+        {
+          "summary": "How investors learned to live with inflation",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/21/how-investors-learned-to-live-with-inflation",
+          "published": "2026-07-21T17:29:00+00:00"
+        },
+        {
+          "summary": "Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/21/goldman-sachs-private-markets-platform.html",
+          "published": "2026-07-21T20:51:34+00:00"
+        },
+        {
+          "summary": "'It's frustrating' - Canadians react to new US tariffs",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21T20:52:08+00:00"
+        },
+        {
+          "summary": "'I can't afford to turn the oven on': 7.4m households struggling to buy essentials",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cglj9685nj0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-21T23:57:49+00:00"
+        },
+        {
+          "summary": "Investors are valuing Elon Musk's Neuralink at $42 billion on secondary markets",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/investors-valuing-elon-musks-neuralink-at-42-billion-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Inside Paramount and WBD, employees are on edge as David Ellison's mega-merger hits resistance",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/paramount-employees-wbd-merger-deal-delay-antitrust-lawsuit-david-ellison-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The Treasury is walking a tightrope on U.S. debt by relying so much on short-term rates that are at the mercy of a suddenly very hawkish Fed",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/treasury-walking-tightrope-u-debt-163238432.html",
+          "published": null
+        },
+        {
+          "summary": "Kremlin says Russian online retailer Wildberries suffered losses in warehouse attacks",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/kremlin-says-ukrainian-attacks-warehouses-104034622.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "新的 Gemini 3.5 闪存型号更快、更便宜，但并不更智能",
+          "summary_en": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+          "published": "2026-07-21T21:31:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.42
+        },
+        {
+          "summary_zh": "谷歌发布了三款新的 Gemini Flash 模型，但其 Frontier 3.5 Pro 仍然在训练中迷失方向",
+          "summary_en": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+          "published": "2026-07-21T16:52:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.25
+        },
+        {
+          "summary_zh": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+          "summary_en": "Xiaohongshu’s big model won the IMO gold medal with perfect scores, and the solution to the third question made the champion call her elegance",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/456061.html",
+          "published": "2026-07-22T00:34:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "人类混音支付创意，人工智能只支付股东",
+          "summary_en": "Human remixes pay creatives, AI just pays shareholders",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-human-remixes-pay-creatives-ai.html",
+          "published": "2026-07-21T21:00:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.78
+        },
+        {
+          "summary_zh": "推出适用于小型企业的 ChatGPT 计划",
+          "summary_en": "Introducing the ChatGPT for small business program",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "published": "2026-07-21T17:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "音乐流媒体 Deezer 表示，超过 50% 的每日上传内容是人工智能生成的",
+          "summary_en": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+          "published": "2026-07-21T13:27:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.4
+        },
+        {
+          "summary_zh": "使用 llama.cpp 和 Pi 在本地运行 Mythos 增强编码模型",
+          "summary_en": "Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
+          "published": "2026-07-21T14:00:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.54
+        },
+        {
+          "summary_zh": "阿里巴巴Qwen 3.8 Max显示中国正在逼近美国车型",
+          "summary_en": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
+          "published": "2026-07-21T16:00:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.04
+        },
+        {
+          "summary_zh": "微软就 Mistral 的人工智能计算能力达成交易",
+          "summary_en": "Microsoft strikes deal for Mistral's AI computing power",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-microsoft-mistral-ai-power.html",
+          "published": "2026-07-21T16:20:01-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.62
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+          "published": "2026-07-21T21:31:59+00:00"
+        },
+        {
+          "summary": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+          "published": "2026-07-21T16:52:51+00:00"
+        },
+        {
+          "summary": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/456061.html",
+          "published": "2026-07-22T00:34:33+00:00"
+        },
+        {
+          "summary": "Human remixes pay creatives, AI just pays shareholders",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-human-remixes-pay-creatives-ai.html",
+          "published": "2026-07-21T21:00:07-04:00"
+        },
+        {
+          "summary": "Introducing the ChatGPT for small business program",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "published": "2026-07-21T17:00:00+00:00"
+        },
+        {
+          "summary": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
+          "published": "2026-07-21T16:00:50+00:00"
+        },
+        {
+          "summary": "Microsoft strikes deal for Mistral's AI computing power",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-microsoft-mistral-ai-power.html",
+          "published": "2026-07-21T16:20:01-04:00"
+        },
+        {
+          "summary": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+          "published": "2026-07-21T08:56:51+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+          "published": "2026-07-21T13:27:42+00:00"
+        },
+        {
+          "summary": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "published": "2026-07-21T07:00:00+00:00"
+        },
+        {
+          "summary": "Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
+          "published": "2026-07-21T14:00:42+00:00"
+        },
+        {
+          "summary": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+          "published": "2026-07-21T10:00:00+00:00"
+        },
+        {
+          "summary": "WAIC重磅成果｜上海市教育算力专区正式开启试运行",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/456026.html",
+          "published": "2026-07-21T09:30:03+00:00"
+        },
+        {
+          "summary": "5 Free Courses to Go From AI Beginner to Practitioner",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner",
+          "published": "2026-07-21T12:00:10+00:00"
+        }
+      ]
+    }
+  }
+}
