@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T01:59:28.182701+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "谷歌通过蓬勃发展的云业务证明其大规模人工智能支出的合理性",
+          "summary_en": "Google justifies its massive AI spending with a booming cloud business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "published": "2026-07-22T22:01:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.51
+        },
+        {
+          "summary_zh": "美国概述了其 50 亿美元的创世纪任务，旨在通过人工智能促进科学发展",
+          "summary_en": "US outlines its $5 billion Genesis Mission to boost science with AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/",
+          "published": "2026-07-22T20:54:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "现代汽车声称人形机器人计划不属于与罢工工人谈判的一部分",
+          "summary_en": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+          "published": "2026-07-22T18:18:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.58
+        },
+        {
+          "summary_zh": "Safari 技术预览版 248 发布",
+          "summary_en": "Safari Technology Preview 248 Released",
+          "source": "Hacker News: Front Page",
+          "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+          "published": "2026-07-22T21:00:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "早报｜12999起,首台安卓阔折叠发布/曝苹果MacBook将迎全线更新/小红书否认IPO相关传闻",
+          "summary_en": "Morning Post | Starting from 12999, the first Android wide foldable device is released/It is revealed that Apple MacBook will receive full line updates/Xiaohongshu denies IPO-related rumors",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672820?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-23T00:15:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "白宫正试图弄清楚如何对待中国人工智能",
+          "summary_en": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+          "published": "2026-07-22T21:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "下载：NASA 的新型太空望远镜和 OpenAI 的自主黑客",
+          "summary_en": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+          "published": "2026-07-22T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "在经历了令人震惊的季度后，IBM 坚称人工智能不会杀死大型机",
+          "summary_en": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "published": "2026-07-22T23:47:54+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "OpenAI 因 ChatGPT 健康建议被起诉，差点杀死一名牧师",
+          "summary_en": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
+          "published": "2026-07-22T18:40:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.67
+        },
+        {
+          "summary_zh": "微软为 Windows PC 带来了原始 Xbox 向后兼容性",
+          "summary_en": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+          "published": "2026-07-22T20:36:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.15
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Google justifies its massive AI spending with a booming cloud business",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "published": "2026-07-22T22:01:52+00:00"
+        },
+        {
+          "summary": "US outlines its $5 billion Genesis Mission to boost science with AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/",
+          "published": "2026-07-22T20:54:26+00:00"
+        },
+        {
+          "summary": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "published": "2026-07-22T23:47:54+00:00"
+        },
+        {
+          "summary": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
+          "published": "2026-07-22T18:40:46+00:00"
+        },
+        {
+          "summary": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+          "published": "2026-07-22T18:18:12+00:00"
+        },
+        {
+          "summary": "Safari Technology Preview 248 Released",
+          "source": "Hacker News: Front Page",
+          "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+          "published": "2026-07-22T21:00:26+00:00"
+        },
+        {
+          "summary": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+          "published": "2026-07-22T20:36:19+00:00"
+        },
+        {
+          "summary": "Fairphone 6 wide camera experimental Linux support",
+          "source": "Hacker News: Front Page",
+          "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+          "published": "2026-07-22T20:16:01+00:00"
+        },
+        {
+          "summary": "早报｜12999起,首台安卓阔折叠发布/曝苹果MacBook将迎全线更新/小红书否认IPO相关传闻",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672820?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-23T00:15:27+00:00"
+        },
+        {
+          "summary": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+          "published": "2026-07-22T21:00:00+00:00"
+        },
+        {
+          "summary": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+          "published": "2026-07-22T12:10:00+00:00"
+        },
+        {
+          "summary": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+          "published": "2026-07-22T19:01:38+00:00"
+        },
+        {
+          "summary": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+          "published": "2026-07-22T09:00:00+00:00"
+        },
+        {
+          "summary": "AI 圈今天最大的瓜：GPT-6 越狱攻击，被 GLM 5.2 揪出了",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672746?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-22T07:06:04+00:00"
+        },
+        {
+          "summary": "iOS code could reportedly let Apple cut off apps when users miss iPhone payments",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/969596/apple-restricted-mode-ios-27",
+          "published": null
+        },
+        {
+          "summary": "36氪首发 | 同济博士做几何、物理AI重构设计制造，累计获超3亿元融资",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3907532622648453?f=rss",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜苹果iPhone18系列已量产；小红书回应IPO传闻：相关信息均不属实；明治将在华牛奶业务转让给澳亚集团",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3906606931907971?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "华尔街银行交易部分 350 亿美元人工智能芯片交易",
+          "summary_en": "Wall Street Banks Trading Parts of $35 Billion AI Chip Deal",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
+          "published": "2026-07-22T22:04:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.52
+        },
+        {
+          "summary_zh": "随着盈利显示网络安全势头强劲，ServiceNow 股价上涨",
+          "summary_en": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+          "published": "2026-07-23T00:18:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.08
+        },
+        {
+          "summary_zh": "麦格理高调首席执行官 Wikramanayake 退休，由银行资深人士接任 - 路透中文网",
+          "summary_en": "Macquarie's high profile CEO Wikramanayake to retire, replaced by bank veteran - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU1wT1ZwblJtQ2RzMm1IZ3JmREh5d2REMXdId004MGZ6cUdqUWZJT18xZ01PbVdyR2VxczJjcVMxaUszazA0TE85eGNBVm5IUFB4M210Z2tOdG1USVI2dFBvdDBXYkRoQXhfTWx6NHY0ZHp0bERTS0hWSFVJbkhCcDRFWG45dUpGWXJGaEhZLVRNcGNCRnZBeWdMU204RGV3RXdN?oc=5",
+          "published": "2026-07-22T23:31:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.88
+        },
+        {
+          "summary_zh": "股票和经济越来越依赖人工智能繁荣",
+          "summary_en": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html",
+          "published": "2026-07-22T15:46:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "Alphabet/特斯拉收益、美国与沙特签署核协议等",
+          "summary_en": "Alphabet/Tesla Earnings, US-Saudi Signs Nuclear Deal, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-22/alphabet-tesla-earnings-us-saudi-signs-nuclear-deal-more",
+          "published": "2026-07-22T22:19:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.58
+        },
+        {
+          "summary_zh": "Alphabet 财报要点：第二季度营收超预期，GOOGL 股价因 2026 年资本支出上涨而下跌",
+          "summary_en": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+          "published": "2026-07-22T23:21:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.34
+        },
+        {
+          "summary_zh": "特朗普技术顾问称，中国的 Moonshot AI 窃取了 Anthropic 的技术",
+          "summary_en": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-23T01:52:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.47
+        },
+        {
+          "summary_zh": "中国备受瞩目的基金放弃消费类股票，转而追逐人工智能",
+          "summary_en": "China’s High-Profile Funds Ditch Consumer Stocks to Chase AI",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-high-profile-funds-ditch-consumer-stocks-to-chase-ai",
+          "published": "2026-07-22T23:57:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.99
+        },
+        {
+          "summary_zh": "伊朗危机加剧 牛市面临美联储加息可能性加大",
+          "summary_en": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+          "published": "2026-07-23T00:27:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "尽管汽车销量反弹，特斯拉利润却下降",
+          "summary_en": "Tesla Profit Falls Even as Car Sales Rebound",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+          "published": "2026-07-22T22:45:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.69
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Wall Street Banks Trading Parts of $35 Billion AI Chip Deal",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
+          "published": "2026-07-22T22:04:04+00:00"
+        },
+        {
+          "summary": "China’s High-Profile Funds Ditch Consumer Stocks to Chase AI",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-high-profile-funds-ditch-consumer-stocks-to-chase-ai",
+          "published": "2026-07-22T23:57:21+00:00"
+        },
+        {
+          "summary": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+          "published": "2026-07-23T00:18:00+00:00"
+        },
+        {
+          "summary": "Macquarie's high profile CEO Wikramanayake to retire, replaced by bank veteran - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU1wT1ZwblJtQ2RzMm1IZ3JmREh5d2REMXdId004MGZ6cUdqUWZJT18xZ01PbVdyR2VxczJjcVMxaUszazA0TE85eGNBVm5IUFB4M210Z2tOdG1USVI2dFBvdDBXYkRoQXhfTWx6NHY0ZHp0bERTS0hWSFVJbkhCcDRFWG45dUpGWXJGaEhZLVRNcGNCRnZBeWdMU204RGV3RXdN?oc=5",
+          "published": "2026-07-22T23:31:15+00:00"
+        },
+        {
+          "summary": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+          "published": "2026-07-23T00:27:00+00:00"
+        },
+        {
+          "summary": "Stocks and the Economy Are Increasingly Relying on the A.I. Boom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html",
+          "published": "2026-07-22T15:46:49+00:00"
+        },
+        {
+          "summary": "Tesla Profit Falls Even as Car Sales Rebound",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+          "published": "2026-07-22T22:45:06+00:00"
+        },
+        {
+          "summary": "ServiceNow raises annual subscription revenue forecast again on AI-driven demand - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc0t3OUVVaDhfS0JPMjgwLV9KS0QtdU1oRG9pcEdpNmwtamdHSUZrNHFEUEpqUWhaTTJUZjVHUzdwd3hpcmpkMGx2V2RmbktYQUZicXNheXFnWTlVZlNWc3N0RFNKZnFTVHVVZWZTT0xkRWxtbURBMjJvSjl6VjlfUEpWdzNsakl0MXNBWGlxYUVLV3ZuT1lJcXZjRU9OY1NPRWR6R3daa1A5cG5qUmFvWFNzRmt3MlhJSE9nRUg5WQ?oc=5",
+          "published": "2026-07-22T22:35:16+00:00"
+        },
+        {
+          "summary": "Alphabet/Tesla Earnings, US-Saudi Signs Nuclear Deal, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-22/alphabet-tesla-earnings-us-saudi-signs-nuclear-deal-more",
+          "published": "2026-07-22T22:19:37+00:00"
+        },
+        {
+          "summary": "Houthis Claim Red Sea Tanker Attacks, Tesla Profit Misses, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-23/houthis-claim-red-sea-tanker-attacks-tesla-profit-misses-more",
+          "published": "2026-07-23T01:55:52+00:00"
+        },
+        {
+          "summary": "Alphabet earnings takeaways: Q2 revenue beats, GOOGL stock sinks on 2026 capex hike",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/22/google-earnings-q2-goog-live-updates.html",
+          "published": "2026-07-22T23:21:42+00:00"
+        },
+        {
+          "summary": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-23T01:52:10+00:00"
+        },
+        {
+          "summary": "Airport drop-off fees up by a third - here are the priciest",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-22T23:21:40+00:00"
+        },
+        {
+          "summary": "House advances bill barring sitting Congress members from buying stocks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
+          "published": "2026-07-22T20:59:04+00:00"
+        },
+        {
+          "summary": "The 3 biggest takeaways from Google's Q2 earnings, from AI spending to a milestone for Gemini",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/3-biggest-takeaways-from-google-second-quarter-earnings-ai-spending-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Monday.com plans 20% layoffs citing an 'AI-driven growth strategy.' Read the co-CEO's memo to employees.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/monday-com-layoffs-ai-growth-strategy-2026-7",
+          "published": null
+        },
+        {
+          "summary": "$5 billion CEO says unemployed Gen Z should be out 3 days a week building their network: ‘Sometimes those jobs you want, they’re never published’",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/lifestyle/articles/5-billion-tech-ceo-says-070000173.html",
+          "published": null
+        },
+        {
+          "summary": "Jamie Dimon says insecurity, not ego, is what destroys the careers of top CEOs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-says-insecurity-not-181731725.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 将黑客事件归咎于其人工智能模型的失控。以下是一些需要了解的事情",
+          "summary_en": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-blamed-hacking-event-ai.html",
+          "published": "2026-07-22T15:20:11-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.34
+        },
+        {
+          "summary_zh": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+          "summary_en": "This competition in Shanghai is a bit \"wild\": let AI conduct independent scientific research, control nuclear fusion, and recognize oracle bones",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/457249.html",
+          "published": "2026-07-23T00:35:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.15
+        },
+        {
+          "summary_zh": "思科押注其小型开放网络安全模型在漏洞检测方面可以超越 GPT-5.5，而成本仅为 GPT-5.5 的一小部分",
+          "summary_en": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+          "published": "2026-07-22T16:28:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "专注于企业人工智能安全的初创公司估值12亿美元",
+          "summary_en": "Startup Focused on Enterprise AI Security Valued at $1.2 billion",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
+          "published": "2026-07-22T20:49:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "Kaggle + Google 的 5 天免费 Agentic AI 课程",
+          "summary_en": "Kaggle + Google’s Free 5-Day Agentic AI Course",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course",
+          "published": "2026-07-22T14:00:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.51
+        },
+        {
+          "summary_zh": "Menlo Ventures 的 Matt Murphy 解释了人工智能初创公司创始人必须采取哪些不同的做法",
+          "summary_en": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "published": "2026-07-22T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "与埃芬汉县社区一起建设人工智能基础设施",
+          "summary_en": "Building AI infrastructure with the Effingham County community",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "published": "2026-07-22T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.25
+        },
+        {
+          "summary_zh": "白宫指责中国登月计划窃取人类人工智能",
+          "summary_en": "White House accuses China's Moonshot of stealing Anthropic AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-white-house-accuses-china-moonshot.html",
+          "published": "2026-07-22T15:20:09-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.34
+        },
+        {
+          "summary_zh": "Anthropic 与图书作者达成的 1.5B 美元盗版和解协议创下了创纪录的损失，但人工智能实验室却获得了最大的法律胜利",
+          "summary_en": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+          "published": "2026-07-22T19:33:48+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.89
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-blamed-hacking-event-ai.html",
+          "published": "2026-07-22T15:20:11-04:00"
+        },
+        {
+          "summary": "White House accuses China's Moonshot of stealing Anthropic AI",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-white-house-accuses-china-moonshot.html",
+          "published": "2026-07-22T15:20:09-04:00"
+        },
+        {
+          "summary": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/457249.html",
+          "published": "2026-07-23T00:35:43+00:00"
+        },
+        {
+          "summary": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+          "published": "2026-07-22T16:28:08+00:00"
+        },
+        {
+          "summary": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+          "published": "2026-07-22T19:33:48+00:00"
+        },
+        {
+          "summary": "Startup Focused on Enterprise AI Security Valued at $1.2 billion",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
+          "published": "2026-07-22T20:49:12+00:00"
+        },
+        {
+          "summary": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/457117.html",
+          "published": "2026-07-22T07:31:19+00:00"
+        },
+        {
+          "summary": "Kaggle + Google’s Free 5-Day Agentic AI Course",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kaggle-googles-free-5-day-agentic-ai-course",
+          "published": "2026-07-22T14:00:33+00:00"
+        },
+        {
+          "summary": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "published": "2026-07-22T14:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Building AI infrastructure with the Effingham County community",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "published": "2026-07-22T13:00:00+00:00"
+        },
+        {
+          "summary": "How news organizations are using AI to advance their vital missions",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "published": "2026-07-22T13:00:00+00:00"
+        },
+        {
+          "summary": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+          "published": "2026-07-22T08:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft-Mistral Partnership is About Sovereign AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/microsoft-mistral-partnership-about-sovereign-ai",
+          "published": "2026-07-22T15:51:22+00:00"
+        },
+        {
+          "summary": "10 Newsletters Keeping You Ahead in AI",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/10-newsletters-keeping-you-ahead-in-ai",
+          "published": "2026-07-22T12:00:51+00:00"
+        },
+        {
+          "summary": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
+          "published": "2026-07-22T13:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
