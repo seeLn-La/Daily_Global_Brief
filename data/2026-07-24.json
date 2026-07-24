@@ -1,0 +1,648 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T01:55:16.108621+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "人工智能护栏如何阻碍进攻性网络安全研究人员的工作",
+          "summary_en": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "published": "2026-07-24T01:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.27
+        },
+        {
+          "summary_zh": "科学家开发手持设备来测量身体何时燃烧脂肪",
+          "summary_en": "Scientists develop handheld device for measuring when your body is burning fat",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
+          "published": "2026-07-23T22:39:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "早报｜极氪回应跨境自驾车机被锁/曝苹果Apple Store应用将上线「AI购物助手」/梁文锋:DeepSeek不追求成为下一个字节或腾讯",
+          "summary_en": "Morning Post | Ji Krypton responds to cross-border self-driving cars being locked/revealed that Apple’s Apple Store app will launch “AI shopping assistant”/Liang Wenfeng: DeepSeek does not pursue becoming the next Byte or Tencent",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672938?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-24T00:12:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.07
+        },
+        {
+          "summary_zh": "微软回应 LG 显示器在 Windows 上安装迈克菲广告",
+          "summary_en": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+          "published": "2026-07-23T20:47:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "过冷肾脏已被移植到猪体内，这是一项“里程碑式的成就”",
+          "summary_en": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+          "published": "2026-07-23T16:58:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.26
+        },
+        {
+          "summary_zh": "反对开源人工智能的论据很糟糕",
+          "summary_en": "The arguments against open source AI are bad",
+          "source": "Hacker News: Front Page",
+          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "published": "2026-07-23T16:49:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.23
+        },
+        {
+          "summary_zh": "FDA 小组刚刚认可了这些未经证实的肽",
+          "summary_en": "An FDA Panel Just Endorsed These Unproven Peptides",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+          "published": "2026-07-23T23:45:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.96
+        },
+        {
+          "summary_zh": "Mobileye 首席执行官 Amnon Shashua 辞职，公司进军机器人出租车和机器人技术领域",
+          "summary_en": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+          "published": "2026-07-23T22:40:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.69
+        },
+        {
+          "summary_zh": "Meta 的支持人工智能的广告活动明显没有提及人工智能",
+          "summary_en": "Meta's pro-AI ad campaign is conspicuously light on AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+          "published": "2026-07-23T20:37:45+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "《人工智能杀戮开关法案》将让特朗普政府下令关闭流氓人工智能系统",
+          "summary_en": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+          "published": "2026-07-23T19:08:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.8
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "published": "2026-07-24T01:00:00+00:00"
+        },
+        {
+          "summary": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+          "published": "2026-07-23T22:40:08+00:00"
+        },
+        {
+          "summary": "Scientists develop handheld device for measuring when your body is burning fat",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222231/scientists-develop-handheld-device-for-measuring-when-your-body-is-burning-fat/",
+          "published": "2026-07-23T22:39:08+00:00"
+        },
+        {
+          "summary": "Meta's pro-AI ad campaign is conspicuously light on AI",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+          "published": "2026-07-23T20:37:45+00:00"
+        },
+        {
+          "summary": "早报｜极氪回应跨境自驾车机被锁/曝苹果Apple Store应用将上线「AI购物助手」/梁文锋:DeepSeek不追求成为下一个字节或腾讯",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672938?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-24T00:12:12+00:00"
+        },
+        {
+          "summary": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+          "published": "2026-07-23T20:47:33+00:00"
+        },
+        {
+          "summary": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+          "published": "2026-07-23T19:08:01+00:00"
+        },
+        {
+          "summary": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+          "published": "2026-07-23T16:58:28+00:00"
+        },
+        {
+          "summary": "The arguments against open source AI are bad",
+          "source": "Hacker News: Front Page",
+          "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+          "published": "2026-07-23T16:49:57+00:00"
+        },
+        {
+          "summary": "The Download: energy transmission and US threats against Chinese AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+          "published": "2026-07-23T12:10:00+00:00"
+        },
+        {
+          "summary": "An FDA Panel Just Endorsed These Unproven Peptides",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+          "published": "2026-07-23T23:45:12+00:00"
+        },
+        {
+          "summary": "The Visual 6502",
+          "source": "Hacker News: Front Page",
+          "url": "http://visual6502.org/JSSim/index.html",
+          "published": "2026-07-23T23:36:42+00:00"
+        },
+        {
+          "summary": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+          "published": "2026-07-23T18:45:52+00:00"
+        },
+        {
+          "summary": "苹果 Mac 将迎来全线换代，一种给人用，一种给 AI 用",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1672867?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-23T09:52:40+00:00"
+        },
+        {
+          "summary": "对话FutureTech张梦钊：从“一个人+一群Agent”到超级个体，AI正在重塑创业范式",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3907639172027522?f=rss",
+          "published": null
+        },
+        {
+          "summary": "硬氪首发 | 大疆系AI自然探索公司获五源、顺为投资，首创水下光学系统",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3906474040153220?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Alexa Plus is getting an AI update to handle more complicated instructions",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+          "published": null
+        },
+        {
+          "summary": "FCC Chairman Brendan Carr’s war on the First Amendment",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "亚洲股市因科技股下跌，布伦特原油价格突破 100 美元：市场总结",
+          "summary_en": "Asian Stocks Fall on Tech, Brent Trades Above $100: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-23T22:06:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.55
+        },
+        {
+          "summary_zh": "随着人工智能的出现，股市暴跌支出和油价对市场构成压力",
+          "summary_en": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
+          "published": "2026-07-23T20:07:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.05
+        },
+        {
+          "summary_zh": "特朗普推出新一波全球关税。这是最新的费率。",
+          "summary_en": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
+          "published": "2026-07-23T21:50:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "特朗普通过强迫劳动税重建关税，英特尔收益",
+          "summary_en": "Trump Rebuilds Tariffs With Forced-Labor Duties, Intel Earnings",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariffs-with-forced-labor-duties-intel-earnings",
+          "published": "2026-07-24T00:47:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "科技财报引发人工智能支出担忧，油价触及 100 美元，华尔街下跌 - 路透中文网",
+          "summary_en": "Wall St falls as tech earnings spark AI spending worries and oil hits $100 - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQm1lbVBLTDdabmN2REd2TFlJcEV0VHBFdVRWejRSTERMbkk2MWt2SkhhN0R0dFh4cDJQVlV2aFBicWpic1EzNDRqQlFhZ2JXOW1LS2hlM08yTm5LcTUyMVJ2aWZXamhtX3dxVWU4b1ZaWExGX253OFBJWEo3dy1KLUljYmNZUE9sRC13Y1BQZ3U5ZlJySVlJMURtbmt1cUVIbElMM3VpYnd6YnJ2UUxadkZnUXBQeDVNU0tlUU9HU2pPdFVMOXU4LUxzYnYyckExaXA5STJrVQ?oc=5",
+          "published": "2026-07-23T23:21:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "周五的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/23/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-23T23:08:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "人工智能支出扰乱市场，谷歌和特斯拉股价暴跌",
+          "summary_en": "Google and Tesla shares plunge as AI spending rattles markets",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-23T20:42:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.2
+        },
+        {
+          "summary_zh": "预测市场能否战胜华尔街？",
+          "summary_en": "Can prediction markets win over Wall Street?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
+          "published": "2026-07-23T08:59:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.77
+        },
+        {
+          "summary_zh": "麦格理首位女性首席执行官携 3.39 亿美元股份离职",
+          "summary_en": "Macquarie’s First Woman CEO Departs With a $339 Million Stake",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/macquarie-s-first-woman-ceo-departs-with-a-339-million-stake",
+          "published": "2026-07-24T01:04:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.29
+        },
+        {
+          "summary_zh": "由于新的人工智能威胁掩盖了盈利预期，ServiceNow 股价下跌",
+          "summary_en": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+          "published": "2026-07-23T21:41:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.44
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Asian Stocks Fall on Tech, Brent Trades Above $100: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-23T22:06:16+00:00"
+        },
+        {
+          "summary": "Macquarie’s First Woman CEO Departs With a $339 Million Stake",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/macquarie-s-first-woman-ceo-departs-with-a-339-million-stake",
+          "published": "2026-07-24T01:04:14+00:00"
+        },
+        {
+          "summary": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
+          "published": "2026-07-23T20:07:54+00:00"
+        },
+        {
+          "summary": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
+          "published": "2026-07-23T21:50:00+00:00"
+        },
+        {
+          "summary": "ServiceNow’s stock falls as a new AI threat overshadows earnings beat",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-a-rare-bright-spot-while-the-rest-of-tech-stumbles-383f7f20?mod=mw_rss_topstories",
+          "published": "2026-07-23T21:41:00+00:00"
+        },
+        {
+          "summary": "Trump Rebuilds Tariffs With Forced-Labor Duties, Intel Earnings",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariffs-with-forced-labor-duties-intel-earnings",
+          "published": "2026-07-24T00:47:37+00:00"
+        },
+        {
+          "summary": "Everybody's Business: The Economic Odyssey (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-23/everybody-s-business-the-economic-odyssey-podcast",
+          "published": "2026-07-23T23:52:58+00:00"
+        },
+        {
+          "summary": "Wall St falls as tech earnings spark AI spending worries and oil hits $100 - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQm1lbVBLTDdabmN2REd2TFlJcEV0VHBFdVRWejRSTERMbkk2MWt2SkhhN0R0dFh4cDJQVlV2aFBicWpic1EzNDRqQlFhZ2JXOW1LS2hlM08yTm5LcTUyMVJ2aWZXamhtX3dxVWU4b1ZaWExGX253OFBJWEo3dy1KLUljYmNZUE9sRC13Y1BQZ3U5ZlJySVlJMURtbmt1cUVIbElMM3VpYnd6YnJ2UUxadkZnUXBQeDVNU0tlUU9HU2pPdFVMOXU4LUxzYnYyckExaXA5STJrVQ?oc=5",
+          "published": "2026-07-23T23:21:59+00:00"
+        },
+        {
+          "summary": "Canada to consider retaliating against latest Trump tariffs, Carney says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDNkU0dIZmxfd2NRS3BrX1g3cE9OLURoYTlLODdXNTA0QmxFOFRNdGlpbDViS1hQMWgzNnp1YW15ZmNpNU1BNjAxc3JjRWJUMVdiV1JBdUpob0RfQ2t4ZHd2R29rd0lIQmg2b1NXOHgxUTVsX0JEeE5pclZsQ0NxYkZDa3p6bFVLR0NJRXR4MzZmNGFUa01rNEZROWhYZHdoNWtXamNjb1RNaDA?oc=5",
+          "published": "2026-07-23T22:58:43+00:00"
+        },
+        {
+          "summary": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+          "published": "2026-07-23T22:42:02+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/23/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-23T23:08:57+00:00"
+        },
+        {
+          "summary": "Google and Tesla shares plunge as AI spending rattles markets",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-23T20:42:33+00:00"
+        },
+        {
+          "summary": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-24T00:40:26+00:00"
+        },
+        {
+          "summary": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+          "published": "2026-07-23T22:17:09+00:00"
+        },
+        {
+          "summary": "Can prediction markets win over Wall Street?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street",
+          "published": "2026-07-23T08:59:27+00:00"
+        },
+        {
+          "summary": "The world’s balance-sheet is out of kilter with its economy",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/23/the-worlds-balance-sheet-is-out-of-kilter-with-its-economy",
+          "published": "2026-07-23T09:42:17+00:00"
+        },
+        {
+          "summary": "OpenAI's new release turns a bad week ugly for software stocks",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/openai-release-turns-a-bad-week-ugly-for-software-stocks-2026-7",
+          "published": null
+        },
+        {
+          "summary": "IMAX's CEO isn't buying Disney's 'Infinity Vision' pitch for 'Avengers: Doomsday': It's just 'marketing'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/imax-ceo-response-disney-infinity-vision-avengers-doomsday-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Hawley to introduce bill blocking lavish USPS executive bonuses over mail delays, losses",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/exclusive-hawley-introduce-bill-blocking-192455236.html",
+          "published": null
+        },
+        {
+          "summary": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 表示，流氓人工智能模型摆脱了人类的控制。有些人认为这是一次“警告”",
+          "summary_en": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html",
+          "published": "2026-07-23T14:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.02
+        },
+        {
+          "summary_zh": "一个被篡改的 ChatGPT 链接可能会产生一个恶意 AI 代理，该代理每五分钟就会接受一次攻击者的命令",
+          "summary_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+          "published": "2026-07-23T17:01:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "OpenAI 拥抱面部黑客对企业意味着什么",
+          "summary_en": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
+          "published": "2026-07-23T20:55:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "专家表示，Kimi K3 之所以如此优秀，并不是因为利用了 Anthropic 的《寓言》",
+          "summary_en": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+          "published": "2026-07-23T11:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.77
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "CLI 代理编码的 7 个最佳 Claude 代码替代方案",
+          "summary_en": "7 Best Claude Code Alternatives for CLI Agentic Coding",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding",
+          "published": "2026-07-23T12:00:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.02
+        },
+        {
+          "summary_zh": "新方法让多模式人工智能更新知识而不丢失早期信息",
+          "summary_en": "Novel method lets multimodal AI update knowledge without losing earlier information",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html",
+          "published": "2026-07-23T15:40:07-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "谷歌首席执行官皮查伊表示，Gemini 的下一次飞跃取决于构建“更大的基础模型”",
+          "summary_en": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+          "published": "2026-07-23T11:19:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "施耐德电气与 AMD 公布人工智能工厂部署蓝图",
+          "summary_en": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
+          "published": "2026-07-23T19:11:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-rogue-ai-broke-free.html",
+          "published": "2026-07-23T14:00:01-04:00"
+        },
+        {
+          "summary": "Novel method lets multimodal AI update knowledge without losing earlier information",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-method-multimodal-ai-knowledge-earlier.html",
+          "published": "2026-07-23T15:40:07-04:00"
+        },
+        {
+          "summary": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+          "published": "2026-07-23T17:01:30+00:00"
+        },
+        {
+          "summary": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
+          "published": "2026-07-23T20:55:53+00:00"
+        },
+        {
+          "summary": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
+          "published": "2026-07-23T11:19:57+00:00"
+        },
+        {
+          "summary": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
+          "published": "2026-07-23T19:11:44+00:00"
+        },
+        {
+          "summary": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+          "published": "2026-07-23T11:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "7 Best Claude Code Alternatives for CLI Agentic Coding",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding",
+          "published": "2026-07-23T12:00:42+00:00"
+        },
+        {
+          "summary": "智能体政策新闻相关背景和简要解读",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/457787.html",
+          "published": "2026-07-23T11:08:31+00:00"
+        },
+        {
+          "summary": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+          "published": "2026-07-23T06:09:13+00:00"
+        },
+        {
+          "summary": "Getting Started with OmniVoice-Studio",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/getting-started-with-omnivoice-studio",
+          "published": "2026-07-23T14:00:47+00:00"
+        },
+        {
+          "summary": "科大讯飞发布星火Token Factory，打造企业级AI模型智能路由与治理新底座",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/457359.html",
+          "published": "2026-07-23T01:55:14+00:00"
+        },
+        {
+          "summary": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
+          "published": "2026-07-23T08:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
