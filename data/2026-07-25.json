@@ -1,0 +1,624 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T01:54:31.749096+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "我尝试了 OpenAI 的新 AI 键盘——这对一些程序员来说会很有趣，但对其他人来说有点神秘",
+          "summary_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "published": "2026-07-25T00:23:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "Meta 退出了可再生能源计划，因为它的数据中心更多地依赖天然气",
+          "summary_en": "Meta has pulled out of a renewable energy initiative as it relies more on natural gas for data centers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/",
+          "published": "2026-07-24T23:13:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.83
+        },
+        {
+          "summary_zh": "野火迫使美国宇航局西班牙深空网络综合体疏散",
+          "summary_en": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+          "published": "2026-07-24T22:28:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.64
+        },
+        {
+          "summary_zh": "下载：器官移植突破和国产芯片",
+          "summary_en": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+          "published": "2026-07-24T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "AI 不会做你想做的事。这很糟糕",
+          "summary_en": "AIs don't do what you want. This is bad",
+          "source": "Hacker News: Front Page",
+          "url": "https://rewardhacking.org",
+          "published": "2026-07-24T22:24:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.62
+        },
+        {
+          "summary_zh": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格",
+          "summary_en": "Morning Post | Claude Opus 5 released, equaling Fable 5 at half price/Xpeng humanoid robot starts small batch trial production/Revealed that Nvidia will raise graphics card prices",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-25T00:23:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.12
+        },
+        {
+          "summary_zh": "美国宇航局最重要的深空天文台之一遭受西班牙野火袭击",
+          "summary_en": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+          "published": "2026-07-24T22:30:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.65
+        },
+        {
+          "summary_zh": "SpaceX 发射新的 V3 Starlink 卫星，但助推器再次失败",
+          "summary_en": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+          "published": "2026-07-24T23:25:47+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "Prime Video 的《银翼杀手 2099》现已发布预告片，发行日期为 11 月 25 日",
+          "summary_en": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/",
+          "published": "2026-07-24T18:59:13+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.77
+        },
+        {
+          "summary_zh": "Roku 将流媒体棒价格提高了 60%",
+          "summary_en": "Roku raises streaming stick prices by up to 60 percent",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+          "published": "2026-07-24T19:41:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.94
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "published": "2026-07-25T00:23:11+00:00"
+        },
+        {
+          "summary": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+          "published": "2026-07-24T23:25:47+00:00"
+        },
+        {
+          "summary": "Meta has pulled out of a renewable energy initiative as it relies more on natural gas for data centers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222988/meta-has-pulled-out-of-a-renewable-energy-initiative-as-it-relies-more-on-natural-gas-for-data-centers/",
+          "published": "2026-07-24T23:13:24+00:00"
+        },
+        {
+          "summary": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/",
+          "published": "2026-07-24T18:59:13+00:00"
+        },
+        {
+          "summary": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+          "published": "2026-07-24T22:28:20+00:00"
+        },
+        {
+          "summary": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+          "published": "2026-07-24T12:10:00+00:00"
+        },
+        {
+          "summary": "Roku raises streaming stick prices by up to 60 percent",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/",
+          "published": "2026-07-24T19:41:06+00:00"
+        },
+        {
+          "summary": "AIs don't do what you want. This is bad",
+          "source": "Hacker News: Front Page",
+          "url": "https://rewardhacking.org",
+          "published": "2026-07-24T22:24:08+00:00"
+        },
+        {
+          "summary": "The quest to keep organs alive outside the body",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+          "published": "2026-07-24T17:03:55+00:00"
+        },
+        {
+          "summary": "早报｜Claude Opus 5发布,半价追平Fable 5/小鹏人形机器人开启小批量试产/曝英伟达将上调显卡价格",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673124?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-25T00:23:18+00:00"
+        },
+        {
+          "summary": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+          "source": "Hacker News: Front Page",
+          "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+          "published": "2026-07-24T23:13:18+00:00"
+        },
+        {
+          "summary": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+          "published": "2026-07-24T22:30:26+00:00"
+        },
+        {
+          "summary": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+          "published": "2026-07-24T17:53:01+00:00"
+        },
+        {
+          "summary": "Roku raises streaming hardware prices by up to $50",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+          "published": null
+        },
+        {
+          "summary": "Codex 键盘第一波上手来了，有人反手让 Codex 破解了它",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673060?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-24T09:19:08+00:00"
+        },
+        {
+          "summary": "Qualcomm is about to raise prices and that’s bad news for everyone",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
+          "published": null
+        },
+        {
+          "summary": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3909160840451465?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "华尔街未来一周 美国股市面临美联储决定和科技股带动的盈利洪流的考验 - 路透中文网",
+          "summary_en": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
+          "published": "2026-07-24T20:16:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.09
+        },
+        {
+          "summary_zh": "2025 年利润减半，维托向交易商支付 59 亿美元",
+          "summary_en": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+          "published": "2026-07-24T20:54:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "股票收盘喜忧参半，派拉蒙与世行的交易持续数月持有，更多",
+          "summary_en": "Stocks Close Mixed, Paramount-WB Deal on Months-Long Hold, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/stocks-close-mixed-paramount-wb-deal-on-months-long-hold-more",
+          "published": "2026-07-24T20:13:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "派拉蒙同意将华纳兄弟的合并推迟数月",
+          "summary_en": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
+          "published": "2026-07-24T23:02:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.78
+        },
+        {
+          "summary_zh": "股市对 30 年期国债 6% 的收益率完全没有准备",
+          "summary_en": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+          "published": "2026-07-24T21:38:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "大型企业财报和美联储会议可能会在下周考验市场。这是接下来的内容",
+          "summary_en": "Megacap earnings and Fed meeting could test a market on edge next week. Here’s what’s ahead",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
+          "published": "2026-07-24T20:17:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "学生告诉我们如何降低毕业服装成本",
+          "summary_en": "Students tell us how to keep graduation outfit costs down",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn8n9lzj136o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-24T23:33:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.91
+        },
+        {
+          "summary_zh": "华尔街多头正盯着 100 美元的石油、关税、人工智能焦虑",
+          "summary_en": "Wall Street Bulls Are Staring Down $100 Oil, Tariffs, AI Angst",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
+          "published": "2026-07-24T20:12:40+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "财报公布前，纳斯达克因人工智能支出担忧而落后 - 路透中文网",
+          "summary_en": "Nasdaq lags on angst over AI spending ahead of earnings reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+          "published": "2026-07-24T22:32:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "彭博商业周刊日报：特朗普的新欧盟关税（播客）",
+          "summary_en": "Bloomberg Businessweek Daily: Trump's New EU Tariffs (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-businessweek-daily-trump-s-new-eu-tariffs-podcast",
+          "published": "2026-07-24T22:07:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Wall St Week Ahead US stocks face tests from Fed decision, tech-led earnings deluge - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQajIyMHNIZTNQeFlkNHB6ekVuZjNtbFhOcXgtRFhXR095VXRnaUJHSDhwRjFaX19BVTY2RlBoY0d2bEk0cEdxSXlxZ2otVHcwUDNjbGtMWi12U182MkhIR1FrS2dWY1p3NEdSZHAxSmFDZ1BWT2sxSU8tYWxDd255TmpTUGFBeWY3M3VUWlBJb3ZybDdnWm8tM2tGT25XbUZQZmkwX1NlU3BjZl9pcUVHWTBQWDBpTEZrQmFTSVNXaw?oc=5",
+          "published": "2026-07-24T20:16:10+00:00"
+        },
+        {
+          "summary": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+          "published": "2026-07-24T20:54:24+00:00"
+        },
+        {
+          "summary": "Stocks Close Mixed, Paramount-WB Deal on Months-Long Hold, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/stocks-close-mixed-paramount-wb-deal-on-months-long-hold-more",
+          "published": "2026-07-24T20:13:37+00:00"
+        },
+        {
+          "summary": "Wall Street Bulls Are Staring Down $100 Oil, Tariffs, AI Angst",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
+          "published": "2026-07-24T20:12:40+00:00"
+        },
+        {
+          "summary": "Paramount Agrees to Delay Warner Bros. Merger for Months",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/media/paramount-warner-bros-merger-delayed.html",
+          "published": "2026-07-24T23:02:23+00:00"
+        },
+        {
+          "summary": "Nasdaq lags on angst over AI spending ahead of earnings reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+          "published": "2026-07-24T22:32:28+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Trump's New EU Tariffs (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-businessweek-daily-trump-s-new-eu-tariffs-podcast",
+          "published": "2026-07-24T22:07:00+00:00"
+        },
+        {
+          "summary": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+          "published": "2026-07-24T21:38:00+00:00"
+        },
+        {
+          "summary": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
+          "published": "2026-07-24T17:29:56+00:00"
+        },
+        {
+          "summary": "‘It’s nothing personal’: Should I tell my 96-year-old stepmother that I don’t want her inheritance?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories",
+          "published": "2026-07-24T22:30:00+00:00"
+        },
+        {
+          "summary": "Megacap earnings and Fed meeting could test a market on edge next week. Here’s what’s ahead",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html",
+          "published": "2026-07-24T20:17:40+00:00"
+        },
+        {
+          "summary": "Students tell us how to keep graduation outfit costs down",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn8n9lzj136o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-24T23:33:23+00:00"
+        },
+        {
+          "summary": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-24T23:31:11+00:00"
+        },
+        {
+          "summary": "Why bond investors are pushing up some of your interest rates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/24/treasury-yields-fed-mortgage-rates.html",
+          "published": "2026-07-24T21:09:24+00:00"
+        },
+        {
+          "summary": "Inside Paramount and WBD, employees are on edge as David Ellison's mega-merger hits resistance",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/paramount-employees-wbd-merger-deal-delay-antitrust-lawsuit-david-ellison-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Paramount Skydance agrees to freeze its WBD mega-merger while the antitrust cases are decided",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/paramount-skydance-agrees-to-freeze-its-wbd-amid-antitrust-cases-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/turns-dead-internet-theory-ai-201027433.html",
+          "published": null
+        },
+        {
+          "summary": "‘We’re getting into an ugly phase’: Trump’s new tariffs are angering voters and US allies alike",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/were-getting-into-an-ugly-phase-trumps-new-tariffs-are-angering-voters-and-us-allies-alike-094500219.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 声称其新的 Claude Opus 5 以一半的代币价格提供了接近 Fable 5 的性能",
+          "summary_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+          "published": "2026-07-24T18:36:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "“人工智能共产主义”、流氓模型以及 Kimi K3 为何令华尔街惊恐",
+          "summary_en": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+          "published": "2026-07-24T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "提示：人工智能威胁模型刚刚改变",
+          "summary_en": "Prompt: The AI Threat Model Just Changed",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/prompt-ai-threat-model-just-changed",
+          "published": "2026-07-24T15:23:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.87
+        },
+        {
+          "summary_zh": "人工智能是否已经变得强大到无法控制？",
+          "summary_en": "Has AI become too powerful to control?",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powerful.html",
+          "published": "2026-07-24T12:40:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.69
+        },
+        {
+          "summary_zh": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+          "summary_en": "Domestic world model tops Li Feifei's team list! Adapted to domestic Ascend computing power and code weight, all open source",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460041.html",
+          "published": "2026-07-24T14:19:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.6
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "每个工程师都必须了解代理 AI 背后的 5 个关键概念",
+          "summary_en": "5 Key Concepts Behind Agentic AI Every Engineer Must Understand",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand",
+          "published": "2026-07-24T12:25:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.13
+        },
+        {
+          "summary_zh": "Claude 的语音模式现在可以在 Anthropic 跨所有平台的最强大模型上运行",
+          "summary_en": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+          "published": "2026-07-24T11:31:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.91
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "为移动“车轮上的商店”做好准备。研究表明他们可以超越传统零售店",
+          "summary_en": "Get ready for mobile 'stores on wheels.' Research shows they can outperform traditional retail stores",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html",
+          "published": "2026-07-24T11:40:22-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.44
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+          "published": "2026-07-24T18:36:42+00:00"
+        },
+        {
+          "summary": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+          "published": "2026-07-24T14:00:00+00:00"
+        },
+        {
+          "summary": "Claude's voice mode now runs on Anthropic's most capable models across all platforms",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
+          "published": "2026-07-24T11:31:49+00:00"
+        },
+        {
+          "summary": "Prompt: The AI Threat Model Just Changed",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/prompt-ai-threat-model-just-changed",
+          "published": "2026-07-24T15:23:19+00:00"
+        },
+        {
+          "summary": "Has AI become too powerful to control?",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powerful.html",
+          "published": "2026-07-24T12:40:01-04:00"
+        },
+        {
+          "summary": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460041.html",
+          "published": "2026-07-24T14:19:06+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Get ready for mobile 'stores on wheels.' Research shows they can outperform traditional retail stores",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ready-mobile-wheels-outperform-traditional.html",
+          "published": "2026-07-24T11:40:22-04:00"
+        },
+        {
+          "summary": "5 Key Concepts Behind Agentic AI Every Engineer Must Understand",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-key-concepts-behind-agentic-ai-every-engineer-must-understand",
+          "published": "2026-07-24T12:25:01+00:00"
+        },
+        {
+          "summary": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460154.html",
+          "published": "2026-07-24T14:42:32+00:00"
+        },
+        {
+          "summary": "Language Model Hallucination Evaluation with GraphEval",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/language-model-hallucination-evaluation-with-grapheval",
+          "published": "2026-07-24T13:02:40+00:00"
+        },
+        {
+          "summary": "Working to automate nuclear plant operations",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/working-automate-nuclear-plant-operations-lauren-fortier-0724",
+          "published": "2026-07-24T00:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
