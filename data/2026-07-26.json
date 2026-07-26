@@ -1,0 +1,522 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T01:58:51.058575+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Monday.com 是最新一家将裁员归咎于人工智能的科技公司——这里还有另外 20 家公司",
+          "summary_en": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "published": "2026-07-26T01:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "是的，飞行模式可以让你的手机充电更快 - 但这不值得",
+          "summary_en": "Yes, airplane mode makes your phone charge faster — but it's not worth it",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219824/airplane-mode-phone-charge-speed-explained/",
+          "published": "2026-07-25T16:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "SDCC 预告片让我们第一次欣赏《银翼杀手 2099》",
+          "summary_en": "SDCC teaser gives us our first good look at Blade Runner 2099",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+          "published": "2026-07-25T20:52:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.22
+        },
+        {
+          "summary_zh": "据报道，高通计划在夏末之前提高处理器价格",
+          "summary_en": "Qualcomm is reportedly planning to raise processor prices by the end of the summer",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2223161/qualcomm-planning-to-raise-its-prices/",
+          "published": "2026-07-25T15:44:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.94
+        },
+        {
+          "summary_zh": "据报道，埃隆·马斯克 (Elon Musk) 的 Boring Company 以 200 亿美元的估值筹集资金",
+          "summary_en": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+          "published": "2026-07-25T19:23:32+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "第 13 次飞行顺利结束后，SpaceX 着眼于寻找下一艘星际飞船",
+          "summary_en": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "published": "2026-07-25T17:47:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "被黑客入侵的 OpenAI 拥抱脸模型“在互联网上活跃”数天",
+          "summary_en": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+          "published": "2026-07-25T10:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.63
+        },
+        {
+          "summary_zh": "Cricut Explore 5 与 Siser Romeo：选择合适的智能切割机 (2026)",
+          "summary_en": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+          "published": "2026-07-25T11:06:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.78
+        },
+        {
+          "summary_zh": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+          "summary_en": "Escaping from the dark side of the moon, he uses AI technology to help people find partners, Xu Xin Investment | New projects emerge",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910880823202948?f=rss",
+          "published": null,
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.5
+        },
+        {
+          "summary_zh": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "summary_en": "9:00 Krypton | Yushu Technology CEO Wang Xingxing appears on the cover of Time magazine; the National Anti-Fraud Center App can detect AI-generated traces with one click; Claude Opus 5 is officially released",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "published": null,
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "published": "2026-07-26T01:30:00+00:00"
+        },
+        {
+          "summary": "Yes, airplane mode makes your phone charge faster — but it's not worth it",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2219824/airplane-mode-phone-charge-speed-explained/",
+          "published": "2026-07-25T16:30:00+00:00"
+        },
+        {
+          "summary": "Qualcomm is reportedly planning to raise processor prices by the end of the summer",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2223161/qualcomm-planning-to-raise-its-prices/",
+          "published": "2026-07-25T15:44:41+00:00"
+        },
+        {
+          "summary": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+          "published": "2026-07-25T19:23:32+00:00"
+        },
+        {
+          "summary": "SDCC teaser gives us our first good look at Blade Runner 2099",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+          "published": "2026-07-25T20:52:30+00:00"
+        },
+        {
+          "summary": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+          "published": "2026-07-25T17:47:22+00:00"
+        },
+        {
+          "summary": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+          "published": "2026-07-25T10:30:00+00:00"
+        },
+        {
+          "summary": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+          "published": "2026-07-25T11:06:00+00:00"
+        },
+        {
+          "summary": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910880823202948?f=rss",
+          "published": null
+        },
+        {
+          "summary": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910351337821318?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Google basically confirms the Pixel 11 is getting a price hike",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+          "published": null
+        },
+        {
+          "summary": "Synth historian Oli Freke will spend big on a good bicycle",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "澳大利亚总理阿尔巴内塞将就新关税向特朗普施压",
+          "summary_en": "Australian Prime Minister Albanese to Press Trump on New Tariffs",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/australian-prime-minister-albanese-to-press-trump-on-new-tariffs",
+          "published": "2026-07-26T00:34:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.15
+        },
+        {
+          "summary_zh": "“时间会证明这是否是一个好的选择”：我的顾问为我提供了 SpaceX IPO 的全额分配。我很幸运吗？",
+          "summary_en": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+          "published": "2026-07-25T22:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "瑞士奶酪制造商试图填补美国关税造成的销售缺口 - 路透中文网",
+          "summary_en": "Swiss cheesemakers try to fill hole in sales from US tariffs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFVMzFFdTZYRmdtS2JSY0dzX1hGRzdZU08xeEVLeTdwbEp5eGZxemNXTjQ4U0MzaG1NX0JHNFV5ZnJiS243RWd2VFVvWldrS01nY0tEenpMYkZZX2dOX2VROXZzS1FxWHF2X0F1akR4SFJvX3Uzcl9NbHQwZ0FGVGdQbEpVLXRGODVtbmJicXd5cC0zenlSQzFB?oc=5",
+          "published": "2026-07-25T19:57:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "DeepSeek 暂停筹款，纽约时报：特朗普推迟升级",
+          "summary_en": "DeepSeek Suspends Fundraising, NYT: Trump Holds off Escalation",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-26/deepseek-suspends-fundraising-nyt-trump-holds-off-escalation",
+          "published": "2026-07-26T00:43:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.19
+        },
+        {
+          "summary_zh": "中国在特朗普的贸易战中处于有利地位",
+          "summary_en": "China Has Come Through Trump’s Trade War in a Good Position",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
+          "published": "2026-07-25T20:12:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "法律修改后，宠物友好型房产的出租搜索量下降",
+          "summary_en": "Rental searches for pet friendly properties drop after law change",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26T00:00:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.01
+        },
+        {
+          "summary_zh": "以下四种力量导致股市经历了艰难的一周",
+          "summary_en": "Here are 4 forces that drove a tough week for stocks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+          "published": "2026-07-25T19:56:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.49
+        },
+        {
+          "summary_zh": "伊拉克将与叙利亚签署石油管道建设协议",
+          "summary_en": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+          "published": "2026-07-25T23:34:54+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "是的，人工智能股票的抛售看起来很可怕。但它实际上可能会拯救牛市。",
+          "summary_en": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+          "published": "2026-07-25T18:59:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.75
+        },
+        {
+          "summary_zh": "美国因胡塞武装与沙特冲突而暂停，英伟达投资 Naver",
+          "summary_en": "US Pauses as Houthis & Saudis Clash, Nvidia Investing in Naver",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-25/us-pauses-as-houthis-saudis-clash-nvidia-investing-in-naver",
+          "published": "2026-07-25T23:17:09+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.83
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Australian Prime Minister Albanese to Press Trump on New Tariffs",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/australian-prime-minister-albanese-to-press-trump-on-new-tariffs",
+          "published": "2026-07-26T00:34:20+00:00"
+        },
+        {
+          "summary": "Iraq to Sign Agreement with Syria on Building of Oil Pipelines",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-25/iraq-to-sign-agreement-with-syria-on-building-of-oil-pipelines",
+          "published": "2026-07-25T23:34:54+00:00"
+        },
+        {
+          "summary": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+          "published": "2026-07-25T22:30:00+00:00"
+        },
+        {
+          "summary": "Swiss cheesemakers try to fill hole in sales from US tariffs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFVMzFFdTZYRmdtS2JSY0dzX1hGRzdZU08xeEVLeTdwbEp5eGZxemNXTjQ4U0MzaG1NX0JHNFV5ZnJiS243RWd2VFVvWldrS01nY0tEenpMYkZZX2dOX2VROXZzS1FxWHF2X0F1akR4SFJvX3Uzcl9NbHQwZ0FGVGdQbEpVLXRGODVtbmJicXd5cC0zenlSQzFB?oc=5",
+          "published": "2026-07-25T19:57:29+00:00"
+        },
+        {
+          "summary": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+          "published": "2026-07-25T18:59:00+00:00"
+        },
+        {
+          "summary": "DeepSeek Suspends Fundraising, NYT: Trump Holds off Escalation",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-26/deepseek-suspends-fundraising-nyt-trump-holds-off-escalation",
+          "published": "2026-07-26T00:43:06+00:00"
+        },
+        {
+          "summary": "China Has Come Through Trump’s Trade War in a Good Position",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
+          "published": "2026-07-25T20:12:30+00:00"
+        },
+        {
+          "summary": "Rental searches for pet friendly properties drop after law change",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26T00:00:49+00:00"
+        },
+        {
+          "summary": "US Pauses as Houthis & Saudis Clash, Nvidia Investing in Naver",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-25/us-pauses-as-houthis-saudis-clash-nvidia-investing-in-naver",
+          "published": "2026-07-25T23:17:09+00:00"
+        },
+        {
+          "summary": "Here are 4 forces that drove a tough week for stocks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/25/here-are-4-forces-that-drove-a-tough-week-for-stocks.html",
+          "published": "2026-07-25T19:56:55+00:00"
+        },
+        {
+          "summary": "LSEG's Lipper reviews transaction affecting fixed-income fund flow data - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWZFUVRJQ2RrRXktTk1RcmZsTWhuY3dSQVZsLTJCVHBoSVhCV0k1dHFUcTdrSktZVDZDMUd5NW0xTF9BdEFfQnFMNGNhRE1WLUF0QlNia2NJemc1aDhkU29oVElFU0RTa0E0TmhWZ2hYZ1R5cU9BNWJXUFVwZWliVTdQUk02ZVM5ZXJic2hucWxiekRKd3Y1OHBheTdBeWFjS0g2Q3NWb05mZjZ6VkE3QXVjbnFyQQ?oc=5",
+          "published": "2026-07-25T16:32:09+00:00"
+        },
+        {
+          "summary": "These stocks have momentum on their side heading into earnings, including Amazon",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/25/amazon-other-stocks-with-momentum-heading-into-earnings.html",
+          "published": "2026-07-25T12:49:58+00:00"
+        },
+        {
+          "summary": "Sell the Company for $400 Million? He’s Giving It Away Instead.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
+          "published": "2026-07-25T12:00:10+00:00"
+        },
+        {
+          "summary": "Money Box",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sounds/play/m002zg12?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-25T15:01:24+00:00"
+        },
+        {
+          "summary": "I bought my dream home that wasn't listed for sale. 6 months of texts sealed the deal.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/i-bought-my-dream-home-not-listed-for-sale-unlisted-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Hugging Face CEO shares his demands of OpenAI after 'rogue' agent hack: 'It deserves an unprecedented response'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Samsung Elec, SK Group seal $950 billion deals as South Korea hosts AI powers",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/south-korea-president-lee-looking-003232888.html",
+          "published": null
+        },
+        {
+          "summary": "Defeated progressive ‘Squad’ lawmaker in hot seat for non-profit’s missing paper trail",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/defeated-progressive-squad-lawmaker-hot-120028493.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Opus 5 可能已经解决了基于浏览器的提示注入，这是困扰人工智能代理的最大安全漏洞",
+          "summary_en": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+          "published": "2026-07-25T10:43:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.69
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "100%开源！吴恩达做了个个人桌面Agent",
+          "summary_en": "100% open source! Andrew Ng made a personal desktop agent",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "published": "2026-07-25T12:35:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.15
+        },
+        {
+          "summary_zh": "Anthropic 的 Claude Opus 5 以一半的代币价格提供接近 Fable 5 的性能",
+          "summary_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+          "published": "2026-07-25T10:04:42+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.53
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "summary_en": "The \"ChatGPT moment\" of embodied intelligence has not yet arrived, so Cobos took apart the robot first",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "published": "2026-07-25T11:54:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.98
+        },
+        {
+          "summary_zh": "KDnuggets 每周综述：2026 年 7 月 20 日当周",
+          "summary_en": "KDnuggets Weekly Roundup: Week of July 20, 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20",
+          "published": "2026-07-25T13:00:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.26
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+          "published": "2026-07-25T10:43:36+00:00"
+        },
+        {
+          "summary": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+          "published": "2026-07-25T10:04:42+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "100%开源！吴恩达做了个个人桌面Agent",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "published": "2026-07-25T12:35:34+00:00"
+        },
+        {
+          "summary": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "published": "2026-07-25T11:54:44+00:00"
+        },
+        {
+          "summary": "KDnuggets Weekly Roundup: Week of July 20, 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20",
+          "published": "2026-07-25T13:00:37+00:00"
+        }
+      ]
+    }
+  }
+}
