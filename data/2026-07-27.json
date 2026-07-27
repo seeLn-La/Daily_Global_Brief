@@ -1,0 +1,540 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T02:06:24.389345+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "脑电波是物理人工智能的下一个解锁点吗？",
+          "summary_en": "Are brain waves the next unlock for physical AI?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "published": "2026-07-27T00:19:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "summary_en": "Morning Post｜Revealed that Apple smart glasses will debut next year/OpenAI signs an open letter to support the development of AI open source models/Luo Yonghao approves smart TV interaction again",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-27T00:10:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.02
+        },
+        {
+          "summary_zh": "Nanoleaf 的显示器支架是一款一体式设置，可为您的桌面空间增光添彩",
+          "summary_en": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
+          "published": "2026-07-26T20:15:08+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.04
+        },
+        {
+          "summary_zh": "瓦数：人工智能代理的代币支出分析器和成本回归门",
+          "summary_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/faizannraza/wattage",
+          "published": "2026-07-26T23:27:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "Apple TV 的《神经漫游者》首支预告片在 SDCC 首次亮相",
+          "summary_en": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+          "published": "2026-07-26T19:48:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.93
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Making sense of the panic over Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "published": "2026-07-26T19:40:57+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "Android Auto 有一个开发者菜单，您可以在几秒钟内访问",
+          "summary_en": "Android Auto has a developer menu you can access in seconds",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
+          "published": "2026-07-26T15:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "美国公民在机场搜查期间擦拭 GrapheneOS 手机后被指控",
+          "summary_en": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "published": "2026-07-26T22:21:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.56
+        },
+        {
+          "summary_zh": "经过越野测试的最佳背包睡垫（2026 年）",
+          "summary_en": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+          "published": "2026-07-26T11:09:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.76
+        },
+        {
+          "summary_zh": "我尝试过的最好的免订阅家庭安全摄像头",
+          "summary_en": "The Best Subscription-Free Home Security Cameras I’ve Tried",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+          "published": "2026-07-26T10:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.47
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Are brain waves the next unlock for physical AI?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "published": "2026-07-27T00:19:14+00:00"
+        },
+        {
+          "summary": "早报｜曝苹果智能眼镜明年亮相/OpenAI签署支持AI开源模型发展公开信/罗永浩再批智能电视交互",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673132?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-27T00:10:33+00:00"
+        },
+        {
+          "summary": "Nanoleaf's monitor stand is an all-in-one setup that brightens up your desk space",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
+          "published": "2026-07-26T20:15:08+00:00"
+        },
+        {
+          "summary": "Making sense of the panic over Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "published": "2026-07-26T19:40:57+00:00"
+        },
+        {
+          "summary": "Android Auto has a developer menu you can access in seconds",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
+          "published": "2026-07-26T15:30:00+00:00"
+        },
+        {
+          "summary": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/faizannraza/wattage",
+          "published": "2026-07-26T23:27:35+00:00"
+        },
+        {
+          "summary": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "published": "2026-07-26T22:21:41+00:00"
+        },
+        {
+          "summary": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+          "published": "2026-07-26T19:48:43+00:00"
+        },
+        {
+          "summary": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
+          "published": "2026-07-26T11:09:00+00:00"
+        },
+        {
+          "summary": "The Best Subscription-Free Home Security Cameras I’ve Tried",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
+          "published": "2026-07-26T10:00:00+00:00"
+        },
+        {
+          "summary": "英伟达用Vera处理器加速下一代CPU和GPU设计",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3913222112089225?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Carrie is just trying to make a friend in the new trailer",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+          "published": null
+        },
+        {
+          "summary": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3910880823202948?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/kioxia-faces-more-volatility-as-leveraged-etfs-hit-japan-stocks",
+          "published": "2026-07-26T21:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.22
+        },
+        {
+          "summary_zh": "股票面临技术上的“三重威胁”，但也是投资者可以隐藏的地方",
+          "summary_en": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+          "published": "2026-07-26T19:15:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.79
+        },
+        {
+          "summary_zh": "为什么派拉蒙暂停了其 1110 亿美元收购华纳兄弟的大片交易",
+          "summary_en": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+          "published": "2026-07-27T00:13:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.03
+        },
+        {
+          "summary_zh": "与波兰 Zabka 的交易谈判结束后 Seven & i 股价下跌",
+          "summary_en": "Seven & i Shares Dip After Ending Deal Talks With Poland’s Zabka",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/seven-i-shares-dip-after-ending-deal-talks-with-poland-s-zabka",
+          "published": "2026-07-27T00:05:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "油价回落削弱盈利提振，6月份中国工业利润增速再次放缓",
+          "summary_en": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+          "published": "2026-07-27T02:02:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.98
+        },
+        {
+          "summary_zh": "据《华尔街日报》报道，英伟达正在与 OpenAI 进行谈判，以保证为数据中心提供 2500 亿美元的融资 - 路透中文网",
+          "summary_en": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
+          "published": "2026-07-26T23:39:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "石油市场再次紧张",
+          "summary_en": "Oil markets are on edge again",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again",
+          "published": "2026-07-26T14:06:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "如果你选择 100 万英镑，你会选择 5 万英镑吗？",
+          "summary_en": "Would you choose £50,000 over the chance of £1m?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26T23:11:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.77
+        },
+        {
+          "summary_zh": "马科斯需要国家状况来重振菲律宾经济，担任总统",
+          "summary_en": "Marcos Needs State of the Nation to Revive Philippine Economy, Presidency",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/marcos-needs-state-of-the-nation-to-revive-philippine-economy-presidency",
+          "published": "2026-07-26T23:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.72
+        },
+        {
+          "summary_zh": "随着美国和伊朗暂停袭击，油价下跌，股指期货上涨，华尔街等待忙碌的一周",
+          "summary_en": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+          "published": "2026-07-27T00:57:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.21
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Kioxia Faces More Volatility as Leveraged ETFs Hit Japan Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/kioxia-faces-more-volatility-as-leveraged-etfs-hit-japan-stocks",
+          "published": "2026-07-26T21:00:00+00:00"
+        },
+        {
+          "summary": "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+          "published": "2026-07-26T19:15:00+00:00"
+        },
+        {
+          "summary": "Marcos Needs State of the Nation to Revive Philippine Economy, Presidency",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-26/marcos-needs-state-of-the-nation-to-revive-philippine-economy-presidency",
+          "published": "2026-07-26T23:00:00+00:00"
+        },
+        {
+          "summary": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+          "published": "2026-07-27T00:57:00+00:00"
+        },
+        {
+          "summary": "Why Paramount Paused Its Blockbuster $111 Billion Deal for Warner Bros.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/26/business/paramount-warner-bros-deal-pause.html",
+          "published": "2026-07-27T00:13:25+00:00"
+        },
+        {
+          "summary": "Seven & i Shares Dip After Ending Deal Talks With Poland’s Zabka",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/seven-i-shares-dip-after-ending-deal-talks-with-poland-s-zabka",
+          "published": "2026-07-27T00:05:35+00:00"
+        },
+        {
+          "summary": "Takaichi’s Support Ratings Tumble as Inflation Concern Lingers",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/takaichi-s-support-ratings-tumble-as-inflation-concern-lingers",
+          "published": "2026-07-27T00:02:30+00:00"
+        },
+        {
+          "summary": "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+          "published": "2026-07-27T02:02:04+00:00"
+        },
+        {
+          "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
+          "published": "2026-07-26T23:39:00+00:00"
+        },
+        {
+          "summary": "Congo says number of confirmed Ebola cases rises to 3,200, including 1,405 deaths - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTWxtV0FUY0xLM1ZvZFFfdnhHWjNtMnFLZWRQbElSRWNrLUNfUGROdUt0b29QTmtoWGNON3hqaGFaQlNwVnY5aVppNDRCNTRGTk8wUTNwRjZtWUNyUkFmWkpWMjBGQnVTTWNnZjZmTXgtZDQ5RTg0VzJJWWdqOVkzSkEzdDZmYkNvX2hNQVZfRmFrTnhwTjdNMGtwUThCZXBBemVCNGtpUWNVNkxtZTZYTjJ1U2ZpcFpXVlJiLVpVMnBVRm9MbTBRX1c4QWNnRmhuTGRiX3ZhOUo2MExl?oc=5",
+          "published": "2026-07-26T23:21:44+00:00"
+        },
+        {
+          "summary": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
+          "published": "2026-07-26T23:06:43+00:00"
+        },
+        {
+          "summary": "Here's the tech stock to buy in a market losing patience with tech",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+          "published": "2026-07-26T23:39:46+00:00"
+        },
+        {
+          "summary": "Oil markets are on edge again",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/26/oil-markets-are-on-edge-again",
+          "published": "2026-07-26T14:06:48+00:00"
+        },
+        {
+          "summary": "Would you choose £50,000 over the chance of £1m?",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26T23:11:36+00:00"
+        },
+        {
+          "summary": "'I fear for wee families' - home heating oil jumps £100 in three weeks",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-26T23:00:14+00:00"
+        },
+        {
+          "summary": "Miami is now the second-most expensive metro area in the US. These CEOs are fueling its billionaire boom.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/ceos-companies-moving-to-miami",
+          "published": null
+        },
+        {
+          "summary": "The 14 saddest deaths in 'House of the Dragon,' ranked",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/house-of-the-dragon-saddest-deaths-ranked",
+          "published": null
+        },
+        {
+          "summary": "China's industrial profit growth moderates amid patchy recovery",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/chinas-industrial-profit-growth-moderates-014543670.html",
+          "published": null
+        },
+        {
+          "summary": "Federal officials investigate after a video appears to show a person kicking a California sea lion",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/federal-officials-investigate-video-appears-153024310.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "summary_en": "Ant Bailing releases a new generation of native hybrid inference model Ling-3.0-Flash",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461149.html",
+          "published": "2026-07-27T01:57:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.46
+        },
+        {
+          "summary_zh": "Cursor 的代理群表明，当前沿模型规划工作时，更便宜的模型可以处理大多数编码",
+          "summary_en": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+          "published": "2026-07-26T15:09:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.76
+        },
+        {
+          "summary_zh": "更便宜、开放、智能：中国人工智能模型进军美国，取得进展",
+          "summary_en": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-cheaper-intelligent-chinese-ai-gain.html",
+          "published": "2026-07-26T05:47:17-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.92
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Anthropic 的 Opus 5 在旨在测量真实智能的基准测试中超越了 Fable 5 和 GPT-5.6 Sol",
+          "summary_en": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+          "published": "2026-07-26T09:43:02+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.4
+        },
+        {
+          "summary_zh": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+          "summary_en": "30,000 hours of tactile data complement the embodied smart “feel”! New Wisdom Embodiment & Three Fudan Reports",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460962.html",
+          "published": "2026-07-26T05:30:21+00:00",
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.35
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461149.html",
+          "published": "2026-07-27T01:57:26+00:00"
+        },
+        {
+          "summary": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+          "published": "2026-07-26T15:09:11+00:00"
+        },
+        {
+          "summary": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-cheaper-intelligent-chinese-ai-gain.html",
+          "published": "2026-07-26T05:47:17-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+          "published": "2026-07-26T09:43:02+00:00"
+        },
+        {
+          "summary": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460962.html",
+          "published": "2026-07-26T05:30:21+00:00"
+        }
+      ]
+    }
+  }
+}
