@@ -1,0 +1,630 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T01:47:52.739951+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "微软推出人工智能安全工具，称其性能优于竞争平台",
+          "summary_en": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "published": "2026-07-27T21:56:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.54
+        },
+        {
+          "summary_zh": "iOS 26.6、macOS 26.6 和其他版本均已发布，解决了安全修复问题",
+          "summary_en": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
+          "published": "2026-07-27T20:07:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.08
+        },
+        {
+          "summary_zh": "Anthropic的Dario Amodei回应：不反对开放权重模型，但担心中国AI",
+          "summary_en": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "published": "2026-07-28T00:13:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.11
+        },
+        {
+          "summary_zh": "OpenAI 称“拥抱脸部”攻击是史无前例的。但我们以前来过这里。",
+          "summary_en": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+          "published": "2026-07-27T18:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.55
+        },
+        {
+          "summary_zh": "新的消防技术可以帮助扑灭法国和西班牙等地的大火",
+          "summary_en": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+          "published": "2026-07-27T21:06:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "对于 n = 4，编织组的 Burau 表示是忠实的",
+          "summary_en": "The Burau representation of the braid group is faithful for n = 4",
+          "source": "Hacker News: Front Page",
+          "url": "https://arxiv.org/abs/2607.05283",
+          "published": "2026-07-27T23:46:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.99
+        },
+        {
+          "summary_zh": "香港卖得最好的 MPV，不是丰田埃尔法，而是五菱的星光 730",
+          "summary_en": "The best-selling MPV in Hong Kong is not the Toyota Alphard, but the Wuling Starlight 730",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673226?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-28T01:27:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.42
+        },
+        {
+          "summary_zh": "X Money 开始在美国有限推出",
+          "summary_en": "X Money begins limited US rollout",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
+          "published": "2026-07-27T22:04:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.57
+        },
+        {
+          "summary_zh": "萨蒂亚·纳德拉 (Satya Nadella) 表示，那些相信一种人工智能能解决所有问题的公司可能无法生存",
+          "summary_en": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "published": "2026-07-27T21:17:11+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "iOS 和 macOS 26.6 今天发布，为 iOS 和 macOS 27 铺平道路",
+          "summary_en": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+          "published": "2026-07-27T20:32:45+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.19
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Microsoft unveils AI security tools it says outperform competing platforms",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+          "published": "2026-07-27T21:56:14+00:00"
+        },
+        {
+          "summary": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/",
+          "published": "2026-07-27T20:07:47+00:00"
+        },
+        {
+          "summary": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "published": "2026-07-28T00:13:33+00:00"
+        },
+        {
+          "summary": "X Money begins limited US rollout",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2224633/x-money-begins-limited-us-rollout/",
+          "published": "2026-07-27T22:04:17+00:00"
+        },
+        {
+          "summary": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+          "published": "2026-07-27T18:00:00+00:00"
+        },
+        {
+          "summary": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "published": "2026-07-27T21:17:11+00:00"
+        },
+        {
+          "summary": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+          "published": "2026-07-27T21:06:54+00:00"
+        },
+        {
+          "summary": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+          "published": "2026-07-27T20:32:45+00:00"
+        },
+        {
+          "summary": "The Burau representation of the braid group is faithful for n = 4",
+          "source": "Hacker News: Front Page",
+          "url": "https://arxiv.org/abs/2607.05283",
+          "published": "2026-07-27T23:46:15+00:00"
+        },
+        {
+          "summary": "Netflix employee fired for sharing personal details in retreat trust exercise",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+          "published": "2026-07-27T23:21:37+00:00"
+        },
+        {
+          "summary": "France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/",
+          "published": "2026-07-27T22:57:20+00:00"
+        },
+        {
+          "summary": "香港卖得最好的 MPV，不是丰田埃尔法，而是五菱的星光 730",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673226?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-28T01:27:28+00:00"
+        },
+        {
+          "summary": "早报｜雷军解释小米澎程为何无纯电版/腾讯QQ宠物官宣回归/曝三星手机拟采用长鑫内存",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673221?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-28T00:13:38+00:00"
+        },
+        {
+          "summary": "Closing the data loop in AI-driven drug discovery",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+          "published": "2026-07-27T11:40:16+00:00"
+        },
+        {
+          "summary": "氪星晚报｜美国大型企业告别裁员潮重启招聘；英伟达、微软、IBM等数十家企业成立新联盟，旨在共同保障AI安全；《光伏行业成本核算模型通则》发布，引导行业有序竞争",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3913320648971395?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Why China is giving away its best AI models",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "published": null
+        },
+        {
+          "summary": "2026年，为什么资本更青睐“会赚钱”的AI应用？",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3913706151400583?f=rss",
+          "published": null
+        },
+        {
+          "summary": "X Money is launching in the US starting today",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着人工智能抛售加速，股市暴跌，债券上涨：市场总结",
+          "summary_en": "Stocks Slump as AI Selloff Accelerates, Bonds Gain: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-27T22:08:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.59
+        },
+        {
+          "summary_zh": "美国贸易代表办公室格里尔称特朗普最新关税不会对经济产生影响 - 路透中文网",
+          "summary_en": "USTR's Greer says Trump's latest tariffs won't have an economic impact - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSy1MV0VXRXF6SWIzTXliVUFjWFM1cUl1UDdnZmpKR2JMb2J3TmxNUk4xcU1hN1ROcVJYWDZDU2xKekp2VE9hVXI0UkRabFgwWDJseU5JV1JVRmROS1RWU3B2bFQtM1cyeEQ5VXktWFdaZjNUWXJMUGFjaGVfYmJuMU9wRGNwSUgxUmRvRFFjeVBmUi1wSWtQTmFtUVRPV0RJUE9pUzZ2V0tLUkhielZoQTlR?oc=5",
+          "published": "2026-07-27T23:38:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.96
+        },
+        {
+          "summary_zh": "市场等待美联储：美洲晚间简报，国债上涨",
+          "summary_en": "Treasuries Rise as Markets Await Fed: Evening Briefing Americas",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/treasuries-rise-as-markets-await-fed-evening-briefing-americas",
+          "published": "2026-07-27T21:50:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.51
+        },
+        {
+          "summary_zh": "分析师警告称，英伟达与 OpenAI 的潜在新协议将重燃令人毛骨悚然的科技泡沫习惯",
+          "summary_en": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+          "published": "2026-07-28T01:19:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "美国和韩国科技股现在紧密相连——这可能是投资者的担忧",
+          "summary_en": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+          "published": "2026-07-28T01:34:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "BuzzFeed 裁员三分之一",
+          "summary_en": "BuzzFeed Lays Off a Third of Its Staff",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/buzzfeed-huffpost-layoffs-byron-allen.html",
+          "published": "2026-07-28T01:11:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "强生公司提出高达 55 亿美元解决婴儿爽身粉诉讼",
+          "summary_en": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-28T01:24:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.4
+        },
+        {
+          "summary_zh": "如何设计代表欧洲的纸币",
+          "summary_en": "How to design paper money that represents Europe",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe",
+          "published": "2026-07-27T17:16:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.87
+        },
+        {
+          "summary_zh": "芯片抛售加剧，日本、韩国股市暴跌",
+          "summary_en": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/japanese-korean-stocks-tumble-as-chip-selloff-intensifies",
+          "published": "2026-07-28T00:49:29+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.26
+        },
+        {
+          "summary_zh": "特朗普：伊朗协议的好机会，芯片抛售导致股市下跌",
+          "summary_en": "Trump: Good Chance of an Iran Deal, Stocks Fall on Chip Selloff",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-27/trump-good-chance-of-an-iran-deal-stocks-fall-on-chip-selloff",
+          "published": "2026-07-27T21:01:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.31
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stocks Slump as AI Selloff Accelerates, Bonds Gain: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-07-27T22:08:16+00:00"
+        },
+        {
+          "summary": "Japanese, Korean Stocks Tumble as Chip Selloff Intensifies",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/japanese-korean-stocks-tumble-as-chip-selloff-intensifies",
+          "published": "2026-07-28T00:49:29+00:00"
+        },
+        {
+          "summary": "USTR's Greer says Trump's latest tariffs won't have an economic impact - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSy1MV0VXRXF6SWIzTXliVUFjWFM1cUl1UDdnZmpKR2JMb2J3TmxNUk4xcU1hN1ROcVJYWDZDU2xKekp2VE9hVXI0UkRabFgwWDJseU5JV1JVRmROS1RWU3B2bFQtM1cyeEQ5VXktWFdaZjNUWXJMUGFjaGVfYmJuMU9wRGNwSUgxUmRvRFFjeVBmUi1wSWtQTmFtUVRPV0RJUE9pUzZ2V0tLUkhielZoQTlR?oc=5",
+          "published": "2026-07-27T23:38:58+00:00"
+        },
+        {
+          "summary": "Treasuries Rise as Markets Await Fed: Evening Briefing Americas",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-27/treasuries-rise-as-markets-await-fed-evening-briefing-americas",
+          "published": "2026-07-27T21:50:17+00:00"
+        },
+        {
+          "summary": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+          "published": "2026-07-28T01:19:00+00:00"
+        },
+        {
+          "summary": "Trump: Good Chance of an Iran Deal, Stocks Fall on Chip Selloff",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-27/trump-good-chance-of-an-iran-deal-stocks-fall-on-chip-selloff",
+          "published": "2026-07-27T21:01:41+00:00"
+        },
+        {
+          "summary": "U.S. and Korean tech stocks are now tightly linked — and that could be a worry for investors",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/28/nasdaq-kospi-wall-street-korea-markets-skhynox-samsung.html",
+          "published": "2026-07-28T01:34:28+00:00"
+        },
+        {
+          "summary": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+          "published": "2026-07-27T22:30:00+00:00"
+        },
+        {
+          "summary": "Customer data from India's Bank of Baroda leaked online, source and researcher say - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGNLcHVmbXlxOWpvQUdsYTFtT1NYdmgxaXAyV2tETXdoQklpU0ZJSjdEamgyRUd1Q0ZfeTdlci1RSHR3aF9RTXJmNjBGNXZ0ZXg4T3VUM1RhNFRTT3FKTWd5SzZCaVpmVzA4ZENtZzBVNlZ2RFlCdVNVcllCVVZLcWxPQ0J2Yks1eHRjOEhMSHRLNUQzclprVVY1Y2d4YU9Sc0FKaFZOQ0JQMGRsTHZYWWpXc0NGTVhmcmRGVGY4MjBGUUlzOVE?oc=5",
+          "published": "2026-07-27T21:41:32+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/27/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-07-27T23:36:49+00:00"
+        },
+        {
+          "summary": "BuzzFeed Lays Off a Third of Its Staff",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/buzzfeed-huffpost-layoffs-byron-allen.html",
+          "published": "2026-07-28T01:11:25+00:00"
+        },
+        {
+          "summary": "Chinese Start-Up Moonshot Details New A.I. Model",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html",
+          "published": "2026-07-28T01:10:34+00:00"
+        },
+        {
+          "summary": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-28T01:24:14+00:00"
+        },
+        {
+          "summary": "New technical education routes to be offered at 14 in England",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-28T00:57:43+00:00"
+        },
+        {
+          "summary": "How to design paper money that represents Europe",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/27/how-to-design-paper-money-that-represents-europe",
+          "published": "2026-07-27T17:16:17+00:00"
+        },
+        {
+          "summary": "David Ellison's Paramount agreeing to delay its WBD deal is actually a big flex",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/paramount-delayed-wbd-deal-david-ellison-lawsuit-ticking-fee-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Why this AI travel company is bringing Sonder back from the dead",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/sonder-relaunches-website-brand-ai-travel-company-curated-rentals-2026-7",
+          "published": null
+        },
+        {
+          "summary": "CEO of the top-rated hiring platform says the job market is so bad that candidates are paying $20 to mass apply and driving bosses crazy with spam",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/small-business/articles/greenhouse-ceo-says-job-seekers-070200061.html",
+          "published": null
+        },
+        {
+          "summary": "China's industrial profit growth moderates as exports cushion uneven recovery",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/chinas-industrial-profit-growth-moderates-014543670.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 表示越来越多的员工正在使用 ChatGPT 来做别人的工作",
+          "summary_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+          "published": "2026-07-27T19:08:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "改进的语音模式使与 Claude 的合作更加轻松",
+          "summary_en": "Improved Voice Mode Makes Working With Claude Easier",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
+          "published": "2026-07-27T20:58:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "AI 获得识别卢旺达语宣传的工具，有望支持 600 种班图语",
+          "summary_en": "AI gains a tool to identify Kinyarwanda propaganda, with promise for 600 Bantu languages",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-gains-tool-kinyarwanda-propaganda.html",
+          "published": "2026-07-27T16:40:10-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.72
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "构建和部署第一个自治代理的 7 个步骤",
+          "summary_en": "7 Steps to Building and Deploying Your First Autonomous Agent",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent",
+          "published": "2026-07-27T12:00:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.05
+        },
+        {
+          "summary_zh": "微软推出了自己的网络安全模型 MAI-Cyber​​-1-Flash，但仍然依赖 OpenAI 来完成最艰巨的任务",
+          "summary_en": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+          "published": "2026-07-27T18:50:07+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "科技公司敦促美国政策制定者对开放模式保持谨慎",
+          "summary_en": "Tech Companies Urge Caution by US policymakers on Open Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/tech-companies-urge-caution-us-policymakers-open-ai-models",
+          "published": "2026-07-27T14:24:59+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.66
+        },
+        {
+          "summary_zh": "人工智能驱动的方法可通过单个固定传感器实现即时超声成像",
+          "summary_en": "AI-powered method enables instant ultrasound imaging with a single fixed sensor",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
+          "published": "2026-07-27T15:00:11-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "KimiClaw 是一个有用的工具吗？",
+          "summary_en": "Is KimiClaw a Useful Tool?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/is-kimiclaw-a-useful-tool",
+          "published": "2026-07-27T14:00:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+          "published": "2026-07-27T19:08:51+00:00"
+        },
+        {
+          "summary": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+          "published": "2026-07-27T18:50:07+00:00"
+        },
+        {
+          "summary": "Improved Voice Mode Makes Working With Claude Easier",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
+          "published": "2026-07-27T20:58:01+00:00"
+        },
+        {
+          "summary": "AI gains a tool to identify Kinyarwanda propaganda, with promise for 600 Bantu languages",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-gains-tool-kinyarwanda-propaganda.html",
+          "published": "2026-07-27T16:40:10-04:00"
+        },
+        {
+          "summary": "Tech Companies Urge Caution by US policymakers on Open Models",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/tech-companies-urge-caution-us-policymakers-open-ai-models",
+          "published": "2026-07-27T14:24:59+00:00"
+        },
+        {
+          "summary": "AI-powered method enables instant ultrasound imaging with a single fixed sensor",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-powered-method-enables-instant.html",
+          "published": "2026-07-27T15:00:11-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "7 Steps to Building and Deploying Your First Autonomous Agent",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-steps-to-building-and-deploying-your-first-autonomous-agent",
+          "published": "2026-07-27T12:00:06+00:00"
+        },
+        {
+          "summary": "Is KimiClaw a Useful Tool?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/is-kimiclaw-a-useful-tool",
+          "published": "2026-07-27T14:00:03+00:00"
+        },
+        {
+          "summary": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461392.html",
+          "published": "2026-07-27T08:54:16+00:00"
+        },
+        {
+          "summary": "How AI is expanding what people do at work",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "published": "2026-07-27T03:30:00+00:00"
+        },
+        {
+          "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461149.html",
+          "published": "2026-07-27T01:57:26+00:00"
+        }
+      ]
+    }
+  }
+}
