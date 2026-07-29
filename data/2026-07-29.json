@@ -1,0 +1,642 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T01:50:22.126111+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Cyera 同意以 10 亿美元收购 Oasis Security，以保护不断扩散的人工智能代理",
+          "summary_en": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "published": "2026-07-29T00:09:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.08
+        },
+        {
+          "summary_zh": "美国禁止进口仿人机器人和逆变器",
+          "summary_en": "The US is banning foreign-made humanoid robots and power inverters",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters/",
+          "published": "2026-07-29T00:02:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.05
+        },
+        {
+          "summary_zh": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+          "summary_en": "Morning Post｜Apple’s new smart home products are exposed, AI Siri is supported/Musk X wallet is launched in the United States/Ctrip CEO’s letter from all employees is exposed: Sincerely accept the punishment",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673331?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-29T00:55:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "反作用轮故障导致斯威夫特救援任务在轨道上旋转",
+          "summary_en": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "published": "2026-07-28T22:09:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.58
+        },
+        {
+          "summary_zh": "OpenAI 的 Rogue AI 代理被黑的不仅仅是拥抱脸",
+          "summary_en": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+          "published": "2026-07-29T00:15:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "通过 WebGPU 在浏览器中显示 HN: Manim（3Blue1Brown 的动画引擎）",
+          "summary_en": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+          "source": "Hacker News: Front Page",
+          "url": "https://studio.academa.ai/",
+          "published": "2026-07-29T00:07:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "下载：OpenAI 可预测的黑客攻击以及 AI 股票的抛售",
+          "summary_en": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+          "published": "2026-07-28T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "AI公司员工请愿美国政府监管",
+          "summary_en": "AI company employees petition US government for regulation",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+          "published": "2026-07-28T21:20:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "Waymo 和机器人出租车运营商因应急响应失败而面临新的审查",
+          "summary_en": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+          "published": "2026-07-28T19:06:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.82
+        },
+        {
+          "summary_zh": "我们现在更好地了解了 OpenAI 是如何入侵 Hugging Face 的",
+          "summary_en": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "published": "2026-07-28T21:36:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.44
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "published": "2026-07-29T00:09:05+00:00"
+        },
+        {
+          "summary": "The US is banning foreign-made humanoid robots and power inverters",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters/",
+          "published": "2026-07-29T00:02:16+00:00"
+        },
+        {
+          "summary": "AI company employees petition US government for regulation",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+          "published": "2026-07-28T21:20:39+00:00"
+        },
+        {
+          "summary": "早报｜苹果智能家居新品曝光,AI Siri加持/马斯克X钱包在美国上线/携程CEO全员信曝光:诚恳接受处罚",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673331?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-29T00:55:00+00:00"
+        },
+        {
+          "summary": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
+          "published": "2026-07-28T19:06:33+00:00"
+        },
+        {
+          "summary": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+          "published": "2026-07-28T22:09:00+00:00"
+        },
+        {
+          "summary": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "published": "2026-07-28T21:36:39+00:00"
+        },
+        {
+          "summary": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+          "published": "2026-07-29T00:15:30+00:00"
+        },
+        {
+          "summary": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+          "source": "Hacker News: Front Page",
+          "url": "https://studio.academa.ai/",
+          "published": "2026-07-29T00:07:43+00:00"
+        },
+        {
+          "summary": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+          "source": "Hacker News: Front Page",
+          "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+          "published": "2026-07-29T01:04:30+00:00"
+        },
+        {
+          "summary": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+          "published": "2026-07-28T20:15:19+00:00"
+        },
+        {
+          "summary": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+          "published": "2026-07-28T12:10:00+00:00"
+        },
+        {
+          "summary": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+          "published": "2026-07-28T09:18:57+00:00"
+        },
+        {
+          "summary": "苹果 AI 眼镜明年 WWDC 见，但这次「隐私」不好做",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673147?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-28T03:30:38+00:00"
+        },
+        {
+          "summary": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3878652674715905?f=rss",
+          "published": null
+        },
+        {
+          "summary": "The US is banning foreign robots",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+          "published": null
+        },
+        {
+          "summary": "AI leaders sign a statement asking the government to do something about automated AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "published": null
+        },
+        {
+          "summary": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3915066350327176?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "银行股上涨，新加坡股市迎来 2020 年以来最佳月份",
+          "summary_en": "Singapore Stocks Head for Best Month Since 2020 as Banks Jump",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/singapore-stocks-head-for-best-month-since-2020-as-banks-jump",
+          "published": "2026-07-28T23:50:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.0
+        },
+        {
+          "summary_zh": "科技股因对人工智能的担忧而暴跌支出和中国的筹码",
+          "summary_en": "Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html",
+          "published": "2026-07-28T23:44:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.98
+        },
+        {
+          "summary_zh": "投资者等待科技股财报，标普 500 指数收高 - 路透中文网",
+          "summary_en": "S&P 500 ends higher as investors await tech earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
+          "published": "2026-07-28T23:15:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.86
+        },
+        {
+          "summary_zh": "美联储并不是你最担心的。真正影响您的 401(k) 计划的央行决定落在东京。",
+          "summary_en": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
+          "published": "2026-07-28T20:54:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "力拓利润、数据中心之争、澳洲联储关注通胀",
+          "summary_en": "Rio Profit, Data Center Fight, RBA Eyes Inflation",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-28/rio-profit-data-center-fight-rba-eyes-inflation",
+          "published": "2026-07-28T23:20:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "特朗普政府禁止新型中国人形机器人",
+          "summary_en": "Trump administration bans new Chinese humanoid robots",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-29T01:22:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.38
+        },
+        {
+          "summary_zh": "散户投资者应警惕永续合约",
+          "summary_en": "Retail investors should beware perpetual futures",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+          "published": "2026-07-28T18:48:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.24
+        },
+        {
+          "summary_zh": "SK 海力士第二季度营收增长三倍多，但未达到预期",
+          "summary_en": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+          "published": "2026-07-29T00:00:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.54
+        },
+        {
+          "summary_zh": "美联储决策临近，财报迎来重要一天收盘价 7/28/2026",
+          "summary_en": "Massive Day for Earnings as Fed Decision Looms | The Close 7/28/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-28/the-close-7-28-2026-video",
+          "published": "2026-07-28T23:29:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.91
+        },
+        {
+          "summary_zh": "半导体股再次遭受打击，纳斯达克 100 指数正处于修正区间边缘",
+          "summary_en": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
+          "published": "2026-07-28T20:46:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.23
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Singapore Stocks Head for Best Month Since 2020 as Banks Jump",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-28/singapore-stocks-head-for-best-month-since-2020-as-banks-jump",
+          "published": "2026-07-28T23:50:36+00:00"
+        },
+        {
+          "summary": "Massive Day for Earnings as Fed Decision Looms | The Close 7/28/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-28/the-close-7-28-2026-video",
+          "published": "2026-07-28T23:29:15+00:00"
+        },
+        {
+          "summary": "Tech Stocks Tumble on Worries Over A.I. Spending and China’s Chips",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html",
+          "published": "2026-07-28T23:44:26+00:00"
+        },
+        {
+          "summary": "S&P 500 ends higher as investors await tech earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
+          "published": "2026-07-28T23:15:43+00:00"
+        },
+        {
+          "summary": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
+          "published": "2026-07-28T20:54:00+00:00"
+        },
+        {
+          "summary": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
+          "published": "2026-07-28T20:46:00+00:00"
+        },
+        {
+          "summary": "Rio Profit, Data Center Fight, RBA Eyes Inflation",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-07-28/rio-profit-data-center-fight-rba-eyes-inflation",
+          "published": "2026-07-28T23:20:47+00:00"
+        },
+        {
+          "summary": "Market warning signals flare again as tech, inflation fears intensify - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTRKUUZyZl8zTERTSjZLZUdKQ0NBbWN6dGI0QnJtX2xvYXRUMkxNOEROYi1rOU14YkYtUFVnNGdTYlpHNHdXZXV5c3FCTk5VUFNBenZJZkxlVkpEdlVwY3M3ekhlaUYySlFqaXZ5dkRlbzVYQmNlSlRPeEZNTkNndE1vSmJ2Si1oREE?oc=5",
+          "published": "2026-07-28T18:21:19+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Chip Stock Rout Deepens (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-28/bloomberg-businessweek-daily-chip-stock-rout-deepens-podcast",
+          "published": "2026-07-28T22:18:55+00:00"
+        },
+        {
+          "summary": "Boeing Reports Loss on $280 Million Hit to Troubled Air Force One Program",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/28/business/boeing-earnings-air-force-one.html",
+          "published": "2026-07-28T20:18:34+00:00"
+        },
+        {
+          "summary": "Trump administration bans new Chinese humanoid robots",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-29T01:22:14+00:00"
+        },
+        {
+          "summary": "Retail investors should beware perpetual futures",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
+          "published": "2026-07-28T18:48:27+00:00"
+        },
+        {
+          "summary": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-28T23:00:15+00:00"
+        },
+        {
+          "summary": "SK Hynix second-quarter revenue more than triples — but misses estimates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
+          "published": "2026-07-29T00:00:33+00:00"
+        },
+        {
+          "summary": "Morgan Stanley says buy these quality stocks. They also pay dividends",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/28/morgan-stanley-says-buy-these-quality-stocks-they-also-pay-dividends.html",
+          "published": "2026-07-28T19:08:03+00:00"
+        },
+        {
+          "summary": "AI revenues are growing fast, but not fast enough",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+          "published": "2026-07-28T10:45:17+00:00"
+        },
+        {
+          "summary": "Sam Altman says people don’t really want an AI to act as CEO: ‘I think the world wants to know about the person’",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/sam-altman-ai-ceo-humans-work-future-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Elon Musk's solar ambitions have shifted from powering homes to powering Tesla's AI era",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/tesla-elon-musk-ai-solar-ambitions-contourglobal-power-purchase-agreement-2026-7",
+          "published": null
+        },
+        {
+          "summary": "CEO of the top-rated hiring platform says the job market is so bad that candidates are paying $20 to mass apply and driving bosses crazy with spam",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/small-business/articles/greenhouse-ceo-says-job-seekers-070200061.html",
+          "published": null
+        },
+        {
+          "summary": "Trump can’t stop shooting himself in the foot, as the stage looks set once again for Warsh to hold—if not hike—interest rates",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-t-stop-shooting-himself-113729276.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "微软推出更便宜的网络模型来对抗神话，GPT 5.6",
+          "summary_en": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT 5.6",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
+          "published": "2026-07-28T20:00:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.04
+        },
+        {
+          "summary_zh": "代理人工智能时代的科学计算",
+          "summary_en": "Scientific computing in the age of agentic AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "published": "2026-07-28T17:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "据报道，亚马逊缩减了 Nova AI 模型的规模，并押注于新的 Frontier 研究团队",
+          "summary_en": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+          "published": "2026-07-28T16:03:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "受大脑启发的人工智能能够灵活规划和解决问题，同时使用更少的能源",
+          "summary_en": "Brain-inspired AI is capable of flexible planning and problem-solving while using far less energy",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html",
+          "published": "2026-07-28T14:40:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "实用约束解码入门指南",
+          "summary_en": "An Introductory Guide to Practical Constraint Decoding",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding",
+          "published": "2026-07-28T14:00:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.54
+        },
+        {
+          "summary_zh": "Anthropic 表示，其 Mythos 模型发现了保护互联网安全的加密算法中的漏洞",
+          "summary_en": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+          "published": "2026-07-28T19:12:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "具有未来意识的人工智能使机器人在拾取和放置任务中的速度提高了一倍",
+          "summary_en": "Future-aware AI doubles robot speed in pick-and-place tasks",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-future-aware-ai-robot-tasks.html",
+          "published": "2026-07-28T13:22:56-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.89
+        },
+        {
+          "summary_zh": "三星同意与博通达成芯片交易",
+          "summary_en": "Samsung Agrees to Chip Deal With Broadcom",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+          "published": "2026-07-28T18:55:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.77
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT 5.6",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
+          "published": "2026-07-28T20:00:47+00:00"
+        },
+        {
+          "summary": "Scientific computing in the age of agentic AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "published": "2026-07-28T17:00:00+00:00"
+        },
+        {
+          "summary": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+          "published": "2026-07-28T16:03:39+00:00"
+        },
+        {
+          "summary": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+          "published": "2026-07-28T19:12:27+00:00"
+        },
+        {
+          "summary": "Brain-inspired AI is capable of flexible planning and problem-solving while using far less energy",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-brain-ai-capable-flexible-problem.html",
+          "published": "2026-07-28T14:40:07-04:00"
+        },
+        {
+          "summary": "Future-aware AI doubles robot speed in pick-and-place tasks",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-future-aware-ai-robot-tasks.html",
+          "published": "2026-07-28T13:22:56-04:00"
+        },
+        {
+          "summary": "Samsung Agrees to Chip Deal With Broadcom",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+          "published": "2026-07-28T18:55:49+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "An Introductory Guide to Practical Constraint Decoding",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding",
+          "published": "2026-07-28T14:00:30+00:00"
+        },
+        {
+          "summary": "5 Best AI Tools for Data Analysis You Should Try in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026",
+          "published": "2026-07-28T12:00:08+00:00"
+        },
+        {
+          "summary": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+          "published": "2026-07-28T04:30:00+00:00"
+        },
+        {
+          "summary": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461650.html",
+          "published": "2026-07-28T04:18:15+00:00"
+        },
+        {
+          "summary": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/461949.html",
+          "published": "2026-07-28T08:17:05+00:00"
+        }
+      ]
+    }
+  }
+}
