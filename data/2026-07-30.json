@@ -1,0 +1,642 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T01:43:10.506227+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 将为选定的研究人员提供免费的人工智能模型",
+          "summary_en": "OpenAI will provide free AI models to select researchers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
+          "published": "2026-07-29T21:33:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.46
+        },
+        {
+          "summary_zh": "在 TechCrunch Disrupt 2026 上了解人工智能的下一步发展，从 SaaS 计算到代理安全漏洞",
+          "summary_en": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "published": "2026-07-29T21:16:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.39
+        },
+        {
+          "summary_zh": "Flume Water Monitor 915 MHz 安全性相当好",
+          "summary_en": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+          "source": "Hacker News: Front Page",
+          "url": "https://waveformsecurity.com/blog/flume/",
+          "published": "2026-07-30T01:27:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "AI 提不出下一个「王的猜想」",
+          "summary_en": "AI 提不出下一个「王的猜想」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673371?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-30T01:09:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "马斯克发起“战争”，因抵制 X 广告而寻求入狱——但案件以呜咽告终",
+          "summary_en": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+          "published": "2026-07-29T20:57:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "下载：一场芯片人才之战，并抑制人工智能炒作",
+          "summary_en": "The Download: a chip talent battle, and deflating AI hype",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+          "published": "2026-07-29T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "购买 Apple 最新 AirPods (2026) 最高可节省 100 美元",
+          "summary_en": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+          "published": "2026-07-29T20:44:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "微软比以往任何时候都更加公开地与 OpenAI、Anthropic 竞争",
+          "summary_en": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "published": "2026-07-30T00:21:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "美国政府的机器人禁令还包括吸尘器",
+          "summary_en": "The US government's robot ban also includes vacuums",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums/",
+          "published": "2026-07-29T19:47:40+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.02
+        },
+        {
+          "summary_zh": "人工智能的顶级初创公司几乎没有发表他们的研究成果",
+          "summary_en": "AI's top startups are barely publishing their research",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+          "published": "2026-07-29T21:25:40+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.43
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI will provide free AI models to select researchers",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
+          "published": "2026-07-29T21:33:55+00:00"
+        },
+        {
+          "summary": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "published": "2026-07-29T21:16:39+00:00"
+        },
+        {
+          "summary": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "published": "2026-07-30T00:21:06+00:00"
+        },
+        {
+          "summary": "The US government's robot ban also includes vacuums",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums/",
+          "published": "2026-07-29T19:47:40+00:00"
+        },
+        {
+          "summary": "Flume Water Monitor 915 MHz Security Is Pretty Good",
+          "source": "Hacker News: Front Page",
+          "url": "https://waveformsecurity.com/blog/flume/",
+          "published": "2026-07-30T01:27:12+00:00"
+        },
+        {
+          "summary": "AI's top startups are barely publishing their research",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+          "published": "2026-07-29T21:25:40+00:00"
+        },
+        {
+          "summary": "AI 提不出下一个「王的猜想」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673371?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-30T01:09:58+00:00"
+        },
+        {
+          "summary": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+          "published": "2026-07-29T20:57:35+00:00"
+        },
+        {
+          "summary": "The Download: a chip talent battle, and deflating AI hype",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+          "published": "2026-07-29T12:10:00+00:00"
+        },
+        {
+          "summary": "Who wins and who loses after US bans foreign robots?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+          "published": "2026-07-29T20:03:42+00:00"
+        },
+        {
+          "summary": "How an overlooked geothermal plant got a second chance",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+          "published": "2026-07-29T17:58:44+00:00"
+        },
+        {
+          "summary": "Save Up to $100 on Apple’s Newest AirPods (2026)",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
+          "published": "2026-07-29T20:44:10+00:00"
+        },
+        {
+          "summary": "早报｜旗舰手机核心三件套成本超4000元/理想回应i6自动泊车反复调整/Kimi完成超35亿美元F轮融资",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673418?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-30T00:34:36+00:00"
+        },
+        {
+          "summary": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+          "published": "2026-07-29T18:30:00+00:00"
+        },
+        {
+          "summary": "Qualcomm is raising phone chip prices starting September 1st",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings",
+          "published": null
+        },
+        {
+          "summary": "Xbox revenue drops 10 percent as Microsoft’s cloud and AI business surges",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/972738/xbox-revenue-microsoft-earnings-q4-2026",
+          "published": null
+        },
+        {
+          "summary": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3878652674715905?f=rss",
+          "published": null
+        },
+        {
+          "summary": "8点1氪丨超1100名AI公司员工联名请愿美国政府；桃酥吃出假牙冠？山姆、泸溪河回应；月之暗面Kimi已完成超35亿美元F轮融资",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3917362478148993?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "美联储沃什遭到渴望真正对抗通胀的投资者的斥责",
+          "summary_en": "Fed’s Warsh Rebuked by Investors Craving a Real Inflation Fight",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/fed-s-warsh-rebuked-by-investors-craving-a-real-inflation-fight",
+          "published": "2026-07-29T23:46:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.01
+        },
+        {
+          "summary_zh": "美联储利率不变，三位美联储持不同意见，美联储按兵不动后股市下跌",
+          "summary_en": "Fed Rates Unchanged, 3 Feds Dissent, Stocks Sink After Fed Hold",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-29/fed-rates-unchanged-3-feds-dissent-stocks-sink-after-fed-hold",
+          "published": "2026-07-29T21:02:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "为什么 SoFi 的盈利超出预期，但股价仍下跌",
+          "summary_en": "Why SoFi’s stock drops, even after its earnings beat expectations",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+          "published": "2026-07-30T01:01:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "高通预测季度利润疲软，预计苹果营收下滑将加速 - 路透中文网",
+          "summary_en": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHFEWjZIOGc2RFUwRU9wTng2NmFmSTZha0dXeFFvMWFlNmRfeWlwSG9LNTQ5TFV0RGthQ2tvQkJuLUwxZUpaSnNTSEQ0ZE1TZ1lEc1M2YVJJS2VrS1VhblRsWHdBYVNrTFVTVkJfYXRUUDY3eWszTmJpYmYwLUwyUFB1enRyOXA5cFF1Zk0tb1FvU2ZxRnBOQmJWdW5FNGhxYWt4ZDJhZFpwV2xoWXN3cWhocmgzN3c4QXdYSTZNRjdrczZBRWV2UnctS3prdnJ5ZmwwUW53?oc=5",
+          "published": "2026-07-29T23:29:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.94
+        },
+        {
+          "summary_zh": "美联储维持利率稳定但三名官员支持加息",
+          "summary_en": "Fed Holds Rates Steady but Three Officials Back Increase",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
+          "published": "2026-07-29T21:12:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.37
+        },
+        {
+          "summary_zh": "预计英国央行将再次维持利率不变",
+          "summary_en": "Interest rates expected to be held again by Bank of England",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-29T23:01:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.83
+        },
+        {
+          "summary_zh": "微软公布财报后股价上涨，股指期货上涨；交易员希望从美联储日抛售中恢复：实时更新",
+          "summary_en": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+          "published": "2026-07-30T00:54:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "打破美联储应对通胀风险的计划",
+          "summary_en": "Breaking Down the Fed's Plans to Tackle Inflation Risks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-30/breaking-down-the-fed-s-plans-to-tackle-inflation-risks-video",
+          "published": "2026-07-30T01:07:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.35
+        },
+        {
+          "summary_zh": "内存问题拖累高通股价下跌",
+          "summary_en": "Qualcomm’s stock falls as memory woes weigh on earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
+          "published": "2026-07-30T00:20:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.15
+        },
+        {
+          "summary_zh": "由于库存担忧加剧，美国达成价值 586 亿美元的爱国者导弹协议 - 路透中文网",
+          "summary_en": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
+          "published": "2026-07-29T23:23:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.92
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Fed’s Warsh Rebuked by Investors Craving a Real Inflation Fight",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-29/fed-s-warsh-rebuked-by-investors-craving-a-real-inflation-fight",
+          "published": "2026-07-29T23:46:05+00:00"
+        },
+        {
+          "summary": "Breaking Down the Fed's Plans to Tackle Inflation Risks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-30/breaking-down-the-fed-s-plans-to-tackle-inflation-risks-video",
+          "published": "2026-07-30T01:07:52+00:00"
+        },
+        {
+          "summary": "Fed Rates Unchanged, 3 Feds Dissent, Stocks Sink After Fed Hold",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-29/fed-rates-unchanged-3-feds-dissent-stocks-sink-after-fed-hold",
+          "published": "2026-07-29T21:02:12+00:00"
+        },
+        {
+          "summary": "Why SoFi’s stock drops, even after its earnings beat expectations",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
+          "published": "2026-07-30T01:01:00+00:00"
+        },
+        {
+          "summary": "Qualcomm’s stock falls as memory woes weigh on earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
+          "published": "2026-07-30T00:20:00+00:00"
+        },
+        {
+          "summary": "Qualcomm forecasts weak quarterly profit, expects Apple revenue drop to accelerate - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMHFEWjZIOGc2RFUwRU9wTng2NmFmSTZha0dXeFFvMWFlNmRfeWlwSG9LNTQ5TFV0RGthQ2tvQkJuLUwxZUpaSnNTSEQ0ZE1TZ1lEc1M2YVJJS2VrS1VhblRsWHdBYVNrTFVTVkJfYXRUUDY3eWszTmJpYmYwLUwyUFB1enRyOXA5cFF1Zk0tb1FvU2ZxRnBOQmJWdW5FNGhxYWt4ZDJhZFpwV2xoWXN3cWhocmgzN3c4QXdYSTZNRjdrczZBRWV2UnctS3prdnJ5ZmwwUW53?oc=5",
+          "published": "2026-07-29T23:29:23+00:00"
+        },
+        {
+          "summary": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2Yxa3h6SzNCUGZjOFBOTXBHY2tLc0x4WVhQTks1UF9BWkt3ZlcwSHRYVG9IV0NneDJrdVhtcm54ODVkc3cxcFdVMUZCek5EdHpER0J3d3RMWUNyeXc5LUp0Vl9HRlYzSGlhemNXOHZkc3dLNzRaQlM4QVBrUHktSDhHd1RoOE5pVWxwLXFNVzZEbjRJV2xQRnJKS0lpcTBRYkZqYm1MNGszZlU0eDF2NVI0RVRIOHZ5RGs5a0t0QWRsa0stelBVNzBvblpmSXhWbmgzdEl3cjZVZw?oc=5",
+          "published": "2026-07-29T23:23:08+00:00"
+        },
+        {
+          "summary": "Stocks Fall After Fed Hold, Meta Lackluster Forecast, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-29/stocks-fall-after-fed-hold-meta-lackluster-forecast-more",
+          "published": "2026-07-29T22:15:44+00:00"
+        },
+        {
+          "summary": "Fed Holds Rates Steady but Three Officials Back Increase",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
+          "published": "2026-07-29T21:12:11+00:00"
+        },
+        {
+          "summary": "Interest rates expected to be held again by Bank of England",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-29T23:01:56+00:00"
+        },
+        {
+          "summary": "Stock futures rise as Microsoft jumps after earnings; traders hope to recover from Fed Day sell-off: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/29/stock-market-today-live-updates.html",
+          "published": "2026-07-30T00:54:16+00:00"
+        },
+        {
+          "summary": "What the Fed’s rate decision means for your finances.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances",
+          "published": "2026-07-29T18:38:15+00:00"
+        },
+        {
+          "summary": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-29T20:32:50+00:00"
+        },
+        {
+          "summary": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
+          "published": "2026-07-30T01:00:01+00:00"
+        },
+        {
+          "summary": "Market moves and 'a good family fight:' top takeaways from the July Fed meeting",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/3-biggest-takeaways-from-july-federal-reserve-decision-kevin-warsh-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Jersey Mike's is going public. Here are 4 takeaways from its IPO filing, from a $41 million jet to big expansion plans",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/jersey-mikes-ipo-filing-expansion-plans-41-million-jet-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Boeing posts larger-than-expected Q2 loss as Air Force One costs rise",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/news/boeing-posts-larger-expected-q2-113401112.html",
+          "published": null
+        },
+        {
+          "summary": "FCC chair defends new U.S. ban on foreign-made humanoid robots, a market China dominates",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/fcc-chair-defends-u-ban-232539851.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Stable-GFlowNet 揭示了生成式 AI 模型中更多隐藏的弱点",
+          "summary_en": "Stable-GFlowNet uncovers more hidden weaknesses in generative AI models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html",
+          "published": "2026-07-29T17:40:05-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.99
+        },
+        {
+          "summary_zh": "这这这…翁荔光速回OpenAI上班了",
+          "summary_en": "This, this, this... Weng Li returned to work at OpenAI at a light speed",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/462947.html",
+          "published": "2026-07-30T00:31:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.2
+        },
+        {
+          "summary_zh": "OpenAI 承认其自主人工智能模型在安全评估期间也泄露了其他平台上的凭证",
+          "summary_en": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+          "published": "2026-07-29T16:26:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "启用两种设置如何使我们在 ARC-AGI-3 基准测试中的得分增加两倍",
+          "summary_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "published": "2026-07-29T15:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "掌握小语言模型的 5 个必读资源",
+          "summary_en": "5 Must-Read Resources for Mastering Small Language Models",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models",
+          "published": "2026-07-29T12:00:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.07
+        },
+        {
+          "summary_zh": "随着人工智能内容充斥互联网，Pangram 筹集了 900 万美元来检测它",
+          "summary_en": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "published": "2026-07-29T11:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        },
+        {
+          "summary_zh": "FCC以安全风险为由阻止中国人形机器人进口",
+          "summary_en": "FCC Blocks Chinese Humanoid Robot Imports, Citing Security Risks",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/fcc-blocks-chinese-humanoid-robot-imports-security-risks",
+          "published": "2026-07-29T14:26:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.68
+        },
+        {
+          "summary_zh": "OpenAI 称流氓人工智能代理攻击袭击了其他公司",
+          "summary_en": "OpenAI says rogue AI agent attack hit other companies",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-rogue-ai-agent-companies.html",
+          "published": "2026-07-29T10:43:37-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+          "summary_en": "Beyond OpenAI and Anthropic! Domestic AI safety intelligence ranks among the top four in the world and first in the country",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/462447.html",
+          "published": "2026-07-29T08:13:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.13
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stable-GFlowNet uncovers more hidden weaknesses in generative AI models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-stable-gflownet-uncovers-hidden-weaknesses.html",
+          "published": "2026-07-29T17:40:05-04:00"
+        },
+        {
+          "summary": "这这这…翁荔光速回OpenAI上班了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/462947.html",
+          "published": "2026-07-30T00:31:19+00:00"
+        },
+        {
+          "summary": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+          "published": "2026-07-29T16:26:56+00:00"
+        },
+        {
+          "summary": "OpenAI says rogue AI agent attack hit other companies",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-openai-rogue-ai-agent-companies.html",
+          "published": "2026-07-29T10:43:37-04:00"
+        },
+        {
+          "summary": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/462447.html",
+          "published": "2026-07-29T08:13:03+00:00"
+        },
+        {
+          "summary": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "published": "2026-07-29T15:00:00+00:00"
+        },
+        {
+          "summary": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+          "published": "2026-07-29T18:37:49+00:00"
+        },
+        {
+          "summary": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "published": "2026-07-29T10:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "5 Must-Read Resources for Mastering Small Language Models",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-must-read-resources-for-mastering-small-language-models",
+          "published": "2026-07-29T12:00:22+00:00"
+        },
+        {
+          "summary": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "published": "2026-07-29T11:00:00+00:00"
+        },
+        {
+          "summary": "FCC Blocks Chinese Humanoid Robot Imports, Citing Security Risks",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/fcc-blocks-chinese-humanoid-robot-imports-security-risks",
+          "published": "2026-07-29T14:26:18+00:00"
+        },
+        {
+          "summary": "What Professionals Should Know About Data Science and AI, According to Harvard Business School Online",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
+          "published": "2026-07-29T14:00:25+00:00"
+        },
+        {
+          "summary": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/vendor-developing-self-improving-ai-410m-aws-deal",
+          "published": "2026-07-29T12:49:42+00:00"
+        },
+        {
+          "summary": "How a medical database developed at MIT evolved into a global standard of data-sharing",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
+          "published": "2026-07-29T10:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
