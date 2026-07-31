@@ -1,0 +1,660 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T02:00:22.924167+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 表示，其自己的人工智能模型在安全测试中入侵了三家公司",
+          "summary_en": "Anthropic says its own AI models breached three companies during security tests",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "published": "2026-07-31T01:06:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.28
+        },
+        {
+          "summary_zh": "Reddit 的首席执行官似乎对谷歌的人工智能概述感到沮丧",
+          "summary_en": "Reddit's CEO sure seems frustrated with Google's AI overviews",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/",
+          "published": "2026-07-30T23:09:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.79
+        },
+        {
+          "summary_zh": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+          "summary_en": "Morning Post｜299,900, Xiaomi Pengcheng N90 Max has a comprehensive battery life of 1,705km/Apple iPhone and Mac revenue hit a new high/Qualcomm confirms chip price increase starting in September",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-31T00:16:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.07
+        },
+        {
+          "summary_zh": "Anthropic 称克劳德在网络安全测试期间入侵了真实系统",
+          "summary_en": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+          "published": "2026-07-31T01:24:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "人工智能美学",
+          "summary_en": "The AI Aesthetic",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "published": "2026-07-30T23:22:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "蒙大拿州成为实验医疗中心的计划刚刚推进",
+          "summary_en": "Montana’s plan to become an experimental medical hub just pushed forward",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+          "published": "2026-07-30T17:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.29
+        },
+        {
+          "summary_zh": "新的 MCP 规范解决了企业采用的主要障碍",
+          "summary_en": "New MCP specification addresses the main barrier to enterprise adoption",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+          "published": "2026-07-30T14:53:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.72
+        },
+        {
+          "summary_zh": "投资者喜欢人工智能，只要你是云主机",
+          "summary_en": "Investors love AI, as long as you’re a cloud host",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "published": "2026-07-30T22:41:41+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.67
+        },
+        {
+          "summary_zh": "PSP 经典《Lumines》登陆 iOS 和 Android",
+          "summary_en": "PSP classic Lumines hits iOS and Android",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2227288/psp-classic-lumines-hits-ios-and-android/",
+          "published": "2026-07-30T18:20:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.58
+        },
+        {
+          "summary_zh": "FCC 的新规定将如何影响机器人吸尘器",
+          "summary_en": "How the FCC’s New Rule Will Affect Robot Vacuums",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+          "published": "2026-07-30T23:17:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.82
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic says its own AI models breached three companies during security tests",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "published": "2026-07-31T01:06:54+00:00"
+        },
+        {
+          "summary": "Reddit's CEO sure seems frustrated with Google's AI overviews",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/",
+          "published": "2026-07-30T23:09:07+00:00"
+        },
+        {
+          "summary": "Investors love AI, as long as you’re a cloud host",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "published": "2026-07-30T22:41:41+00:00"
+        },
+        {
+          "summary": "PSP classic Lumines hits iOS and Android",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2227288/psp-classic-lumines-hits-ios-and-android/",
+          "published": "2026-07-30T18:20:00+00:00"
+        },
+        {
+          "summary": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-31T00:16:51+00:00"
+        },
+        {
+          "summary": "Anthropic Says Claude Hacked Real Systems During Cybersecurity Tests",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+          "published": "2026-07-31T01:24:26+00:00"
+        },
+        {
+          "summary": "The AI Aesthetic",
+          "source": "Hacker News: Front Page",
+          "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+          "published": "2026-07-30T23:22:16+00:00"
+        },
+        {
+          "summary": "How the FCC’s New Rule Will Affect Robot Vacuums",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
+          "published": "2026-07-30T23:17:46+00:00"
+        },
+        {
+          "summary": "Investigating three real-world incidents in our cybersecurity evaluations",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "published": "2026-07-30T23:00:51+00:00"
+        },
+        {
+          "summary": "Montana’s plan to become an experimental medical hub just pushed forward",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
+          "published": "2026-07-30T17:10:00+00:00"
+        },
+        {
+          "summary": "New MCP specification addresses the main barrier to enterprise adoption",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+          "published": "2026-07-30T14:53:07+00:00"
+        },
+        {
+          "summary": "The Download: tricking LLMs, and reviving geothermal plants",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+          "published": "2026-07-30T12:10:00+00:00"
+        },
+        {
+          "summary": "Quantum computers outperform classical ones, with results you can trust",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+          "published": "2026-07-30T15:59:37+00:00"
+        },
+        {
+          "summary": "高通和 IDC 说，智能眼镜会是手机之外，最重要的 AI 设备",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-30T08:04:55+00:00"
+        },
+        {
+          "summary": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3917874427555457?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Tim Cook hints at iCloud Plus tier for AI power users",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+          "published": null
+        },
+        {
+          "summary": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3917972674735747?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "澳大利亚养老金削减全球新兴市场的本地库存",
+          "summary_en": "Australia Pension Cuts Local Stocks for Global, Emerging Markets",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/australia-pension-cuts-local-stocks-for-global-emerging-markets",
+          "published": "2026-07-30T23:59:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.0
+        },
+        {
+          "summary_zh": "美联储缺乏指引，债券投资者对通胀的担忧加剧",
+          "summary_en": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
+          "published": "2026-07-30T19:40:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.92
+        },
+        {
+          "summary_zh": "准备好逢低买入科技股。为什么最近的抛售不会打破牛市。",
+          "summary_en": "Get ready to buy the dip in tech stocks. Why the recent selling won’t break the bull market.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories",
+          "published": "2026-07-30T21:45:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.44
+        },
+        {
+          "summary_zh": "据《华尔街日报》报道，特斯拉考虑出售中国业务，为潜在的 SpaceX 合并铺平道路 - 路透中文网",
+          "summary_en": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5",
+          "published": "2026-07-31T01:12:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.3
+        },
+        {
+          "summary_zh": "我们从大型科技公司的财报中了解到有关人工智能的三件事",
+          "summary_en": "Three things we learned about AI from Big Tech earnings",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T01:31:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "周五的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/30/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-07-30T22:40:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "每个人的事：华尔街的大赌博（播客）",
+          "summary_en": "Everybody's Business: Wall Street's Big Gamble(Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/everybody-s-business-wall-street-s-big-gamble-podcast",
+          "published": "2026-07-31T00:34:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.14
+        },
+        {
+          "summary_zh": "人工智能贸易乐观情绪重燃，韩国股市上涨 15%，创历史新高",
+          "summary_en": "Korean Stocks Jump Record 15% on Renewed AI Trade Optimism",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase",
+          "published": "2026-07-30T23:50:06+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.96
+        },
+        {
+          "summary_zh": "软件股正在下跌——但这四只股票可能会在今年剩余时间里大放异彩",
+          "summary_en": "Software stocks are fading — but these 4 could shine through the rest of the year",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
+          "published": "2026-07-30T21:24:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.35
+        },
+        {
+          "summary_zh": "云销售强劲后，亚马逊取消了投资计划；股价上涨 - 路透社",
+          "summary_en": "Amazon lifts investment plans after strong cloud sales; shares jump - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5",
+          "published": "2026-07-30T23:36:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.9
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Australia Pension Cuts Local Stocks for Global, Emerging Markets",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/australia-pension-cuts-local-stocks-for-global-emerging-markets",
+          "published": "2026-07-30T23:59:49+00:00"
+        },
+        {
+          "summary": "Korean Stocks Jump Record 15% on Renewed AI Trade Optimism",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/sk-hynix-shares-surge-in-seoul-on-us-peer-rally-chey-purchase",
+          "published": "2026-07-30T23:50:06+00:00"
+        },
+        {
+          "summary": "Bond Investors’ Inflation Angst Rises on Fed’s Lack of Guidance",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
+          "published": "2026-07-30T19:40:58+00:00"
+        },
+        {
+          "summary": "Get ready to buy the dip in tech stocks. Why the recent selling won’t break the bull market.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/get-ready-to-buy-the-dip-in-tech-stocks-why-the-recent-selling-wont-break-the-bull-market-900699f5?mod=mw_rss_topstories",
+          "published": "2026-07-30T21:45:00+00:00"
+        },
+        {
+          "summary": "Software stocks are fading — but these 4 could shine through the rest of the year",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/software-stocks-are-fading-but-these-4-could-shine-through-the-rest-of-the-year-2c4dbe22?mod=mw_rss_topstories",
+          "published": "2026-07-30T21:24:00+00:00"
+        },
+        {
+          "summary": "Tesla weighs sale of China business to pave way for potential SpaceX merger, WSJ reports - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN3l5b25GTzhYR0c5dDFhN0dRXzhZelYxMXFRWVB3RXFjR2sxbkRseEhFV3pLVmNoZ3hIMXRxekhZTHFBdVJXNVo2b1FEcmU5NWJpRFpLNGplRmFMZWNMTVZXN09sUW9USGpQQ3FuX0lXTG5QRVhMckNhM3JSZTZIdkxyTFNVSjFjWV8wN2NoTHNpc1UzeGRlR0pMUC12VGE3NERaY3Fxckhsa1dNemo2bUFjcG9iemNvVDY3cWVscktqaFMzWFBEUGhCb1N6Vnkwd1E?oc=5",
+          "published": "2026-07-31T01:12:00+00:00"
+        },
+        {
+          "summary": "Amazon lifts investment plans after strong cloud sales; shares jump - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0xqQmlIUXJydk1wNzhibDVjTzVaekhCb3A1NWs2cm1aQUVtWU5tVEswRkhpdjE4Z3hzVk5MbmtBWUYtdnlPT3Q5a3lDRUdYd0prRnJhWXBqN1dpTVB3N0dFQW1oUGZYWHgyX19maWlvQkNKWnpBXzNCSUdKcThxdWxGTkhoTVZsOHdGZENlMXZHb1NnYzY2Y2ZBRVVkVURPd0pKeHZVb2ZjNzNGMnpTLUNWeE8?oc=5",
+          "published": "2026-07-30T23:36:14+00:00"
+        },
+        {
+          "summary": "Markets Challenge Warsh’s Approach to Taming Inflation",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html",
+          "published": "2026-07-30T15:10:57+00:00"
+        },
+        {
+          "summary": "Three things we learned about AI from Big Tech earnings",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T01:31:50+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/30/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-07-30T22:40:39+00:00"
+        },
+        {
+          "summary": "Everybody's Business: Wall Street's Big Gamble(Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/everybody-s-business-wall-street-s-big-gamble-podcast",
+          "published": "2026-07-31T00:34:56+00:00"
+        },
+        {
+          "summary": "Apple Mixed Earnings, Anthropic: AI Models Hacked Systems, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/apple-mixed-earnings-anthropic-ai-models-hacked-systems-more",
+          "published": "2026-07-31T00:17:49+00:00"
+        },
+        {
+          "summary": "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
+          "published": "2026-07-30T21:29:19+00:00"
+        },
+        {
+          "summary": "Anthropic says AI models hacked three firms during cyber tests",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T01:31:14+00:00"
+        },
+        {
+          "summary": "Oil prices remain highly flammable",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
+          "published": "2026-07-30T13:02:21+00:00"
+        },
+        {
+          "summary": "How many people are dying as a result of USAID’s demise?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+          "published": "2026-07-30T09:38:15+00:00"
+        },
+        {
+          "summary": "What smart people are saying about the Situational Awareness stock sell-off to Citadel",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/smart-people-react-situational-awareness-leopold-aschenbrenner-stock-sell-citadel-2026-7",
+          "published": null
+        },
+        {
+          "summary": "OpenAI CEO Sam Altman announces 'major' price cuts as the company signals a focus on cost efficiency",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/openai-price-cuts-gpt-terra-luna-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Ford CEO tells employees Chinese automakers could enter US market in next decade",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
+          "published": null
+        },
+        {
+          "summary": "Microsoft tells employees not to use prediction markets if they have inside information",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/articles/microsoft-tells-employees-not-prediction-153005567.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 全面进入中国定价模式，其最实惠的 GPT-5.6 型号降价 80%",
+          "summary_en": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+          "published": "2026-07-30T18:46:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.69
+        },
+        {
+          "summary_zh": "Oracle 为企业客户带来 Google Gemini 模型",
+          "summary_en": "Oracle Brings Google Gemini Models to Enterprise Customers",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+          "published": "2026-07-30T18:44:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.69
+        },
+        {
+          "summary_zh": "在 Hugging Face 漏洞中，OpenAI 的黑客吵闹且速度很快，但并非不可阻挡",
+          "summary_en": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+          "published": "2026-07-30T14:48:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "重新思考人工智能如何支持投资决策",
+          "summary_en": "Rethinking how AI supports investment decisions",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-rethinking-ai-investment-decisions.html",
+          "published": "2026-07-30T16:00:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.5
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "利用 GPT-5.6 推进性价比前沿",
+          "summary_en": "Advancing the price-performance frontier with GPT-5.6",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "published": "2026-07-30T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "丹妮拉·罗斯 (Daniela Rus) 荣获巴伐利亚部长兼总统高科技奖",
+          "summary_en": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+          "published": "2026-07-30T17:00:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.75
+        },
+        {
+          "summary_zh": "克劳德设计新手指南",
+          "summary_en": "A Beginner’s Guide to Working with Claude Design",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
+          "published": "2026-07-30T14:06:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.53
+        },
+        {
+          "summary_zh": "前 OpenAI 研究人员押注 1000 亿美元将流入训练数据，因为仅靠扩展是无法削减成本的",
+          "summary_en": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+          "published": "2026-07-30T18:07:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.53
+        },
+        {
+          "summary_zh": "前沿部署的工程师是人工智能行业最新的人才热潮",
+          "summary_en": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+          "published": "2026-07-30T15:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.75
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+          "published": "2026-07-30T18:46:24+00:00"
+        },
+        {
+          "summary": "Oracle Brings Google Gemini Models to Enterprise Customers",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+          "published": "2026-07-30T18:44:57+00:00"
+        },
+        {
+          "summary": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+          "published": "2026-07-30T18:07:17+00:00"
+        },
+        {
+          "summary": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+          "published": "2026-07-30T14:48:32+00:00"
+        },
+        {
+          "summary": "Rethinking how AI supports investment decisions",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-rethinking-ai-investment-decisions.html",
+          "published": "2026-07-30T16:00:01-04:00"
+        },
+        {
+          "summary": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+          "published": "2026-07-30T15:00:00+00:00"
+        },
+        {
+          "summary": "What video review controversies in sports reveal about AI and human decision‑making",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-video-controversies-sports-reveal-ai.html",
+          "published": "2026-07-30T12:40:10-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Advancing the price-performance frontier with GPT-5.6",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "published": "2026-07-30T10:00:00+00:00"
+        },
+        {
+          "summary": "Chinese Startups Dominate Humanoid Robotics Patent Rankings",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
+          "published": "2026-07-30T16:03:07+00:00"
+        },
+        {
+          "summary": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+          "published": "2026-07-30T17:00:00-04:00"
+        },
+        {
+          "summary": "Connecting research to policy on Capitol Hill",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+          "published": "2026-07-30T16:35:00-04:00"
+        },
+        {
+          "summary": "A Beginner’s Guide to Working with Claude Design",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
+          "published": "2026-07-30T14:06:48+00:00"
+        },
+        {
+          "summary": "7 Machine Learning Algorithms That Still Matter",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
+          "published": "2026-07-30T12:00:46+00:00"
+        },
+        {
+          "summary": "李飞飞的世界模型，终于开始训练机器人了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/463217.html",
+          "published": "2026-07-30T07:47:37+00:00"
+        },
+        {
+          "summary": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/463123.html",
+          "published": "2026-07-30T06:14:26+00:00"
+        }
+      ]
+    }
+  }
+}
