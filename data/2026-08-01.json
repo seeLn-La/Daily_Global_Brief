@@ -1,0 +1,636 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T02:01:50.975245+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "SpaceXAI 表示需要一年时间才能从密西西比州数据中心完全拆除未经许可的燃气轮机",
+          "summary_en": "SpaceXAI says it will take a year to fully remove unpermitted gas turbines from its Mississippi data center",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228277/spacexai-says-it-will-take-a-year-to-fully-remove-unpermitted-gas-turbines-from-its-mississippi-data-center/",
+          "published": "2026-07-31T20:49:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.2
+        },
+        {
+          "summary_zh": "你会纹身只是为了去一家每周 7 天的人工智能初创公司面试吗？",
+          "summary_en": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+          "published": "2026-07-31T19:04:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "据报道，OpenAI 发现证据表明其更多特工肆意妄为",
+          "summary_en": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "published": "2026-07-31T22:47:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "如何存在",
+          "summary_en": "How to Exist",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+          "published": "2026-08-01T00:25:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "SpaceX 的猎鹰 9 号火箭即将坠入月球——从地球上都可以看到它",
+          "summary_en": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+          "published": "2026-07-31T23:38:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.91
+        },
+        {
+          "summary_zh": "马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了",
+          "summary_en": "Musk wants to use AI to create the \"Odyssey\" movie, and I used Little Skylark Seedance 2.5 to achieve it ahead of schedule",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673556?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-31T13:27:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.36
+        },
+        {
+          "summary_zh": "下载：蒙大拿州新的实验药物规则",
+          "summary_en": "The Download: Montana’s new experimental drug rules",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "published": "2026-07-31T12:16:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.06
+        },
+        {
+          "summary_zh": "Snapchat 在 Spotlight 中严厉打击 AI 漏洞",
+          "summary_en": "Snapchat is cracking down on AI slop in Spotlight",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/",
+          "published": "2026-07-31T19:11:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "医生检查了该男子疼痛的肩膀，发现关节缺失",
+          "summary_en": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+          "published": "2026-07-31T21:51:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "谷歌在推出一天后取消了其地球人工智能功能，因批评该功能会传播错误信息",
+          "summary_en": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+          "published": "2026-07-31T19:47:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.94
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "SpaceXAI says it will take a year to fully remove unpermitted gas turbines from its Mississippi data center",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228277/spacexai-says-it-will-take-a-year-to-fully-remove-unpermitted-gas-turbines-from-its-mississippi-data-center/",
+          "published": "2026-07-31T20:49:45+00:00"
+        },
+        {
+          "summary": "Snapchat is cracking down on AI slop in Spotlight",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/",
+          "published": "2026-07-31T19:11:08+00:00"
+        },
+        {
+          "summary": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+          "published": "2026-07-31T19:04:56+00:00"
+        },
+        {
+          "summary": "OpenAI reportedly finds evidence that more of its agents ran amok",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "published": "2026-07-31T22:47:26+00:00"
+        },
+        {
+          "summary": "Doctors took a look at man's painful shoulder—they found the joint was missing",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
+          "published": "2026-07-31T21:51:52+00:00"
+        },
+        {
+          "summary": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+          "published": "2026-07-31T19:47:28+00:00"
+        },
+        {
+          "summary": "How to Exist",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+          "published": "2026-08-01T00:25:00+00:00"
+        },
+        {
+          "summary": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
+          "published": "2026-07-31T23:38:56+00:00"
+        },
+        {
+          "summary": "Tailscale didn't stop the Hugging Face intrusion",
+          "source": "Hacker News: Front Page",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "published": "2026-07-31T19:03:45+00:00"
+        },
+        {
+          "summary": "Chinese AI Researchers Are Finding Their Voice on X",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+          "published": "2026-07-31T18:14:43+00:00"
+        },
+        {
+          "summary": "马斯克要用 AI 打造《奥德赛》电影，我用小云雀 Seedance 2.5 提前实现了",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673556?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-31T13:27:40+00:00"
+        },
+        {
+          "summary": "The Download: Montana’s new experimental drug rules",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+          "published": "2026-07-31T12:16:00+00:00"
+        },
+        {
+          "summary": "Montana’s new “right to try” law can’t come soon enough for some",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+          "published": "2026-07-31T09:00:00+00:00"
+        },
+        {
+          "summary": "实测 DeepSeek V4 正式版：3 块钱干完 5 件事，AI「智价比」之战开打了",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673553?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-07-31T11:50:59+00:00"
+        },
+        {
+          "summary": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3917874427555457?f=rss",
+          "published": null
+        },
+        {
+          "summary": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919378312670857?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Apple’s new AirTags are back down to their best price",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+          "published": null
+        },
+        {
+          "summary": "Google Earth’s AI deepfake tool only lasted one day",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "加拿大皇家银行（RBC）的卡尔瓦西纳（Calvasina）看到股市紧张，但“没有恐慌”",
+          "summary_en": "RBC's Calvasina Sees Nervousness, But 'No Panic' in Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/rbc-s-calvasina-sees-nervousness-but-no-panic-in-stocks-video",
+          "published": "2026-07-31T22:03:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.51
+        },
+        {
+          "summary_zh": "华尔街未来一周摇摇欲坠 美国股市面临就业报告和财报周 - 路透中文网",
+          "summary_en": "Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXJVQnRLbDN6Q1ZZdnVtaFMzYXIxM2RlT214dFlNMkdlWDYwSWt2cjBoQzBlME9CbFVPcVhDRzk3YnNMak5xeVVYX0NwR2NFazJQR3pKaTl5NlBfTTVDWHAwNGg1QWxIYzJ2UGJ5cUxBUm5yOThySUZmcS1xRXF5MkxNMVRVVUtQX19sZXY5bmVjam5sbFVYYnpxOTJ5WjJZckxXdnd0R2Y5UFIydzFWWGZaczdwVVZVN1AyU2pQLV9jcFU?oc=5",
+          "published": "2026-07-31T21:43:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.42
+        },
+        {
+          "summary_zh": "动量交易出现 2000 年以来最大的损失后，7 月股市充满希望",
+          "summary_en": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+          "published": "2026-07-31T22:21:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.58
+        },
+        {
+          "summary_zh": "沃什考虑减少美联储政策会议的频率",
+          "summary_en": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
+          "published": "2026-08-01T00:26:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.1
+        },
+        {
+          "summary_zh": "彭博商业周刊：美联储考虑减少会议次数（播客）",
+          "summary_en": "Bloomberg Businessweek Daily: Fed Mulls Fewer Meetings (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-daily-fed-mulls-fewer-meetings-podcast",
+          "published": "2026-07-31T23:14:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "分析：市场听到了鸽派的凯文·沃什 (Kevin Warsh) 的言论。美联储主席自己的话暗示加息",
+          "summary_en": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
+          "published": "2026-07-31T18:16:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "Snapchat 与其他流行平台一起对抗“人工智能滥用”",
+          "summary_en": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T21:57:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.48
+        },
+        {
+          "summary_zh": "华尔街周刊 |沃什的等待游戏、欧盟合并规则、机器人外科医生",
+          "summary_en": "Wall Street Week | Warsh’s Waiting Game, EU Merger Rules, Robotic Surgeons",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/wall-street-week-warsh-s-waiting-game-eu-merger-rules-video",
+          "published": "2026-07-31T23:12:55+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.8
+        },
+        {
+          "summary_zh": "债券市场出现“危险信号”后，美联储主席沃什面临通胀问题的艰难选择 - 路透中文网",
+          "summary_en": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
+          "published": "2026-07-31T17:56:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "标准普尔 500 指数自 2014 年以来 7 月首次下跌。以下是引发抛售的股票。",
+          "summary_en": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+          "published": "2026-07-31T21:10:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.28
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "RBC's Calvasina Sees Nervousness, But 'No Panic' in Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/rbc-s-calvasina-sees-nervousness-but-no-panic-in-stocks-video",
+          "published": "2026-07-31T22:03:43+00:00"
+        },
+        {
+          "summary": "Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXJVQnRLbDN6Q1ZZdnVtaFMzYXIxM2RlT214dFlNMkdlWDYwSWt2cjBoQzBlME9CbFVPcVhDRzk3YnNMak5xeVVYX0NwR2NFazJQR3pKaTl5NlBfTTVDWHAwNGg1QWxIYzJ2UGJ5cUxBUm5yOThySUZmcS1xRXF5MkxNMVRVVUtQX19sZXY5bmVjam5sbFVYYnpxOTJ5WjJZckxXdnd0R2Y5UFIydzFWWGZaczdwVVZVN1AyU2pQLV9jcFU?oc=5",
+          "published": "2026-07-31T21:43:04+00:00"
+        },
+        {
+          "summary": "Wall Street Week | Warsh’s Waiting Game, EU Merger Rules, Robotic Surgeons",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-07-31/wall-street-week-warsh-s-waiting-game-eu-merger-rules-video",
+          "published": "2026-07-31T23:12:55+00:00"
+        },
+        {
+          "summary": "July ends on a hopeful note for stocks after momentum trade sees biggest wipeout since 2000",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/july-ends-on-a-hopeful-note-for-stocks-after-momentum-trade-sees-biggest-wipeout-since-2000-4b90b6b2?mod=mw_rss_topstories",
+          "published": "2026-07-31T22:21:00+00:00"
+        },
+        {
+          "summary": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag' - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
+          "published": "2026-07-31T17:56:01+00:00"
+        },
+        {
+          "summary": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+          "published": "2026-07-31T21:10:00+00:00"
+        },
+        {
+          "summary": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/federal-reserve-warsh-meetings.html",
+          "published": "2026-08-01T00:26:49+00:00"
+        },
+        {
+          "summary": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
+          "published": "2026-07-31T16:16:55+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Fed Mulls Fewer Meetings (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-daily-fed-mulls-fewer-meetings-podcast",
+          "published": "2026-07-31T23:14:19+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: CEO Money Regrets (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-daily-ceo-money-regrets-podcast",
+          "published": "2026-07-31T21:43:04+00:00"
+        },
+        {
+          "summary": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/31/kevin-warsh-fed-inflation-rate-hike-markets.html",
+          "published": "2026-07-31T18:16:18+00:00"
+        },
+        {
+          "summary": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
+          "published": "2026-07-31T21:49:40+00:00"
+        },
+        {
+          "summary": "Snapchat joins other popular platforms in fight against 'AI slop'",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T21:57:59+00:00"
+        },
+        {
+          "summary": "BP puts North Sea business up for sale",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-31T15:36:21+00:00"
+        },
+        {
+          "summary": "I hated that my dad bought a lawn care franchise. Now I'm CEO of a $426 million company.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/i-hated-my-dads-lawn-care-business-now-i-run-it-as-ceo-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Palantir CEO says Dario Amodei is not the 'caricature' that Americans might believe him to be",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/palantir-ceo-dario-amodei-ai-tokens-fde-2026-7",
+          "published": null
+        },
+        {
+          "summary": "Ford CEO tells employees Chinese automakers could enter US market in next decade",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
+          "published": null
+        },
+        {
+          "summary": "Microsoft tells employees not to use prediction markets if they have inside information",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/articles/microsoft-tells-employees-not-prediction-153005567.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 跟随 OpenAI 承认其 Claude 模型超出了测试环境并攻击了现实世界的系统",
+          "summary_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
+          "published": "2026-07-31T10:57:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.73
+        },
+        {
+          "summary_zh": "由于企业对人工智能支出的担忧，OpenAI 降低了模型价格",
+          "summary_en": "OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
+          "published": "2026-07-31T14:54:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.72
+        },
+        {
+          "summary_zh": "构建语音控制的人工智能代理",
+          "summary_en": "Building Voice-Controlled AI Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-voice-controlled-ai-agents",
+          "published": "2026-07-31T14:00:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "Anthropic 的模型在测试期间获得了未经授权的“现实世界”访问权限",
+          "summary_en": "Anthropic's models gained unauthorized 'real-world' access during testing",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-anthropic-gained-unauthorized-real-world.html",
+          "published": "2026-07-31T03:12:21-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.29
+        },
+        {
+          "summary_zh": "在整个欧洲推进负责任的人工智能",
+          "summary_en": "Advancing responsible AI across Europe",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "published": "2026-07-31T15:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.74
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "人工智能实验室想要踩刹车，但亚马逊和 SpaceX 仍在起飞",
+          "summary_en": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+          "published": "2026-07-31T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.49
+        },
+        {
+          "summary_zh": "新的 Deepseek Flash 模型与 OpenAI 的 GPT-5.6 Luna 相匹配，成本低约 60%",
+          "summary_en": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+          "published": "2026-07-31T16:39:25+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "提示：企业努力应对人工智能规模的成本",
+          "summary_en": "Prompt: Enterprises Grapple With Cost of AI Scale",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/prompt-next-enterprise-ai-controlling-cost-of-scale",
+          "published": "2026-07-31T15:19:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "构建丰富的智能",
+          "summary_en": "Building abundant intelligence",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "published": "2026-07-31T15:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.74
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
+          "published": "2026-07-31T10:57:37+00:00"
+        },
+        {
+          "summary": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+          "published": "2026-07-31T16:39:25+00:00"
+        },
+        {
+          "summary": "OpenAI Cuts Model Prices Amid Enterprises’ Concerns About AI Spend",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
+          "published": "2026-07-31T14:54:29+00:00"
+        },
+        {
+          "summary": "Building Voice-Controlled AI Agents",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-voice-controlled-ai-agents",
+          "published": "2026-07-31T14:00:06+00:00"
+        },
+        {
+          "summary": "Anthropic's models gained unauthorized 'real-world' access during testing",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-anthropic-gained-unauthorized-real-world.html",
+          "published": "2026-07-31T03:12:21-04:00"
+        },
+        {
+          "summary": "Prompt: Enterprises Grapple With Cost of AI Scale",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/prompt-next-enterprise-ai-controlling-cost-of-scale",
+          "published": "2026-07-31T15:19:01+00:00"
+        },
+        {
+          "summary": "Advancing responsible AI across Europe",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "published": "2026-07-31T15:00:00+00:00"
+        },
+        {
+          "summary": "Building abundant intelligence",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "published": "2026-07-31T15:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+          "published": "2026-07-31T14:00:00+00:00"
+        },
+        {
+          "summary": "CEO of OpenAI says we're 'in the singularity' with AI: Is he right?",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ceo-openai-singularity-ai.html",
+          "published": "2026-07-31T07:40:02-04:00"
+        },
+        {
+          "summary": "5 Books That Will Deepen Your Understanding of Large Language Models",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-books-that-will-deepen-your-understanding-of-large-language-models",
+          "published": "2026-07-31T12:00:44+00:00"
+        },
+        {
+          "summary": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/464328.html",
+          "published": "2026-07-31T09:11:32+00:00"
+        },
+        {
+          "summary": "米哈游蔡浩宇AI创业生变",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/464169.html",
+          "published": "2026-07-31T07:22:37+00:00"
+        }
+      ]
+    }
+  }
+}
