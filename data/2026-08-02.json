@@ -1,0 +1,566 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T01:58:13.959506+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "什么是 USB 网络共享以及如何为移动热点启用它？",
+          "summary_en": "What Is USB Tethering And How Do You Enable It For Mobile Hotspot?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/",
+          "published": "2026-08-01T18:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "伦敦黑客之家内部反对创始人倦怠",
+          "summary_en": "Inside the London hacker house taking a stand against founder burnout",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "published": "2026-08-01T21:14:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "Morph (YC S23) 正在招聘技术人员",
+          "summary_en": "Morph (YC S23) Is Hiring Member of Technical Staff",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+          "published": "2026-08-01T22:52:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.73
+        },
+        {
+          "summary_zh": "以下是工程师计划如何拯救为拯救 NASA 雨燕任务而发送的卫星",
+          "summary_en": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "published": "2026-08-01T18:20:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.59
+        },
+        {
+          "summary_zh": "2026 年 15 款最佳办公椅——我们测试了 70 张来挑选它们",
+          "summary_en": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-office-chairs/",
+          "published": "2026-08-01T11:59:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.0
+        },
+        {
+          "summary_zh": "法官驳回 xAI 阻止明尼苏达州禁止“裸体”应用程序的请求",
+          "summary_en": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "published": "2026-08-01T20:26:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题",
+          "summary_en": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "source": "Hacker News: Front Page",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "published": "2026-08-01T22:25:12+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.61
+        },
+        {
+          "summary_zh": "随着 Reddit 股价下跌，首席执行官质疑谷歌人工智能概述的价值",
+          "summary_en": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "published": "2026-08-01T12:30:36+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.14
+        },
+        {
+          "summary_zh": "OpenAI 和 Anthropic AI 黑客热潮是一个混乱的新法律前沿",
+          "summary_en": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "published": "2026-08-01T09:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.38
+        },
+        {
+          "summary_zh": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+          "summary_en": "Krypton Evening News | Prada Group’s revenue in the first half of the year increased by 16%, Miu Miu’s growth rate slowed down significantly; Inspur Data released its self-developed AI data operating system",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919378312670857?f=rss",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "What Is USB Tethering And How Do You Enable It For Mobile Hotspot?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2225903/what-is-usb-tethering-how-enable-for-mobile-hotspot/",
+          "published": "2026-08-01T18:30:00+00:00"
+        },
+        {
+          "summary": "Inside the London hacker house taking a stand against founder burnout",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+          "published": "2026-08-01T21:14:48+00:00"
+        },
+        {
+          "summary": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "published": "2026-08-01T20:26:04+00:00"
+        },
+        {
+          "summary": "Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/",
+          "published": "2026-08-01T15:56:53+00:00"
+        },
+        {
+          "summary": "Morph (YC S23) Is Hiring Member of Technical Staff",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+          "published": "2026-08-01T22:52:44+00:00"
+        },
+        {
+          "summary": "AI financial advice is surprisingly good, especially if you ask right questions",
+          "source": "Hacker News: Front Page",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "published": "2026-08-01T22:25:12+00:00"
+        },
+        {
+          "summary": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+          "published": "2026-08-01T18:20:11+00:00"
+        },
+        {
+          "summary": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+          "published": "2026-08-01T12:30:36+00:00"
+        },
+        {
+          "summary": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-office-chairs/",
+          "published": "2026-08-01T11:59:00+00:00"
+        },
+        {
+          "summary": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+          "published": "2026-08-01T09:30:00+00:00"
+        },
+        {
+          "summary": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919378312670857?f=rss",
+          "published": null
+        },
+        {
+          "summary": "开云的转折：在中国，做一个AI乐观派",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919225763540611?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Is this Billboard Hot 100 hit AI slop?",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+          "published": null
+        },
+        {
+          "summary": "The Mermaid Mask is a perfect vacation murder mystery",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "沙特王子对特朗普的伊朗打击计划表示担忧：Axios",
+          "summary_en": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios",
+          "published": "2026-08-02T00:13:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.07
+        },
+        {
+          "summary_zh": "作为国民精神支柱的德国汽车工业正在颤抖",
+          "summary_en": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+          "published": "2026-08-02T00:58:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "美国帮助扭转日元跌势，特朗普斥责司法部盟友皮罗等",
+          "summary_en": "US Helps Reverse Yen Losses, Trump Rebukes DOJ Ally Pirro, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-02/us-helps-reverse-yen-losses-trump-rebukes-doj-ally-pirro-more",
+          "published": "2026-08-02T00:40:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.18
+        },
+        {
+          "summary_zh": "SpaceX 会将其火箭涂成粉红色吗？在第一批结果公布之前，投资者的问题超出了月球和火星的范畴 - 路透中文网",
+          "summary_en": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5",
+          "published": "2026-08-01T18:25:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.62
+        },
+        {
+          "summary_zh": "我的女朋友 62 岁。她可以领取已故丈夫的全部社会保障福利吗？还是必须等待？",
+          "summary_en": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+          "published": "2026-08-01T22:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.51
+        },
+        {
+          "summary_zh": "在盈利之前购买这些股票。美国银行表示，他们提供了充足的上涨空间",
+          "summary_en": "Buy these stocks ahead of earnings. Bank of America says they offer plenty of upside",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/01/stocks-to-buy-now-before-they-report-earnings.html",
+          "published": "2026-08-01T13:44:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.94
+        },
+        {
+          "summary_zh": "被 Kospi Rout 压垮，愤怒的韩国人撕破李誓不买",
+          "summary_en": "Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/crushed-by-kospi-rout-angry-koreans-rip-lee-and-vow-not-to-buy",
+          "published": "2026-08-02T00:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "如果说社会保障的资金危机是房间里的大象，那么这就是每个人都忽视的老鼠。你已被警告过。",
+          "summary_en": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+          "published": "2026-08-01T21:15:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "《蜘蛛侠：崭新的一天》全球首映票房有望达到 8.75 亿美元",
+          "summary_en": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
+          "published": "2026-08-01T20:00:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.01
+        },
+        {
+          "summary_zh": "特朗普下令发动新的攻击，特朗普斥责皮罗池的决定等等",
+          "summary_en": "Trump Orders New Attack, Trump Rebukes Pirro Pool Decision, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-attack-trump-rebukes-pirro-pool-decision-more",
+          "published": "2026-08-01T23:18:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.83
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Saudi Prince Concerned Over Trump’s Iran Strike Plan: Axios",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/saudi-prince-concerned-over-trump-s-iran-strike-plan-axios",
+          "published": "2026-08-02T00:13:35+00:00"
+        },
+        {
+          "summary": "Crushed by Kospi Rout, Angry Koreans Rip Lee and Vow Not to Buy",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/crushed-by-kospi-rout-angry-koreans-rip-lee-and-vow-not-to-buy",
+          "published": "2026-08-02T00:00:00+00:00"
+        },
+        {
+          "summary": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+          "published": "2026-08-02T00:58:57+00:00"
+        },
+        {
+          "summary": "US Helps Reverse Yen Losses, Trump Rebukes DOJ Ally Pirro, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-02/us-helps-reverse-yen-losses-trump-rebukes-doj-ally-pirro-more",
+          "published": "2026-08-02T00:40:39+00:00"
+        },
+        {
+          "summary": "Will SpaceX paint its rocket pink? Investor questions go beyond Moon and Mars ahead of first results - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlqNFRRdmhvdnJCYjdZNU5ZQWRFczZoSnJrbHhmWjc4OEplN3VOSE00RlBwc3J4MDRhbUdiNm80a09weGVQRUxqZHhfRzMtT2d2UkpjazBWaXduSk1MUG5pdUNIZFpTUzgyR09WQnJMYkctNEJtcFlCQWVTb2gwaEd0ZHJpNDhaQzQ0UzZYUTJJZkFiTWJsU1RMMVdRTktiZVZtRWN0cE1wUFpvWUdKbTQ0X295WHBBTW9CakYyRUU0VTh1YlM5b3YzMGwzOGtTZzNR?oc=5",
+          "published": "2026-08-01T18:25:43+00:00"
+        },
+        {
+          "summary": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+          "published": "2026-08-01T22:00:00+00:00"
+        },
+        {
+          "summary": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+          "published": "2026-08-01T21:15:00+00:00"
+        },
+        {
+          "summary": "‘Spider-Man: Brand New Day’ Heads for $875 Million Opening at Global Box Office",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html",
+          "published": "2026-08-01T20:00:51+00:00"
+        },
+        {
+          "summary": "Buy these stocks ahead of earnings. Bank of America says they offer plenty of upside",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/01/stocks-to-buy-now-before-they-report-earnings.html",
+          "published": "2026-08-01T13:44:01+00:00"
+        },
+        {
+          "summary": "Trump Orders New Attack, Trump Rebukes Pirro Pool Decision, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-attack-trump-rebukes-pirro-pool-decision-more",
+          "published": "2026-08-01T23:18:21+00:00"
+        },
+        {
+          "summary": "WestJet begins flight cancellations ahead of strike - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEFGZzFfY0RyNHBkcE85b1YxcTdzNXpodGRrSXZHelhBZVh1ZFpUVE9Wc3M5MXV0WUtQTG1fVGRubDlKMWZjbVFhS05UV2VHVjhVZk13Z1JjZkd2MWN5aVBZYnVSUTlsVmRra0tOMzZnLXJGUW92STNpNlQzWVB6dnd3RVh6M3U2UmZTWVNuQ2RrMVk3eE9VRUE3aldWalZiOF9pQ1BlcWhFU3c?oc=5",
+          "published": "2026-08-01T18:56:27+00:00"
+        },
+        {
+          "summary": "Trump lashes out at Pirro after she moves to drop Reflecting Pool vandalism case, saying 'flawed installation' to blame",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+          "published": "2026-08-02T01:35:50+00:00"
+        },
+        {
+          "summary": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T12:41:17+00:00"
+        },
+        {
+          "summary": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-01T07:48:01+00:00"
+        },
+        {
+          "summary": "YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Sam Altman is getting dragged for suggesting this ChatGPT 'use case' for parents",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/sam-altman-chatgpt-parenting-ai-criticism-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-wanted-interest-rate-cuts-040051373.html",
+          "published": null
+        },
+        {
+          "summary": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-eric-trump-backed-defense-111708659.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "人工智能编码代理可以使研究软件现代化，但无法判断科学是否正确",
+          "summary_en": "AI coding agents can modernize research software but can't judge if the science is right",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+          "published": "2026-08-01T14:26:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.62
+        },
+        {
+          "summary_zh": "Hugging Face 首席执行官呼吁在 OpenAI 黑客攻击后追究责任",
+          "summary_en": "Hugging Face CEO calls for accountability after OpenAI hack",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ceo-accountability-openai-hack.html",
+          "published": "2026-08-01T08:40:04-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.68
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "KDnuggets 每周综述：构建和部署您的第一个自主代理 • 7 种仍然重要的机器学习算法",
+          "summary_en": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
+          "published": "2026-08-01T13:00:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.26
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "OpenAI 宣布其“下一个主要模型”Astra，放弃了十个以前未解决的数学解决方案",
+          "summary_en": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+          "published": "2026-08-01T09:29:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.38
+        },
+        {
+          "summary_zh": "即使在夜间或烟雾中，人工智能也能减少幻觉",
+          "summary_en": "AI reduces sensory hallucinations, even at night or in smoke",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-sensory-hallucinations-night.html",
+          "published": "2026-08-01T09:40:01-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.93
+        },
+        {
+          "summary_zh": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "summary_en": "Former OpenAI employees shouted right after they ran away: If you want to cash out, do it quickly, don’t wait for the IPO!",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/464693.html",
+          "published": "2026-08-01T05:02:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.27
+        },
+        {
+          "summary_zh": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "summary_en": "Li Feifei World Labs acquires SceniX, physics AI training is moving from “data collection” to “world creation”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/464532.html",
+          "published": "2026-08-01T04:53:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.23
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI coding agents can modernize research software but can't judge if the science is right",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+          "published": "2026-08-01T14:26:28+00:00"
+        },
+        {
+          "summary": "Hugging Face CEO calls for accountability after OpenAI hack",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ceo-accountability-openai-hack.html",
+          "published": "2026-08-01T08:40:04-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "OpenAI announces its \"next major model\" Astra by dropping ten previously unsolved math solutions",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+          "published": "2026-08-01T09:29:49+00:00"
+        },
+        {
+          "summary": "KDnuggets Weekly Roundup: Build and Deploy Your First Autonomous Agent • 7 Machine Learning Algorithms That Still Matter",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-27",
+          "published": "2026-08-01T13:00:43+00:00"
+        },
+        {
+          "summary": "AI reduces sensory hallucinations, even at night or in smoke",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-sensory-hallucinations-night.html",
+          "published": "2026-08-01T09:40:01-04:00"
+        },
+        {
+          "summary": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/464693.html",
+          "published": "2026-08-01T05:02:49+00:00"
+        },
+        {
+          "summary": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/464532.html",
+          "published": "2026-08-01T04:53:33+00:00"
+        }
+      ]
+    }
+  }
+}
