@@ -1,0 +1,486 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T02:00:18.971487+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "全球内存短缺对 MacBook Air 造成冲击",
+          "summary_en": "The global memory shortage hits the MacBook Air",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "published": "2026-08-02T21:33:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.39
+        },
+        {
+          "summary_zh": "如何在 Chromebook 上旁加载 Android APK",
+          "summary_en": "How to sideload Android APKs on your Chromebook",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/",
+          "published": "2026-08-02T16:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
+          "summary_en": "Morning Post｜MacBook Air is seriously out of stock/OpenAI’s new model breaks through 10 Fields Medal-level problems/WeChat’s earthquake early warning capability is updated",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673624?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-03T00:26:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "RFC 9851：TLS 1.2 处于功能冻结状态",
+          "summary_en": "RFC 9851: TLS 1.2 is in Feature Freeze",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+          "published": "2026-08-03T01:23:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.35
+        },
+        {
+          "summary_zh": "Sam Altman 和 AI 的减速争论",
+          "summary_en": "Sam Altman and AI’s decel debate",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "published": "2026-08-02T20:54:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "Xbox 游戏机现在在欧盟和英国要贵得多",
+          "summary_en": "Xbox consoles are now much more expensive in the EU and UK",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/",
+          "published": "2026-08-02T19:04:51+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.77
+        },
+        {
+          "summary_zh": "显示 HN: Isopolis – SF 的等距像素图",
+          "summary_en": "Show HN: Isopolis – isometric pixel map of SF",
+          "source": "Hacker News: Front Page",
+          "url": "https://sf.isopolis.city/",
+          "published": "2026-08-03T00:46:38+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.19
+        },
+        {
+          "summary_zh": "欧洲人即将发现人工智能在他们的日常生活中的根深蒂固程度",
+          "summary_en": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+          "published": "2026-08-02T10:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.5
+        },
+        {
+          "summary_zh": "经过测试和审查的 8 个最佳密码管理器 (2026)",
+          "summary_en": "8 Best Password Managers (2026), Tested and Reviewed",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-password-managers/",
+          "published": "2026-08-02T11:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.87
+        },
+        {
+          "summary_zh": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+          "summary_en": "Krypton Evening News | Prada Group’s revenue in the first half of the year increased by 16%, Miu Miu’s growth rate slowed down significantly; Inspur Data released its self-developed AI data operating system",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919378312670857?f=rss",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "The global memory shortage hits the MacBook Air",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "published": "2026-08-02T21:33:59+00:00"
+        },
+        {
+          "summary": "Sam Altman and AI’s decel debate",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "published": "2026-08-02T20:54:22+00:00"
+        },
+        {
+          "summary": "How to sideload Android APKs on your Chromebook",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2226177/how-to-sideload-android-apks-chromebook/",
+          "published": "2026-08-02T16:30:00+00:00"
+        },
+        {
+          "summary": "早报｜MacBook Air严重缺货/OpenAI新模型突破10项菲尔兹奖级难题/微信地震预警能力迎来更新",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673624?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-03T00:26:20+00:00"
+        },
+        {
+          "summary": "Xbox consoles are now much more expensive in the EU and UK",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/",
+          "published": "2026-08-02T19:04:51+00:00"
+        },
+        {
+          "summary": "RFC 9851: TLS 1.2 is in Feature Freeze",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+          "published": "2026-08-03T01:23:26+00:00"
+        },
+        {
+          "summary": "Show HN: Isopolis – isometric pixel map of SF",
+          "source": "Hacker News: Front Page",
+          "url": "https://sf.isopolis.city/",
+          "published": "2026-08-03T00:46:38+00:00"
+        },
+        {
+          "summary": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+          "published": "2026-08-02T10:00:00+00:00"
+        },
+        {
+          "summary": "8 Best Password Managers (2026), Tested and Reviewed",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/best-password-managers/",
+          "published": "2026-08-02T11:30:00+00:00"
+        },
+        {
+          "summary": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919378312670857?f=rss",
+          "published": null
+        },
+        {
+          "summary": "开云的转折：在中国，做一个AI乐观派",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3919225763540611?f=rss",
+          "published": null
+        },
+        {
+          "summary": "Fender’s CEO seems to think your bandmates are just analog AI",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "published": null
+        },
+        {
+          "summary": "Is paying artists enough to convince them to embrace AI?",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "由于芯片制造商扭转了周五创纪录的涨幅，韩国股市下跌",
+          "summary_en": "Korean Stocks Drop as Chipmakers Reverse Friday’s Record Gains",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/korean-stocks-drop-as-chipmakers-reverse-friday-s-record-gains",
+          "published": "2026-08-03T00:59:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.25
+        },
+        {
+          "summary_zh": "特朗普取消对伊朗的袭击以达成核协议，油价暴跌 - 路透中文网",
+          "summary_en": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+          "published": "2026-08-03T00:11:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "投资者正在转向金融股。美联储的下一步行动可能决定涨势能持续多久。",
+          "summary_en": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+          "published": "2026-08-02T12:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.0
+        },
+        {
+          "summary_zh": "随着投资者准备就业报告和关键收益，股票期货上涨：实时更新",
+          "summary_en": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+          "published": "2026-08-03T01:45:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.94
+        },
+        {
+          "summary_zh": "随着投资者消化伊朗战争的暂停，油价暴跌",
+          "summary_en": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+          "published": "2026-08-02T23:30:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "伊朗会谈将于周一开始，阿斯利康和百时美施贵宝会谈达成协议",
+          "summary_en": "Iran Talks to Begin Monday, AstraZeneca, Bristol Myers Talk Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-03/iran-talks-to-begin-monday-astrazeneca-bristol-myers-talk-deal",
+          "published": "2026-08-03T00:02:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "这项改变可能会帮助您作为首次购房者获得抵押贷款",
+          "summary_en": "The change that may help you get a mortgage as a first-time buyer",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T23:16:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如果美国经济崩溃，凯文·沃什会怎么做？",
+          "summary_en": "What will Kevin Warsh do if America’s economy breaks?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+          "published": "2026-08-02T16:12:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.55
+        },
+        {
+          "summary_zh": "摩根士丹利 (Morgan Stanley) 预计韩国股市在“冲蚀”后将上涨 36%",
+          "summary_en": "Morgan Stanley Sees 36% Upside to Korean Stocks After ‘Washout’",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/morgan-stanley-sees-36-upside-to-korean-stocks-after-washout",
+          "published": "2026-08-02T23:34:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.89
+        },
+        {
+          "summary_zh": "美国和日本协调帮助稳定日元",
+          "summary_en": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
+          "published": "2026-08-03T00:23:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korean Stocks Drop as Chipmakers Reverse Friday’s Record Gains",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-03/korean-stocks-drop-as-chipmakers-reverse-friday-s-record-gains",
+          "published": "2026-08-03T00:59:28+00:00"
+        },
+        {
+          "summary": "Morgan Stanley Sees 36% Upside to Korean Stocks After ‘Washout’",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-02/morgan-stanley-sees-36-upside-to-korean-stocks-after-washout",
+          "published": "2026-08-02T23:34:04+00:00"
+        },
+        {
+          "summary": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnBOaGh1VXBaaGQwVmloSzlPcmg5aFdQeENKS3JtNi1wQTZlQTRBUm02ODRrYkNVZkNDREwtTTdMeUhlNV94QjctaFhpMWhTWVVJaF9xeVhWdEdKZXBMbFA4alVQaDBXbnMzczBqRnVBUlVrVUJJTFhLQjdpSU9SV2lHV1FQd0hvOEs0QkZwLVZfUDhtSkVGUU02T2tPeDFXaU5SaWRtUWt3cjhE?oc=5",
+          "published": "2026-08-03T00:11:00+00:00"
+        },
+        {
+          "summary": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+          "published": "2026-08-02T12:00:00+00:00"
+        },
+        {
+          "summary": "Stock futures rally as investors gear up for jobs report, key earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/02/stock-market-today-live-updates.html",
+          "published": "2026-08-03T01:45:41+00:00"
+        },
+        {
+          "summary": "Oil Prices Plummet as Investors Digest Pause in Fighting in Iran War",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+          "published": "2026-08-02T23:30:13+00:00"
+        },
+        {
+          "summary": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
+          "published": "2026-08-03T00:23:27+00:00"
+        },
+        {
+          "summary": "Iran Talks to Begin Monday, AstraZeneca, Bristol Myers Talk Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-03/iran-talks-to-begin-monday-astrazeneca-bristol-myers-talk-deal",
+          "published": "2026-08-03T00:02:10+00:00"
+        },
+        {
+          "summary": "Emirates NBD Bank to acquire retail banking business of HSBC Egypt - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJtODl2SmUzYjZRSHlSWXBZdy1aM0xUcTRnVFlrcWxfaDdzWjg5Uk1xZDV6cmVUcVg3SDRsSW1IRnNxR2pUWGJqcnd2WlZuUTlRUjRKa3p1b0RlUW9qT2N0d1hvSjItaEs0MWhnZy1UdTJGcllCQjNkMWcxVVBnTkpxWEp1UFpuQVRBSkpJd0dpczk1a3dwdXhqVU5Nczh3VGE3WjFKVWYyWFVrRmN1enBIdzk?oc=5",
+          "published": "2026-08-02T15:09:43+00:00"
+        },
+        {
+          "summary": "Trump Calls Off Strikes, AstraZeneca, Bristol Myers Explore Deal",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-02/trump-calls-off-strikes-astrazeneca-bristol-myers-explore-deal",
+          "published": "2026-08-02T22:01:58+00:00"
+        },
+        {
+          "summary": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+          "published": "2026-08-02T12:00:00+00:00"
+        },
+        {
+          "summary": "The change that may help you get a mortgage as a first-time buyer",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T23:16:32+00:00"
+        },
+        {
+          "summary": "What will Kevin Warsh do if America’s economy breaks?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/02/what-will-kevin-warsh-do-if-americas-economy-breaks",
+          "published": "2026-08-02T16:12:02+00:00"
+        },
+        {
+          "summary": "AstraZeneca in talks with Bristol Myers Squibb on $400 billion megadeal, FT reports",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/02/astrazeneca-and-bristol-myers-squibb-mull-400-billion-deal-report-.html",
+          "published": "2026-08-02T22:17:47+00:00"
+        },
+        {
+          "summary": "Meet the coaches, measurers, and builders carving out a slice of the AI cost-saving business",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/ai-cost-saving-businesses-startups-roi-2026-7",
+          "published": null
+        },
+        {
+          "summary": "The family treating healthy aging like a team sport",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/retiree-strength-training-pull-ups-longevity-healthy-aging-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Parents save on school uniforms at city swap shop",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cz05yrv4el5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-02T04:53:43+00:00"
+        },
+        {
+          "summary": "Trump wanted interest rate cuts to be 'Rocket Fuel' for the economy. He is losing that fight so far",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-wanted-interest-rate-cuts-040051373.html",
+          "published": null
+        },
+        {
+          "summary": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI Presence 希望让 AI 代理为企业做好生产准备",
+          "summary_en": "OpenAI Presence wants to make AI agents production-ready for businesses",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+          "published": "2026-08-02T13:10:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Meta AI 使用第二个 AI 代理作为记忆教练，让长时间任务保持在正轨上",
+          "summary_en": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+          "published": "2026-08-02T12:57:38+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.24
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI Presence wants to make AI agents production-ready for businesses",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+          "published": "2026-08-02T13:10:21+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+          "published": "2026-08-02T12:57:38+00:00"
+        }
+      ]
+    }
+  }
+}
