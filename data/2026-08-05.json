@@ -1,0 +1,642 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T01:47:59.799276+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "published": "2026-08-04T19:48:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.0
+        },
+        {
+          "summary_zh": "Perplexity 成功推翻了亚马逊对其人工智能购物机器人的禁令",
+          "summary_en": "Perplexity has successfully overturned Amazon's injunction on its AI shopping bot",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/",
+          "published": "2026-08-04T21:58:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.54
+        },
+        {
+          "summary_zh": "早报｜OpenAI发文回击苹果:你做错了/我国发布L3、L4自动驾驶国标/鸿蒙智行回应「竹知了」事件",
+          "summary_en": "Morning Post | OpenAI issued an article to respond to Apple: You are doing it wrong/my country releases national standards for L3 and L4 autonomous driving/Hongmeng Zhixing responds to the \"Bamboo Cicada\" incident",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673981?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-05T00:41:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "关于软件工程和 GenAI 的八个误区",
+          "summary_en": "Eight Myths on Software Engineering and GenAI",
+          "source": "Hacker News: Front Page",
+          "url": "https://queue.acm.org/detail.cfm?id=3807963",
+          "published": "2026-08-04T23:50:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+          "published": "2026-08-04T22:06:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.58
+        },
+        {
+          "summary_zh": "参议员要求打击野火“预测市场”",
+          "summary_en": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+          "published": "2026-08-04T21:52:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "下载：美国机器人限制和 ICE 的 DNA 抓取",
+          "summary_en": "The Download: US robot restrictions, and ICE’s DNA grab",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+          "published": "2026-08-04T12:14:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.11
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "SpaceX's first public earnings statement shows the financials of an AI company in 2026",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/",
+          "published": "2026-08-04T21:42:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "Lucid 的周转计划取决于 $1.4B 的现金节省，robotaxis",
+          "summary_en": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+          "published": "2026-08-04T22:24:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.65
+        },
+        {
+          "summary_zh": "WebKit 中的 IP 和 DNS 泄漏影响代理浏览器和 iCloud Private Relay",
+          "summary_en": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+          "source": "Hacker News: Front Page",
+          "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+          "published": "2026-08-04T23:31:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.93
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "published": "2026-08-04T19:48:40+00:00"
+        },
+        {
+          "summary": "Perplexity has successfully overturned Amazon's injunction on its AI shopping bot",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/",
+          "published": "2026-08-04T21:58:34+00:00"
+        },
+        {
+          "summary": "SpaceX's first public earnings statement shows the financials of an AI company in 2026",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/",
+          "published": "2026-08-04T21:42:08+00:00"
+        },
+        {
+          "summary": "早报｜OpenAI发文回击苹果:你做错了/我国发布L3、L4自动驾驶国标/鸿蒙智行回应「竹知了」事件",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673981?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-05T00:41:16+00:00"
+        },
+        {
+          "summary": "Eight Myths on Software Engineering and GenAI",
+          "source": "Hacker News: Front Page",
+          "url": "https://queue.acm.org/detail.cfm?id=3807963",
+          "published": "2026-08-04T23:50:52+00:00"
+        },
+        {
+          "summary": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+          "published": "2026-08-04T22:24:00+00:00"
+        },
+        {
+          "summary": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+          "published": "2026-08-04T22:06:07+00:00"
+        },
+        {
+          "summary": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+          "source": "Hacker News: Front Page",
+          "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+          "published": "2026-08-04T23:31:46+00:00"
+        },
+        {
+          "summary": "OK, Well, Rogue AI Agents Are Hacking Again",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+          "published": "2026-08-04T23:11:31+00:00"
+        },
+        {
+          "summary": "Senators demand crackdown on wildfire \"prediction markets\"",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+          "published": "2026-08-04T21:52:31+00:00"
+        },
+        {
+          "summary": "Trump killed the Digital Equity Act, but US was forced to bring part of it back",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+          "published": "2026-08-04T21:27:05+00:00"
+        },
+        {
+          "summary": "The Download: US robot restrictions, and ICE’s DNA grab",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+          "published": "2026-08-04T12:14:00+00:00"
+        },
+        {
+          "summary": "AI 浏览器已死，享年约 1 岁",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1673940?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-04T09:56:35+00:00"
+        },
+        {
+          "summary": "中信证券：传统主业稳健+AI收入渐显，美股应用软件迎来估值修复契机",
+          "source": "36氪",
+          "url": "https://36kr.com/newsflashes/3925919120259207?f=rss",
+          "published": null
+        },
+        {
+          "summary": "SpaceX made more revenue as an AI company than a space company",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "published": null
+        },
+        {
+          "summary": "How an OpenAI influencer trip backfired",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "published": null
+        },
+        {
+          "summary": "自研高性能分布式解决方案，「芯晓科技」将芯片电源签核周期从几周缩短至几天 | 水下项目",
+          "source": "36氪",
+          "url": "https://36kr.com/p/3925067918227591?f=rss",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "伊朗希望和经济押注澳大利亚股市创历史新高",
+          "summary_en": "Australian Stocks Hit Record High on Iran Hopes, Economic Bets",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/australian-stocks-rise-to-record-on-iran-hopes-economic-bets",
+          "published": "2026-08-05T00:15:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.11
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Stocks Rally as Investors Grow Hopeful About a Hormuz Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+          "published": "2026-08-04T20:07:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.08
+        },
+        {
+          "summary_zh": "股市重回纪录高位。在最近的动量崩溃期间按兵不动的投资者正在获得回报。",
+          "summary_en": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+          "published": "2026-08-04T22:40:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.72
+        },
+        {
+          "summary_zh": "AMD 人工智能驱动的收入预测未能令投资者惊叹 - 路透中文网",
+          "summary_en": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+          "published": "2026-08-04T23:45:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.99
+        },
+        {
+          "summary_zh": "股票走势：SpaceX 公布 IPO 以来的首次盈利（播客）",
+          "summary_en": "Stock Movers: SpaceX Delivers First Earnings Since IPO (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-spacex-delivers-first-earnings-since-ipo-podcast",
+          "published": "2026-08-04T20:30:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "亚洲科技股追随华尔街人工智能涨势，软银股价上涨 10%",
+          "summary_en": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+          "published": "2026-08-05T01:27:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.91
+        },
+        {
+          "summary_zh": "霍尔木兹海峡重新开放的希望导致油价下跌",
+          "summary_en": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T01:05:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "情境意识投资者应该输得一干二净",
+          "summary_en": "Investors in Situational Awareness deserved to lose their shirts",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+          "published": "2026-08-04T17:11:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.85
+        },
+        {
+          "summary_zh": "SpaceX 自 IPO 以来的首份盈利报告超出了收入预期",
+          "summary_en": "SpaceX exceeds revenue estimates in first earnings report since IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-revenue-estimates-in-post-ipo-earnings-video",
+          "published": "2026-08-04T23:48:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 12.0
+        },
+        {
+          "summary_zh": "股市面临最弱的季节性拉伸。为什么投资者的极端悲观情绪可能会限制任何抛售。",
+          "summary_en": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+          "published": "2026-08-04T21:25:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.4
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Australian Stocks Hit Record High on Iran Hopes, Economic Bets",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-05/australian-stocks-rise-to-record-on-iran-hopes-economic-bets",
+          "published": "2026-08-05T00:15:13+00:00"
+        },
+        {
+          "summary": "SpaceX exceeds revenue estimates in first earnings report since IPO",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-exceeds-revenue-estimates-in-post-ipo-earnings-video",
+          "published": "2026-08-04T23:48:01+00:00"
+        },
+        {
+          "summary": "Stocks Rally as Investors Grow Hopeful About a Hormuz Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+          "published": "2026-08-04T20:07:53+00:00"
+        },
+        {
+          "summary": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+          "published": "2026-08-04T22:40:00+00:00"
+        },
+        {
+          "summary": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+          "published": "2026-08-04T21:25:00+00:00"
+        },
+        {
+          "summary": "AMD's AI-powered revenue forecast fails to wow investors - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+          "published": "2026-08-04T23:45:13+00:00"
+        },
+        {
+          "summary": "Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+          "published": "2026-08-04T23:02:38+00:00"
+        },
+        {
+          "summary": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
+          "published": "2026-08-04T22:52:45+00:00"
+        },
+        {
+          "summary": "Stock Movers: SpaceX Delivers First Earnings Since IPO (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-spacex-delivers-first-earnings-since-ipo-podcast",
+          "published": "2026-08-04T20:30:21+00:00"
+        },
+        {
+          "summary": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
+          "published": "2026-08-05T01:27:06+00:00"
+        },
+        {
+          "summary": "SpaceX earnings takeaways: Soaring AI costs outweigh revenue beat in first report since IPO",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/04/spacex-spcx-earnings-live-updates-q2-2026.html",
+          "published": "2026-08-05T00:51:10+00:00"
+        },
+        {
+          "summary": "Stocks Close Up, SpaceX Beats, Report: Parasite Outbreak Expands",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-04/stocks-close-up-spacex-beats-report-parasite-outbreak-expands",
+          "published": "2026-08-04T20:20:45+00:00"
+        },
+        {
+          "summary": "Oil prices fall on hopes Strait of Hormuz could reopen",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T01:05:21+00:00"
+        },
+        {
+          "summary": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-05T00:02:18+00:00"
+        },
+        {
+          "summary": "Investors in Situational Awareness deserved to lose their shirts",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts",
+          "published": "2026-08-04T17:11:44+00:00"
+        },
+        {
+          "summary": "Lime is doubling down on cities where it already operates. It's about creating more loyal riders, its CEO says",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/lime-boosts-scooter-availability-existing-cities-ai-resiliant-2026-8",
+          "published": null
+        },
+        {
+          "summary": "David Ellison's Paramount beats earnings estimates — but may owe WBD shareholders more than $1 billion",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/david-ellison-paramount-ticking-fee-wbd-shareholders-march-trial-date-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Markets surge to record highs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html",
+          "published": null
+        },
+        {
+          "summary": "‘This is insider trading by definition’: Trump sells $100,000 monthly subscription service to Wall Street to further monetize the presidency",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/insider-trading-definition-trump-sells-160741557.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "涉及 OpenAI 模型的第三方网络评估",
+          "summary_en": "Third-party cyber evaluations involving OpenAI models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "published": "2026-08-04T19:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.8
+        },
+        {
+          "summary_zh": "人们更喜欢人工智能写的故事，尤其是当被告知它们是由人类写的时",
+          "summary_en": "People prefer stories written by AI—especially when told they're written by a human",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-people-stories-written-ai-told.html",
+          "published": "2026-08-04T19:10:03-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.34
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review",
+          "published": "2026-08-04T17:00:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.3
+        },
+        {
+          "summary_zh": "微软框架降低人工智能代理培训成本",
+          "summary_en": "Microsoft Framework to Cut AI Agent Training Costs",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/microsoft-framework-cut-ai-agent-training-costs",
+          "published": "2026-08-04T14:03:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.57
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+          "published": "2026-08-04T17:26:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.41
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Is the future of data centers portable? Runware builds a pod to find out",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "published": "2026-08-04T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.3
+        },
+        {
+          "summary_zh": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+          "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/465792.html",
+          "published": "2026-08-04T09:22:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.4
+        },
+        {
+          "summary_zh": "解决溶剂问题",
+          "summary_en": "Solving the solvent problem",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+          "published": "2026-08-04T14:50:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.26
+        },
+        {
+          "summary_zh": "世界银行警告发展中国家拥抱人工智能否则就会落后",
+          "summary_en": "World Bank warns developing countries to embrace AI or be left behind",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-world-bank-countries-embrace-ai.html",
+          "published": "2026-08-04T14:00:03-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.05
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Third-party cyber evaluations involving OpenAI models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "published": "2026-08-04T19:00:00+00:00"
+        },
+        {
+          "summary": "People prefer stories written by AI—especially when told they're written by a human",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-people-stories-written-ai-told.html",
+          "published": "2026-08-04T19:10:03-04:00"
+        },
+        {
+          "summary": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review",
+          "published": "2026-08-04T17:00:59+00:00"
+        },
+        {
+          "summary": "Microsoft Framework to Cut AI Agent Training Costs",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/microsoft-framework-cut-ai-agent-training-costs",
+          "published": "2026-08-04T14:03:35+00:00"
+        },
+        {
+          "summary": "World Bank warns developing countries to embrace AI or be left behind",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-world-bank-countries-embrace-ai.html",
+          "published": "2026-08-04T14:00:03-04:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+          "published": "2026-08-04T17:26:03+00:00"
+        },
+        {
+          "summary": "Is the future of data centers portable? Runware builds a pod to find out",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "published": "2026-08-04T13:00:00+00:00"
+        },
+        {
+          "summary": "Google moves billions in Anthropic chip risk off its balance sheet",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+          "published": "2026-08-04T16:38:58+00:00"
+        },
+        {
+          "summary": "7 Approaches to Reduce Inference Latency in Your LLM Workflows",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows",
+          "published": "2026-08-04T12:00:59+00:00"
+        },
+        {
+          "summary": "EON wants to move the data superhighway from ocean fiber to space lasers",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+          "published": "2026-08-04T12:00:00+00:00"
+        },
+        {
+          "summary": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/465792.html",
+          "published": "2026-08-04T09:22:46+00:00"
+        },
+        {
+          "summary": "开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/466386.html",
+          "published": "2026-08-04T13:14:27+00:00"
+        },
+        {
+          "summary": "Solving the solvent problem",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+          "published": "2026-08-04T14:50:00-04:00"
+        },
+        {
+          "summary": "The benefits of medical AI assistance vary based on user expertise",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+          "published": "2026-08-04T05:00:00-04:00"
+        }
+      ]
+    }
+  }
+}
