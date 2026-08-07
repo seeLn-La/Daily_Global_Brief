@@ -1,0 +1,636 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T02:12:01.827275+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "谷歌开源了一个人工智能模型，据称可以帮助早期飓风预警",
+          "summary_en": "Google open-sources an AI model it says can help with earlier hurricane warnings",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
+          "published": "2026-08-06T22:40:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.62
+        },
+        {
+          "summary_zh": "据报道，OpenAI 的新款 AI 智能音箱售价将在 300 至 400 美元之间",
+          "summary_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "published": "2026-08-06T22:43:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "德国机场乌克兰货机附近发现爆炸无人机",
+          "summary_en": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "published": "2026-08-06T22:01:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "中国最强大的人工智能模型之一也逃脱了遏制",
+          "summary_en": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "published": "2026-08-07T01:16:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台",
+          "summary_en": "Morning Post | Details of OpenAI's first speaker exposed: focusing on \"lifelike\" interaction/DeepSeek predicts a significant price increase/Switch 2 cumulative sales reached 23.68 million units",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-07T00:15:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "显然，DOGE并没有省钱",
+          "summary_en": "Obviously, DOGE Did Not Save Money",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/",
+          "published": "2026-08-07T00:31:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "下载：谷歌的人工智能变革和 Meta 的流氓模型",
+          "summary_en": "The Download: Google’s AI shake-up and Meta’s rogue model",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+          "published": "2026-08-06T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.99
+        },
+        {
+          "summary_zh": "您的餐桌正等待着您：TechCrunch Disrupt 2026 上的展览将吸引数千人参观",
+          "summary_en": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+          "published": "2026-08-06T22:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "Suno 希望人工智能生成的音乐带有水印合法化",
+          "summary_en": "Suno hopes to go legit with watermarks for AI-generated music",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+          "published": "2026-08-06T20:17:36+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "Meta 被责令支付 9.42 亿美元，以解决社交媒体对儿童造成的伤害",
+          "summary_en": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+          "published": "2026-08-07T00:06:28+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.98
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Google open-sources an AI model it says can help with earlier hurricane warnings",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
+          "published": "2026-08-06T22:40:33+00:00"
+        },
+        {
+          "summary": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
+          "published": "2026-08-06T21:46:26+00:00"
+        },
+        {
+          "summary": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+          "published": "2026-08-06T22:43:53+00:00"
+        },
+        {
+          "summary": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "published": "2026-08-06T22:01:55+00:00"
+        },
+        {
+          "summary": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+          "published": "2026-08-06T22:00:00+00:00"
+        },
+        {
+          "summary": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+          "published": "2026-08-07T01:16:55+00:00"
+        },
+        {
+          "summary": "Suno hopes to go legit with watermarks for AI-generated music",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+          "published": "2026-08-06T20:17:36+00:00"
+        },
+        {
+          "summary": "早报｜OpenAI首款音箱细节曝光:主打「有生命感」的交互/DeepSeek预告将大幅涨价/Switch 2累计销量达2368万台",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674259?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-07T00:15:50+00:00"
+        },
+        {
+          "summary": "Obviously, DOGE Did Not Save Money",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.nationalreview.com/corner/obviously-doge-did-not-save-money/",
+          "published": "2026-08-07T00:31:10+00:00"
+        },
+        {
+          "summary": "The Download: Google’s AI shake-up and Meta’s rogue model",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+          "published": "2026-08-06T12:10:00+00:00"
+        },
+        {
+          "summary": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+          "published": "2026-08-07T00:06:28+00:00"
+        },
+        {
+          "summary": "Why Normal People Aren’t Using AI Agents",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+          "published": "2026-08-06T19:55:45+00:00"
+        },
+        {
+          "summary": "Wan 3.0 有了自己的镜头美学",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674218?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-06T14:34:09+00:00"
+        },
+        {
+          "summary": "Apple increases trade-in offers and adds new Android devices",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/976210/apple-trade-in-values-increased",
+          "published": null
+        },
+        {
+          "summary": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "使用这些免费应用程序关注市场并跟踪股票",
+          "summary_en": "Follow the Markets and Track Stocks With These Free Apps",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+          "published": "2026-08-07T00:01:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.96
+        },
+        {
+          "summary_zh": "中国央行在香港增设黄金以支持交易中心",
+          "summary_en": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-central-bank-adds-gold-in-hong-kong-to-support-trading-hub",
+          "published": "2026-08-07T01:01:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.2
+        },
+        {
+          "summary_zh": "投资者关注中东谈判和财报，股市收低 - 路透中文网",
+          "summary_en": "Stocks close lower as investors eye Mideast talks, earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
+          "published": "2026-08-06T20:22:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.04
+        },
+        {
+          "summary_zh": "“她的银行账户被医疗补助掏空了”：我已故的朋友有 20,000 美元的信用卡债务。她的人寿保险会支付这笔费用吗？",
+          "summary_en": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+          "published": "2026-08-07T02:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.45
+        },
+        {
+          "summary_zh": "Merryn 谈论金钱：市场总结：人工智能、黄金、富时 250（播客）",
+          "summary_en": "Merryn Talks Money: Markets Wrap: AI, Gold, FTSE 250 (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-06/merryn-talks-money-markets-wrap-ai-gold-ftse-250-podcast",
+          "published": "2026-08-06T23:20:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "特朗普对关键芯片材料征收15%关税以对抗中国",
+          "summary_en": "Trump imposes 15% tariff on key chip material to counter China",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T01:03:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "Airbnb 股价因盈利和收入超出预期而飙升 9%，第三季度业绩指引强劲",
+          "summary_en": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+          "published": "2026-08-06T22:01:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.96
+        },
+        {
+          "summary_zh": "美联储穆萨利姆表示倾向于加息",
+          "summary_en": "Fed's Musalem Expresses Preference to Raise Rates",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-06/fed-s-musalem-expresses-preference-to-raise-rates-video",
+          "published": "2026-08-06T23:11:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.75
+        },
+        {
+          "summary_zh": "SpaceX 股价攀升，可交易股票增加一倍多 - 路透中文网",
+          "summary_en": "SpaceX stock climbs as shares available for trading more than double - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1BTeWk4aVNJQ3g5UWdVUDRkektLS1kzSWtfUXk2TmdVU3Uxa3dlOThDYW1JV01Zd3FDWUVBbF9PSnBWamhWRV9pQnJOZjhQYkpoTXBBTndHZVF2Z09fTnBXRm9iMGRGNDdaZjl1bFRJOGlkM0pyWndMU01vYTBXVGZjM0toalJ4UVhHalNsVlFRd201ci1QNW1kTXM?oc=5",
+          "published": "2026-08-06T20:32:55+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.09
+        },
+        {
+          "summary_zh": "Trade Desk 股价因盈利未达预期和前景疲软而下跌",
+          "summary_en": "Trade Desk shares tumble on earnings miss and weak outlook",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
+          "published": "2026-08-06T22:59:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.7
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Follow the Markets and Track Stocks With These Free Apps",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html",
+          "published": "2026-08-07T00:01:36+00:00"
+        },
+        {
+          "summary": "China Central Bank Adds Gold in Hong Kong to Support Trading Hub",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/china-central-bank-adds-gold-in-hong-kong-to-support-trading-hub",
+          "published": "2026-08-07T01:01:00+00:00"
+        },
+        {
+          "summary": "Stocks close lower as investors eye Mideast talks, earnings - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
+          "published": "2026-08-06T20:22:37+00:00"
+        },
+        {
+          "summary": "Fed's Musalem Expresses Preference to Raise Rates",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-06/fed-s-musalem-expresses-preference-to-raise-rates-video",
+          "published": "2026-08-06T23:11:44+00:00"
+        },
+        {
+          "summary": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+          "published": "2026-08-07T02:00:00+00:00"
+        },
+        {
+          "summary": "SpaceX stock climbs as shares available for trading more than double - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1BTeWk4aVNJQ3g5UWdVUDRkektLS1kzSWtfUXk2TmdVU3Uxa3dlOThDYW1JV01Zd3FDWUVBbF9PSnBWamhWRV9pQnJOZjhQYkpoTXBBTndHZVF2Z09fTnBXRm9iMGRGNDdaZjl1bFRJOGlkM0pyWndMU01vYTBXVGZjM0toalJ4UVhHalNsVlFRd201ci1QNW1kTXM?oc=5",
+          "published": "2026-08-06T20:32:55+00:00"
+        },
+        {
+          "summary": "Merryn Talks Money: Markets Wrap: AI, Gold, FTSE 250 (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-06/merryn-talks-money-markets-wrap-ai-gold-ftse-250-podcast",
+          "published": "2026-08-06T23:20:16+00:00"
+        },
+        {
+          "summary": "Trade Desk shares tumble on earnings miss and weak outlook",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories",
+          "published": "2026-08-06T22:59:00+00:00"
+        },
+        {
+          "summary": "Trump imposes 15% tariff on key chip material to counter China",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T01:03:35+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Oil Gains, Japan Earnings (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-daybreak-asia-oil-gains-japan-earnings-podcast",
+          "published": "2026-08-07T00:38:07+00:00"
+        },
+        {
+          "summary": "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
+          "published": "2026-08-06T22:01:34+00:00"
+        },
+        {
+          "summary": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
+          "published": "2026-08-06T14:51:22+00:00"
+        },
+        {
+          "summary": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
+          "published": "2026-08-07T00:05:26+00:00"
+        },
+        {
+          "summary": "Meta fined $567m in largest child safety ruling against social media giant",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T00:54:03+00:00"
+        },
+        {
+          "summary": "How—and how much—should central banks talk?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/how-and-how-much-should-central-banks-talk",
+          "published": "2026-08-06T08:55:00+00:00"
+        },
+        {
+          "summary": "India’s IT sector is surviving artificial intelligence",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+          "published": "2026-08-06T09:22:08+00:00"
+        },
+        {
+          "summary": "My dad's Greek stuffed tomatoes are perfect for a healthy summer dinner",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/yemista-recipe-greek-stuffed-tomatoes",
+          "published": null
+        },
+        {
+          "summary": "Judge orders Meta to pay over $900 million for failing to protect kids on social media",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/meta-942-million-child-harm-new-mexico-judge-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Fauci slapped with subpoena as COVID doc probed for 'profiting' off federal guidance",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/fauci-slapped-subpoena-covid-doc-202113234.html",
+          "published": null
+        },
+        {
+          "summary": "Oklahoma teen accused of raping two girls walks free; DA furiously calls in feds: ‘Made my blood boil’",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/oklahoma-teen-accused-raping-two-191218663.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "硬件感知框架无需额外培训即可加速大型语言模型",
+          "summary_en": "Hardware-aware framework accelerates large language models without additional training",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
+          "published": "2026-08-06T17:40:06-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.87
+        },
+        {
+          "summary_zh": "OpenAI 改进了 ChatGPT 中的 GPT-5.6 Sol，并将免费用户限制为其最弱的模型",
+          "summary_en": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+          "published": "2026-08-06T18:38:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.61
+        },
+        {
+          "summary_zh": "Show me《指环王》！卡帕西强推大模型评测新基准",
+          "summary_en": "Show me \"Lord of the Rings\"! Kapasi launches new benchmark for large model evaluation",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/467663.html",
+          "published": "2026-08-07T01:15:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.27
+        },
+        {
+          "summary_zh": "构建对比。购买：企业人工智能代理前景",
+          "summary_en": "Build Vs. Buy: The AI Agent Landscape for Businesses",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
+          "published": "2026-08-06T18:06:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.48
+        },
+        {
+          "summary_zh": "谷歌地图增加了代理功能，包括食品订购和酒店预订",
+          "summary_en": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+          "published": "2026-08-06T12:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "改进 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问",
+          "summary_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "published": "2026-08-06T10:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "超越机器人：重新思考混合人工智能架构的人工智能支持",
+          "summary_en": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
+          "published": "2026-08-06T16:00:53+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.95
+        },
+        {
+          "summary_zh": "生成式人工智能：用合适的壶模拟一杯合适的茶",
+          "summary_en": "Generative AI: Modeling a proper cuppa from a proper pot",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-generative-ai-proper-cuppa-pot.html",
+          "published": "2026-08-06T14:20:09-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.03
+        },
+        {
+          "summary_zh": "据报道，OpenAI 在其自己的模型秘密协调黑客攻击数周而未被发现后，减缓了研究速度",
+          "summary_en": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+          "published": "2026-08-06T11:49:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.91
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Hardware-aware framework accelerates large language models without additional training",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-hardware-aware-framework-large-language.html",
+          "published": "2026-08-06T17:40:06-04:00"
+        },
+        {
+          "summary": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+          "published": "2026-08-06T18:38:27+00:00"
+        },
+        {
+          "summary": "Show me《指环王》！卡帕西强推大模型评测新基准",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/467663.html",
+          "published": "2026-08-07T01:15:42+00:00"
+        },
+        {
+          "summary": "Generative AI: Modeling a proper cuppa from a proper pot",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-generative-ai-proper-cuppa-pot.html",
+          "published": "2026-08-06T14:20:09-04:00"
+        },
+        {
+          "summary": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+          "published": "2026-08-06T11:49:26+00:00"
+        },
+        {
+          "summary": "Build Vs. Buy: The AI Agent Landscape for Businesses",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
+          "published": "2026-08-06T18:06:46+00:00"
+        },
+        {
+          "summary": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/467486.html",
+          "published": "2026-08-07T00:55:47+00:00"
+        },
+        {
+          "summary": "Google Maps adds agentic features, including food ordering and hotel bookings",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+          "published": "2026-08-06T12:30:00+00:00"
+        },
+        {
+          "summary": "AI Pioneer Geoffrey Hinton Says Agent Breakouts are Scary",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/responsible-ai/ai-pioneer-geoffrey-hinton-agent-breakouts-scary",
+          "published": "2026-08-06T15:48:18+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "published": "2026-08-06T10:00:00+00:00"
+        },
+        {
+          "summary": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+          "published": "2026-08-06T13:00:00+00:00"
+        },
+        {
+          "summary": "Beyond Bots: Rethinking AI Support with a Hybrid AI Architecture",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/beyond-bots-rethinking-ai-support-with-a-hybrid-ai-architecture",
+          "published": "2026-08-06T16:00:53+00:00"
+        },
+        {
+          "summary": "The Minimal AI Engineer Toolkit for 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/the-minimal-ai-engineer-toolkit-for-2026",
+          "published": "2026-08-06T14:00:49+00:00"
+        },
+        {
+          "summary": "Working with the American Psychological Association on youth mental health and AI",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+          "published": "2026-08-06T06:00:00+00:00"
+        }
+      ]
+    }
+  }
+}
