@@ -1,0 +1,624 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T00:59:51.993105+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 表示，出于安全考虑，它放慢了 Astra 模型的开发速度",
+          "summary_en": "OpenAI says it slowed Astra model development over security concerns",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "published": "2026-08-07T22:48:24+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.95
+        },
+        {
+          "summary_zh": "人工智能正在以快速而可怕的方式改变网络安全",
+          "summary_en": "AI is changing cybersecurity in quick and terrifying ways",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
+          "published": "2026-08-07T16:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "人工智能实验室是否应该像危险动物的主人一样对待？",
+          "summary_en": "Should AI labs be treated like the owners of dangerous animals?",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "published": "2026-08-08T00:03:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "终极日食追逐：协和式飞机在月影中竞速",
+          "summary_en": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "published": "2026-08-07T19:00:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "下载：审查制度阴谋论和人工智能创造的第一个病毒",
+          "summary_en": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "published": "2026-08-07T14:20:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.83
+        },
+        {
+          "summary_zh": "Zohran Mamdani 的纽约技术团队就是 DOGE 应该有的样子",
+          "summary_en": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+          "published": "2026-08-07T15:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "安全研究人员扫描了波兰网络，发现法院、医院和机场面临黑客攻击的风险",
+          "summary_en": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "published": "2026-08-07T21:00:08+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.5
+        },
+        {
+          "summary_zh": "作为数据泄露的一部分，框架客户信息被访问",
+          "summary_en": "Framework customer information was accessed as part of a data breach",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
+          "published": "2026-08-07T18:37:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.91
+        },
+        {
+          "summary_zh": "DOGE 疯狂且无法核实的储蓄主张在美国政府报告中不可信",
+          "summary_en": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "published": "2026-08-07T17:51:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "大规模管理人工智能编码成本",
+          "summary_en": "Managing AI Coding Costs at Scale",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "published": "2026-08-07T18:25:17+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.86
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI says it slowed Astra model development over security concerns",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "published": "2026-08-07T22:48:24+00:00"
+        },
+        {
+          "summary": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "published": "2026-08-07T21:00:08+00:00"
+        },
+        {
+          "summary": "AI is changing cybersecurity in quick and terrifying ways",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
+          "published": "2026-08-07T16:30:00+00:00"
+        },
+        {
+          "summary": "Should AI labs be treated like the owners of dangerous animals?",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+          "published": "2026-08-08T00:03:31+00:00"
+        },
+        {
+          "summary": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
+          "published": "2026-08-07T19:00:17+00:00"
+        },
+        {
+          "summary": "Framework customer information was accessed as part of a data breach",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
+          "published": "2026-08-07T18:37:26+00:00"
+        },
+        {
+          "summary": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "published": "2026-08-07T14:20:00+00:00"
+        },
+        {
+          "summary": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "published": "2026-08-07T17:51:05+00:00"
+        },
+        {
+          "summary": "Managing AI Coding Costs at Scale",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+          "published": "2026-08-07T18:25:17+00:00"
+        },
+        {
+          "summary": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "published": "2026-08-07T14:00:00+00:00"
+        },
+        {
+          "summary": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+          "published": "2026-08-07T15:00:00+00:00"
+        },
+        {
+          "summary": "The Chinese Philosopher Americans Can’t Stop Fighting About",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
+          "published": "2026-08-07T18:54:04+00:00"
+        },
+        {
+          "summary": "解读｜OpenAI 音箱：果味设计，但比苹果多走一步",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674363?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-07T04:00:19+00:00"
+        },
+        {
+          "summary": "最后一辆 W16 布加迪，成为了拥有 1600 马力的艺术品",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674436?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-07T11:28:46+00:00"
+        },
+        {
+          "summary": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "published": null
+        },
+        {
+          "summary": "Watching Roku’s AI channel is like eating from a trough",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "华尔街未来一周通胀数据将测试创纪录的美国股市和美联储利率观点 - 路透中文网",
+          "summary_en": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+          "published": "2026-08-07T20:41:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.42
+        },
+        {
+          "summary_zh": "优化二十多岁时的生活和财务|杰克·雷恩斯商学院硕士",
+          "summary_en": "Optimizing Life and Finances in Your Twenties | Masters in Business with Jack Raines",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
+          "published": "2026-08-07T21:00:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.5
+        },
+        {
+          "summary_zh": "加拿大在贸易谈判中向美国做出让步，但要求达成全面协议",
+          "summary_en": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+          "published": "2026-08-08T00:50:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.46
+        },
+        {
+          "summary_zh": "加拿大竞相达成贸易协议以避免特朗普的关税，但也发出警告",
+          "summary_en": "Canada Races For Trade Deal to Avoid Trump’s Tariffs, But Also Issues Warning",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/canada-races-for-trade-deal-to-avoid-trump-s-tariffs-but-also-issues-warning",
+          "published": "2026-08-07T22:15:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.81
+        },
+        {
+          "summary_zh": "特朗普正试图再次解雇丽莎·库克。他仍然希望美联储与他的盟友建立联系。",
+          "summary_en": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+          "published": "2026-08-07T22:05:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.77
+        },
+        {
+          "summary_zh": "预测市场成为最新一轮季度收益报告的中心舞台",
+          "summary_en": "Prediction markets take center stage in latest round of quarterly earnings reports",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+          "published": "2026-08-07T21:38:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.16
+        },
+        {
+          "summary_zh": "珠宝商今年圣诞市场摊位“定价过高”",
+          "summary_en": "Jeweller 'priced out' of Christmas market stall this year",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T17:34:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.65
+        },
+        {
+          "summary_zh": "美国证券交易委员会撤销对特赦特朗普执行长的内幕交易诉讼",
+          "summary_en": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+          "published": "2026-08-07T22:58:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.99
+        },
+        {
+          "summary_zh": "就业数据公布后市场降低美联储加息的可能性，但经济学家仍认为有可能收紧政策 - 路透中文网",
+          "summary_en": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+          "published": "2026-08-07T18:11:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "参议院通过俄罗斯制裁，股市因就业数据上涨等",
+          "summary_en": "Senate Passes Russia Sanctions, Stocks Climb on Jobs Data, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-07/senate-passes-russia-sanctions-stocks-climb-on-jobs-data-more",
+          "published": "2026-08-07T21:01:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.51
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+          "published": "2026-08-07T20:41:09+00:00"
+        },
+        {
+          "summary": "Optimizing Life and Finances in Your Twenties | Masters in Business with Jack Raines",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-07/masters-in-business-with-jack-raines-video",
+          "published": "2026-08-07T21:00:20+00:00"
+        },
+        {
+          "summary": "SEC Drops Insider-Trading Suit Against Executive Trump Pardoned",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned",
+          "published": "2026-08-07T22:58:03+00:00"
+        },
+        {
+          "summary": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+          "published": "2026-08-08T00:50:19+00:00"
+        },
+        {
+          "summary": "Canada Races For Trade Deal to Avoid Trump’s Tariffs, But Also Issues Warning",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/canada-races-for-trade-deal-to-avoid-trump-s-tariffs-but-also-issues-warning",
+          "published": "2026-08-07T22:15:15+00:00"
+        },
+        {
+          "summary": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+          "published": "2026-08-07T18:11:39+00:00"
+        },
+        {
+          "summary": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+          "published": "2026-08-07T22:05:00+00:00"
+        },
+        {
+          "summary": "Senate Passes Russia Sanctions, Stocks Climb on Jobs Data, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-07/senate-passes-russia-sanctions-stocks-climb-on-jobs-data-more",
+          "published": "2026-08-07T21:01:18+00:00"
+        },
+        {
+          "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
+          "published": "2026-08-07T16:58:58+00:00"
+        },
+        {
+          "summary": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+          "published": "2026-08-07T20:54:00+00:00"
+        },
+        {
+          "summary": "Prediction markets take center stage in latest round of quarterly earnings reports",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/07/prediction-markets-take-center-stage-in-latest-quarterly-earnings.html",
+          "published": "2026-08-07T21:38:57+00:00"
+        },
+        {
+          "summary": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+          "published": "2026-08-07T17:50:12+00:00"
+        },
+        {
+          "summary": "Jeweller 'priced out' of Christmas market stall this year",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0qv4g4k4zpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T17:34:33+00:00"
+        },
+        {
+          "summary": "Goodwin considers selling part of defence business",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-07T15:22:51+00:00"
+        },
+        {
+          "summary": "Starbucks is ending GLP-1 coverage for weight loss as employer costs climb",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/starbucks-cuts-glp-1-coverage-weight-loss-costs-climb-2026-8",
+          "published": null
+        },
+        {
+          "summary": "One of the job market's biggest engines is stalling",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/leisure-hospitality-job-market-rising-prices-inflation-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Oklahoma teen accused of raping two girls walks free; DA furiously calls in feds: ‘Made my blood boil’",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/oklahoma-teen-accused-raping-two-191218663.html",
+          "published": null
+        },
+        {
+          "summary": "Tim McGraw and Faith Hill's daughter says weight-loss drugs led to the return of her eating disorder",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/tim-mcgraw-faith-hills-daughter-154856146.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 将其新 Astra 模型标记为可能首次达到最高网络安全风险级别",
+          "summary_en": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+          "published": "2026-08-07T19:41:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.17
+        },
+        {
+          "summary_zh": "人工智能代理自动进行逐个原子模拟，以加速新材料的发现",
+          "summary_en": "AI agents automate atom-by-atom simulations to accelerate discovery of new materials",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html",
+          "published": "2026-08-07T13:20:10-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.09
+        },
+        {
+          "summary_zh": "提示：为什么更好的人工智能模型还不够",
+          "summary_en": "Prompt: Why Better AI Models Aren't Enough",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+          "published": "2026-08-07T14:31:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "带有 Hugging Face 变压器库的小语言模型 + smolLM3",
+          "summary_en": "Small Language Models with Hugging Face transformers Library + smolLM3",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
+          "published": "2026-08-07T14:00:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "应对关键网络能力的下一个前沿",
+          "summary_en": "Responding to the next frontier of critical cyber capabilities",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "published": "2026-08-07T15:20:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.08
+        },
+        {
+          "summary_zh": "吉尔·莱波雷 (Jill Lepore) 谈“人造国家”以及为何硅谷领导人不擅长科幻小说",
+          "summary_en": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+          "published": "2026-08-07T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.75
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "AI SSD：大模型推理的存储范式转移",
+          "summary_en": "AI SSD: A storage paradigm shift for large model inference",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/467840.html",
+          "published": "2026-08-07T02:56:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.99
+        },
+        {
+          "summary_zh": "AMD 收购 Taalas，一家将 AI 模型直接烘焙到芯片中的初创公司",
+          "summary_en": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+          "published": "2026-08-07T18:01:32+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "SpaceX、特斯拉将斥资 16.8B 美元在德克萨斯州建设 Terafab 芯片工厂",
+          "summary_en": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
+          "published": "2026-08-07T18:17:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.82
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+          "published": "2026-08-07T19:41:06+00:00"
+        },
+        {
+          "summary": "AI agents automate atom-by-atom simulations to accelerate discovery of new materials",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-automate-atom-simulations.html",
+          "published": "2026-08-07T13:20:10-04:00"
+        },
+        {
+          "summary": "Prompt: Why Better AI Models Aren't Enough",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+          "published": "2026-08-07T14:31:38+00:00"
+        },
+        {
+          "summary": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+          "published": "2026-08-07T18:01:32+00:00"
+        },
+        {
+          "summary": "Small Language Models with Hugging Face transformers Library + smolLM3",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/small-language-models-with-hugging-face-transformers-library-smollm3",
+          "published": "2026-08-07T14:00:25+00:00"
+        },
+        {
+          "summary": "Responding to the next frontier of critical cyber capabilities",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "published": "2026-08-07T15:20:00+00:00"
+        },
+        {
+          "summary": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
+          "published": "2026-08-07T18:17:18+00:00"
+        },
+        {
+          "summary": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+          "published": "2026-08-07T14:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "5 Free Courses to Learn Modern AI and LLMs",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
+          "published": "2026-08-07T12:00:30+00:00"
+        },
+        {
+          "summary": "AI SSD：大模型推理的存储范式转移",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/467840.html",
+          "published": "2026-08-07T02:56:46+00:00"
+        },
+        {
+          "summary": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "published": "2026-08-07T09:00:00+00:00"
+        },
+        {
+          "summary": "Meta says its AI model hacked another company, adding to worries about bots going rogue",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-meta-ai-hacked-company-adding.html",
+          "published": "2026-08-07T02:31:37-04:00"
+        },
+        {
+          "summary": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468324.html",
+          "published": "2026-08-07T07:43:06+00:00"
+        }
+      ]
+    }
+  }
+}
