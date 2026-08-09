@@ -1,0 +1,522 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T01:03:29.629189+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "OpenAI 收购演示初创公司 NextSlide",
+          "summary_en": "OpenAI acquires presentation startup NextSlide",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "published": "2026-08-08T19:41:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "Claude 与 ChatGPT：这些人工智能助手有何不同",
+          "summary_en": "Claude Vs ChatGPT: How These AI Assistants Differ",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
+          "published": "2026-08-08T15:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "过去 15 年，抑郁症人数增加了两倍。阿瑟·布鲁克斯谈起原因",
+          "summary_en": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+          "source": "Hacker News: Front Page",
+          "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+          "published": "2026-08-08T23:09:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.02
+        },
+        {
+          "summary_zh": "出色的 HP OmniBook 5 今日零售价优惠 550 美元",
+          "summary_en": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+          "published": "2026-08-08T11:34:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.13
+        },
+        {
+          "summary_zh": "事实证明，火星上第一辆自动驾驶汽车取得了巨大成功",
+          "summary_en": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "published": "2026-08-08T11:30:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.11
+        },
+        {
+          "summary_zh": "如何将复古 GameCube 连接到现代电视",
+          "summary_en": "How to connect your retro GameCube to a modern TV",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2231069/how-to-connect-your-retro-gamecube-to-a-modern-tv/",
+          "published": "2026-08-08T18:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "计划中的亚马逊数据中心可能成为美国最大的气候污染源",
+          "summary_en": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "published": "2026-08-08T21:24:02+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "我的服务器现在是电话",
+          "summary_en": "My server is a phone now",
+          "source": "Hacker News: Front Page",
+          "url": "https://seg6.space/posts/phone-server/",
+          "published": "2026-08-08T22:49:23+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.94
+        },
+        {
+          "summary_zh": "DeepMind 在飓风方面的突破让气象科学家感到惊讶",
+          "summary_en": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "published": "2026-08-08T11:05:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.01
+        },
+        {
+          "summary_zh": "人口普查提案将停止计算无证移民，并忽略种族和性取向",
+          "summary_en": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+          "published": "2026-08-08T14:03:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.75
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI acquires presentation startup NextSlide",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "published": "2026-08-08T19:41:13+00:00"
+        },
+        {
+          "summary": "Claude Vs ChatGPT: How These AI Assistants Differ",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
+          "published": "2026-08-08T15:30:00+00:00"
+        },
+        {
+          "summary": "How to connect your retro GameCube to a modern TV",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2231069/how-to-connect-your-retro-gamecube-to-a-modern-tv/",
+          "published": "2026-08-08T18:30:00+00:00"
+        },
+        {
+          "summary": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "published": "2026-08-08T21:24:02+00:00"
+        },
+        {
+          "summary": "Depression has tripled in the last 15 years. Arthur Brooks about the cause",
+          "source": "Hacker News: Front Page",
+          "url": "https://bigthink.com/series/full-interview/meaning-crisis-brooks/",
+          "published": "2026-08-08T23:09:07+00:00"
+        },
+        {
+          "summary": "My server is a phone now",
+          "source": "Hacker News: Front Page",
+          "url": "https://seg6.space/posts/phone-server/",
+          "published": "2026-08-08T22:49:23+00:00"
+        },
+        {
+          "summary": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+          "published": "2026-08-08T11:34:00+00:00"
+        },
+        {
+          "summary": "The first self-driving vehicle on Mars has proven to be a smashing success",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
+          "published": "2026-08-08T11:30:48+00:00"
+        },
+        {
+          "summary": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+          "published": "2026-08-08T11:05:50+00:00"
+        },
+        {
+          "summary": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+          "published": "2026-08-08T14:03:58+00:00"
+        },
+        {
+          "summary": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "published": null
+        },
+        {
+          "summary": "Watching Roku’s AI channel is like eating from a trough",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着杠杆交易被淘汰，韩国波动性大幅下降",
+          "summary_en": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
+          "published": "2026-08-09T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.24
+        },
+        {
+          "summary_zh": "伯克希尔哈撒韦公司第二季度收益，伊朗：霍尔木兹交易完成，更多",
+          "summary_en": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-hormuz-deal-close-more-mskzqpis",
+          "published": "2026-08-08T23:14:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "觉得穿漂亮的运动鞋去上班很酷吗？你可能老了。",
+          "summary_en": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
+          "published": "2026-08-09T00:13:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "“这是一段情感上的困难时期”：我的兄弟患有癌症，我的父亲已经 94 岁了。我该如何承担这个责任？",
+          "summary_en": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+          "published": "2026-08-08T20:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.24
+        },
+        {
+          "summary_zh": "安迪·伯纳姆 (Andy Burnham) 将踏上英国生活成本之旅",
+          "summary_en": "Andy Burnham to embark on cost of living tour through the UK",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T23:10:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.03
+        },
+        {
+          "summary_zh": "塞尔维亚和乌克兰领导人承诺加强经济联系 - 路透中文网",
+          "summary_en": "Leaders of Serbia and Ukraine pledge closer economic ties - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0xra2Zmeno4WmZOSFBtZkVLb190MUVYOUpNNmJMLUp2MWRRMk9wNmhOdTMwQUY5c19RemM5dnVSb0NlZ1NhYmdoZ2FjY2J0Y09RTjRuYmJEMkNzWjNTNzlqemhhM0UxS2R2VnUzZmRoMkZLc0hpdVNkTGxSbmc0UkZ3UUMwYjVRRnVrNEs2cHdZZ1FPaVk0SE0tNA?oc=5",
+          "published": "2026-08-08T13:21:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.58
+        },
+        {
+          "summary_zh": "Verizon 移动服务在美国数千名客户中断后恢复",
+          "summary_en": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+          "published": "2026-08-09T00:36:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.89
+        },
+        {
+          "summary_zh": "人工智能的发展让昆兰看好美国股市",
+          "summary_en": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+          "published": "2026-08-08T12:47:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "“我正处于收入高峰期”：我已经工作到 70 岁以上了。这会有助于增加我的社会保障吗？",
+          "summary_en": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+          "published": "2026-08-08T19:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.99
+        },
+        {
+          "summary_zh": "加拿大在贸易谈判中向美国做出让步，但要求达成全面协议",
+          "summary_en": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+          "published": "2026-08-08T14:39:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.9
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
+          "published": "2026-08-09T00:00:00+00:00"
+        },
+        {
+          "summary": "Berkshire Hathaway Q2 Earnings, Iran: Hormuz Deal Close, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-hormuz-deal-close-more-mskzqpis",
+          "published": "2026-08-08T23:14:31+00:00"
+        },
+        {
+          "summary": "Berkshire Hathaway Q2 Earnings, Iran Says Hormuz Deal Close,More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-08/berkshire-hathaway-q2-earnings-iran-says-hormuz-deal-close-more",
+          "published": "2026-08-08T22:02:34+00:00"
+        },
+        {
+          "summary": "AI Buildout Keeps Quinlan Bullish on US Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-08/ai-buildout-keeps-quinlan-bullish-on-us-stocks-video",
+          "published": "2026-08-08T12:47:53+00:00"
+        },
+        {
+          "summary": "Think It’s Cool to Wear Fancy Sneakers to Work? You Might Be Old.",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/08/business/dealbook/loafers-sneakers-work.html",
+          "published": "2026-08-09T00:13:52+00:00"
+        },
+        {
+          "summary": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+          "published": "2026-08-08T20:00:00+00:00"
+        },
+        {
+          "summary": "Andy Burnham to embark on cost of living tour through the UK",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T23:10:50+00:00"
+        },
+        {
+          "summary": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+          "published": "2026-08-08T19:00:00+00:00"
+        },
+        {
+          "summary": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+          "published": "2026-08-08T14:39:26+00:00"
+        },
+        {
+          "summary": "Leaders of Serbia and Ukraine pledge closer economic ties - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN0xra2Zmeno4WmZOSFBtZkVLb190MUVYOUpNNmJMLUp2MWRRMk9wNmhOdTMwQUY5c19RemM5dnVSb0NlZ1NhYmdoZ2FjY2J0Y09RTjRuYmJEMkNzWjNTNzlqemhhM0UxS2R2VnUzZmRoMkZLc0hpdVNkTGxSbmc0UkZ3UUMwYjVRRnVrNEs2cHdZZ1FPaVk0SE0tNA?oc=5",
+          "published": "2026-08-08T13:21:43+00:00"
+        },
+        {
+          "summary": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
+          "published": "2026-08-08T16:58:20+00:00"
+        },
+        {
+          "summary": "Verizon mobile service restored after outage for thousands of customers in the U.S.",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
+          "published": "2026-08-09T00:36:19+00:00"
+        },
+        {
+          "summary": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-08T13:41:32+00:00"
+        },
+        {
+          "summary": "ICE says it expects to equip every field officer with body cameras by the end of August",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/08/ice-expects-to-equip-field-officers-with-body-cams-by-end-of-august.html",
+          "published": "2026-08-08T22:26:43+00:00"
+        },
+        {
+          "summary": "Arena AI CEO says enterprises don’t know which AI models to trust",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/arena-ai-enteprises-models-trust-anastasios-angelopoulos-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Warren Buffett's successor starts spending Berkshire's cash mountain",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/berkshire-hathaway-warren-buffett-greg-abel-spending-cash-pile-2026-8",
+          "published": null
+        },
+        {
+          "summary": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
+          "published": null
+        },
+        {
+          "summary": "Iranian officials are worried the U.S. blockade will cause an economic collapse and admit sanctions relief is desperately needed",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/iranian-officials-worried-u-blockade-201408319.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "AI agents use roughly 600 times more energy than a simple chat prompt",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
+          "published": "2026-08-08T09:44:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "植根于认知科学的人工智能框架可以更高效地完成任务",
+          "summary_en": "AI framework rooted in cognitive science could complete tasks more efficiently",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
+          "published": "2026-08-08T09:40:02-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.15
+        },
+        {
+          "summary_zh": "Backflip AI 在几分钟内（而不是几小时）将 3D 扫描转换为可编辑的 CAD 模型",
+          "summary_en": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+          "published": "2026-08-08T11:26:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "summary_en": "Ultraman’s ChatGPT parenting method stirs up a hornet’s nest",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468631.html",
+          "published": "2026-08-08T07:57:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.23
+        },
+        {
+          "summary_zh": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+          "summary_en": "They’ve all learned bad things! Ultraman personally blocks the strongest model Astra, repeating the same mistake as Mythos",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468462.html",
+          "published": "2026-08-08T04:33:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.38
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI agents use roughly 600 times more energy than a simple chat prompt",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-agents-use-roughly-600-times-more-energy-than-a-simple-chat-prompt/",
+          "published": "2026-08-08T09:44:06+00:00"
+        },
+        {
+          "summary": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/",
+          "published": "2026-08-08T11:26:35+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "AI framework rooted in cognitive science could complete tasks more efficiently",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
+          "published": "2026-08-08T09:40:02-04:00"
+        },
+        {
+          "summary": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468631.html",
+          "published": "2026-08-08T07:57:35+00:00"
+        },
+        {
+          "summary": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468462.html",
+          "published": "2026-08-08T04:33:53+00:00"
+        }
+      ]
+    }
+  }
+}
