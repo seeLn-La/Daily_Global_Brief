@@ -1,0 +1,506 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T01:05:10.959882+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
+          "summary_en": "Morning Post｜Bank of China’s Apple AI was removed from the official website after being launched/It was revealed that Apple Watch will undergo a major upgrade/Unishu Technology will open the Science and Technology Innovation Board subscription today",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-10T00:44:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.41
+        },
+        {
+          "summary_zh": "陷入困境的对冲基金 Situational Awareness 向芯片初创公司 Source Foundry 投资 4 亿美元",
+          "summary_en": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "published": "2026-08-09T20:35:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "以下是在 Windows 上格式化 USB 驱动器的方法",
+          "summary_en": "Here's how to format a USB drive on Windows",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230979/how-to-format-usb-drive-on-windows/",
+          "published": "2026-08-09T17:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.6
+        },
+        {
+          "summary_zh": "人工智能助手入侵健身房网站，这是澳大利亚首次已知的自主网络攻击",
+          "summary_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "published": "2026-08-09T21:52:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "如何使用克劳德的语音模式",
+          "summary_en": "How to use Claude's voice mode",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
+          "published": "2026-08-09T18:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "燕尾服 No. 2 – 鸡尾酒配方",
+          "summary_en": "Tuxedo No. 2 – Cocktail recipes",
+          "source": "Hacker News: Front Page",
+          "url": "https://tuxedono2.com",
+          "published": "2026-08-09T20:48:46+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.43
+        },
+        {
+          "summary_zh": "Anthropic 默认开启 Claude Code 的自动模式",
+          "summary_en": "Anthropic is turning Claude Code’s auto mode on by default",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "published": "2026-08-09T19:20:32+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "多巴火山喷发似乎不会几乎杀死我们的物种",
+          "summary_en": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "published": "2026-08-09T11:00:14+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.98
+        },
+        {
+          "summary_zh": "这些人工智能大亨准备放弃他们的财富",
+          "summary_en": "These AI Barons Are Ready to Give Away Their Fortunes",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+          "published": "2026-08-09T09:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.6
+        },
+        {
+          "summary_zh": "传承数字财产的复杂案例",
+          "summary_en": "The Complicated Case of Passing On Your Digital Estate",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/digital-estate-planning-tips/",
+          "published": "2026-08-09T11:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜国行苹果AI上线官网后被撤下/曝Apple Watch将迎来大升级/宇树科技今日开启科创板申购",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674507?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-10T00:44:04+00:00"
+        },
+        {
+          "summary": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "published": "2026-08-09T20:35:17+00:00"
+        },
+        {
+          "summary": "Here's how to format a USB drive on Windows",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2230979/how-to-format-usb-drive-on-windows/",
+          "published": "2026-08-09T17:30:00+00:00"
+        },
+        {
+          "summary": "How to use Claude's voice mode",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
+          "published": "2026-08-09T18:30:00+00:00"
+        },
+        {
+          "summary": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+          "published": "2026-08-09T21:52:23+00:00"
+        },
+        {
+          "summary": "Tuxedo No. 2 – Cocktail recipes",
+          "source": "Hacker News: Front Page",
+          "url": "https://tuxedono2.com",
+          "published": "2026-08-09T20:48:46+00:00"
+        },
+        {
+          "summary": "Anthropic is turning Claude Code’s auto mode on by default",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "published": "2026-08-09T19:20:32+00:00"
+        },
+        {
+          "summary": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+          "published": "2026-08-09T11:00:14+00:00"
+        },
+        {
+          "summary": "These AI Barons Are Ready to Give Away Their Fortunes",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+          "published": "2026-08-09T09:30:00+00:00"
+        },
+        {
+          "summary": "The Complicated Case of Passing On Your Digital Estate",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/digital-estate-planning-tips/",
+          "published": "2026-08-09T11:30:00+00:00"
+        },
+        {
+          "summary": "AI detectors are creating a new era of distrust",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "published": null
+        },
+        {
+          "summary": "No Dogs in Space is a music history podcast for true obsessives",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "伊朗协议未能达成，亚洲股市上涨，油价上涨：市场结束",
+          "summary_en": "Oil Gains as Iran Deal Eludes, Asian Stocks Rise: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-09T22:11:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.77
+        },
+        {
+          "summary_zh": "由于投资者等待通胀数据并应对伊朗更多的不确定性，美国股指期货下跌",
+          "summary_en": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+          "published": "2026-08-10T00:45:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.42
+        },
+        {
+          "summary_zh": "伊朗战争陷入僵局，油价攀升，股市下跌",
+          "summary_en": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+          "published": "2026-08-09T22:20:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.81
+        },
+        {
+          "summary_zh": "澳洲联储维持利率不变，西太平洋银行盈利，悉尼机场差点失利",
+          "summary_en": "RBA to Hold Rates, Westpac Posts Profit, Sydney Airport Near Miss",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/rba-to-hold-rates-westpac-posts-profit-sydney-airport-near-miss",
+          "published": "2026-08-09T22:26:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "由于交易员关注霍尔木兹海峡交易和通胀数据，标准普尔 500 指数期货下跌：实时更新",
+          "summary_en": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+          "published": "2026-08-10T00:29:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "海峡重新开放仍存在不确定性，油价上涨 - 路透中文网",
+          "summary_en": "Oil rises as uncertainty continues over reopening of Strait - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
+          "published": "2026-08-09T22:17:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "您可能会错过 150 英镑的能源账单折扣 - 以下是查看方法",
+          "summary_en": "You could be missing out on £150 off your energy bill - here's how to check",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T23:47:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.18
+        },
+        {
+          "summary_zh": "中国如何成为世界石油大国",
+          "summary_en": "How China became the world’s great oil power",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+          "published": "2026-08-09T16:22:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        },
+        {
+          "summary_zh": "中国押注人工智能股票，与美国争夺芯片和技术主导地位",
+          "summary_en": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
+          "published": "2026-08-09T21:00:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.48
+        },
+        {
+          "summary_zh": "跑赢标准普尔 500 指数的股票数量创 4 年来最高。为什么这个数字应该上升。",
+          "summary_en": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+          "published": "2026-08-09T19:11:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.02
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Oil Gains as Iran Deal Eludes, Asian Stocks Rise: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-09T22:11:01+00:00"
+        },
+        {
+          "summary": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+          "published": "2026-08-10T00:45:00+00:00"
+        },
+        {
+          "summary": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
+          "published": "2026-08-09T21:00:19+00:00"
+        },
+        {
+          "summary": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+          "published": "2026-08-09T22:20:09+00:00"
+        },
+        {
+          "summary": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+          "published": "2026-08-09T19:11:00+00:00"
+        },
+        {
+          "summary": "RBA to Hold Rates, Westpac Posts Profit, Sydney Airport Near Miss",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-09/rba-to-hold-rates-westpac-posts-profit-sydney-airport-near-miss",
+          "published": "2026-08-09T22:26:05+00:00"
+        },
+        {
+          "summary": "Hormuz Deal Remains Elusive, US Patient Approach, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-10/hormuz-deal-remains-elusive-us-patient-approach-more",
+          "published": "2026-08-10T00:58:18+00:00"
+        },
+        {
+          "summary": "S&P 500 futures slip as traders watch for Strait of Hormuz deal, inflation data: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/09/stock-market-today-live-updates.html",
+          "published": "2026-08-10T00:29:19+00:00"
+        },
+        {
+          "summary": "Oil rises as uncertainty continues over reopening of Strait - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXpSdTFpV0NCUnZ4ZmZ3bXhmR3QxR1VVbGthTXNFSmZDNU03WWxGTDQ2eE9SeVZPYVE1aHl3NWZuS3FxcW1WSnBBb3J1SXJLY1F6RnFkTy1wdVZHaXdMZkhpclJjM09BU0k1RmMyaFNHQmtnZzA5elZZbUpHVUFEZHFNbnJaek93UlM4cUZJTlU5ZzRUckVJVXdTVVd3amluLWRDb1ljZkY?oc=5",
+          "published": "2026-08-09T22:17:48+00:00"
+        },
+        {
+          "summary": "You could be missing out on £150 off your energy bill - here's how to check",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-09T23:47:30+00:00"
+        },
+        {
+          "summary": "Medicare Advantage’s Perks Are Getting Scrutiny",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/08/business/medicare-advantage-benefits.html",
+          "published": "2026-08-09T18:35:41+00:00"
+        },
+        {
+          "summary": "Ukraine, Russia accuse each other of lethal attacks, Odesa port damaged - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYkNMLVhYYm1zdG9veTFxQlIxY3IzNHpyOFZGMzAzWVZVWU9xU0xTUzdGMUplZmlzZTlPbEZCV3Fsb3pPa1J2MWhuU0Vhc0xoSDhsZXpLWUh6ektRLUItdUVUd2g4Q1lTSmtLZWlNd1p4ZnhhYUxlRFdCVjZlOUtQaU5qX1U4Ql9DRUtvNWZOVnRJMjNOOHJMSmFkQzNqTThMY2ZFamxQV0dqemsyRlhmaGFHZHgzLXd0b081dDZKRVRfTE9PeVhj?oc=5",
+          "published": "2026-08-09T16:22:10+00:00"
+        },
+        {
+          "summary": "How China became the world’s great oil power",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/09/how-china-became-the-worlds-great-oil-power",
+          "published": "2026-08-09T16:22:40+00:00"
+        },
+        {
+          "summary": "Trump names Will Scharf as White House counsel",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/09/trump-will-scharf-white-house-counsel.html",
+          "published": "2026-08-09T22:15:28+00:00"
+        },
+        {
+          "summary": "KKR shared profits from a big sale with employees. Here's what they're doing with the windfall.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/kkr-portfolio-company-isc-employee-ownership-payout-2026-8",
+          "published": null
+        },
+        {
+          "summary": "I told my kids the TV was broken. Four months later, I'm still pretending.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/told-kids-tv-broke-family-changed-2026-8",
+          "published": null
+        },
+        {
+          "summary": "With broad bipartisan support, Congress is about to give Trump ‘unchecked authority’ to impose new tariffs of up to 100% on top trading partners",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
+          "published": null
+        },
+        {
+          "summary": "Florida business owners allegedly scattered 1,500 mothballs on beach to send endangered birds packing",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/florida-business-owners-allegedly-scattered-180029862.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Google 的 DiffusionGemma 证明您不需要从头开始训练来构建文本扩散模型",
+          "summary_en": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+          "published": "2026-08-09T10:01:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.73
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "骗子在美国社区大学招收假学生，并利用人工智能来收取经济援助",
+          "summary_en": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+          "published": "2026-08-09T13:00:59+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.48
+        },
+        {
+          "summary_zh": "180万刀，连亚马逊都烧不起Claude了",
+          "summary_en": "With $1.8 million, even Amazon can’t afford to burn Claude.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/469010.html",
+          "published": "2026-08-09T09:25:10+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.58
+        },
+        {
+          "summary_zh": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+          "summary_en": "GPT-5.6 and Fable teamed up to solve a 25-year-old mathematical problem",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468913.html",
+          "published": "2026-08-09T09:16:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Google's DiffusionGemma proves you don't need to train from scratch to build a text diffusion model",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/googles-diffusiongemma-proves-you-dont-need-to-train-from-scratch-to-build-a-text-diffusion-model/",
+          "published": "2026-08-09T10:01:26+00:00"
+        },
+        {
+          "summary": "Scammers are enrolling fake students at US community colleges and using AI to collect financial aid",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/scammers-are-enrolling-fake-students-at-us-community-colleges-and-using-ai-to-collect-financial-aid/",
+          "published": "2026-08-09T13:00:59+00:00"
+        },
+        {
+          "summary": "180万刀，连亚马逊都烧不起Claude了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/469010.html",
+          "published": "2026-08-09T09:25:10+00:00"
+        },
+        {
+          "summary": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/468913.html",
+          "published": "2026-08-09T09:16:58+00:00"
+        }
+      ]
+    }
+  }
+}
