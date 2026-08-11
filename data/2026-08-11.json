@@ -1,0 +1,624 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T01:04:38.264979+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "苹果可能会在 iOS 27 中引入照片认证工具",
+          "summary_en": "Apple may introduce a photo authentication tool in iOS 27",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2234108/apple-may-introduce-a-photo-authentication-tool-in-ios-27/",
+          "published": "2026-08-10T21:48:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "开发商 Cold Iron Studios 关闭了 60 美元游戏的云版本，且不予退款",
+          "summary_en": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+          "published": "2026-08-10T21:26:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.59
+        },
+        {
+          "summary_zh": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
+          "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-11T00:44:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.42
+        },
+        {
+          "summary_zh": "据报道 OpenAI 完成了 70 亿美元的员工收购要约",
+          "summary_en": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "published": "2026-08-11T00:03:18+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "人工智能教授正在讨论学术研究的新现实",
+          "summary_en": "AI professors are negotiating the new realities of academic research",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "published": "2026-08-10T20:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "世界火车地图 – 世界各地 1247 条火车路线",
+          "summary_en": "World Train Map – 1247 train routes around the world",
+          "source": "Hacker News: Front Page",
+          "url": "https://worldtrainmap.com/",
+          "published": "2026-08-10T22:42:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.91
+        },
+        {
+          "summary_zh": "AI Slop 的强烈反对实际上正在产生影响",
+          "summary_en": "The AI Slop Backlash Is Actually Having an Impact",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+          "published": "2026-08-10T11:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.11
+        },
+        {
+          "summary_zh": "随着 AI 主导的攻击倍增，OpenAI 推出新的网络模型",
+          "summary_en": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "published": "2026-08-10T23:56:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "借助新的开放模型，Meta 再次重启其苦苦挣扎的人工智能战略",
+          "summary_en": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+          "published": "2026-08-10T22:13:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "Play 商店中提供了 Android 应用商店竞争对手",
+          "summary_en": "An Android app store competitor is available in the Play Store",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2233395/an-android-app-store-competitor-is-available-in-the-play-store/",
+          "published": "2026-08-10T13:58:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.73
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Apple may introduce a photo authentication tool in iOS 27",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2234108/apple-may-introduce-a-photo-authentication-tool-in-ios-27/",
+          "published": "2026-08-10T21:48:44+00:00"
+        },
+        {
+          "summary": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+          "published": "2026-08-10T21:26:38+00:00"
+        },
+        {
+          "summary": "早报｜苹果20周年iPhone或因良率问题取消/小米校招AI岗位增加50%/极氪回应7X充电场站过热",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674633?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-11T00:44:25+00:00"
+        },
+        {
+          "summary": "OpenAI reportedly completed a $7 billion employee tender offer",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "published": "2026-08-11T00:03:18+00:00"
+        },
+        {
+          "summary": "AI professors are negotiating the new realities of academic research",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+          "published": "2026-08-10T20:00:00+00:00"
+        },
+        {
+          "summary": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "published": "2026-08-10T23:56:15+00:00"
+        },
+        {
+          "summary": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+          "published": "2026-08-10T22:13:03+00:00"
+        },
+        {
+          "summary": "An Android app store competitor is available in the Play Store",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2233395/an-android-app-store-competitor-is-available-in-the-play-store/",
+          "published": "2026-08-10T13:58:58+00:00"
+        },
+        {
+          "summary": "World Train Map – 1247 train routes around the world",
+          "source": "Hacker News: Front Page",
+          "url": "https://worldtrainmap.com/",
+          "published": "2026-08-10T22:42:14+00:00"
+        },
+        {
+          "summary": "Confessions of a Long-Distance Sailor",
+          "source": "Hacker News: Front Page",
+          "url": "https://arachnoid.com/lutusp/sailbook.html",
+          "published": "2026-08-10T20:52:55+00:00"
+        },
+        {
+          "summary": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+          "published": "2026-08-10T12:10:00+00:00"
+        },
+        {
+          "summary": "The AI Slop Backlash Is Actually Having an Impact",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+          "published": "2026-08-10T11:30:00+00:00"
+        },
+        {
+          "summary": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/",
+          "published": "2026-08-10T14:47:52+00:00"
+        },
+        {
+          "summary": "Seedance 2.5 之后，AI 视频进入 Harness 时代",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1674604?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-10T09:48:36+00:00"
+        },
+        {
+          "summary": "What to expect from Google’s 2026 Pixel hardware launch event",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+          "published": null
+        },
+        {
+          "summary": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "哥伦比亚通胀意外放缓，利率压力缓解",
+          "summary_en": "Colombia Inflation Unexpectedly Slows, Easing Pressure on Rates",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/colombia-inflation-unexpectedly-slows-easing-pressure-on-rates",
+          "published": "2026-08-10T23:47:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.18
+        },
+        {
+          "summary_zh": "Rocket Lab公布了一些重大计划，但其股价因盈利喜忧参半而下跌",
+          "summary_en": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+          "published": "2026-08-11T01:03:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.49
+        },
+        {
+          "summary_zh": "JBS任命Wesley Batista Filho为首席执行官，第二季度意外亏损 - 路透中文网",
+          "summary_en": "JBS taps Wesley Batista Filho as CEO, posts surprise second-quarter loss - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDhQYkNtaHJSYWdkaWNCOXpLdGR0LXVJV25zU2hHWFBTcUp2RzM0dk02ODNSa29YazB5QWdra0c1QWFDNWJyRjlnd08xWU1MNmlRLVNteHh4Sk1RbElHZ3dlZHU1QVpSdEhhVlRwSzFwYUpJSU41U3BEanVTTEYyaGFuS293em4yclVrNmgzaEh3MU5mUjNEbldyYUFWQkFteWNVMmxsMHdQTGhUZ3ZwUElyWlI?oc=5",
+          "published": "2026-08-10T23:24:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.08
+        },
+        {
+          "summary_zh": "随着投资者权衡伊朗和霍尔木兹协议前景，股票期货保持稳定：实时更新",
+          "summary_en": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+          "published": "2026-08-10T23:49:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "巴里克 (Barrick) (B) 投资者反对桑顿北美 IPO 计划",
+          "summary_en": "Barrick (B) Investors Push Back on Thornton’s North American IPO Plan",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-10/barrick-b-investors-push-back-on-thornton-s-north-american-ipo-plan",
+          "published": "2026-08-10T21:10:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "“我从 20 多岁开始，赚了 8,000 英镑”：为什么女性往往比男性更适合投资",
+          "summary_en": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T23:32:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "华尔街希望再为人工智能提供 5000 亿美元繁荣",
+          "summary_en": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+          "published": "2026-08-10T23:28:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "美国证券交易委员会指控基金顾问在首次公开募股前计划中误导投资者",
+          "summary_en": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
+          "published": "2026-08-10T22:27:20+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.85
+        },
+        {
+          "summary_zh": "SpaceX 股价近一个月来首次突破 IPO 价格",
+          "summary_en": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+          "published": "2026-08-10T22:39:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.89
+        },
+        {
+          "summary_zh": "巴里克表示纽蒙特交易为北美IPO扫清了道路 - 路透中文网",
+          "summary_en": "Barrick says Newmont deal clears path for North American IPO - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTFhd2NZUjN6TWxzMWpNUmZiRFJCTHJmUXdsVVJOV0FFNEZfOEJYMHQ5eUhYdlI3cE5YT1AtTk1zMUxmZktMc25kMWJ4VHBlU09MUDVTUWIwR3NDSFhETWJrbHVoNTdieVZpdWVyaXRFaGVLY3Q2NjVrT1ViVWVMRFh1TVUtZE5nY0dPeTdsZ0dpZXlKQWpyVUZDd0kxSE0?oc=5",
+          "published": "2026-08-10T21:39:37+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.65
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Colombia Inflation Unexpectedly Slows, Easing Pressure on Rates",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/colombia-inflation-unexpectedly-slows-easing-pressure-on-rates",
+          "published": "2026-08-10T23:47:11+00:00"
+        },
+        {
+          "summary": "SEC Alleges Fund Adviser Misled Investors in Pre-IPO Schemes",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
+          "published": "2026-08-10T22:27:20+00:00"
+        },
+        {
+          "summary": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories",
+          "published": "2026-08-11T01:03:00+00:00"
+        },
+        {
+          "summary": "JBS taps Wesley Batista Filho as CEO, posts surprise second-quarter loss - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDhQYkNtaHJSYWdkaWNCOXpLdGR0LXVJV25zU2hHWFBTcUp2RzM0dk02ODNSa29YazB5QWdra0c1QWFDNWJyRjlnd08xWU1MNmlRLVNteHh4Sk1RbElHZ3dlZHU1QVpSdEhhVlRwSzFwYUpJSU41U3BEanVTTEYyaGFuS293em4yclVrNmgzaEh3MU5mUjNEbldyYUFWQkFteWNVMmxsMHdQTGhUZ3ZwUElyWlI?oc=5",
+          "published": "2026-08-10T23:24:47+00:00"
+        },
+        {
+          "summary": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
+          "published": "2026-08-10T22:39:00+00:00"
+        },
+        {
+          "summary": "Barrick says Newmont deal clears path for North American IPO - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVTFhd2NZUjN6TWxzMWpNUmZiRFJCTHJmUXdsVVJOV0FFNEZfOEJYMHQ5eUhYdlI3cE5YT1AtTk1zMUxmZktMc25kMWJ4VHBlU09MUDVTUWIwR3NDSFhETWJrbHVoNTdieVZpdWVyaXRFaGVLY3Q2NjVrT1ViVWVMRFh1TVUtZE5nY0dPeTdsZ0dpZXlKQWpyVUZDd0kxSE0?oc=5",
+          "published": "2026-08-10T21:39:37+00:00"
+        },
+        {
+          "summary": "Stock futures are steady as investors weigh Iran, Hormuz deal prospects: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+          "published": "2026-08-10T23:49:38+00:00"
+        },
+        {
+          "summary": "Barrick (B) Investors Push Back on Thornton’s North American IPO Plan",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-10/barrick-b-investors-push-back-on-thornton-s-north-american-ipo-plan",
+          "published": "2026-08-10T21:10:04+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-10T22:54:50+00:00"
+        },
+        {
+          "summary": "Stocks Close Lower, Trump Signs Order on Vaccine Recommendations",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-10/stocks-close-lower-trump-signs-order-on-vaccine-recommendations",
+          "published": "2026-08-10T20:15:09+00:00"
+        },
+        {
+          "summary": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T23:32:10+00:00"
+        },
+        {
+          "summary": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
+          "published": "2026-08-10T23:28:13+00:00"
+        },
+        {
+          "summary": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-10T22:31:42+00:00"
+        },
+        {
+          "summary": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html",
+          "published": "2026-08-10T22:03:03+00:00"
+        },
+        {
+          "summary": "AI agents, IRL socializing, and vibe coding: Where top consumer investors are placing bets",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/next-big-bets-consumer-tech-according-to-top-vcs-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Bernie Sanders asked the leading AI CEOs to pause development. Read his letter.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/bernie-sanders-letter-ai-ceos-amodei-altman-zuckerberg-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Top economist warns that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/technology/ai/articles/top-economist-warns-ai-math-070000978.html",
+          "published": null
+        },
+        {
+          "summary": "A Gen Z worker got called out by their CEO for leaving 10 minutes early. Workplace experts debate who was in the wrong",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/lifestyle/articles/gen-z-worker-got-called-090000072.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "计算机视觉团队开发了一种有效的方法来扩展预训练的人工智能模型",
+          "summary_en": "Computer vision team develops an efficient method for scaling pretrained AI models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-vision-team-efficient-method-scaling.html",
+          "published": "2026-08-10T14:40:05-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.4
+        },
+        {
+          "summary_zh": "旧的 OCR 文本削弱了语言模型训练，FineBooks 希望大规模解决这个问题",
+          "summary_en": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+          "published": "2026-08-10T18:20:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.82
+        },
+        {
+          "summary_zh": "凭借对物理的感觉，人工智能模型可以模拟更广泛的现实世界场景",
+          "summary_en": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+          "published": "2026-08-10T15:25:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.59
+        },
+        {
+          "summary_zh": "Model ML借助GPT-5.6 Sol更高效地完成财务工作",
+          "summary_en": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/model-ml",
+          "published": "2026-08-10T12:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "安全问题导致 OpenAI 停止 Astra 模型的工作",
+          "summary_en": "Security Concerns Cause OpenAI to Halt Work on Astra Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
+          "published": "2026-08-10T14:57:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.97
+        },
+        {
+          "summary_zh": "新的免费电子书：了解 Agentic AI，执行简报",
+          "summary_en": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing",
+          "published": "2026-08-10T16:00:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.23
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "AI倒查论文100年！99.2%的顶刊都有问题…",
+          "summary_en": "AI has been checking papers for 100 years! 99.2% of top issues have problems…",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/469795.html",
+          "published": "2026-08-10T13:58:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.73
+        },
+        {
+          "summary_zh": "人工智能模型捕捉人类的阅读方式，为个性化文本和更好的增强现实铺平道路",
+          "summary_en": "AI model captures how humans read, paving the way to personalized text and better augmented reality",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
+          "published": "2026-08-10T17:00:11-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.98
+        },
+        {
+          "summary_zh": "OpenAI 推出 GPT-5.6-Cyber​​，帮助防御者在攻击者之前发现漏洞",
+          "summary_en": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+          "published": "2026-08-10T18:01:30+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.74
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Computer vision team develops an efficient method for scaling pretrained AI models",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-vision-team-efficient-method-scaling.html",
+          "published": "2026-08-10T14:40:05-04:00"
+        },
+        {
+          "summary": "AI model captures how humans read, paving the way to personalized text and better augmented reality",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-captures-humans-paving-personalized.html",
+          "published": "2026-08-10T17:00:11-04:00"
+        },
+        {
+          "summary": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+          "published": "2026-08-10T18:20:39+00:00"
+        },
+        {
+          "summary": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+          "published": "2026-08-10T18:01:30+00:00"
+        },
+        {
+          "summary": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+          "published": "2026-08-10T15:25:00-04:00"
+        },
+        {
+          "summary": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/model-ml",
+          "published": "2026-08-10T12:00:00+00:00"
+        },
+        {
+          "summary": "Security Concerns Cause OpenAI to Halt Work on Astra Model",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
+          "published": "2026-08-10T14:57:26+00:00"
+        },
+        {
+          "summary": "Putting frontier cyber models in more trusted hands",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "published": "2026-08-10T10:00:00+00:00"
+        },
+        {
+          "summary": "Meta Reverses Course with Open-Weight Muse Glimmer",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+          "published": "2026-08-10T20:26:20+00:00"
+        },
+        {
+          "summary": "New Free eBook: Understanding Agentic AI, an Executive Briefing",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/new-free-ebook-understanding-agentic-ai-an-executive-briefing",
+          "published": "2026-08-10T16:00:13+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Specification Engineering: The New Skill After Prompt Engineering",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/specification-engineering-the-new-skill-after-prompt-engineering",
+          "published": "2026-08-10T14:00:00+00:00"
+        },
+        {
+          "summary": "AI倒查论文100年！99.2%的顶刊都有问题…",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/469795.html",
+          "published": "2026-08-10T13:58:46+00:00"
+        },
+        {
+          "summary": "PDF当死，ARA该立！论文是时候Agent原生了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/469721.html",
+          "published": "2026-08-10T13:53:22+00:00"
+        }
+      ]
+    }
+  }
+}
