@@ -1,0 +1,624 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T01:11:58.454046+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "微软奇怪的小人工智能家伙 Mico 已被降职",
+          "summary_en": "Mico, Microsoft's weird lil' AI guy, has been demoted",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
+          "published": "2026-08-13T22:51:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.92
+        },
+        {
+          "summary_zh": "美国癌症手术的等待时间越来越长",
+          "summary_en": "US wait times for cancer surgeries are getting longer and longer",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+          "published": "2026-08-13T22:17:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.77
+        },
+        {
+          "summary_zh": "投资者起诉赛琳娜·戈麦斯，指控她的心理健康初创公司存在欺诈行为",
+          "summary_en": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "published": "2026-08-13T22:12:40+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "圆桌会议：塑造美国政策的“审查-工业复合体”理念内部",
+          "summary_en": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "published": "2026-08-13T21:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "AI文本水印的工作原理",
+          "summary_en": "How AI text watermarking works",
+          "source": "Hacker News: Front Page",
+          "url": "https://declaude.org/watermarking/",
+          "published": "2026-08-13T23:16:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.02
+        },
+        {
+          "summary_zh": "OpenAI 内部的安全思考",
+          "summary_en": "The Safety Reckoning Inside OpenAI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "published": "2026-08-13T22:37:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "云存储非常有用，直到您的供应商倒闭为止",
+          "summary_en": "Cloud storage is great until your vendor goes out of business",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
+          "published": "2026-08-13T22:04:16+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.72
+        },
+        {
+          "summary_zh": "Flock 表示，其新工具将有助于识别警察的虐待行为，但尚未解释其工作原理",
+          "summary_en": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "published": "2026-08-13T22:02:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.71
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Private security firms will soon be allowed to hack overseas cybercriminals",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "published": "2026-08-13T19:38:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "构建后量子密码学的实用路径",
+          "summary_en": "Building a practical path to post-quantum cryptography",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+          "published": "2026-08-13T18:11:42+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.75
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Mico, Microsoft's weird lil' AI guy, has been demoted",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
+          "published": "2026-08-13T22:51:31+00:00"
+        },
+        {
+          "summary": "Cloud storage is great until your vendor goes out of business",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
+          "published": "2026-08-13T22:04:16+00:00"
+        },
+        {
+          "summary": "US wait times for cancer surgeries are getting longer and longer",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+          "published": "2026-08-13T22:17:29+00:00"
+        },
+        {
+          "summary": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+          "published": "2026-08-13T22:12:40+00:00"
+        },
+        {
+          "summary": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "published": "2026-08-13T22:02:04+00:00"
+        },
+        {
+          "summary": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+          "published": "2026-08-13T21:00:00+00:00"
+        },
+        {
+          "summary": "Private security firms will soon be allowed to hack overseas cybercriminals",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "published": "2026-08-13T19:38:58+00:00"
+        },
+        {
+          "summary": "How AI text watermarking works",
+          "source": "Hacker News: Front Page",
+          "url": "https://declaude.org/watermarking/",
+          "published": "2026-08-13T23:16:55+00:00"
+        },
+        {
+          "summary": "The Safety Reckoning Inside OpenAI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+          "published": "2026-08-13T22:37:19+00:00"
+        },
+        {
+          "summary": "Building a practical path to post-quantum cryptography",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+          "published": "2026-08-13T18:11:42+00:00"
+        },
+        {
+          "summary": "Choose Boring Technology (2015)",
+          "source": "Hacker News: Front Page",
+          "url": "https://mcfunley.com/choose-boring-technology",
+          "published": "2026-08-13T17:48:13+00:00"
+        },
+        {
+          "summary": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+          "published": "2026-08-13T21:14:43+00:00"
+        },
+        {
+          "summary": "9.99 万元起，EV 版 9 分钟充到 97%，秦 MAX 正式上市",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675157?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-13T13:35:08+00:00"
+        },
+        {
+          "summary": "首发体验 | DeepSeek Harness 来了，它不想做下一个Codex",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675083?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-13T12:46:11+00:00"
+        },
+        {
+          "summary": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+          "published": null
+        },
+        {
+          "summary": "Netflix is closing two game studios",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着美国通胀和科技股上涨，亚洲股市上涨：市场结束",
+          "summary_en": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+          "published": "2026-08-13T22:10:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.75
+        },
+        {
+          "summary_zh": "哈马克称美联储应加息以抑制经济增长和通胀 - 路透中文网",
+          "summary_en": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
+          "published": "2026-08-13T21:24:49+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.55
+        },
+        {
+          "summary_zh": "投资者追赶“错失恐惧症”(FOMO) 反弹，市场显得出奇的平静",
+          "summary_en": "Markets are looking eerily calm as investors chase FOMO rally",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+          "published": "2026-08-13T22:05:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.72
+        },
+        {
+          "summary_zh": "“我一个月内损失了 14,000 美元”：投资者受到韩国股市剧烈波动的打击",
+          "summary_en": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13T22:00:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.7
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "S&P Notches New All Time High, OpenAI Revenue Run Rate Tops $40B",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/s-p-notches-new-all-time-high-openai-revenue-run-rate-tops-40b",
+          "published": "2026-08-14T00:57:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "周五的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-13T22:56:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "卡尔希被命令停止华盛顿州的大部分业务",
+          "summary_en": "Kalshi Ordered to Cease Most Operations in Washington State",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+          "published": "2026-08-14T00:49:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.41
+        },
+        {
+          "summary_zh": "新加坡能否建立一个合适的股票市场？",
+          "summary_en": "Can Singapore ever build a proper stock market?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+          "published": "2026-08-13T08:37:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.86
+        },
+        {
+          "summary_zh": "Winklevosses 的 Gemini 再次亏损，收入增加",
+          "summary_en": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+          "published": "2026-08-13T21:01:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.46
+        },
+        {
+          "summary_zh": "“我和我的妻子都退休了”：我们应该动用 230 万美元的投资来偿还 30 万美元的 2.9% 抵押贷款吗？",
+          "summary_en": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+          "published": "2026-08-13T22:31:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.83
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+          "published": "2026-08-13T22:10:41+00:00"
+        },
+        {
+          "summary": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
+          "published": "2026-08-13T21:24:49+00:00"
+        },
+        {
+          "summary": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+          "published": "2026-08-13T21:01:19+00:00"
+        },
+        {
+          "summary": "Markets are looking eerily calm as investors chase FOMO rally",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
+          "published": "2026-08-13T22:05:00+00:00"
+        },
+        {
+          "summary": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13T22:00:10+00:00"
+        },
+        {
+          "summary": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+          "published": "2026-08-13T22:31:00+00:00"
+        },
+        {
+          "summary": "Investors sue Selena Gomez for alleged fraud over mental-health start-up - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDJIdng2dlhmYWF5eWtqbFc5bUNpY3lMeF9xd19HZHQweG5qdDhTdXNOZ2cweWpFeVMxQXR5NmUwcTdIRVA3SVo0cnVNUVkxVThlZ3hOODk2UXhZQXpvZl9tX0J0ZXdBcVAtTkRHdDBjMHRfa1QyQzY0MkVsM0JkUGY2MXBpQWlPRmZKOUhVcHNXa293QXYwU3R2U19fb1ZoRjRfMTlVTGZOdjN4SlhIWjVZSG1lSlFiMmhIU2twVjNPZ1dOVnc?oc=5",
+          "published": "2026-08-13T20:58:59+00:00"
+        },
+        {
+          "summary": "S&P Notches New All Time High, OpenAI Revenue Run Rate Tops $40B",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/s-p-notches-new-all-time-high-openai-revenue-run-rate-tops-40b",
+          "published": "2026-08-14T00:57:35+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-13T22:56:04+00:00"
+        },
+        {
+          "summary": "Kalshi Ordered to Cease Most Operations in Washington State",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+          "published": "2026-08-14T00:49:57+00:00"
+        },
+        {
+          "summary": "Everybody's Business: Robots Have Stolen Your Summer (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/everybody-s-business-robots-have-stolen-your-summer-podcast",
+          "published": "2026-08-14T00:39:30+00:00"
+        },
+        {
+          "summary": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+          "published": "2026-08-13T22:59:12+00:00"
+        },
+        {
+          "summary": "These charts show why stocks keep rallying. Profit margins are the highest on record",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
+          "published": "2026-08-13T20:21:51+00:00"
+        },
+        {
+          "summary": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-13T23:03:07+00:00"
+        },
+        {
+          "summary": "Can Singapore ever build a proper stock market?",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/can-singapore-ever-build-a-proper-stock-market",
+          "published": "2026-08-13T08:37:16+00:00"
+        },
+        {
+          "summary": "When Japan buys yen, it unwinds a dangerous trade",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade",
+          "published": "2026-08-13T08:49:36+00:00"
+        },
+        {
+          "summary": "Reed Hastings says AI may push CEOs to cut their workforce in half — or expand their reach",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/reed-hastings-ai-ceo-leadership-layoffs-2026-8",
+          "published": null
+        },
+        {
+          "summary": "SpaceX’s Starbase is getting a few monuments dedicated to Elon Musk. Not all will be flattering.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/spacex-starbase-elon-musk-monuments-statue-prometheus-cards-against-humanity-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
+          "published": null
+        },
+        {
+          "summary": "Proposal backed by Trump administration would allow 401K and IRA funds to be used in riskier investments",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/videos/proposal-backed-trump-administration-allow-175631090.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Gemini 3.7 Flash 带来编码增益，并将发布三周的前代产品价格降低 50%",
+          "summary_en": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+          "published": "2026-08-13T18:41:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "从“学习”到“思考”，AI语言早已承载双重含义",
+          "summary_en": "From 'learning' to 'thinking,' AI language has long carried double meanings",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-language.html",
+          "published": "2026-08-13T15:00:04-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "GPT-5.6 构建者指南",
+          "summary_en": "The builder’s guide to GPT‑5.6",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "published": "2026-08-13T11:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.95
+        },
+        {
+          "summary_zh": "构建流式本地 AI 代理",
+          "summary_en": "Building a Streaming Local AI Agent",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
+          "published": "2026-08-13T14:00:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.7
+        },
+        {
+          "summary_zh": "Euro Vibe Coding 杰出可爱现在价值 $13.3B",
+          "summary_en": "Euro Vibe Coding Standout Lovable Now Valued at $13.3B",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-valued-at-13-3b",
+          "published": "2026-08-13T17:48:31+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.65
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+          "summary_en": "480 million US dollars invested in end-side computing power! Agent chip upstart breaks out of the siege",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "published": "2026-08-13T12:34:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.35
+        },
+        {
+          "summary_zh": "Deepseek 发布改进的 V4 Pro、开源其代理软件并提高 API 价格",
+          "summary_en": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+          "published": "2026-08-13T16:27:32+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "预览超快模式：GPT-5.6 Sol 速度高达 14 倍",
+          "summary_en": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "published": "2026-08-13T10:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.7
+        },
+        {
+          "summary_zh": "Grok 4.6 已发布，低于竞争对手的 AI 价格",
+          "summary_en": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
+          "published": "2026-08-13T17:36:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.6
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+          "published": "2026-08-13T18:41:52+00:00"
+        },
+        {
+          "summary": "From 'learning' to 'thinking,' AI language has long carried double meanings",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-language.html",
+          "published": "2026-08-13T15:00:04-04:00"
+        },
+        {
+          "summary": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+          "published": "2026-08-13T16:27:32+00:00"
+        },
+        {
+          "summary": "The builder’s guide to GPT‑5.6",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "published": "2026-08-13T11:00:00+00:00"
+        },
+        {
+          "summary": "Building a Streaming Local AI Agent",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
+          "published": "2026-08-13T14:00:15+00:00"
+        },
+        {
+          "summary": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "published": "2026-08-13T10:00:00+00:00"
+        },
+        {
+          "summary": "Euro Vibe Coding Standout Lovable Now Valued at $13.3B",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/euro-vibe-coding-standout-lovable-valued-at-13-3b",
+          "published": "2026-08-13T17:48:31+00:00"
+        },
+        {
+          "summary": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
+          "published": "2026-08-13T17:36:39+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/472059.html",
+          "published": "2026-08-13T12:34:42+00:00"
+        },
+        {
+          "summary": "Constraining Output Space for SLM Narrow Automation Optimization",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/constraining-output-space-small-language-model-narrow-automation-optimization",
+          "published": "2026-08-13T12:00:17+00:00"
+        },
+        {
+          "summary": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/472016.html",
+          "published": "2026-08-13T11:29:04+00:00"
+        }
+      ]
+    }
+  }
+}
