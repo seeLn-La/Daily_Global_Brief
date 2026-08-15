@@ -1,0 +1,612 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T00:44:32.739998+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "谷歌现在将允许用户从人工智能内容中删除可见水印",
+          "summary_en": "Google will now allow users to remove visible watermarks from AI content",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+          "published": "2026-08-14T19:04:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "Thrive 的约书亚·库什纳 (Joshua Kushner) 斥责硅谷风投公司对人工智能的狂热",
+          "summary_en": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+          "published": "2026-08-14T19:33:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.2
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "published": "2026-08-14T18:00:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.82
+        },
+        {
+          "summary_zh": "下一个大影响者是这个来自中国的 4 英尺高机器人",
+          "summary_en": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "published": "2026-08-14T20:59:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.56
+        },
+        {
+          "summary_zh": "Jane Street 在态势感知崩溃后遭受 $15B 损失",
+          "summary_en": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+          "published": "2026-08-14T23:40:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.23
+        },
+        {
+          "summary_zh": "下载：Flock 的新规则、克隆的未来和儿童细胞",
+          "summary_en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "published": "2026-08-14T12:17:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.39
+        },
+        {
+          "summary_zh": "Waymo 获准在萨克拉门托和圣地亚哥提供乘车服务",
+          "summary_en": "Waymo receives permission to offer rides in Sacramento and San Diego",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/",
+          "published": "2026-08-14T22:50:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.02
+        },
+        {
+          "summary_zh": "将 PayPal 出售给 Stripe 和 Advent 的谈判正在升温",
+          "summary_en": "Talks to sell PayPal to Stripe and Advent are heating up",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "published": "2026-08-14T22:43:24+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "怀疑法庭使用人工智能，男子在文件中注入提示以试图打赢官司",
+          "summary_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "published": "2026-08-14T17:26:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.68
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "The case for overhauling American science",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+          "published": "2026-08-14T23:11:34+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.11
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Google will now allow users to remove visible watermarks from AI content",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+          "published": "2026-08-14T19:04:42+00:00"
+        },
+        {
+          "summary": "Waymo receives permission to offer rides in Sacramento and San Diego",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237530/waymo-receives-permission-to-offer-rides-in-sacramento-and-san-diego/",
+          "published": "2026-08-14T22:50:04+00:00"
+        },
+        {
+          "summary": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+          "published": "2026-08-14T19:33:00+00:00"
+        },
+        {
+          "summary": "Talks to sell PayPal to Stripe and Advent are heating up",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+          "published": "2026-08-14T22:43:24+00:00"
+        },
+        {
+          "summary": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "published": "2026-08-14T18:00:23+00:00"
+        },
+        {
+          "summary": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "published": "2026-08-14T17:26:53+00:00"
+        },
+        {
+          "summary": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "published": "2026-08-14T20:59:03+00:00"
+        },
+        {
+          "summary": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+          "published": "2026-08-14T23:40:37+00:00"
+        },
+        {
+          "summary": "The case for overhauling American science",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+          "published": "2026-08-14T23:11:34+00:00"
+        },
+        {
+          "summary": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+          "published": "2026-08-14T15:00:00+00:00"
+        },
+        {
+          "summary": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "published": "2026-08-14T12:17:21+00:00"
+        },
+        {
+          "summary": "This scientist is helping build a missing map of childhood",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+          "published": "2026-08-14T09:00:00+00:00"
+        },
+        {
+          "summary": "首发 | 澎湃OS 4 体验：小米第一个 AIOS，用起来怎么样？",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675208?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-14T06:00:53+00:00"
+        },
+        {
+          "summary": "23.98 万元起，大五座魏牌 V8X 上市，并非 V9X 的减法",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675246?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-14T13:55:07+00:00"
+        },
+        {
+          "summary": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+          "published": null
+        },
+        {
+          "summary": "Samsung has new Galaxy headphones in the works",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "新加坡股市创历史新高，增长带来“金发姑娘”提振",
+          "summary_en": "Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/singapore-stocks-record-run-gets-goldilocks-boost-from-growth",
+          "published": "2026-08-15T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.32
+        },
+        {
+          "summary_zh": "股市收低，曼吉昂承认杀害首席执行官的罪名",
+          "summary_en": "Stocks Close Lower, Mangione Pleads Guilty Over CEO Killing",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/stocks-close-lower-mangione-pleads-guilty-over-ceo-killing",
+          "published": "2026-08-14T20:10:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
+          "published": "2026-08-14T23:23:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "美国银行分析师喜爱的 16 只遭受重挫的人工智能股票",
+          "summary_en": "16 beaten-down AI stocks that are beloved by BofA analysts",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+          "published": "2026-08-14T19:09:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.1
+        },
+        {
+          "summary_zh": "卡尔希被命令停止华盛顿州的大部分业务",
+          "summary_en": "Kalshi Ordered to Cease Most Operations in Washington State",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+          "published": "2026-08-15T00:16:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "特朗普下令对外国制造的零部件征收关税后，无人机股票上涨",
+          "summary_en": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+          "published": "2026-08-14T20:04:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.83
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Protein or pickled garlic? What's new in ice cream",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-14T21:20:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.65
+        },
+        {
+          "summary_zh": "消费者放缓迹象后股市停止上涨|收盘价 2026 年 8 月 14 日",
+          "summary_en": "Stocks Halt Rally After Signs of Consumer Slowdown | The Close 8/14/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-14/the-close-8-14-2026-video",
+          "published": "2026-08-14T22:23:19+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.91
+        },
+        {
+          "summary_zh": "投资者权衡数据和中东紧张局势，标普 500 指数收低 - 路透中文网",
+          "summary_en": "S&P 500 ends lower as investors weigh data, Middle East tensions - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "published": "2026-08-14T22:57:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.06
+        },
+        {
+          "summary_zh": "Luigi Mangione 在联邦法院承认跟踪健康保险首席执行官的罪名",
+          "summary_en": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+          "published": "2026-08-14T17:40:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.73
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Singapore Stocks’ Record Run Gets ‘Goldilocks’ Boost From Growth",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/singapore-stocks-record-run-gets-goldilocks-boost-from-growth",
+          "published": "2026-08-15T00:00:00+00:00"
+        },
+        {
+          "summary": "Stocks Halt Rally After Signs of Consumer Slowdown | The Close 8/14/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-14/the-close-8-14-2026-video",
+          "published": "2026-08-14T22:23:19+00:00"
+        },
+        {
+          "summary": "Stocks Close Lower, Mangione Pleads Guilty Over CEO Killing",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/stocks-close-lower-mangione-pleads-guilty-over-ceo-killing",
+          "published": "2026-08-14T20:10:07+00:00"
+        },
+        {
+          "summary": "Alphabet becomes Berkshire Hathaway's third-largest investment - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTERjbHBXeUxvR0JSMUpreTA0SnpXOFVpUUtXLXZCdnhaemtsTjFBeWNfU01Xa0pWMDJUZUt6M0RuMVdLMmdpNTJhSERFZzNYclV3TDdGc1l6OWsyRGF2ejR1aHFmWUlIQWNzb1Q2SXBKWlZHWnljQ2pmdk9GdDB5a3haeFRUcWFfNGJCdVRQWjIyUy0tS0tKek51OVc5aV9nUWhuWWFENm1BLXdJYXNjWVRfaVEyTkdyNG5iQXhCVFBfaHRDLTFBdEtn?oc=5",
+          "published": "2026-08-14T23:23:37+00:00"
+        },
+        {
+          "summary": "16 beaten-down AI stocks that are beloved by BofA analysts",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+          "published": "2026-08-14T19:09:00+00:00"
+        },
+        {
+          "summary": "S&P 500 ends lower as investors weigh data, Middle East tensions - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+          "published": "2026-08-14T22:57:49+00:00"
+        },
+        {
+          "summary": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+          "published": "2026-08-14T17:40:00+00:00"
+        },
+        {
+          "summary": "Kalshi Ordered to Cease Most Operations in Washington State",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
+          "published": "2026-08-15T00:16:41+00:00"
+        },
+        {
+          "summary": "Lawsuit Accuses Selena Gomez of Defrauding Investors in Mental Health Site",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html",
+          "published": "2026-08-14T20:09:07+00:00"
+        },
+        {
+          "summary": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+          "published": "2026-08-14T20:04:28+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: OpenAI's Run Rate (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-businessweek-daily-openai-s-run-rate-podcast",
+          "published": "2026-08-14T21:43:54+00:00"
+        },
+        {
+          "summary": "Regulators and banks step up scrutiny of prediction markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+          "published": "2026-08-14T19:21:49+00:00"
+        },
+        {
+          "summary": "Protein or pickled garlic? What's new in ice cream",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-14T21:20:19+00:00"
+        },
+        {
+          "summary": "Temporary ban on sale of disposable BBQs over wildfire risk",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-14T19:17:16+00:00"
+        },
+        {
+          "summary": "Luigi Mangione admits to shooting UnitedHealthcare CEO: 'I knew what I was doing was illegal'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/luigi-mangione-guilty-plea-stalking-federal-court-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Lawsuit alleges Sony investigated WPP's media operation and said it ran a 'global crime scheme'",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/lawsuit-alleges-sony-investigation-into-wpp-rebates-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
+          "published": null
+        },
+        {
+          "summary": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 宣布推出水印检测 API，让第三方检测 Claude 的 AI 文本",
+          "summary_en": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+          "published": "2026-08-14T21:29:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.69
+        },
+        {
+          "summary_zh": "人工智能代理难以进行原创科学研究",
+          "summary_en": "AI agents struggle to perform original scientific research",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
+          "published": "2026-08-14T13:00:03-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.07
+        },
+        {
+          "summary_zh": "IBM 与 OpenAI 合作加速企业人工智能发展",
+          "summary_en": "IBM, OpenAI Partner to Accelerate Enterprise AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
+          "published": "2026-08-14T15:26:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.17
+        },
+        {
+          "summary_zh": "Meta 的“开放”人工智能，以及 2.5 亿美元的交易出了大问题",
+          "summary_en": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "published": "2026-08-14T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "5 篇有趣的 Agentic AI 论文值得一读",
+          "summary_en": "5 Fun Agentic AI Papers to Read",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
+          "published": "2026-08-14T12:00:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.32
+        },
+        {
+          "summary_zh": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+          "summary_en": "Taichu Yuanqi assists the national \"AI+ Education\" competition \"AI+ Acceleration Card Model Adaptation Track\" to start recruitment",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473149.html",
+          "published": "2026-08-14T10:25:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.92
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+          "published": "2026-08-14T16:43:43+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.5
+        },
+        {
+          "summary_zh": "Gemini 3.7 Flash 降低推介价格以吸引开发者",
+          "summary_en": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
+          "published": "2026-08-14T15:08:10+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+          "published": "2026-08-14T21:29:17+00:00"
+        },
+        {
+          "summary": "AI agents struggle to perform original scientific research",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-struggle-scientific.html",
+          "published": "2026-08-14T13:00:03-04:00"
+        },
+        {
+          "summary": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+          "published": "2026-08-14T16:43:43+00:00"
+        },
+        {
+          "summary": "IBM, OpenAI Partner to Accelerate Enterprise AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
+          "published": "2026-08-14T15:26:02+00:00"
+        },
+        {
+          "summary": "Lower Intro Price for Gemini 3.7 Flash to Attract Developers",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/lower-intro-price-for-gemini-3-7-flash-attract-developers",
+          "published": "2026-08-14T15:08:10+00:00"
+        },
+        {
+          "summary": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "published": "2026-08-14T14:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "5 Fun Agentic AI Papers to Read",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-fun-agentic-ai-papers-to-read",
+          "published": "2026-08-14T12:00:13+00:00"
+        },
+        {
+          "summary": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473149.html",
+          "published": "2026-08-14T10:25:36+00:00"
+        },
+        {
+          "summary": "How to Build a Simple AI Web Scraper with Python",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
+          "published": "2026-08-14T14:00:29+00:00"
+        },
+        {
+          "summary": "Better communication could improve human-robot teamwork across real-world tasks",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-communication-human-robot-teamwork-real.html",
+          "published": "2026-08-14T10:07:01-04:00"
+        },
+        {
+          "summary": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473379.html",
+          "published": "2026-08-14T15:41:12+00:00"
+        }
+      ]
+    }
+  }
+}
