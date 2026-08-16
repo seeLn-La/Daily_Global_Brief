@@ -1,0 +1,516 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T00:47:16.940949+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "SugarTrack – 离线 Android 血糖日志（无帐户，无云）",
+          "summary_en": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+          "source": "Hacker News: Front Page",
+          "url": "https://sugartrack-beta.vercel.app/",
+          "published": "2026-08-15T22:28:14+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "什么是蓝牙编解码器？哪一种可提供最佳音频质量？",
+          "summary_en": "What is a Bluetooth codec and which one offers the best audio quality?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
+          "published": "2026-08-15T21:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.68
+        },
+        {
+          "summary_zh": "女子声称她的继父使用 Grok 将童年照片变成露骨图像",
+          "summary_en": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "published": "2026-08-15T21:29:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.68
+        },
+        {
+          "summary_zh": "VisionQuest 预告片拉开了迪士尼 D23 粉丝活动的序幕",
+          "summary_en": "VisionQuest trailer kicks off Disney's D23 fan event",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+          "published": "2026-08-15T21:21:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.64
+        },
+        {
+          "summary_zh": "SpaceX 正式收购人工智能编码初创公司 Cursor",
+          "summary_en": "SpaceX has officially acquired AI coding startup Cursor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+          "published": "2026-08-15T12:51:33+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "如何判断您的人工智能平台的帐户是否被黑客入侵",
+          "summary_en": "How to tell if your AI platforms’ accounts have been hacked",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+          "published": "2026-08-15T16:10:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "Tea5767-收音机调谐器",
+          "summary_en": "Tea5767-Radio-Tuner",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+          "published": "2026-08-15T23:54:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "乌克兰用巡航导弹袭击俄罗斯主要火箭工厂",
+          "summary_en": "Ukraine strikes major Russian rocket factory with cruise missiles",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+          "published": "2026-08-15T15:46:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "波多黎各实行配水制。它可以通过收集雨水来避免它",
+          "summary_en": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+          "published": "2026-08-15T09:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.68
+        },
+        {
+          "summary_zh": "亚马逊可以使用您的 Twitch 内容来训练其人工智能 - 除非您选择退出",
+          "summary_en": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+          "published": "2026-08-15T09:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+          "source": "Hacker News: Front Page",
+          "url": "https://sugartrack-beta.vercel.app/",
+          "published": "2026-08-15T22:28:14+00:00"
+        },
+        {
+          "summary": "What is a Bluetooth codec and which one offers the best audio quality?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
+          "published": "2026-08-15T21:30:00+00:00"
+        },
+        {
+          "summary": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "published": "2026-08-15T21:29:19+00:00"
+        },
+        {
+          "summary": "VisionQuest trailer kicks off Disney's D23 fan event",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+          "published": "2026-08-15T21:21:27+00:00"
+        },
+        {
+          "summary": "SpaceX has officially acquired AI coding startup Cursor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237655/spacex-officially-acquired-ai-coding-startup-cursor/",
+          "published": "2026-08-15T12:51:33+00:00"
+        },
+        {
+          "summary": "How to tell if your AI platforms’ accounts have been hacked",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+          "published": "2026-08-15T16:10:00+00:00"
+        },
+        {
+          "summary": "Tea5767-Radio-Tuner",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+          "published": "2026-08-15T23:54:35+00:00"
+        },
+        {
+          "summary": "Ukraine strikes major Russian rocket factory with cruise missiles",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+          "published": "2026-08-15T15:46:05+00:00"
+        },
+        {
+          "summary": "Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/",
+          "published": "2026-08-15T09:30:00+00:00"
+        },
+        {
+          "summary": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+          "published": "2026-08-15T09:00:00+00:00"
+        },
+        {
+          "summary": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "published": null
+        },
+        {
+          "summary": "Matt Groening lets slip that Simpsons: Hit & Run might be making a comeback",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "强劲的盈利让 PNC 的阿加蒂看好股票",
+          "summary_en": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+          "published": "2026-08-15T13:48:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.76
+        },
+        {
+          "summary_zh": "一只持有多达 800 只股票的主动基金正在跑赢主要指数。方法如下。",
+          "summary_en": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+          "published": "2026-08-15T18:05:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.82
+        },
+        {
+          "summary_zh": "Information 称，英伟达计划根据 OpenAI 数据中心交易向 SB Energy 投资 30 亿美元 - 路透中文网",
+          "summary_en": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+          "published": "2026-08-15T20:16:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "美国加大伊朗经济压力，飓风“拉拉”袭击夏威夷州",
+          "summary_en": "US to Ramp Up Iran Economic Pressure, Hurricane Lala Targets HI",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-15/us-to-ramp-up-iran-economic-pressure-hurricane-lala-targets-hi",
+          "published": "2026-08-15T23:18:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "环孢菌如何逃避美国食品安全系统导致数千人患病",
+          "summary_en": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+          "published": "2026-08-15T19:38:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "高盛表示，这些股票在第二季度收益公布后成为首选",
+          "summary_en": "Goldman says these stocks are top ideas in the wake of their 2Q earnings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/15/goldman-says-these-stocks-are-top-ideas-in-wake-of-their-2q-earnings.html",
+          "published": "2026-08-15T13:34:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.2
+        },
+        {
+          "summary_zh": "由于渔业和农业衰退，秘鲁经济意外放缓",
+          "summary_en": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
+          "published": "2026-08-15T15:40:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "觉得现在利率高吗？这些图表提供了不同的视角。",
+          "summary_en": "Think interest rates are high now? These charts offer a different perspective.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+          "published": "2026-08-15T19:01:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "对林肯号航空母舰的担忧、美国加大对伊朗的压力等",
+          "summary_en": "Concerns for the USS Lincoln, US to Ramp Up Iran Pressure, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-16/concerns-for-the-uss-lincoln-us-to-ramp-up-iran-pressure-more",
+          "published": "2026-08-16T00:37:36+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.46
+        },
+        {
+          "summary_zh": "凤凰城两架具有相同呼号的飞机可能是“灾难性的”",
+          "summary_en": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html",
+          "published": "2026-08-15T19:10:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.1
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Strong Earnings Keep PNC’s Agati Bullish on Stocks",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-15/strong-earnings-keep-pnc-s-agati-bullish-on-stocks-video",
+          "published": "2026-08-15T13:48:44+00:00"
+        },
+        {
+          "summary": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
+          "published": "2026-08-15T18:05:00+00:00"
+        },
+        {
+          "summary": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+          "published": "2026-08-15T20:16:56+00:00"
+        },
+        {
+          "summary": "Peru’s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
+          "published": "2026-08-15T15:40:00+00:00"
+        },
+        {
+          "summary": "US to Ramp Up Iran Economic Pressure, Hurricane Lala Targets HI",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-15/us-to-ramp-up-iran-economic-pressure-hurricane-lala-targets-hi",
+          "published": "2026-08-15T23:18:36+00:00"
+        },
+        {
+          "summary": "Think interest rates are high now? These charts offer a different perspective.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+          "published": "2026-08-15T19:01:00+00:00"
+        },
+        {
+          "summary": "Concerns for the USS Lincoln, US to Ramp Up Iran Pressure, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-16/concerns-for-the-uss-lincoln-us-to-ramp-up-iran-pressure-more",
+          "published": "2026-08-16T00:37:36+00:00"
+        },
+        {
+          "summary": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/15/health/cyclospora-invesigation-fda.html",
+          "published": "2026-08-15T19:38:20+00:00"
+        },
+        {
+          "summary": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html",
+          "published": "2026-08-15T19:10:35+00:00"
+        },
+        {
+          "summary": "Nvidia eyes investing $3 billion in SoftBank's SB Energy under OpenAI data center deal, Information says",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/15/nvidia-mulls-3b-investment-in-sb-energy-in-openai-data-center-deal-report.html",
+          "published": "2026-08-15T20:32:04+00:00"
+        },
+        {
+          "summary": "Goldman says these stocks are top ideas in the wake of their 2Q earnings",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/15/goldman-says-these-stocks-are-top-ideas-in-wake-of-their-2q-earnings.html",
+          "published": "2026-08-15T13:34:29+00:00"
+        },
+        {
+          "summary": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV?oc=5",
+          "published": "2026-08-15T13:59:59+00:00"
+        },
+        {
+          "summary": "What investors say went wrong at Selena Gomez's mental health startup Wondermind",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/selena-gomez-wondermind-mental-health-startup-lawsuit-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Tech workers may be better off selling their company stock",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/tech-pay-equity-microsoft-diversification-sell-your-company-stock-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-15T03:58:31+00:00"
+        },
+        {
+          "summary": "I quit my 6-figure investment banking job after only 4 months. I'm making less now, but I'm building a future that'll pay off.",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/lifestyle/articles/quit-6-figure-investment-banking-091501611.html",
+          "published": null
+        },
+        {
+          "summary": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "投资者压力迫使 Nvidia 缩减其 OpenAI 押注，而 Anthropic 的数据无视泡沫警告",
+          "summary_en": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+          "published": "2026-08-15T15:41:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "观点：人工智能之后的生活是什么样子？科里·多克托罗的指南是一张过时的地图，缺乏答案",
+          "summary_en": "Opinion: What does life after AI look like? Cory Doctorow's guide is an outdated map, lacking answers",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-opinion-life-ai-cory-doctorow.html",
+          "published": "2026-08-15T05:40:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.22
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "新基准证实人工智能模型在视觉感知方面仍然表现不佳",
+          "summary_en": "New benchmark confirms AI models still perform poorly at visual perception",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+          "published": "2026-08-15T05:30:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.68
+        },
+        {
+          "summary_zh": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+          "summary_en": "Zhizhi Research Institute proposes a new route for large model interpretability: splitting weights, data cost is less than 1%",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473876.html",
+          "published": "2026-08-15T06:42:23+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.98
+        },
+        {
+          "summary_zh": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+          "summary_en": "Cure the common problems of AI music! This domestic music model challenges SUNO head-on",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473866.html",
+          "published": "2026-08-15T06:36:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.95
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+          "published": "2026-08-15T15:41:02+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "New benchmark confirms AI models still perform poorly at visual perception",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+          "published": "2026-08-15T05:30:18+00:00"
+        },
+        {
+          "summary": "Opinion: What does life after AI look like? Cory Doctorow's guide is an outdated map, lacking answers",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-opinion-life-ai-cory-doctorow.html",
+          "published": "2026-08-15T05:40:01-04:00"
+        },
+        {
+          "summary": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473876.html",
+          "published": "2026-08-15T06:42:23+00:00"
+        },
+        {
+          "summary": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/473866.html",
+          "published": "2026-08-15T06:36:05+00:00"
+        }
+      ]
+    }
+  }
+}
