@@ -1,0 +1,512 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T00:45:09.066673+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "打开这些设置可保护您的 Android 手机免遭盗窃",
+          "summary_en": "Turn on these settings to protect your Android phone from theft",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+          "published": "2026-08-16T21:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.69
+        },
+        {
+          "summary_zh": "据报道，Stripe 将以 7B+ 美元收购人工智能网关初创公司 OpenRouter",
+          "summary_en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "published": "2026-08-16T20:57:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.55
+        },
+        {
+          "summary_zh": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+          "summary_en": "Morning Post | The creator of \"Niu Lai\" responded that the film schedule has increased by 1900 times/Lu Weibing: Xiaomi mobile phones will fully embrace AI in the future/Wenjie children's car will be launched soon",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-17T00:22:55+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.41
+        },
+        {
+          "summary_zh": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额",
+          "summary_en": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+          "published": "2026-08-16T21:07:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "野火烟雾现在对产前的威胁比人类造成的空气污染更大",
+          "summary_en": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "published": "2026-08-16T10:00:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        },
+        {
+          "summary_zh": "您的 Android 设备上真的需要安装防病毒应用程序吗？",
+          "summary_en": "Do you really need an antivirus app on your Android?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+          "published": "2026-08-16T20:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.31
+        },
+        {
+          "summary_zh": "为什么人们不相信马克·扎克伯格的人工智能未来",
+          "summary_en": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "published": "2026-08-16T20:32:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "50 年后反对形式验证的案例",
+          "summary_en": "The Case Against Formal Verification, 50 Years Later",
+          "source": "Hacker News: Front Page",
+          "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+          "published": "2026-08-16T20:38:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.47
+        },
+        {
+          "summary_zh": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+          "summary_en": "I used 161 news sources to \"raise\" an AI editor-in-chief, and it knows what \"big news\" is better than me | Tutorial attached",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-16T14:47:36+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.01
+        },
+        {
+          "summary_zh": "2026 年最佳猫饮水器：Petlibro、Petkit、Oneisall",
+          "summary_en": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+          "published": "2026-08-16T09:33:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.7
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Turn on these settings to protect your Android phone from theft",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+          "published": "2026-08-16T21:30:00+00:00"
+        },
+        {
+          "summary": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "published": "2026-08-16T20:57:04+00:00"
+        },
+        {
+          "summary": "Do you really need an antivirus app on your Android?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+          "published": "2026-08-16T20:00:00+00:00"
+        },
+        {
+          "summary": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "published": "2026-08-16T20:32:01+00:00"
+        },
+        {
+          "summary": "早报｜《牛来》主创回应排片暴增1900倍/卢伟冰:小米手机未来全面拥抱AI/问界儿童车即将上市",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-17T00:22:55+00:00"
+        },
+        {
+          "summary": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+          "published": "2026-08-16T21:07:10+00:00"
+        },
+        {
+          "summary": "The Case Against Formal Verification, 50 Years Later",
+          "source": "Hacker News: Front Page",
+          "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+          "published": "2026-08-16T20:38:58+00:00"
+        },
+        {
+          "summary": "我用 161 个新闻源「养」了个 AI 主编，它比我更懂什么叫「大新闻」｜附教程",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675326?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-16T14:47:36+00:00"
+        },
+        {
+          "summary": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+          "published": "2026-08-16T10:00:59+00:00"
+        },
+        {
+          "summary": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+          "source": "WIRED",
+          "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
+          "published": "2026-08-16T09:33:00+00:00"
+        },
+        {
+          "summary": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+          "published": "2026-08-16T11:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI reportedly disbanded its preparedness team",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+          "published": null
+        },
+        {
+          "summary": "Rogue AI aren’t science fiction anymore",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "随着投资者思考美联储下一步行动，美国股指期货几乎没有变化",
+          "summary_en": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+          "published": "2026-08-17T00:22:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.4
+        },
+        {
+          "summary_zh": "分析师表示，鸽派央行可能会削弱泰铢涨势",
+          "summary_en": "Thai Baht Rally May Fade on Dovish Central Bank, Analysts Say",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say",
+          "published": "2026-08-17T00:04:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "切换银行账户如何让您赚取高达 220 英镑",
+          "summary_en": "How switching your bank account could earn you up to £220",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-16T23:14:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
+          "published": "2026-08-16T22:42:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.99
+        },
+        {
+          "summary_zh": "热带风暴拉拉袭击夏威夷、黎巴嫩 以色列袭击更多",
+          "summary_en": "Tropical Storm Lala Hits Hawaii, Lebanon Struck By Israel, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-16/tropical-storm-lala-hits-hawaii-lebanon-struck-by-israel-more-mswgo4jt",
+          "published": "2026-08-16T23:53:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.29
+        },
+        {
+          "summary_zh": "标准普尔 500 指数连续三周上涨后，股票期货几乎没有变化：实时更新",
+          "summary_en": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+          "published": "2026-08-17T00:21:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.9
+        },
+        {
+          "summary_zh": "作为 A.I.数据中心蔓延，分享利润的压力越来越大",
+          "summary_en": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+          "published": "2026-08-16T09:00:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.57
+        },
+        {
+          "summary_zh": "药明康德股价100%上涨，克服地缘政治阻力",
+          "summary_en": "WuXi AppTec’s 100% Stock Rally Defies Geopolitical Headwinds",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/wuxi-apptec-s-100-stock-rally-defies-geopolitical-headwinds",
+          "published": "2026-08-16T23:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "我现在可以领取我丈夫社会保障金的 50%，并在 70 岁时转到更高的福利金吗？",
+          "summary_en": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+          "published": "2026-08-16T18:15:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.88
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Iranian parliament advances bill to curb foreign influence - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+          "published": "2026-08-16T16:43:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.49
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
+          "published": "2026-08-17T00:22:00+00:00"
+        },
+        {
+          "summary": "Thai Baht Rally May Fade on Dovish Central Bank, Analysts Say",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-17/thai-baht-rally-may-fade-on-dovish-central-bank-analysts-say",
+          "published": "2026-08-17T00:04:23+00:00"
+        },
+        {
+          "summary": "WuXi AppTec’s 100% Stock Rally Defies Geopolitical Headwinds",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/wuxi-apptec-s-100-stock-rally-defies-geopolitical-headwinds",
+          "published": "2026-08-16T23:00:00+00:00"
+        },
+        {
+          "summary": "How switching your bank account could earn you up to £220",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-16T23:14:47+00:00"
+        },
+        {
+          "summary": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
+          "published": "2026-08-16T22:42:42+00:00"
+        },
+        {
+          "summary": "Tropical Storm Lala Hits Hawaii, Lebanon Struck By Israel, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-16/tropical-storm-lala-hits-hawaii-lebanon-struck-by-israel-more-mswgo4jt",
+          "published": "2026-08-16T23:53:52+00:00"
+        },
+        {
+          "summary": "Tropical Storm Lala Kills One, Lebanon Hit by Israel, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-16/tropical-storm-lala-kills-one-lebanon-hit-by-israel-more",
+          "published": "2026-08-16T23:01:33+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after S&P 500 posts three-week win streak: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html",
+          "published": "2026-08-17T00:21:06+00:00"
+        },
+        {
+          "summary": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+          "published": "2026-08-16T18:15:00+00:00"
+        },
+        {
+          "summary": "Iranian parliament advances bill to curb foreign influence - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
+          "published": "2026-08-16T16:43:44+00:00"
+        },
+        {
+          "summary": "Believe the unbelievable in this market — things can be different this time",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-this-market-things-can-be-different.html",
+          "published": "2026-08-16T21:32:25+00:00"
+        },
+        {
+          "summary": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
+          "published": "2026-08-16T09:00:38+00:00"
+        },
+        {
+          "summary": "Changing pubs into homes to be made harder under new rules",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-16T15:04:13+00:00"
+        },
+        {
+          "summary": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
+          "published": "2026-08-16T09:01:55+00:00"
+        },
+        {
+          "summary": "Nutella's empire is making a multibillion-dollar play for America's snack market",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/ferrero-nutella-buying-america-brands-nestle-kellogg-fannie-may-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Anti-Israel nonprofit under federal investigation over financial dealings: report",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/anti-israel-nonprofit-under-federal-182541040.html",
+          "published": null
+        },
+        {
+          "summary": "I quit my 6-figure investment banking job after only 4 months. I'm making less now, but I'm building a future that'll pay off.",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/lifestyle/articles/quit-6-figure-investment-banking-091501611.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "当人工智能模型不被允许反思自己时，就会改变他们的整个世界观",
+          "summary_en": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+          "published": "2026-08-16T11:23:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.16
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "李飞飞最新访谈：AI咋能代替人呢？",
+          "summary_en": "Li Feifei’s latest interview: How can AI replace people?",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474140.html",
+          "published": "2026-08-16T10:45:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.0
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "顶级数学家表示法学硕士的计算能力很强，但创造性思维能力较差",
+          "summary_en": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+          "published": "2026-08-16T15:31:21+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.19
+        },
+        {
+          "summary_zh": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "summary_en": "After \"Bilibili teaches AI\" went viral, He Jing, an associate professor born in the 1990s at Beihang University, responded to everything",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474064.html",
+          "published": "2026-08-16T10:36:47+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.97
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+          "published": "2026-08-16T11:23:30+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+          "published": "2026-08-16T15:31:21+00:00"
+        },
+        {
+          "summary": "李飞飞最新访谈：AI咋能代替人呢？",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474140.html",
+          "published": "2026-08-16T10:45:47+00:00"
+        },
+        {
+          "summary": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474064.html",
+          "published": "2026-08-16T10:36:47+00:00"
+        }
+      ]
+    }
+  }
+}
