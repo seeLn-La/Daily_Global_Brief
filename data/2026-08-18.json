@@ -1,0 +1,630 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T00:44:09.315653+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Groq 融资 3.5 亿美元，推动从 AI 芯片转向 Neocloud",
+          "summary_en": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "published": "2026-08-17T16:15:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.38
+        },
+        {
+          "summary_zh": "Sonos 再次将扬声器控制置于 iPhone 的锁定屏幕上",
+          "summary_en": "Sonos put speaker controls on your iPhone's lock screen (again)",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2238514/sonos-put-speaker-controls-on-your-iphone-lock-screen-again/",
+          "published": "2026-08-17T18:30:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "CDC数据显示，随着豁免继续增加，美国疫苗接种率再次下降",
+          "summary_en": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+          "published": "2026-08-17T22:08:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.85
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "What Flock’s defenders are missing",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "published": "2026-08-17T19:16:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "用于 Linux 的 scScript",
+          "summary_en": "scScript for Linux",
+          "source": "Hacker News: Front Page",
+          "url": "https://scapplications.com/",
+          "published": "2026-08-17T22:18:05+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+          "summary_en": "Netizens turned DeepSeek Harness into Cyber ​​Lego, and we picked out the 11 most interesting plug-ins.",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-18T00:39:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.48
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "This R-Rated Film Studio Wants to Be the HBO of AI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+          "published": "2026-08-17T20:18:17+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.39
+        },
+        {
+          "summary_zh": "AI自动化初创公司Relay关闭，员工加入谷歌Chrome团队",
+          "summary_en": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "published": "2026-08-17T21:27:05+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "为什么曲面电视失败了，但曲面游戏显示器却蓬勃发展",
+          "summary_en": "Why curved TVs failed but curved gaming monitors thrived",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
+          "published": "2026-08-17T18:30:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.94
+        },
+        {
+          "summary_zh": "前 SpaceX 工程师正在建造一家机器人工厂，用于制造钢铁零件",
+          "summary_en": "Former SpaceX engineers are building a robotic factory for making steel parts",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+          "published": "2026-08-17T21:18:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.65
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "published": "2026-08-17T16:15:12+00:00"
+        },
+        {
+          "summary": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "published": "2026-08-17T21:27:05+00:00"
+        },
+        {
+          "summary": "Sonos put speaker controls on your iPhone's lock screen (again)",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2238514/sonos-put-speaker-controls-on-your-iphone-lock-screen-again/",
+          "published": "2026-08-17T18:30:48+00:00"
+        },
+        {
+          "summary": "Why curved TVs failed but curved gaming monitors thrived",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
+          "published": "2026-08-17T18:30:00+00:00"
+        },
+        {
+          "summary": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+          "published": "2026-08-17T22:08:47+00:00"
+        },
+        {
+          "summary": "Former SpaceX engineers are building a robotic factory for making steel parts",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+          "published": "2026-08-17T21:18:49+00:00"
+        },
+        {
+          "summary": "What Flock’s defenders are missing",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+          "published": "2026-08-17T19:16:09+00:00"
+        },
+        {
+          "summary": "scScript for Linux",
+          "source": "Hacker News: Front Page",
+          "url": "https://scapplications.com/",
+          "published": "2026-08-17T22:18:05+00:00"
+        },
+        {
+          "summary": "Fairphone 6 and PostmarketOS working main camera",
+          "source": "Hacker News: Front Page",
+          "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+          "published": "2026-08-17T22:01:17+00:00"
+        },
+        {
+          "summary": "网友把DeepSeek Harness玩成了赛博乐高，我们挑出了最有意思的11 个插件",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675387?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-18T00:39:58+00:00"
+        },
+        {
+          "summary": "This R-Rated Film Studio Wants to Be the HBO of AI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+          "published": "2026-08-17T20:18:17+00:00"
+        },
+        {
+          "summary": "The Download: dead robot friends and the “censorship-industrial complex”",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+          "published": "2026-08-17T12:10:00+00:00"
+        },
+        {
+          "summary": "What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/",
+          "published": "2026-08-17T21:28:42+00:00"
+        },
+        {
+          "summary": "《牛来》爆火之后，我更理解为什么 AI 视频需要自己的 Blender",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675279?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-17T09:11:09+00:00"
+        },
+        {
+          "summary": "Reddit’s AI is turning posts into podcasts and short videos",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+          "published": null
+        },
+        {
+          "summary": "ABC’s livestreamed news show is powered by trending topics",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Anthropic Revenue Boom Boosts AI Stocks | Bloomberg Businessweek Daily 8/17/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-businessweek-daily-8-17-2026-video",
+          "published": "2026-08-17T20:24:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.42
+        },
+        {
+          "summary_zh": "标准普尔 500 指数中“负贝塔”股票的数量刚刚创下新高。这对投资者意味着什么。",
+          "summary_en": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+          "published": "2026-08-17T21:15:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.63
+        },
+        {
+          "summary_zh": "通胀加速，加元稳定在两个月高位附近 - 路透中文网",
+          "summary_en": "Canadian dollar steadies near two-month high as inflation accelerates - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWVkUi12N2haY1ZROVRPcDhwVlp1aXpMeGNZN2RNLXozZHZNVDQ4WW9HZGhjYjc2ajVxelpGUkd4MUJSQ3p1bldxU2gtWU5fQlZrNW94UnB0QVlhRkZHRHkxaEdpUDFEbF9HSHVma21uMkt6aGJQRkNTZ1hNNjBEaXZncXNWWE1aMVgzNTNxNU95R1BJakZoclNsbHp3Z2UyUU5v?oc=5",
+          "published": "2026-08-17T21:55:26+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.8
+        },
+        {
+          "summary_zh": "“绝对疯狂”：韩国股票投资者在美国市场的做法如下",
+          "summary_en": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+          "published": "2026-08-17T23:39:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.73
+        },
+        {
+          "summary_zh": "市场一直在发展。是时候对冲你的赌注了吗？",
+          "summary_en": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html",
+          "published": "2026-08-17T20:23:02+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.41
+        },
+        {
+          "summary_zh": "市场收低，美伊和平前景黯淡",
+          "summary_en": "Markets Close Lower, US-Iran Peace Prospects Dim, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-17/markets-close-lower-us-iran-peace-prospects-dim-more-msxo3n7q",
+          "published": "2026-08-17T20:09:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "英格兰残疾人士可享受24小时免费巴士出行",
+          "summary_en": "Disabled people in England to get 24-hour free bus travel",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T00:32:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "世界上最有影响力的经济学家奇怪地缺乏说服力",
+          "summary_en": "The world’s most influential economist is oddly unconvincing",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
+          "published": "2026-08-17T17:34:22+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.21
+        },
+        {
+          "summary_zh": "随着投资者对人工智能支出更有信心，美光、Sandisk 和其他芯片股上涨",
+          "summary_en": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+          "published": "2026-08-17T20:43:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.5
+        },
+        {
+          "summary_zh": "随着石油和国债收益率上升，股市下跌结束钟声",
+          "summary_en": "Stocks Slip as Oil and Treasury Yields Rise | Closing Bell",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-17/stocks-slip-as-oil-treasury-yields-rise-closing-bell-video",
+          "published": "2026-08-17T20:27:01+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.43
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic Revenue Boom Boosts AI Stocks | Bloomberg Businessweek Daily 8/17/2026",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-businessweek-daily-8-17-2026-video",
+          "published": "2026-08-17T20:24:47+00:00"
+        },
+        {
+          "summary": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+          "published": "2026-08-17T21:15:00+00:00"
+        },
+        {
+          "summary": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+          "published": "2026-08-17T20:43:00+00:00"
+        },
+        {
+          "summary": "Stocks Slip as Oil and Treasury Yields Rise | Closing Bell",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-17/stocks-slip-as-oil-treasury-yields-rise-closing-bell-video",
+          "published": "2026-08-17T20:27:01+00:00"
+        },
+        {
+          "summary": "Canadian dollar steadies near two-month high as inflation accelerates - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLWVkUi12N2haY1ZROVRPcDhwVlp1aXpMeGNZN2RNLXozZHZNVDQ4WW9HZGhjYjc2ajVxelpGUkd4MUJSQ3p1bldxU2gtWU5fQlZrNW94UnB0QVlhRkZHRHkxaEdpUDFEbF9HSHVma21uMkt6aGJQRkNTZ1hNNjBEaXZncXNWWE1aMVgzNTNxNU95R1BJakZoclNsbHp3Z2UyUU5v?oc=5",
+          "published": "2026-08-17T21:55:26+00:00"
+        },
+        {
+          "summary": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+          "published": "2026-08-17T23:39:54+00:00"
+        },
+        {
+          "summary": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html",
+          "published": "2026-08-17T20:23:02+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/17/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-17T23:48:03+00:00"
+        },
+        {
+          "summary": "US, Canada try to bridge gaps over potential autos tariff cuts, sources say - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSm5ZNExMMzV0SmI1LTlhYjF5aXJBQl9XMG9VeFFCQ2RuZDIzN2R6R0txOF9IZmdjVFg4TUtKWVdrN19iS2VVZzRVWmdybGRNWkVqNVdqS2tCaV8xY3BNUW9xaWY2R1p2SnJWcnJDdjRkTWlHS1A0S1dGaHM5Q3oxdlpJV1Ita1pScTNqY2N0Rl90YXJZQmdQakd6cWd2R2N0UDRjMlV3cjFBU1lUZXhwMHRLZUZLdw?oc=5",
+          "published": "2026-08-17T21:35:54+00:00"
+        },
+        {
+          "summary": "Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html",
+          "published": "2026-08-17T21:05:53+00:00"
+        },
+        {
+          "summary": "Markets Close Lower, US-Iran Peace Prospects Dim, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-17/markets-close-lower-us-iran-peace-prospects-dim-more-msxo3n7q",
+          "published": "2026-08-17T20:09:39+00:00"
+        },
+        {
+          "summary": "US-Iran Peace Prospects Dim, Anthropic Revenue Surges, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-18/us-iran-peace-prospects-dim-anthropic-revenue-surges-more",
+          "published": "2026-08-18T00:06:20+00:00"
+        },
+        {
+          "summary": "Disabled people in England to get 24-hour free bus travel",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T00:32:51+00:00"
+        },
+        {
+          "summary": "Business Daily",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8gg6?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-17T20:30:00+00:00"
+        },
+        {
+          "summary": "The world’s most influential economist is oddly unconvincing",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/17/the-worlds-most-influential-economist-is-oddly-unconvincing",
+          "published": "2026-08-17T17:34:22+00:00"
+        },
+        {
+          "summary": "Fidji Simo says she believes AI can 'cure all diseases,' agreeing with Anthropic CEO Dario Amodei",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/fidji-simo-ai-curing-diseases-cancer-pots-dario-amodei-2026-8",
+          "published": null
+        },
+        {
+          "summary": "David Ellison's Paramount wants its WBD merger challengers to put up nearly $1.9 billion",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/david-ellison-paramount-states-writers-ticking-fee-lawsuit-wbd-bond-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Canada's July annual inflation accelerates to 3% as gasoline rebounds",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/canadas-july-annual-inflation-accelerates-124206074.html",
+          "published": null
+        },
+        {
+          "summary": "Billionaire investor Leon Cooperman sees a recession in 2027 and a stock drop ahead",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/billionaire-investor-leon-cooperman-sees-171551947.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "基于物理的人工智能方法加速热能存储设计优化",
+          "summary_en": "Physics-informed AI method speeds thermal energy storage design optimization",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-physics-ai-method-thermal-energy.html",
+          "published": "2026-08-17T13:40:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "阿里巴巴Qwen 3.8 27B模型瞄准边缘AI",
+          "summary_en": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+          "published": "2026-08-17T18:11:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本",
+          "summary_en": "AirTag reveals how Amazon destroys rare books for AI training",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+          "published": "2026-08-17T14:43:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "我实际上可以用小语言模型做什么？",
+          "summary_en": "What Can I Actually Do with a Small Language Model?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
+          "published": "2026-08-17T14:00:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        },
+        {
+          "summary_zh": "问答：重新思考创新如何发生",
+          "summary_en": "Q&A: Rethinking how innovation happens",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+          "published": "2026-08-17T15:50:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.78
+        },
+        {
+          "summary_zh": "语音转文本 AI 专家现估值 20 亿美元",
+          "summary_en": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+          "published": "2026-08-17T20:35:02+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.46
+        },
+        {
+          "summary_zh": "工程师通过重新设计算法和硬件使边缘人工智能更加高效",
+          "summary_en": "Engineers make edge AI more efficient by redesigning both algorithm and hardware",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html",
+          "published": "2026-08-17T12:20:06-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.9
+        },
+        {
+          "summary_zh": "OpenAI 与 Nvidia 签订了创纪录的俄亥俄州数据中心租约，价值高达 1050 亿美元",
+          "summary_en": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+          "published": "2026-08-17T14:13:26+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.87
+        },
+        {
+          "summary_zh": "在 NVIDIA DGX Spark 上运行具有更快模型和多节点集群的本地 AI 代理",
+          "summary_en": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Physics-informed AI method speeds thermal energy storage design optimization",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-physics-ai-method-thermal-energy.html",
+          "published": "2026-08-17T13:40:01-04:00"
+        },
+        {
+          "summary": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+          "published": "2026-08-17T18:11:27+00:00"
+        },
+        {
+          "summary": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+          "published": "2026-08-17T20:35:02+00:00"
+        },
+        {
+          "summary": "AirTag reveals how Amazon destroys rare books for AI training",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+          "published": "2026-08-17T14:43:04+00:00"
+        },
+        {
+          "summary": "Engineers make edge AI more efficient by redesigning both algorithm and hardware",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-edge-ai-efficient-redesigning-algorithm.html",
+          "published": "2026-08-17T12:20:06-04:00"
+        },
+        {
+          "summary": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-signs-record-ohio-data-center-lease-with-nvidia-backing-up-to-105-billion/",
+          "published": "2026-08-17T14:13:26+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "What Can I Actually Do with a Small Language Model?",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
+          "published": "2026-08-17T14:00:36+00:00"
+        },
+        {
+          "summary": "Q&A: Rethinking how innovation happens",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+          "published": "2026-08-17T15:50:00-04:00"
+        },
+        {
+          "summary": "The Defender’s Window",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/the-defenders-window",
+          "published": "2026-08-17T05:30:00+00:00"
+        },
+        {
+          "summary": "OpenAI joins PORTS-Pike project",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "published": "2026-08-17T05:00:00+00:00"
+        },
+        {
+          "summary": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474381.html",
+          "published": "2026-08-17T08:36:07+00:00"
+        },
+        {
+          "summary": "5 Python Libraries That Make Data Cleaning More Enjoyable",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable",
+          "published": "2026-08-17T12:00:53+00:00"
+        },
+        {
+          "summary": "终于！世界模型进入“有声时代”：24FPS画面+48kHz立体声实时生成",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474334.html",
+          "published": "2026-08-17T07:39:56+00:00"
+        }
+      ]
+    }
+  }
+}
