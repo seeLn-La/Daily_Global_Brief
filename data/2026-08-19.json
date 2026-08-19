@@ -1,0 +1,630 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T00:44:23.286443+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+          "summary_en": "Morning Post｜This year’s Mid-Autumn Festival will be closed for 3 consecutive days, no adjustments will be made/AirPods with cameras are spoiled by Apple itself/Lu Weibing: The next generation of Xuanjie chip will be released soon",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-19T00:23:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.41
+        },
+        {
+          "summary_zh": "Spotify 的跑步模式现已在 Android 上推出",
+          "summary_en": "Spotify's Running Mode is now available on Android",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
+          "published": "2026-08-18T19:36:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.22
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+          "published": "2026-08-18T22:18:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.89
+        },
+        {
+          "summary_zh": "Cursor 利用 GitHub 的挫败感推出竞争对手托管平台",
+          "summary_en": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "published": "2026-08-18T22:14:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "软件团队中的人工智能使用模式",
+          "summary_en": "AI usage patterns in software teams",
+          "source": "Hacker News: Front Page",
+          "url": "https://linear.app/data",
+          "published": "2026-08-18T22:08:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.85
+        },
+        {
+          "summary_zh": "下载：人们如何真正使用人工智能，以及 Flock 的设计选择",
+          "summary_en": "The Download: how people really use AI, and Flock’s design choices",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+          "published": "2026-08-18T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "OpenAI 在其人工智能代理失控后彻底修改了安全协议",
+          "summary_en": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+          "published": "2026-08-18T18:33:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.95
+        },
+        {
+          "summary_zh": "GTA 6 游戏玩法在新预告片发布前泄露，Rockstar 正在删除这些视频",
+          "summary_en": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
+          "published": "2026-08-18T20:29:54+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.44
+        },
+        {
+          "summary_zh": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+          "summary_en": "Bulls come and go, AI stock god lost 30 billion, insider exposure: success is AI, failure is AI",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-19T00:36:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.47
+        },
+        {
+          "summary_zh": "Solo – 静态 Linux 二进制文件的 .so 加载器",
+          "summary_en": "Solo – a .so loader for static Linux binaries",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/pg83/solo",
+          "published": "2026-08-18T23:51:49+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.28
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜今年中秋节连休3天,不调休/带摄像头AirPods被苹果自己剧透/卢伟冰:下一代玄戒芯片即将发布",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675531?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-19T00:23:43+00:00"
+        },
+        {
+          "summary": "Spotify's Running Mode is now available on Android",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
+          "published": "2026-08-18T19:36:58+00:00"
+        },
+        {
+          "summary": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
+          "published": "2026-08-18T20:29:54+00:00"
+        },
+        {
+          "summary": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+          "published": "2026-08-18T22:18:13+00:00"
+        },
+        {
+          "summary": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "published": "2026-08-18T22:14:25+00:00"
+        },
+        {
+          "summary": "AI usage patterns in software teams",
+          "source": "Hacker News: Front Page",
+          "url": "https://linear.app/data",
+          "published": "2026-08-18T22:08:07+00:00"
+        },
+        {
+          "summary": "牛来了又走了，AI 股神暴亏 300 亿内幕曝光：成也 AI，败也 AI",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675462?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-19T00:36:53+00:00"
+        },
+        {
+          "summary": "Solo – a .so loader for static Linux binaries",
+          "source": "Hacker News: Front Page",
+          "url": "https://github.com/pg83/solo",
+          "published": "2026-08-18T23:51:49+00:00"
+        },
+        {
+          "summary": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+          "published": "2026-08-18T19:01:09+00:00"
+        },
+        {
+          "summary": "OpenAI institutes new safeguards after Hugging Face breach",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+          "published": "2026-08-18T18:00:00+00:00"
+        },
+        {
+          "summary": "The Download: how people really use AI, and Flock’s design choices",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+          "published": "2026-08-18T12:10:00+00:00"
+        },
+        {
+          "summary": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+          "published": "2026-08-18T18:33:11+00:00"
+        },
+        {
+          "summary": "We still don’t know how people are really using AI",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "published": "2026-08-18T10:06:43+00:00"
+        },
+        {
+          "summary": "Squeeze More Juice Out of Your Dead Batteries—Using Physics",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
+          "published": "2026-08-18T20:11:03+00:00"
+        },
+        {
+          "summary": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "published": null
+        },
+        {
+          "summary": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "由于债券市场焦虑打击人工智能情绪，日本股市下滑",
+          "summary_en": "Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
+          "published": "2026-08-19T00:22:43+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.41
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+          "published": "2026-08-19T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.32
+        },
+        {
+          "summary_zh": "美加协议希望破灭，芯片溃败导致股市下跌，更多",
+          "summary_en": "US-Canada Deal Hopes Fade, Chip Rout Pulls Stocks Down, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-18/us-canada-deal-hopes-fade-chip-rout-pulls-stocks-down-more",
+          "published": "2026-08-18T22:54:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.04
+        },
+        {
+          "summary_zh": "随着美国新关税截止日期临近，卡尼和特朗普再次交谈",
+          "summary_en": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+          "published": "2026-08-18T23:19:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "周三的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/18/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-18T23:07:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.6
+        },
+        {
+          "summary_zh": "Kalshi 申请股指永续合约以挑战传统交易所 - 路透中文网",
+          "summary_en": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
+          "published": "2026-08-18T20:02:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "股指不再反映股票现实",
+          "summary_en": "Stock indices no longer reflect equity reality",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+          "published": "2026-08-18T17:50:12+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "关键技术通过转入地下保持安全",
+          "summary_en": "The critical tech staying safe by going underground",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T23:25:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.17
+        },
+        {
+          "summary_zh": "乌拉圭保持利率稳定，通胀低于目标",
+          "summary_en": "Uruguay Holds Interest Rates Steady With Inflation Below Target",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/uruguay-holds-interest-rates-steady-with-inflation-below-target",
+          "published": "2026-08-18T21:23:18+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.66
+        },
+        {
+          "summary_zh": "Meta 正面临“大烟草”时刻——投资者可以获利",
+          "summary_en": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+          "published": "2026-08-18T21:59:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.81
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
+          "published": "2026-08-19T00:22:43+00:00"
+        },
+        {
+          "summary": "Uruguay Holds Interest Rates Steady With Inflation Below Target",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-18/uruguay-holds-interest-rates-steady-with-inflation-below-target",
+          "published": "2026-08-18T21:23:18+00:00"
+        },
+        {
+          "summary": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+          "published": "2026-08-19T00:00:00+00:00"
+        },
+        {
+          "summary": "US-Canada Deal Hopes Fade, Chip Rout Pulls Stocks Down, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-18/us-canada-deal-hopes-fade-chip-rout-pulls-stocks-down-more",
+          "published": "2026-08-18T22:54:50+00:00"
+        },
+        {
+          "summary": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+          "published": "2026-08-18T21:59:00+00:00"
+        },
+        {
+          "summary": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+          "published": "2026-08-18T23:19:12+00:00"
+        },
+        {
+          "summary": "Meta's Landmark Trial, Chip Selloff Tanks Stocks, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-18/meta-s-landmark-trial-chip-selloff-tanks-stocks-more",
+          "published": "2026-08-18T22:10:33+00:00"
+        },
+        {
+          "summary": "Theater Chains Back Paramount-Warner Deal That States Say Will Hurt Them",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/18/business/cinemark-paramount-warner-deal-movie-theater-chains.html",
+          "published": "2026-08-18T21:59:12+00:00"
+        },
+        {
+          "summary": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/18/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-18T23:07:35+00:00"
+        },
+        {
+          "summary": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
+          "published": "2026-08-18T20:02:35+00:00"
+        },
+        {
+          "summary": "Chip designer Velaura AI valued at more than $1 billion in funding round - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX28yMGo4RXFXbUVkRHBvQnpCNVlQX3JEOC1TRlFsR3hJMVFPM3JrNENOM3ZRalJiVU55SlFVM19sR25XWFhnZzFlRWNlR1AtWUc1QTViVmItdEZpWXpVVGFfOXFuc0xfc0dlUnBQalAxR1Jfam12VlVqV3VGS0VBdjlvcGV6RmFPMjJVbFB4MUU0UkhqdDFEamJkaEFITEhYSERldEpUZVg4ZmtUNC1UcURfRmc3QUxSUEViMGdwVThKWTdGVXc?oc=5",
+          "published": "2026-08-18T23:16:57+00:00"
+        },
+        {
+          "summary": "Stock indices no longer reflect equity reality",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/stock-indices-no-longer-reflect-equity-reality",
+          "published": "2026-08-18T17:50:12+00:00"
+        },
+        {
+          "summary": "The critical tech staying safe by going underground",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T23:25:21+00:00"
+        },
+        {
+          "summary": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-18T23:14:49+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after S&P 500 posts third straight losing day: Live updates",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
+          "published": "2026-08-19T00:26:54+00:00"
+        },
+        {
+          "summary": "The White House’s absurd claim of a Chinese transshipment “scam”",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+          "published": "2026-08-18T15:42:49+00:00"
+        },
+        {
+          "summary": "Bashing AI data centers makes its way into brand marketing with new Jason Kelce ad",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/jason-kelce-garage-beer-liquid-death-embrace-ai-bashing-ads-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Flock CEO says drones are its fastest-growing business as it expands beyond license plate cameras",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/flock-ceo-drones-fastest-growing-business-2026-8",
+          "published": null
+        },
+        {
+          "summary": "With the national debt nearing $40 trillion, Bank of America has a warning for bond investors",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/national-debt-nearing-40-trillion-191211352.html",
+          "published": null
+        },
+        {
+          "summary": "Battered by war, Iran’s rulers wary of more economic pain and unrest if US tightens pressure",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/battered-war-iran-rulers-wary-153714319.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+          "published": "2026-08-18T18:43:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.0
+        },
+        {
+          "summary_zh": "OpenAI 推出针对青少年的 ChatGPT，承诺推出更适合年龄的聊天机器人",
+          "summary_en": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-openai-chatgpt-teens-age-chatbot.html",
+          "published": "2026-08-18T11:29:39-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "加强国家安全民主监督",
+          "summary_en": "Strengthening democratic oversight in national security",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "published": "2026-08-18T19:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "Nvidia 将向 OpenAI 数据中心提供 105B 美元融资",
+          "summary_en": "Nvidia to Back OpenAI Data Center With $105B Financing",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
+          "published": "2026-08-18T15:00:09+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "只需 3 个命令即可将 Qwen3.8-27B 作为本地 AI 编码代理运行",
+          "summary_en": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
+          "published": "2026-08-18T14:00:29+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+          "summary_en": "Everyone can write good songs, Alibaba releases AI music model HappyShrimp",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474840.html",
+          "published": "2026-08-18T09:38:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.73
+        },
+        {
+          "summary_zh": "新基准根据质量、成本和速度对 AI 代理的搜索 API 进行排名",
+          "summary_en": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+          "published": "2026-08-18T18:10:56+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "当人工智能艺术没有作者时：研究发现生成的图像通常无法追溯到训练数据",
+          "summary_en": "When AI art has no author: Study finds generated images often can't be traced to training data",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-art-author-generated-images.html",
+          "published": "2026-08-18T14:40:10-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "网络关键能力时代的模型开发节奏",
+          "summary_en": "Pacing model development in an era of cyber-critical capabilities",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "published": "2026-08-18T11:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.07
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+          "published": "2026-08-18T18:43:06+00:00"
+        },
+        {
+          "summary": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+          "published": "2026-08-18T18:10:56+00:00"
+        },
+        {
+          "summary": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-openai-chatgpt-teens-age-chatbot.html",
+          "published": "2026-08-18T11:29:39-04:00"
+        },
+        {
+          "summary": "When AI art has no author: Study finds generated images often can't be traced to training data",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-art-author-generated-images.html",
+          "published": "2026-08-18T14:40:10-04:00"
+        },
+        {
+          "summary": "Strengthening democratic oversight in national security",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "published": "2026-08-18T19:00:00+00:00"
+        },
+        {
+          "summary": "Nvidia to Back OpenAI Data Center With $105B Financing",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
+          "published": "2026-08-18T15:00:09+00:00"
+        },
+        {
+          "summary": "Pacing model development in an era of cyber-critical capabilities",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "published": "2026-08-18T11:00:00+00:00"
+        },
+        {
+          "summary": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
+          "published": "2026-08-18T18:21:32+00:00"
+        },
+        {
+          "summary": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
+          "published": "2026-08-18T14:00:29+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/run-local-ai-agents-with-faster-models-and-multi-node-clustering-on-nvidia-dgx-spark/",
+          "published": null
+        },
+        {
+          "summary": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474840.html",
+          "published": "2026-08-18T09:38:21+00:00"
+        },
+        {
+          "summary": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/474857.html",
+          "published": "2026-08-18T10:04:14+00:00"
+        },
+        {
+          "summary": "5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong",
+          "published": "2026-08-18T12:00:12+00:00"
+        }
+      ]
+    }
+  }
+}
