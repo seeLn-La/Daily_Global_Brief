@@ -1,0 +1,636 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T00:44:02.785962+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Waymo Ojai 货车现已向三个城市的所有乘客开放",
+          "summary_en": "Waymo Ojai vans are now available for all riders in three cities",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
+          "published": "2026-08-19T21:07:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.6
+        },
+        {
+          "summary_zh": "框架回应有关 BIOS 更新导致 Ryzen 7040 笔记本电脑变砖的投诉",
+          "summary_en": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+          "published": "2026-08-19T20:21:59+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.41
+        },
+        {
+          "summary_zh": "早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​",
+          "summary_en": "Morning Post｜Bean bags are in Tesla cars/Apple’s camera-equipped AirPods are revealed to be postponed to 2027/Unishu Technology surged 460% on the first day of listing​",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-20T00:20:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.4
+        },
+        {
+          "summary_zh": "OpenAI 寻求通过新的客户隐私保护来超越 Anthropic",
+          "summary_en": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published": "2026-08-19T22:10:46+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "Raiders of the Lost Array：为我的孤儿 Drobo 编写 macOS 驱动程序",
+          "summary_en": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+          "source": "Hacker News: Front Page",
+          "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+          "published": "2026-08-20T00:18:16+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.39
+        },
+        {
+          "summary_zh": "我在可以当场学习的机器人中看到了人工智能的未来",
+          "summary_en": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "published": "2026-08-19T19:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "下载：人工智能的自我完善问题以及推动热度的原因",
+          "summary_en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+          "published": "2026-08-19T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "机器人最终可以在医生办公室为你抽血",
+          "summary_en": "A robot could eventually conduct your blood draw at the doctor's office",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
+          "published": "2026-08-19T20:02:52+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.33
+        },
+        {
+          "summary_zh": "亚马逊的目标是到 2026 年底无人机送货服务覆盖美国 500 个社区",
+          "summary_en": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+          "published": "2026-08-19T22:02:38+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.83
+        },
+        {
+          "summary_zh": "由于车牌读取器面临审查，加德纳警方停止使用 Flock 摄像头",
+          "summary_en": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+          "published": "2026-08-19T23:38:22+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.23
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Waymo Ojai vans are now available for all riders in three cities",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
+          "published": "2026-08-19T21:07:58+00:00"
+        },
+        {
+          "summary": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
+          "published": "2026-08-19T20:21:59+00:00"
+        },
+        {
+          "summary": "早报｜豆包进了特斯拉车机/曝苹果带摄像头AirPods延期至2027/宇树科技上市首日大涨460%​",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675698?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-20T00:20:15+00:00"
+        },
+        {
+          "summary": "A robot could eventually conduct your blood draw at the doctor's office",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
+          "published": "2026-08-19T20:02:52+00:00"
+        },
+        {
+          "summary": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "published": "2026-08-19T22:25:01+00:00"
+        },
+        {
+          "summary": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "published": "2026-08-19T22:10:46+00:00"
+        },
+        {
+          "summary": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+          "published": "2026-08-19T22:02:38+00:00"
+        },
+        {
+          "summary": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+          "source": "Hacker News: Front Page",
+          "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+          "published": "2026-08-20T00:18:16+00:00"
+        },
+        {
+          "summary": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+          "published": "2026-08-19T19:30:00+00:00"
+        },
+        {
+          "summary": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+          "published": "2026-08-19T12:10:00+00:00"
+        },
+        {
+          "summary": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+          "published": "2026-08-19T23:38:22+00:00"
+        },
+        {
+          "summary": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
+          "published": "2026-08-19T23:00:00+00:00"
+        },
+        {
+          "summary": "Child-monitoring apps might need a reboot",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+          "published": "2026-08-19T09:00:00+00:00"
+        },
+        {
+          "summary": "预售 21.99 万元起，全新一代智己 L6 把全线控底盘带进 20 万级，还有一个高定限量版",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675639?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-19T09:49:39+00:00"
+        },
+        {
+          "summary": "Grab an iPad Air M4 for its lowest price since the June increase",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
+          "published": null
+        },
+        {
+          "summary": "OpenAI hit the brakes. Now what?",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "债券上涨后亚洲股市上涨，美元稳定：市场结束",
+          "summary_en": "Asian Stocks Rise After Bond Rally, Dollar Steady: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-19T22:12:30+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.87
+        },
+        {
+          "summary_zh": "美国财政部缓解债券投资者压力后市场反弹",
+          "summary_en": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+          "published": "2026-08-19T20:50:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.53
+        },
+        {
+          "summary_zh": "随着收益率下降，华尔街上涨，Moderna 提振医疗保健股 - 路透中文网",
+          "summary_en": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+          "published": "2026-08-19T22:58:28+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "ServiceNow 的股票引领软件上涨。这就是激励投资者的因素。",
+          "summary_en": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+          "published": "2026-08-19T21:50:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.78
+        },
+        {
+          "summary_zh": "彭博商业周刊日报：美联储会议纪要发布（播客）",
+          "summary_en": "Bloomberg Businessweek Daily: Fed Minutes Released (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-businessweek-daily-fed-minutes-released-podcast",
+          "published": "2026-08-19T21:48:35+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.77
+        },
+        {
+          "summary_zh": "周四的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/19/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-19T23:46:23+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "特朗普威胁任何帮助伊朗的国家都会遭受“巨大的经济后果”",
+          "summary_en": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T00:25:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.42
+        },
+        {
+          "summary_zh": "为什么债券市场令富裕国家政客感到不安",
+          "summary_en": "Why bond markets are unnerving rich-world politicians",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+          "published": "2026-08-19T18:02:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "随着股市上涨和长期收益率回落，Moderna 飙升结束钟声",
+          "summary_en": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
+          "published": "2026-08-19T20:25:45+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.42
+        },
+        {
+          "summary_zh": "Marvell 股价因谷歌芯片交易消息而上涨，以及博通股价下跌",
+          "summary_en": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+          "published": "2026-08-19T21:26:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.68
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Asian Stocks Rise After Bond Rally, Dollar Steady: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-19T22:12:30+00:00"
+        },
+        {
+          "summary": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+          "published": "2026-08-19T20:50:56+00:00"
+        },
+        {
+          "summary": "Moderna Surges as Stocks Rise & Long-Term Yields Retreat | Closing Bell",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-19/moderna-surges-long-term-yields-retreat-closing-bell-video",
+          "published": "2026-08-19T20:25:45+00:00"
+        },
+        {
+          "summary": "Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5",
+          "published": "2026-08-19T22:58:28+00:00"
+        },
+        {
+          "summary": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+          "published": "2026-08-19T21:50:00+00:00"
+        },
+        {
+          "summary": "Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories",
+          "published": "2026-08-19T21:26:00+00:00"
+        },
+        {
+          "summary": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
+          "published": "2026-08-19T19:46:15+00:00"
+        },
+        {
+          "summary": "Chery's robot unit eyes IPO, targets overseas market for police robots - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYWR2cnpULThpZHY0Um43bzk3ZWcxVVNhVTltMVJhbkFhUWpvS3lUb1ROVWd3RmszSzhKMlpGOHUtZ1ZuZmsyemxDbDh4c2lBWG9HNVloSEhTOFFzcVhWTmRob1lmenhCUzBUb1B2SENQckhUemdMWTkxY2Y0eW1UQmVCeDBHMnUzY2R2emJfc3JKbFZDek1BeWtDdGtTZEJpRHZhd3BNN3MzVkF0cDRJVS15X3RYcmlSc1hRY2NGTHJ5YXNhRE5saXF3?oc=5",
+          "published": "2026-08-19T19:37:14+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: Fed Minutes Released (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-businessweek-daily-fed-minutes-released-podcast",
+          "published": "2026-08-19T21:48:35+00:00"
+        },
+        {
+          "summary": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/19/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-19T23:46:23+00:00"
+        },
+        {
+          "summary": "Trump, Carney Near Canada Trade Deal With 25% Steel, Aluminum Tariffs",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/trump-carney-near-canada-trade-deal-with-25-steel-aluminum-tariffs",
+          "published": "2026-08-19T21:20:14+00:00"
+        },
+        {
+          "summary": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T00:25:38+00:00"
+        },
+        {
+          "summary": "Canada and US say they are finalising a trade deal, but details remain murky",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T00:18:01+00:00"
+        },
+        {
+          "summary": "Why bond markets are unnerving rich-world politicians",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/19/why-bond-markets-are-unnerving-rich-world-politicians",
+          "published": "2026-08-19T18:02:58+00:00"
+        },
+        {
+          "summary": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+          "published": "2026-08-19T20:34:09+00:00"
+        },
+        {
+          "summary": "YouTube punches back at Netflix by offering top creators millions for exclusive deals",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/youtube-offering-financial-incentives-to-creators-stay-off-netflix-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Why Gen Z loves going to the movies, YouTube as Hollywood's new proving ground, and other insights from MoviePass's CEO",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/youtube-is-hollywoods-new-proving-ground-according-to-moviepass-ceo-2026-8",
+          "published": null
+        },
+        {
+          "summary": "With the national debt nearing $40 trillion, Bank of America has a warning for bond investors",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/policy/articles/national-debt-nearing-40-trillion-191211352.html",
+          "published": null
+        },
+        {
+          "summary": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/iran-loses-key-economic-lifeline-145534682.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "为前沿模型提供零数据保留",
+          "summary_en": "Offering Zero Data Retention for frontier models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "published": "2026-08-19T19:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.07
+        },
+        {
+          "summary_zh": "OpenAI 缩减人工智能开发规模，但可能为时已晚",
+          "summary_en": "OpenAI Scales Back AI Development, but it Could be Too Late",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+          "published": "2026-08-19T21:39:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.73
+        },
+        {
+          "summary_zh": "OpenAI 表示广告将于下周在欧洲的 ChatGPT 上推出",
+          "summary_en": "OpenAI says ads are coming to ChatGPT in Europe next week",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-openai-ads-chatgpt-europe-week.html",
+          "published": "2026-08-19T10:20:01-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "OpenAI修复了未经许可删除真实用户文件的Codex错误",
+          "summary_en": "OpenAI fixes Codex bug that deleted real user files without permission",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+          "published": "2026-08-19T18:18:34+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "在生产环境中构建和部署 AI 代理的 5 个工具",
+          "summary_en": "5 Tools for Building and Deploying AI Agents in Production",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
+          "published": "2026-08-19T12:00:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "人工智能距离治愈癌症还很遥远。这家初创公司表示，它知道需要做什么。",
+          "summary_en": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "published": "2026-08-19T12:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.32
+        },
+        {
+          "summary_zh": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+          "summary_en": "IDC releases China's top 50 AI companies in 2026: 360 is selected with \"intelligent + security\" dual-wheel drive",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/475901.html",
+          "published": "2026-08-19T08:34:36+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.46
+        },
+        {
+          "summary_zh": "攻击者如何说服人工智能代理违反规则",
+          "summary_en": "How attackers persuade AI agents to break the rules",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents.html",
+          "published": "2026-08-19T09:00:03-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "Anthropic 表示任何实验室现在都可以让语言模型代理运行整个蛋白质设计堆栈",
+          "summary_en": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+          "published": "2026-08-19T13:07:56+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.6
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Offering Zero Data Retention for frontier models",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "published": "2026-08-19T19:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI Scales Back AI Development, but it Could be Too Late",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+          "published": "2026-08-19T21:39:33+00:00"
+        },
+        {
+          "summary": "OpenAI says ads are coming to ChatGPT in Europe next week",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-openai-ads-chatgpt-europe-week.html",
+          "published": "2026-08-19T10:20:01-04:00"
+        },
+        {
+          "summary": "How attackers persuade AI agents to break the rules",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents.html",
+          "published": "2026-08-19T09:00:03-04:00"
+        },
+        {
+          "summary": "OpenAI fixes Codex bug that deleted real user files without permission",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+          "published": "2026-08-19T18:18:34+00:00"
+        },
+        {
+          "summary": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+          "published": "2026-08-19T13:07:56+00:00"
+        },
+        {
+          "summary": "5 Tools for Building and Deploying AI Agents in Production",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
+          "published": "2026-08-19T12:00:15+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "published": "2026-08-19T12:00:00+00:00"
+        },
+        {
+          "summary": "Replit expands access to software creation with GPT-5.6 Luna",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/replit",
+          "published": "2026-08-19T07:00:00+00:00"
+        },
+        {
+          "summary": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
+          "published": "2026-08-19T14:39:01+00:00"
+        },
+        {
+          "summary": "How to Answer AI System Design Interview Questions",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
+          "published": "2026-08-19T14:00:55+00:00"
+        },
+        {
+          "summary": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+          "published": "2026-08-19T10:00:00+00:00"
+        },
+        {
+          "summary": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null
+        },
+        {
+          "summary": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/475901.html",
+          "published": "2026-08-19T08:34:36+00:00"
+        },
+        {
+          "summary": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/475477.html",
+          "published": "2026-08-19T07:42:27+00:00"
+        }
+      ]
+    }
+  }
+}
