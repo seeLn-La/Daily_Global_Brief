@@ -1,0 +1,630 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T00:48:48.667753+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "published": "2026-08-21T00:13:44+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.35
+        },
+        {
+          "summary_zh": "据报道，Apple Music 将在今年晚些时候为所有人工智能制作的曲目添加标签",
+          "summary_en": "Apple Music will reportedly label any AI-made tracks later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
+          "published": "2026-08-20T21:50:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.76
+        },
+        {
+          "summary_zh": "美国禁令后，中国最受欢迎的人形机器人的美国经销商转向",
+          "summary_en": "US distributor of China’s most popular humanoid robots pivots after US ban",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+          "published": "2026-08-20T22:00:11+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "小型软件团队已经不复存在",
+          "summary_en": "There's no such thing as a small software team anymore",
+          "source": "Hacker News: Front Page",
+          "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+          "published": "2026-08-21T00:28:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.42
+        },
+        {
+          "summary_zh": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+          "summary_en": "Morning Post | iPhone 18 Pro is coming, Foxconn offers 8,800 yuan recruitment bonus/WeChat gray test AI photo retouching/Huawei launches wide straight phone",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-21T00:24:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "关于人工智能意识的争论是一个陷阱",
+          "summary_en": "Debates over AI consciousness are a trap",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "published": "2026-08-20T15:42:39+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "谷歌 Pixel 11 评测：小幅升级",
+          "summary_en": "Google Pixel 11 Review: Minor Upgrade",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/google-pixel-11/",
+          "published": "2026-08-20T23:15:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.11
+        },
+        {
+          "summary_zh": "特斯拉、Uber 和 Waymo 均获准在内华达州运营数千辆机器人出租车",
+          "summary_en": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+          "published": "2026-08-21T00:23:36+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.4
+        },
+        {
+          "summary_zh": "Meta 用于创建生成式 AI 迷你游戏的应用程序现已在美国推出",
+          "summary_en": "Meta's app for creating generative AI minigames is now available in the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
+          "published": "2026-08-20T18:55:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.03
+        },
+        {
+          "summary_zh": "他们在 9/11 事件中幸存下来； 25年后，他们的纽带依然未断",
+          "summary_en": "They survived 9/11; 25 years later, their bonds remain unbroken",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+          "published": "2026-08-20T21:25:25+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.65
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "published": "2026-08-21T00:13:44+00:00"
+        },
+        {
+          "summary": "Apple Music will reportedly label any AI-made tracks later this year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
+          "published": "2026-08-20T21:50:50+00:00"
+        },
+        {
+          "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+          "published": "2026-08-21T00:23:36+00:00"
+        },
+        {
+          "summary": "Meta's app for creating generative AI minigames is now available in the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
+          "published": "2026-08-20T18:55:00+00:00"
+        },
+        {
+          "summary": "US distributor of China’s most popular humanoid robots pivots after US ban",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+          "published": "2026-08-20T22:00:11+00:00"
+        },
+        {
+          "summary": "They survived 9/11; 25 years later, their bonds remain unbroken",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+          "published": "2026-08-20T21:25:25+00:00"
+        },
+        {
+          "summary": "There's no such thing as a small software team anymore",
+          "source": "Hacker News: Front Page",
+          "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+          "published": "2026-08-21T00:28:37+00:00"
+        },
+        {
+          "summary": "早报｜iPhone 18 Pro要来了,富士康开出8800元招工奖金/微信灰测AI修图/华为推出阔直板手机",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675947?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-21T00:24:07+00:00"
+        },
+        {
+          "summary": "Copyright does not protect AI-generated content in EU",
+          "source": "Hacker News: Front Page",
+          "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+          "published": "2026-08-21T00:15:12+00:00"
+        },
+        {
+          "summary": "Debates over AI consciousness are a trap",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "published": "2026-08-20T15:42:39+00:00"
+        },
+        {
+          "summary": "Google Pixel 11 Review: Minor Upgrade",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/google-pixel-11/",
+          "published": "2026-08-20T23:15:27+00:00"
+        },
+        {
+          "summary": "Silicon Valley Doesn't Get Why You Hate AI",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
+          "published": "2026-08-20T18:49:07+00:00"
+        },
+        {
+          "summary": "Support networks aim to help kids through the polycrisis",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+          "published": "2026-08-20T09:00:00+00:00"
+        },
+        {
+          "summary": "AI 开始改写癌症治疗，真相是什么？",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675934?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-20T15:06:13+00:00"
+        },
+        {
+          "summary": "Google Discover is getting an AI chatbot-tuned feed",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+          "published": null
+        },
+        {
+          "summary": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing",
+          "published": "2026-08-20T21:29:58+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.67
+        },
+        {
+          "summary_zh": "美联储官员在财政部干预债券市场后谨慎行事 - 路透中文网",
+          "summary_en": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
+          "published": "2026-08-20T23:44:04+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.23
+        },
+        {
+          "summary_zh": "我们 4 岁的儿子的 529 账户里有 10 万美元。牛市不是买股票的好时机吗？",
+          "summary_en": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+          "published": "2026-08-20T22:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.8
+        },
+        {
+          "summary_zh": "随着“Bessent Put”救济的消退，股票和债券下跌，人类首次公开募股",
+          "summary_en": "Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades, Anthropic IPO",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-20/stocks-bonds-fall-as-bessent-put-relief-fades-anthropic-ipo",
+          "published": "2026-08-20T20:33:45+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.44
+        },
+        {
+          "summary_zh": "债券市场压力回归，油价在市场紧张的一天上涨",
+          "summary_en": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
+          "published": "2026-08-20T20:04:52+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.32
+        },
+        {
+          "summary_zh": "周五的重大股票故事：下一个交易日可能会影响市场的因素",
+          "summary_en": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/20/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-20T23:16:21+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.62
+        },
+        {
+          "summary_zh": "美国经济为何敲响警钟",
+          "summary_en": "Why the US economy is ringing alarm bells",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T23:15:15+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "无论你如何衡量，中国的就业市场都很疲软",
+          "summary_en": "However you measure it, China’s job market is weak",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+          "published": "2026-08-20T09:21:25+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.14
+        },
+        {
+          "summary_zh": "比尔·达德利警告美国股市正处于泡沫区域",
+          "summary_en": "Bill Dudley Warns That US Stocks Are in Bubble Territory",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-20/bill-dudley-warns-that-us-stocks-are-in-bubble-territory-video",
+          "published": "2026-08-20T20:55:25+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.53
+        },
+        {
+          "summary_zh": "财政部转向干预策略以降低利率",
+          "summary_en": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+          "published": "2026-08-21T00:00:43+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.3
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing",
+          "published": "2026-08-20T21:29:58+00:00"
+        },
+        {
+          "summary": "Bill Dudley Warns That US Stocks Are in Bubble Territory",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-20/bill-dudley-warns-that-us-stocks-are-in-bubble-territory-video",
+          "published": "2026-08-20T20:55:25+00:00"
+        },
+        {
+          "summary": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
+          "published": "2026-08-20T23:44:04+00:00"
+        },
+        {
+          "summary": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+          "published": "2026-08-20T22:00:00+00:00"
+        },
+        {
+          "summary": "Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades, Anthropic IPO",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-20/stocks-bonds-fall-as-bessent-put-relief-fades-anthropic-ipo",
+          "published": "2026-08-20T20:33:45+00:00"
+        },
+        {
+          "summary": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
+          "published": "2026-08-20T20:04:52+00:00"
+        },
+        {
+          "summary": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+          "published": "2026-08-21T00:00:43+00:00"
+        },
+        {
+          "summary": "Everybody's Business: An Economic Dumpster Fire (Podcast)",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-20/everybody-s-business-an-economic-dumpster-fire-podcast",
+          "published": "2026-08-20T23:46:09+00:00"
+        },
+        {
+          "summary": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories",
+          "published": "2026-08-20T18:20:00+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/20/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-20T23:16:21+00:00"
+        },
+        {
+          "summary": "Why the US economy is ringing alarm bells",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T23:15:15+00:00"
+        },
+        {
+          "summary": "Wall Street sinks as bond yields rise, Walmart results disappoint - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5",
+          "published": "2026-08-20T22:19:11+00:00"
+        },
+        {
+          "summary": "Trump vows tougher economic measures on Iran and supporting countries",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-20T22:18:56+00:00"
+        },
+        {
+          "summary": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+          "published": "2026-08-20T21:53:44+00:00"
+        },
+        {
+          "summary": "However you measure it, China’s job market is weak",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/however-you-measure-it-chinas-job-market-is-weak",
+          "published": "2026-08-20T09:21:25+00:00"
+        },
+        {
+          "summary": "The high cost of phantom tollbooths",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/20/the-high-cost-of-phantom-tollbooths",
+          "published": "2026-08-20T09:21:32+00:00"
+        },
+        {
+          "summary": "Here's how the real ages of the cast of 'Outer Banks' compare to their characters",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/outer-banks-cast-real-ages-2021-7",
+          "published": null
+        },
+        {
+          "summary": "$9 billion startup Tanium brings back its cofounder as CEO amid AI upheaval",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/tanium-cofounder-orion-hindawi-returns-as-ceo-leadership-shift-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+          "published": null
+        },
+        {
+          "summary": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/economy/articles/iran-loses-key-economic-lifeline-145534682.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "法学硕士可以像人类一样写作，但训练后的护栏使他们的文字可被检测到",
+          "summary_en": "LLMs could write like humans but post-training guardrails make their text detectable",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+          "published": "2026-08-20T17:36:51+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.7
+        },
+        {
+          "summary_zh": "币安现在允许人工智能代理进行交易，但控制它们很大程度上取决于用户",
+          "summary_en": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "published": "2026-08-20T09:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "神经网络方法使人工智能不确定性检查更加高效",
+          "summary_en": "Neural network approach makes AI uncertainty checks far more efficient",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-neural-network-approach-ai-uncertainty.html",
+          "published": "2026-08-20T15:20:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "2026 年 AI 编码代理十大开源基准",
+          "summary_en": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+          "published": "2026-08-20T12:00:38+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "Meta AI 现已作为 Mac 桌面应用程序提供",
+          "summary_en": "Meta AI Now Available as a Desktop App for Mac",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
+          "published": "2026-08-20T17:40:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.72
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "为绿色氨生产铺平道路",
+          "summary_en": "Paving the way for greener ammonia production",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+          "published": "2026-08-20T14:45:00-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.48
+        },
+        {
+          "summary_zh": "介绍人工智能期货",
+          "summary_en": "Introducing AI Futures",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "published": "2026-08-20T07:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.05
+        },
+        {
+          "summary_zh": "Adobe Firefly 添加了 AI 音频工具和 Google 的 Gemini Omni Flash",
+          "summary_en": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+          "published": "2026-08-20T19:29:34+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "引人注目的虚拟代理可以帮助提高自动驾驶汽车的安全性",
+          "summary_en": "Attention-grabbing virtual agents could help improve safety of self-driving cars",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-attention-virtual-agents-safety-cars.html",
+          "published": "2026-08-20T10:40:08-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.46
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "LLMs could write like humans but post-training guardrails make their text detectable",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+          "published": "2026-08-20T17:36:51+00:00"
+        },
+        {
+          "summary": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+          "published": "2026-08-20T19:29:34+00:00"
+        },
+        {
+          "summary": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "published": "2026-08-20T09:30:00+00:00"
+        },
+        {
+          "summary": "Neural network approach makes AI uncertainty checks far more efficient",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-neural-network-approach-ai-uncertainty.html",
+          "published": "2026-08-20T15:20:07-04:00"
+        },
+        {
+          "summary": "Attention-grabbing virtual agents could help improve safety of self-driving cars",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-attention-virtual-agents-safety-cars.html",
+          "published": "2026-08-20T10:40:08-04:00"
+        },
+        {
+          "summary": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+          "published": "2026-08-20T12:00:38+00:00"
+        },
+        {
+          "summary": "Inertia Enterprises finds a way to make its fusion fuel fast",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+          "published": "2026-08-20T16:00:00+00:00"
+        },
+        {
+          "summary": "Meta AI Now Available as a Desktop App for Mac",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
+          "published": "2026-08-20T17:40:41+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "How to Build a Career in AI: 3 Distinct Pathways",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
+          "published": "2026-08-20T14:00:59+00:00"
+        },
+        {
+          "summary": "Nvidia’s SONIC Teaches Humanoids to Move",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
+          "published": "2026-08-20T13:43:21+00:00"
+        },
+        {
+          "summary": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null
+        },
+        {
+          "summary": "Paving the way for greener ammonia production",
+          "source": "MIT News - Artificial intelligence",
+          "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
+          "published": "2026-08-20T14:45:00-04:00"
+        },
+        {
+          "summary": "Introducing AI Futures",
+          "source": "OpenAI News",
+          "url": "https://openai.com/index/introducing-ai-futures",
+          "published": "2026-08-20T07:00:00+00:00"
+        }
+      ]
+    }
+  }
+}
