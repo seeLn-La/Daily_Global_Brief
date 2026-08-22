@@ -1,0 +1,612 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T00:43:59.765615+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "人工智能会计初创公司 Rillet 如何在 48 小时内筹集 1 亿美元并成为独角兽",
+          "summary_en": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+          "published": "2026-08-21T22:10:01+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.86
+        },
+        {
+          "summary_zh": "LinkedIn 表示其 AI slop 按钮正在工作",
+          "summary_en": "LinkedIn says its AI slop button is working",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+          "published": "2026-08-21T19:11:07+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.11
+        },
+        {
+          "summary_zh": "诉讼称，隐藏的 Zillow 房源造成虚假供应冲击，导致纽约市租金上涨",
+          "summary_en": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "published": "2026-08-21T20:10:50+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "中国人工智能繁荣中心的不可思议的地方",
+          "summary_en": "The Unlikely Place at the Center of China’s AI Boom",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+          "published": "2026-08-21T23:25:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "显示 HN：OzBrain，代理和团队之间的知识共享大脑",
+          "summary_en": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+          "source": "Hacker News: Front Page",
+          "url": "https://ozbrain.com",
+          "published": "2026-08-21T23:09:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "下载：来自太空镜子的威胁和人工智能药物的功劳",
+          "summary_en": "The Download: threats from space mirrors and credit for AI drugs",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+          "published": "2026-08-21T12:10:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "东京的寿司巴士将传送带用餐与露天观光结合在一起",
+          "summary_en": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241785/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/",
+          "published": "2026-08-21T18:09:50+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "英伟达刚刚证明，现在真正的英雄是线束，而不是人工智能模型",
+          "summary_en": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "published": "2026-08-21T19:43:39+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "战斗机帮助摧毁欧洲海上天然气平台附近的俄罗斯无人机船",
+          "summary_en": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+          "published": "2026-08-21T16:48:59+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.52
+        },
+        {
+          "summary_zh": "保罗·阿特金斯误读亚当·斯密和美国建国之初",
+          "summary_en": "Paul Atkins Misreads Adam Smith and the American Founding",
+          "source": "Hacker News: Front Page",
+          "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+          "published": "2026-08-21T23:32:44+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.2
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+          "published": "2026-08-21T22:10:01+00:00"
+        },
+        {
+          "summary": "LinkedIn says its AI slop button is working",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+          "published": "2026-08-21T19:11:07+00:00"
+        },
+        {
+          "summary": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2241785/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/",
+          "published": "2026-08-21T18:09:50+00:00"
+        },
+        {
+          "summary": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+          "published": "2026-08-21T20:10:50+00:00"
+        },
+        {
+          "summary": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "published": "2026-08-21T19:43:39+00:00"
+        },
+        {
+          "summary": "The Unlikely Place at the Center of China’s AI Boom",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+          "published": "2026-08-21T23:25:32+00:00"
+        },
+        {
+          "summary": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+          "source": "Hacker News: Front Page",
+          "url": "https://ozbrain.com",
+          "published": "2026-08-21T23:09:06+00:00"
+        },
+        {
+          "summary": "Fighter jets help destroy Russian drone boat near European offshore gas platform",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
+          "published": "2026-08-21T16:48:59+00:00"
+        },
+        {
+          "summary": "The Download: threats from space mirrors and credit for AI drugs",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+          "published": "2026-08-21T12:10:00+00:00"
+        },
+        {
+          "summary": "Paul Atkins Misreads Adam Smith and the American Founding",
+          "source": "Hacker News: Front Page",
+          "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+          "published": "2026-08-21T23:32:44+00:00"
+        },
+        {
+          "summary": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
+          "published": "2026-08-21T23:10:00+00:00"
+        },
+        {
+          "summary": "When AI designs a drug, who gets the credit?",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+          "published": "2026-08-21T09:00:00+00:00"
+        },
+        {
+          "summary": "微信 AI 修图抢先体验：能用够用，但还不够好用",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1676048?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-21T09:32:09+00:00"
+        },
+        {
+          "summary": "苹果 Apple Music 不想放过任何一首 AI 音乐",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1675958?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-21T03:39:43+00:00"
+        },
+        {
+          "summary": "HoverAir’s transforming modular drone has already been halted in the US",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "published": null
+        },
+        {
+          "summary": "Over 1 million people have clicked LinkedIn’s AI slop button",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "墨西哥乐观地认为美国可以降低汽车和钢铁关税",
+          "summary_en": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
+          "published": "2026-08-22T00:16:57+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.39
+        },
+        {
+          "summary_zh": "股市和债券在动荡的一周结束时保持稳定",
+          "summary_en": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+          "published": "2026-08-21T20:16:06+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.38
+        },
+        {
+          "summary_zh": "巴西表示，特朗普告诉卢拉，官员们应该尽快会面讨论关税 - 路透中文网",
+          "summary_en": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHFjdVZGTkJSOTJTQzFQWXkyOHFQa2NRaEFienkzTWthdl9NY29lTmpPMzVlM3JVaGd5Ui1QTEdPT0xGaHRGampuaUdxdTFXZDNxdHV3MDVMdkNlbzltbGlOM1FDdl9IcVo1X2x4T1FQYWI0U2VWcHVsaVo2RTRRS01OVGkxd0FjU0hNaDliWUlYQVZtXzljU3FYVmt6TTN1ZGc?oc=5",
+          "published": "2026-08-21T21:46:19+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "股市上涨、比特币上涨、WH 宴会厅工作继续进行等",
+          "summary_en": "Stocks Rise, Bitcoin Rallies, WH Ballroom Work to Continue, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-21/stocks-rise-bitcoin-rallies-wh-ballroom-work-to-continue-more",
+          "published": "2026-08-21T20:35:13+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+          "published": "2026-08-21T20:34:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "随着美国贸易截止日期临近，加拿大谈判代表表示“我们还有更多工作要做”",
+          "summary_en": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T00:40:47+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "贝森特旨在安抚市场的债券策略反而引发了通胀担忧",
+          "summary_en": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+          "published": "2026-08-21T17:51:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "追踪唐纳德·特朗普关税的成本",
+          "summary_en": "Tracking the cost of Donald Trump’s tariffs",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+          "published": "2026-08-21T17:00:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "美国证券交易委员会指控美国银行前高级银行家萨茨基进行内幕交易",
+          "summary_en": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
+          "published": "2026-08-21T18:00:03+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.82
+        },
+        {
+          "summary_zh": "特朗普宣布取消碎牛肉关税以降低价格",
+          "summary_en": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+          "published": "2026-08-21T20:49:35+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.52
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
+          "published": "2026-08-22T00:16:57+00:00"
+        },
+        {
+          "summary": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
+          "published": "2026-08-21T18:00:03+00:00"
+        },
+        {
+          "summary": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+          "published": "2026-08-21T20:16:06+00:00"
+        },
+        {
+          "summary": "Trump told Lula that officials should meet soon to discuss tariffs, Brazil says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHFjdVZGTkJSOTJTQzFQWXkyOHFQa2NRaEFienkzTWthdl9NY29lTmpPMzVlM3JVaGd5Ui1QTEdPT0xGaHRGampuaUdxdTFXZDNxdHV3MDVMdkNlbzltbGlOM1FDdl9IcVo1X2x4T1FQYWI0U2VWcHVsaVo2RTRRS01OVGkxd0FjU0hNaDliWUlYQVZtXzljU3FYVmt6TTN1ZGc?oc=5",
+          "published": "2026-08-21T21:46:19+00:00"
+        },
+        {
+          "summary": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
+          "published": "2026-08-21T20:49:35+00:00"
+        },
+        {
+          "summary": "Mexico expects trade outcomes similar to emerging US-Canada deal - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkVrQzlDMElqOXJFZVRDeDlxZ1hINWVldEpqdlZab1lzTXVZcHRoaExyVElrZzF0bDdjV2R3NTIzZDlvd0JuQTJ0SUZKUEJ3OEtKUm5CbTVoV3ItM3Rqb3lXNVBfclJ4M0l3S1dPaXI3ZlJ5WW1IMEdRVFVTZjQ5ZU92ZWxCd2k5NGNocy1MWm9MRVRubExQM0tma0pwYW1RTzQ2NXZR?oc=5",
+          "published": "2026-08-21T20:40:56+00:00"
+        },
+        {
+          "summary": "Stocks Rise, Bitcoin Rallies, WH Ballroom Work to Continue, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-21/stocks-rise-bitcoin-rallies-wh-ballroom-work-to-continue-more",
+          "published": "2026-08-21T20:35:13+00:00"
+        },
+        {
+          "summary": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+          "published": "2026-08-21T20:34:00+00:00"
+        },
+        {
+          "summary": "Retirees: This investment gives you a guaranteed 5% safe withdrawal rate",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories",
+          "published": "2026-08-21T20:11:00+00:00"
+        },
+        {
+          "summary": "Roberts Allows Ballroom Work to Continue, Canada Tariff Deadline",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-22/roberts-allows-ballroom-work-to-continue-canada-tariff-deadline",
+          "published": "2026-08-22T00:07:09+00:00"
+        },
+        {
+          "summary": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T00:40:47+00:00"
+        },
+        {
+          "summary": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+          "published": "2026-08-21T17:51:10+00:00"
+        },
+        {
+          "summary": "Trump says U.S., Canada 'should be able' to reach trade deal as tariff deadline looms",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+          "published": "2026-08-21T21:31:24+00:00"
+        },
+        {
+          "summary": "Tracking the cost of Donald Trump’s tariffs",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+          "published": "2026-08-21T17:00:33+00:00"
+        },
+        {
+          "summary": "US borrowing costs rise as attempts to ease rates prove short-lived",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-21T16:45:09+00:00"
+        },
+        {
+          "summary": "Pope Leo warns AI could become a new form of ‘economic colonialism’",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/pope-leo-says-ai-could-cause-economic-colonialism-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Barnes & Noble has staged an unlikely comeback. CEO James Daunt shared 4 key lessons from its turnaround.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/barnes-noble-daunt-elliott-bookstores-retail-books-booktok-strategy-culture-2026-8",
+          "published": null
+        },
+        {
+          "summary": "8 South Florida cities among 'worst' real estate markets in state, says new report",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/real-estate/articles/8-south-florida-cities-among-182304418.html",
+          "published": null
+        },
+        {
+          "summary": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/iran-taps-financial-lifeline-russian-010910871.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Anthropic 将其最强大的模型 Claude Mythos 5 用于网络防御",
+          "summary_en": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+          "published": "2026-08-21T19:35:37+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.22
+        },
+        {
+          "summary_zh": "提示：代理人工智能正在超越企业准备程度",
+          "summary_en": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
+          "published": "2026-08-21T14:28:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.94
+        },
+        {
+          "summary_zh": "人工智能代理改变行业的 5 个真实用例",
+          "summary_en": "5 Real-World Use Cases for AI Agents Transforming Industries",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
+          "published": "2026-08-21T12:00:41+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "AI could help design cities, but planners need safeguards",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-cities-planners-safeguards.html",
+          "published": "2026-08-21T13:20:07-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.15
+        },
+        {
+          "summary_zh": "美国司法部正在调查 a16z。这对风险投资意味着什么？",
+          "summary_en": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "published": "2026-08-21T14:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "Deepseek 发布实验性 Flash 视觉模型，在代理基准测试中可与 Opus 4.8 相媲美",
+          "summary_en": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+          "published": "2026-08-21T19:08:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "人工智能生成的广告在现场营销活动中表现优于人类设计师，18 个月后仍保持优势",
+          "summary_en": "AI-generated ads outperform human designers in live campaign, advantage holds 18 months later",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-generated-ads-outperform-human.html",
+          "published": "2026-08-21T13:00:02-04:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "使用 NVIDIA NeMo Switchyard 跨模型路由 AI 代理工作负载",
+          "summary_en": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "使用 llama.cpp、DFlash 和 Pi 运行 Muse Glimmer 进行本地 Vibe 编码",
+          "summary_en": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+          "published": "2026-08-21T14:00:58+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.82
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+          "published": "2026-08-21T19:35:37+00:00"
+        },
+        {
+          "summary": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+          "published": "2026-08-21T19:08:27+00:00"
+        },
+        {
+          "summary": "Prompt: Agentic AI Is Outpacing Enterprise Readiness",
+          "source": "aibusiness",
+          "url": "https://aibusiness.com/agentic-ai/prompt-agentic-ai-outpacing-enterprise-readiness",
+          "published": "2026-08-21T14:28:42+00:00"
+        },
+        {
+          "summary": "5 Real-World Use Cases for AI Agents Transforming Industries",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
+          "published": "2026-08-21T12:00:41+00:00"
+        },
+        {
+          "summary": "AI could help design cities, but planners need safeguards",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-cities-planners-safeguards.html",
+          "published": "2026-08-21T13:20:07-04:00"
+        },
+        {
+          "summary": "AI-generated ads outperform human designers in live campaign, advantage holds 18 months later",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-generated-ads-outperform-human.html",
+          "published": "2026-08-21T13:00:02-04:00"
+        },
+        {
+          "summary": "The DOJ is investigating a16z. What does this mean for venture capital?",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "published": "2026-08-21T14:00:00+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null
+        },
+        {
+          "summary": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+          "source": "KDnuggets",
+          "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+          "published": "2026-08-21T14:00:58+00:00"
+        },
+        {
+          "summary": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/476733.html",
+          "published": "2026-08-21T09:44:33+00:00"
+        },
+        {
+          "summary": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/476628.html",
+          "published": "2026-08-21T09:00:06+00:00"
+        }
+      ]
+    }
+  }
+}
