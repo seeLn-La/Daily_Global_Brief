@@ -2,8 +2,9 @@
   "https://techcrunch.com/feed/": {
     "url": "https://techcrunch.com/feed/",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -11,8 +12,9 @@
   "https://www.theverge.com/rss/index.xml": {
     "url": "https://www.theverge.com/rss/index.xml",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -20,8 +22,9 @@
   "https://feeds.arstechnica.com/arstechnica/index": {
     "url": "https://feeds.arstechnica.com/arstechnica/index",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -29,8 +32,9 @@
   "https://www.wired.com/feed/rss": {
     "url": "https://www.wired.com/feed/rss",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -38,8 +42,9 @@
   "https://www.technologyreview.com/feed/": {
     "url": "https://www.technologyreview.com/feed/",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -47,8 +52,9 @@
   "https://hnrss.org/frontpage": {
     "url": "https://hnrss.org/frontpage",
     "category": "technology",
+    "source_type": "community",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": "2026-07-26T01:58:30.818884+00:00",
     "consecutive_failures": 0,
     "last_error": null
@@ -56,6 +62,7 @@
   "https://36kr.com/feed": {
     "url": "https://36kr.com/feed",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "skipped_health",
     "last_success_at": "2026-08-05T01:47:46.002420+00:00",
     "last_failure_at": "2026-08-22T00:43:41.845444+00:00",
@@ -65,8 +72,9 @@
   "https://www.ifanr.com/feed": {
     "url": "https://www.ifanr.com/feed",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -74,8 +82,9 @@
   "https://www.engadget.com/rss.xml": {
     "url": "https://www.engadget.com/rss.xml",
     "category": "technology",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -83,8 +92,9 @@
   "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114": {
     "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -92,8 +102,9 @@
   "https://feeds.bbci.co.uk/news/business/rss.xml": {
     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -101,8 +112,9 @@
   "https://www.marketwatch.com/rss/topstories": {
     "url": "https://www.marketwatch.com/rss/topstories",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -110,8 +122,9 @@
   "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml": {
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -119,8 +132,9 @@
   "https://www.economist.com/finance-and-economics/rss.xml": {
     "url": "https://www.economist.com/finance-and-economics/rss.xml",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -128,17 +142,9 @@
   "https://www.businessinsider.com/rss": {
     "url": "https://www.businessinsider.com/rss",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
-    "last_failure_at": null,
-    "consecutive_failures": 0,
-    "last_error": null
-  },
-  "https://news.google.com/rss/search?q=site:reuters.com+business": {
-    "url": "https://news.google.com/rss/search?q=site:reuters.com+business",
-    "category": "business",
-    "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -146,8 +152,9 @@
   "https://feeds.bloomberg.com/markets/news.rss": {
     "url": "https://feeds.bloomberg.com/markets/news.rss",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": "2026-07-15T01:41:14.939217+00:00",
     "consecutive_failures": 0,
     "last_error": null
@@ -155,26 +162,19 @@
   "https://feeds.bloomberg.com/business/news.rss": {
     "url": "https://feeds.bloomberg.com/business/news.rss",
     "category": "business",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": "2026-07-15T01:41:14.939217+00:00",
-    "consecutive_failures": 0,
-    "last_error": null
-  },
-  "https://news.yahoo.com/rss/finance": {
-    "url": "https://news.yahoo.com/rss/finance",
-    "category": "business",
-    "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
-    "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
   },
   "https://openai.com/news/rss.xml": {
     "url": "https://openai.com/news/rss.xml",
     "category": "ai",
+    "source_type": "first_party",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": "2026-06-24T14:00:02.248553+00:00",
     "consecutive_failures": 0,
     "last_error": null
@@ -182,17 +182,9 @@
   "https://developer.nvidia.com/blog/feed/": {
     "url": "https://developer.nvidia.com/blog/feed/",
     "category": "ai",
+    "source_type": "first_party",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
-    "last_failure_at": null,
-    "consecutive_failures": 0,
-    "last_error": null
-  },
-  "https://news.mit.edu/rss/topic/artificial-intelligence2": {
-    "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-    "category": "ai",
-    "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
@@ -200,53 +192,159 @@
   "https://techcrunch.com/category/artificial-intelligence/feed/": {
     "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "category": "ai",
+    "source_type": "original_reporting",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
   },
-  "https://the-decoder.com/feed/": {
-    "url": "https://the-decoder.com/feed/",
-    "category": "ai",
+  "https://www.apple.com/newsroom/rss-feed.rss": {
+    "url": "https://www.apple.com/newsroom/rss-feed.rss",
+    "category": "technology",
+    "source_type": "first_party",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
-    "last_failure_at": "2026-07-10T02:06:07.244134+00:00",
-    "consecutive_failures": 0,
-    "last_error": null
-  },
-  "https://www.qbitai.com/feed": {
-    "url": "https://www.qbitai.com/feed",
-    "category": "ai",
-    "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
-    "last_failure_at": "2026-08-21T00:48:25.462992+00:00",
-    "consecutive_failures": 0,
-    "last_error": null
-  },
-  "https://techxplore.com/rss-feed/machine-learning-ai-news/": {
-    "url": "https://techxplore.com/rss-feed/machine-learning-ai-news/",
-    "category": "ai",
-    "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
   },
-  "https://aibusiness.com/rss.xml": {
-    "url": "https://aibusiness.com/rss.xml",
-    "category": "ai",
+  "https://blog.cloudflare.com/rss/": {
+    "url": "https://blog.cloudflare.com/rss/",
+    "category": "technology",
+    "source_type": "first_party",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
   },
-  "https://www.kdnuggets.com/feed": {
-    "url": "https://www.kdnuggets.com/feed",
-    "category": "ai",
+  "https://github.blog/feed/": {
+    "url": "https://github.blog/feed/",
+    "category": "technology",
+    "source_type": "first_party",
     "last_status": "ok",
-    "last_success_at": "2026-08-23T06:51:32.648332+00:00",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://hacks.mozilla.org/feed/": {
+    "url": "https://hacks.mozilla.org/feed/",
+    "category": "technology",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://www.sec.gov/news/pressreleases.rss": {
+    "url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "business",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://www.federalreserve.gov/feeds/press_all.xml": {
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "category": "business",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://deepmind.google/blog/rss.xml": {
+    "url": "https://deepmind.google/blog/rss.xml",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://research.google/blog/rss/": {
+    "url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://blog.google/technology/ai/rss/": {
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://www.microsoft.com/en-us/research/feed/": {
+    "url": "https://www.microsoft.com/en-us/research/feed/",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://aws.amazon.com/blogs/machine-learning/feed/": {
+    "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://huggingface.co/blog/feed.xml": {
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://rss.arxiv.org/rss/cs.AI": {
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://rss.arxiv.org/rss/cs.LG": {
+    "url": "https://rss.arxiv.org/rss/cs.LG",
+    "category": "ai",
+    "source_type": "research",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
+    "last_failure_at": null,
+    "consecutive_failures": 0,
+    "last_error": null
+  },
+  "https://machinelearning.apple.com/rss.xml": {
+    "url": "https://machinelearning.apple.com/rss.xml",
+    "category": "ai",
+    "source_type": "first_party",
+    "last_status": "ok",
+    "last_success_at": "2026-08-23T08:06:27.266726+00:00",
     "last_failure_at": null,
     "consecutive_failures": 0,
     "last_error": null
