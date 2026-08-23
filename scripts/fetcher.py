@@ -8,6 +8,7 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+from html import unescape
 from typing import Optional
 
 import feedparser
@@ -28,6 +29,14 @@ FAILURE_SKIP_THRESHOLD = 3
 SKIP_WINDOW_HOURS = 48
 
 USER_AGENT = "Mozilla/5.0 (compatible; NewsBot/1.0)"
+
+# RSS 源偶尔会把站点错误页当成文章返回。此类标题不应进入新闻池。
+ERROR_TITLE_MARKERS = (
+    "error 500",
+    "that's an error",
+    "there was an error",
+    "please try again later",
+)
 
 
 def _health_file_path() -> str:
@@ -105,7 +114,6 @@ def _clean_title(raw_title: str) -> str:
     # 去除 HTML 标签
     text = re.sub(r"<[^>]+>", "", raw_title)
     # 解码 HTML 实体
-    from html import unescape
     text = unescape(text)
     # 去除常见噪音前缀
     text = re.sub(r"^(BREAKING|EXCLUSIVE|UPDATED|UPDATE|JUST IN)\s*[:：\-—]+\s*", "", text, flags=re.IGNORECASE)
@@ -114,15 +122,42 @@ def _clean_title(raw_title: str) -> str:
     return text
 
 
+def _is_error_page_title(title: str) -> bool:
+    """识别 RSS 将站点错误页误报为文章的情况。"""
+    normalized = re.sub(r"\s+", " ", unescape(title)).strip().lower()
+    return sum(marker in normalized for marker in ERROR_TITLE_MARKERS) >= 3
+
+
 def _parse_date(entry) -> Optional[datetime]:
     """从 RSS entry 中解析发布时间，返回 UTC datetime 或 None。"""
-    raw = entry.get("published") or entry.get("updated")
-    if not raw:
-        return None
-    try:
-        return parsedate_to_datetime(raw)
-    except Exception:
-        return None
+    raw = entry.get("published") or entry.get("updated") or entry.get("created")
+    if raw:
+        if isinstance(raw, datetime):
+            parsed = raw
+        else:
+            parsed = None
+            raw_text = str(raw).strip()
+            try:
+                parsed = parsedate_to_datetime(raw_text)
+            except (TypeError, ValueError, IndexError):
+                # feedparser 常见的 ISO 8601 格式（例如 2026-06-16T16:00:00Z）
+                try:
+                    parsed = datetime.fromisoformat(raw_text.replace("Z", "+00:00"))
+                except ValueError:
+                    parsed = None
+        if parsed is not None:
+            return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+
+    # 某些 RSS 只提供 feedparser 转换后的 *_parsed 字段。
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
+        parsed = entry.get(key)
+        if not parsed:
+            continue
+        try:
+            return datetime(*parsed[:6], tzinfo=timezone.utc)
+        except (TypeError, ValueError):
+            continue
+    return None
 
 
 def _extract_source(feed: dict, entry: dict) -> str:
@@ -162,6 +197,9 @@ def _fetch_one(url: str, category: str, cutoff: datetime) -> tuple[str, str, lis
         title = _clean_title(entry.get("title", ""))
         link = entry.get("link", "")
         if not title or not link:
+            continue
+        if _is_error_page_title(title):
+            print(f"[WARN] 跳过错误页条目: {url} — {title[:80]}", file=sys.stderr)
             continue
 
         published = _parse_date(entry)
