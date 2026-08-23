@@ -30,12 +30,10 @@ CATEGORY_KEYWORDS = {
         "semiconductor",
         "gpu",
         "cpu",
-        "ai",
         "cloud",
         "security",
         "platform",
         "device",
-        "startup",
         "open source",
         "robot",
         "mobile",
@@ -74,6 +72,13 @@ CATEGORY_KEYWORDS = {
         "merger",
         "acquisition",
         "ipo",
+        "funding",
+        "fundraise",
+        "fundraising",
+        "raise",
+        "raises",
+        "capital",
+        "valuation",
         "investment",
         "investor",
         "ceo",
@@ -100,12 +105,15 @@ CATEGORY_KEYWORDS = {
         "llm",
         "agent",
         "agents",
-        "model",
-        "models",
         "training",
         "inference",
         "fine-tuning",
         "foundation model",
+        "language model",
+        "large language model",
+        "ai model",
+        "reasoning model",
+        "frontier model",
         "multimodal",
         "prompt",
         "rag",
@@ -113,15 +121,8 @@ CATEGORY_KEYWORDS = {
         "transformer",
         "machine learning",
         "deep learning",
-        "openai",
-        "anthropic",
-        "gpt",
-        "claude",
-        "gemini",
-        "copilot",
         "智能体",
         "大模型",
-        "模型",
         "训练",
         "推理",
         "生成式",
@@ -130,6 +131,109 @@ CATEGORY_KEYWORDS = {
         "向量",
         "语义",
     ],
+}
+
+# 这些词表示文章的核心主题，而不是仅仅提到某个行业词。
+# 例如“AI 初创公司融资”应归入商业，“发布新模型”才归入 AI。
+AI_CORE_KEYWORDS = {
+    "llm",
+    "agent",
+    "agents",
+    "training",
+    "inference",
+    "fine-tuning",
+    "foundation model",
+    "multimodal",
+    "language model",
+    "large language model",
+    "ai model",
+    "reasoning model",
+    "frontier model",
+    "model release",
+    "model training",
+    "ai safety",
+    "ai research",
+    "ai benchmark",
+    "agentic ai",
+    "machine learning",
+    "deep learning",
+    "prompt",
+    "rag",
+    "transformer",
+    "智能体",
+    "大模型",
+    "语言模型",
+    "基础模型",
+    "推理模型",
+    "多模态模型",
+    "模型发布",
+    "模型训练",
+    "训练",
+    "推理",
+    "生成式",
+    "人工智能",
+    "向量",
+    "语义",
+}
+
+AI_GENERIC_KEYWORDS = {"ai", "artificial intelligence", "人工智能"}
+
+BUSINESS_OVERRIDE_KEYWORDS = {
+    "market",
+    "markets",
+    "stock",
+    "stocks",
+    "earnings",
+    "revenue",
+    "profit",
+    "loss",
+    "inflation",
+    "rates",
+    "fed",
+    "bank",
+    "merger",
+    "acquisition",
+    "ipo",
+    "funding",
+    "fundraise",
+    "fundraising",
+    "raise",
+    "raises",
+    "capital",
+    "valuation",
+    "investment",
+    "investor",
+    "trading",
+    "tariff",
+    "finance",
+    "财报",
+    "营收",
+    "利润",
+    "亏损",
+    "市场",
+    "股",
+    "并购",
+    "融资",
+    "投资",
+    "经济",
+    "通胀",
+    "利率",
+    "企业",
+    "business",
+    "business users",
+}
+
+# RSS 配置中的原始分类只作为弱先验；最终分类由标题和摘要决定。
+SOURCE_CATEGORY_PRIOR = 1.5
+
+# 周末扩大抓取窗口后，不能再次展示最近几天已经出现的同一事件。
+CROSS_DAY_DEDUP_DAYS = 3
+
+SOURCE_TYPE_SCORE = {
+    "first_party": 2.5,
+    "research": 2.3,
+    "original_reporting": 0.8,
+    "community": -1.0,
 }
 
 SOURCE_BONUS = {
@@ -283,14 +387,97 @@ def _sort_articles(articles: list[Article]) -> list[Article]:
     return dated + undated
 
 
+def _keyword_matches(text: str, keyword: str) -> bool:
+    """匹配完整英文单词，避免短词被误匹配到其他单词中。"""
+    if re.search(r"[\u4e00-\u9fff]", keyword):
+        return keyword in text
+    pattern = rf"(?<![a-z0-9]){re.escape(keyword.lower())}(?![a-z0-9])"
+    return re.search(pattern, text.lower()) is not None
+
+
+def _keyword_score(text: str, keywords: list[str] | set[str]) -> float:
+    """计算关键词命中分，英文按完整单词匹配，中文按短语匹配。"""
+    return sum(1.0 for keyword in keywords if _keyword_matches(text, keyword))
+
+
+def _topic_score(article: Article, category: str) -> float:
+    """只根据内容计算主题分，不加入来源和时间因素。"""
+    text = article.summary.lower()
+    return _keyword_score(text, CATEGORY_KEYWORDS.get(category, []))
+
+
+def _classify_article(article: Article) -> str:
+    """在三个分类之间做一次最终仲裁，避免沿用来源的硬分类。"""
+    scores = {
+        category: _topic_score(article, category)
+        + (SOURCE_CATEGORY_PRIOR if article.category == category else 0.0)
+        for category in CATEGORY_NAMES
+    }
+    text = article.summary.lower()
+    ai_core_score = _keyword_score(text, AI_CORE_KEYWORDS)
+    business_override_score = _keyword_score(text, BUSINESS_OVERRIDE_KEYWORDS)
+    content_scores = {
+        category: _topic_score(article, category) for category in CATEGORY_NAMES
+    }
+
+    # 融资、财报、并购等是商业事件；不能因为标题里出现 AI 或公司名，
+    # 就把它们误判成 AI 新闻。
+    if business_override_score >= 1:
+        selected = "business"
+    # AI 核心技术词达到两个以上时，优先归入 AI；“AI 产品”只有一个泛词时，
+    # 仍允许根据来源和科技词落入科技分类。
+    elif ai_core_score >= 1:
+        selected = "ai"
+    else:
+        # 单独出现“AI”只能说明文章提到了 AI，不能证明 AI 是文章主旨。
+        # 这类标题沿用来源默认分类，避免普通产品新闻全部流入 AI。
+        content_scores["ai"] -= _keyword_score(text, AI_GENERIC_KEYWORDS)
+        if max(content_scores.values(), default=0.0) > 0:
+            selected = max(
+                content_scores,
+                key=lambda category: (
+                    content_scores[category],
+                    category == article.category,
+                ),
+            )
+        else:
+            selected = max(
+                scores,
+                key=lambda category: (
+                    scores[category],
+                    category == article.category,
+                ),
+            )
+
+    if business_override_score >= 1:
+        reason = "商业事件词优先"
+    elif ai_core_score >= 1:
+        reason = "AI 核心技术主题"
+    elif max(content_scores.values(), default=0.0) > 0:
+        reason = "标题主题匹配"
+    else:
+        reason = "沿用来源默认分类"
+
+    article.category_reason = reason
+    article.category_scores = {
+        category: round(score, 2) for category, score in scores.items()
+    }
+
+    if selected != article.category:
+        print(
+            f"  [分类仲裁] {article.source}: {article.summary} "
+            f"{article.category} → {selected}"
+        )
+    return selected
+
+
 def _article_score(article: Article, category: str) -> float:
     """根据标题主题、来源可信度和时效性给文章打分。"""
-    text = f"{article.summary} {article.source}".lower()
-    score = 0.0
-
-    for keyword in CATEGORY_KEYWORDS.get(category, []):
-        if keyword.lower() in text:
-            score += 1.0
+    score = _topic_score(article, category)
+    score += SOURCE_TYPE_SCORE.get(
+        getattr(article, "source_type", "original_reporting"),
+        0.0,
+    )
 
     source_text = article.source.lower()
     for source_name in SOURCE_BONUS.get(category, []):
@@ -394,6 +581,60 @@ def _find_duplicate_event(article: Article, selected: list[dict]) -> Article | N
     return None
 
 
+def _find_duplicate_history(article: Article, history: list[Article]) -> Article | None:
+    """检查文章是否与最近几天已经展示过的事件重复。"""
+    for existing in history:
+        if _normalize_url(article.url) == _normalize_url(existing.url):
+            return existing
+        if _is_same_event(article, existing):
+            return existing
+    return None
+
+
+def _load_recent_history(data_dir: str, date_str: str) -> list[Article]:
+    """读取最近几天的已展示文章，用于跨天事件去重。"""
+    if not os.path.isdir(data_dir):
+        return []
+
+    date_files = sorted(
+        filename
+        for filename in os.listdir(data_dir)
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", filename)
+        and filename[:-5] < date_str
+    )
+    recent_files = date_files[-CROSS_DAY_DEDUP_DAYS:]
+    history: list[Article] = []
+
+    for filename in recent_files:
+        path = os.path.join(data_dir, filename)
+        try:
+            with open(path, "r") as f:
+                data = json.load(f)
+        except (json.JSONDecodeError, OSError):
+            continue
+
+        for category, category_data in data.get("categories", {}).items():
+            for item in category_data.get("articles", []):
+                title = item.get("summary_en") or item.get("summary") or item.get("summary_zh")
+                url = item.get("url")
+                if not title or not url:
+                    continue
+                history.append(
+                    Article(
+                        title=title,
+                        url=url,
+                        source=item.get("source", "Unknown"),
+                        category=category,
+                        summary=title,
+                        source_type=item.get("source_type", "original_reporting"),
+                    )
+                )
+
+    if history:
+        print(f"  [跨天去重] 已加载最近 {len(recent_files)} 天的 {len(history)} 篇文章")
+    return history
+
+
 def _select_candidates(cat_articles: list[Article], category: str) -> list[Article]:
     """为单个分类生成候选池。
 
@@ -447,7 +688,11 @@ def _select_candidates(cat_articles: list[Article], category: str) -> list[Artic
     return candidates
 
 
-def _select_final_articles(candidates: list[Article], category: str) -> list[dict]:
+def _select_final_articles(
+    candidates: list[Article],
+    category: str,
+    history: list[Article] | None = None,
+) -> list[dict]:
     """从候选池中挑出最终展示的文章。
 
     先尽量保证来源多样性；如果还不够，再按顺序补齐。
@@ -456,13 +701,24 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
     selected: list[dict] = []
     seen_sources: set[str] = set()
     reported_duplicates: set[str] = set()
+    history = history or []
     ranked = _rank_articles(candidates, category)
 
     def is_duplicate(article: Article) -> bool:
         """检查最终列表中的同事件文章，并保证每篇只记录一次日志。"""
         existing = _find_duplicate_event(article, selected)
         if existing is None:
-            return False
+            history_existing = _find_duplicate_history(article, history)
+            if history_existing is None:
+                return False
+            duplicate_key = f"history:{_normalize_url(article.url)}"
+            if duplicate_key not in reported_duplicates:
+                reported_duplicates.add(duplicate_key)
+                print(
+                    f"  [去重/跨天] {article.source}: {article.summary} "
+                    f"→ 最近几天已展示 {history_existing.source}: {history_existing.summary}"
+                )
+            return True
         duplicate_key = _normalize_url(article.url)
         if duplicate_key not in reported_duplicates:
             reported_duplicates.add(duplicate_key)
@@ -472,7 +728,17 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
             )
         return True
 
+    def is_ineligible(article: Article) -> bool:
+        """AI 板块只展示官方发布和原始研究，不用媒体内容硬凑数量。"""
+        return (
+            category == "ai"
+            and getattr(article, "source_type", "original_reporting")
+            not in {"first_party", "research"}
+        )
+
     for article in ranked:
+        if is_ineligible(article):
+            continue
         score = _article_score(article, category)
         if score < STRONG_MATCH_SCORE[category]:
             continue
@@ -493,6 +759,8 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
             return selected
 
     for article in ranked:
+        if is_ineligible(article):
+            continue
         score = _article_score(article, category)
         if score < MIN_FINAL_SCORE[category]:
             continue
@@ -514,6 +782,8 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
 
     if len(selected) < MAX_ARTICLES_PER_CATEGORY:
         for article in ranked:
+            if is_ineligible(article):
+                continue
             if any(item["article"] is article for item in selected):
                 continue
             if is_duplicate(article):
@@ -535,17 +805,19 @@ def _select_final_articles(candidates: list[Article], category: str) -> list[dic
     return selected
 
 
-def _group_by_category(articles: list[Article]) -> dict:
+def _group_by_category(articles: list[Article], history: list[Article] | None = None) -> dict:
     """按分类分组文章，输出候选池和最终展示列表。"""
     groups = defaultdict(list)
     for a in articles:
+        # 抓取时的 category 只是 RSS 源的默认分类，不能直接作为最终分类。
+        a.category = _classify_article(a)
         groups[a.category].append(a)
 
     result = {}
     for category in CATEGORY_NAMES:
         cat_articles = groups.get(category, [])
         candidates = _select_candidates(cat_articles, category)
-        final_articles = _select_final_articles(candidates, category)
+        final_articles = _select_final_articles(candidates, category, history)
         result[category] = {
             "candidates": candidates,
             "articles": final_articles,
@@ -569,8 +841,11 @@ def _build_json_data(date_str: str, categorized: dict) -> dict:
                     "summary_zh": getattr(item["article"], "summary_zh", item["article"].summary),
                     "summary_en": getattr(item["article"], "summary_en", item["article"].summary),
                     "source": item["article"].source,
+                    "source_type": getattr(item["article"], "source_type", "original_reporting"),
                     "url": item["article"].url,
                     "published": item["article"].published.isoformat() if item["article"].published else None,
+                    "category_reason": getattr(item["article"], "category_reason", ""),
+                    "category_scores": getattr(item["article"], "category_scores", {}),
                     "selection_tier": item["selection_tier"],
                     "selection_reason": item["selection_reason"],
                     "selection_score": item["selection_score"],
@@ -581,6 +856,7 @@ def _build_json_data(date_str: str, categorized: dict) -> dict:
                 {
                     "summary": a.summary,
                     "source": a.source,
+                    "source_type": getattr(a, "source_type", "original_reporting"),
                     "url": a.url,
                     "published": a.published.isoformat() if a.published else None,
                 }
@@ -654,7 +930,10 @@ def main():
         print("[INFO] 未抓取到任何文章，生成空数据文件")
 
     # 2. 分类 + 排序 + Top N
-    categorized = _group_by_category(articles)
+    data_dir = _ensure_data_dir()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    recent_history = _load_recent_history(data_dir, today)
+    categorized = _group_by_category(articles, recent_history)
     for cat_key, cat_articles in categorized.items():
         name = CATEGORY_NAMES[cat_key]["zh"]
         candidate_count = len(cat_articles.get("candidates", []))
@@ -669,8 +948,6 @@ def main():
     translate_articles(all_selected)
 
     # 4. 写入 JSON
-    data_dir = _ensure_data_dir()
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     json_data = _build_json_data(today, categorized)
 
     json_path = os.path.join(data_dir, f"{today}.json")
