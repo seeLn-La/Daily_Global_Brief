@@ -75,8 +75,16 @@
   .article-item .zh { font-size: 15px; font-weight: 500; line-height: 1.5; margin-bottom: 4px; }
   .article-item .en { font-size: 13px; color: #86868b; line-height: 1.4; margin-bottom: 6px; }
   .article-item .meta { font-size: 12px; color: #aeaeb2; display: flex; align-items: center; gap: 8px; }
+  .article-item .source-type {
+    color: #6e6e73; background: #f5f5f7; border-radius: 5px;
+    padding: 2px 5px; font-size: 11px; white-space: nowrap;
+  }
   .article-item .meta a { color: #0071e3; text-decoration: none; font-weight: 500; margin-left: auto; }
   .article-item .meta a:hover { text-decoration: underline; }
+  .category-note {
+    color: #86868b; background: #f5f5f7; border-radius: 10px;
+    padding: 9px 11px; margin: -4px 0 12px; font-size: 12px; line-height: 1.45;
+  }
 
   /* ── States ── */
   .state-wrap { max-width: 1320px; margin: 0 auto; padding: 20px 24px 40px; }
@@ -183,6 +191,22 @@
     } catch { return ""; }
   }
 
+  function isWeekend(dateStr) {
+    if (!dateStr) return false;
+    const d = new Date(`${dateStr}T12:00:00+08:00`);
+    return [0, 6].includes(d.getUTCDay());
+  }
+
+  function sourceTypeLabel(type) {
+    const labels = {
+      first_party: "官方发布",
+      research: "研究论文",
+      original_reporting: "媒体原创",
+      community: "社区来源",
+    };
+    return labels[type] || "来源文章";
+  }
+
   /* ── Render articles ── */
   function render(data) {
     content.className = "container";
@@ -195,6 +219,10 @@
       html += `<div class="category-col ${catCSS[key]}">`;
       html += `<div class="category-title">${cat.name_zh || key} · ${articles.length} 篇</div>`;
 
+      if (key === "ai" && articles.length < 10 && isWeekend(currentDate)) {
+        html += `<div class="category-note">周末官方一手更新较少，已展示最近 72 小时内符合条件的内容。</div>`;
+      }
+
       if (articles.length === 0) {
         html += `<div style="color:#aeaeb2;font-size:14px;padding:20px 0;text-align:center">暂无文章</div>`;
       } else {
@@ -202,11 +230,12 @@
           const zh = a.summary_zh || "";
           const en = a.summary_en || "";
           const source = a.source || "";
+          const sourceType = sourceTypeLabel(a.source_type);
           const time = formatTime(a.published);
           html += `<div class="article-item">
             <div class="zh">${esc(zh)}</div>
             <div class="en">${esc(en)}</div>
-            <div class="meta"><span>${esc(source)}</span>${time ? `<span>${time}</span>` : ""}<a href="${esc(a.url)}" target="_blank" rel="noopener">原文 &#128279;</a></div>
+            <div class="meta"><span>${esc(source)}</span><span class="source-type">${esc(sourceType)}</span>${time ? `<span>${time}</span>` : ""}<a href="${esc(a.url)}" target="_blank" rel="noopener">原文 &#128279;</a></div>
           </div>`;
         }
       }
