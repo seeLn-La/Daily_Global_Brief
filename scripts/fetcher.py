@@ -10,14 +10,21 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from typing import Optional
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
 
 from config import DATA_DIR, FEED_TIMEOUT, RSS_SOURCES
 
-# 抓取最近多少小时内的文章（24h = 覆盖完整上一个新闻周期）
+# 平日抓取最近 24 小时，覆盖完整的上一个新闻周期。
 LOOKBACK_HOURS = 24
+
+# 周末官方来源更新频率较低，扩大窗口用于补充研究和工程文章。
+# 后续聚合阶段会继续做跨来源事件去重；重复新闻不会直接展示两次。
+WEEKEND_LOOKBACK_HOURS = 72
+
+LOCAL_TIMEZONE = ZoneInfo("Asia/Shanghai")
 
 # 并发抓取线程数
 MAX_FETCH_WORKERS = 8
@@ -103,6 +110,7 @@ class Article:
     category: str
     published: Optional[datetime] = None
     summary: str = ""
+    source_type: str = "original_reporting"
 
     def url_hash(self) -> str:
         """生成 URL 哈希用于去重"""
@@ -178,7 +186,12 @@ def _is_recent(published: Optional[datetime], cutoff: datetime) -> bool:
     return published >= cutoff
 
 
-def _fetch_one(url: str, category: str, cutoff: datetime) -> tuple[str, str, list[Article], Optional[str]]:
+def _fetch_one(
+    url: str,
+    category: str,
+    cutoff: datetime,
+    source_type: str = "original_reporting",
+) -> tuple[str, str, list[Article], Optional[str]]:
     """抓取单个 RSS 源，返回文章列表。异常时返回空列表。"""
     try:
         resp = requests.get(url, timeout=FEED_TIMEOUT, headers={"User-Agent": USER_AGENT})
@@ -214,6 +227,7 @@ def _fetch_one(url: str, category: str, cutoff: datetime) -> tuple[str, str, lis
             category=category,
             published=published,
             summary=title,  # 初始摘要 = 清洗后的标题
+            source_type=source_type,
         )
         articles.append(article)
 
@@ -223,10 +237,15 @@ def _fetch_one(url: str, category: str, cutoff: datetime) -> tuple[str, str, lis
 
 def fetch_all() -> list[Article]:
     """抓取所有 RSS 源，去重并返回文章列表。"""
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-    print(f"时间窗口: {cutoff.strftime('%Y-%m-%d %H:%M UTC')} ~ 现在\n")
-
     now = datetime.now(timezone.utc)
+    local_weekday = now.astimezone(LOCAL_TIMEZONE).weekday()
+    lookback_hours = WEEKEND_LOOKBACK_HOURS if local_weekday >= 5 else LOOKBACK_HOURS
+    cutoff = now - timedelta(hours=lookback_hours)
+    period_name = "周末补充窗口" if local_weekday >= 5 else "平日窗口"
+    print(
+        f"{period_name}: 最近 {lookback_hours} 小时 "
+        f"({cutoff.strftime('%Y-%m-%d %H:%M UTC')} ~ 现在)\n"
+    )
     health_state = _load_health_state()
     active_urls = {src["url"] for src in RSS_SOURCES}
     pruned_health_state = {url: record for url, record in health_state.items() if url in active_urls}
@@ -253,7 +272,13 @@ def fetch_all() -> list[Article]:
         max_workers = min(MAX_FETCH_WORKERS, len(active_sources))
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             future_map = {
-                executor.submit(_fetch_one, src["url"], src["category"], cutoff): src
+                executor.submit(
+                    _fetch_one,
+                    src["url"],
+                    src["category"],
+                    cutoff,
+                    src.get("source_type", "original_reporting"),
+                ): src
                 for src in active_sources
             }
             for future in concurrent.futures.as_completed(future_map):
@@ -276,6 +301,7 @@ def fetch_all() -> list[Article]:
             health_state[url] = {
                 "url": url,
                 "category": src["category"],
+                "source_type": src.get("source_type", "original_reporting"),
                 "last_status": "ok",
                 "last_success_at": now.isoformat(),
                 "last_failure_at": record.get("last_failure_at"),
@@ -287,6 +313,7 @@ def fetch_all() -> list[Article]:
             health_state[url] = {
                 "url": url,
                 "category": src["category"],
+                "source_type": src.get("source_type", "original_reporting"),
                 "last_status": "fail",
                 "last_success_at": record.get("last_success_at"),
                 "last_failure_at": now.isoformat(),
@@ -306,6 +333,7 @@ def fetch_all() -> list[Article]:
         health_state[url] = {
             "url": url,
             "category": record.get("category"),
+            "source_type": record.get("source_type", "original_reporting"),
             "last_status": "skipped_health",
             "last_success_at": record.get("last_success_at"),
             "last_failure_at": record.get("last_failure_at"),
