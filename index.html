@@ -152,6 +152,7 @@
   const nextBtn = document.getElementById("nextBtn");
   const dateLabel = document.getElementById("dateLabel");
   const content = document.getElementById("content");
+  const dataVersion = Date.now().toString();
 
   let dates = [];        // sorted ascending, from index.json
   let currentDate = "";  // YYYY-MM-DD
@@ -281,7 +282,7 @@
   async function loadDay(dateStr) {
     showSkeleton();
     try {
-      const resp = await fetch(`https://seeln-la.github.io/news/data/${dateStr}.json`);
+      const resp = await fetch(`https://seeln-la.github.io/news/data/${dateStr}.json?v=${dataVersion}`, { cache: "no-store" });
       if (!resp.ok) {
         if (resp.status === 404) { showEmpty(); return; }
         throw new Error(`HTTP ${resp.status}`);
@@ -300,7 +301,7 @@
     showSkeleton();
     let indexData;
     try {
-      const resp = await fetch("https://seeln-la.github.io/news/data/index.json");
+      const resp = await fetch(`https://seeln-la.github.io/news/data/index.json?v=${dataVersion}`, { cache: "no-store" });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       indexData = await resp.json();
     } catch (e) {
