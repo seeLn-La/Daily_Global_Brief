@@ -1,0 +1,534 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T00:48:52.949709+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "哈佛 699 美元的创业训练营提供其讲师的人工智能头像",
+          "summary_en": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "published": "2026-08-22T21:46:56+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.74
+        },
+        {
+          "summary_zh": "如何限制 Instagram 将您的数据用于人工智能和广告",
+          "summary_en": "How to limit Instagram from using your data for AI and ads",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+          "published": "2026-08-22T20:30:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.42
+        },
+        {
+          "summary_zh": "NanoGPT 速跑前沿",
+          "summary_en": "NanoGPT Speedrun Frontier",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "published": "2026-08-22T22:14:27+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.86
+        },
+        {
+          "summary_zh": "Windows 是 AI PC 路上的绊脚石",
+          "summary_en": "Windows is a stumbling block on the road to AI PC",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-22T10:00:42+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.8
+        },
+        {
+          "summary_zh": "Saily Ultra eSIM Prem Plan 回顾：充满福利",
+          "summary_en": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/saily-ultra-esim/",
+          "published": "2026-08-22T13:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.55
+        },
+        {
+          "summary_zh": "让小鼠冬眠会导致突触大量丧失",
+          "summary_en": "Putting mice into hibernation causes a major loss of synapses",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+          "published": "2026-08-22T11:22:32+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.14
+        },
+        {
+          "summary_zh": "OpenAI 呼吁加州加强人工智能安全法",
+          "summary_en": "OpenAI calls for California to strengthen its AI safety laws",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+          "published": "2026-08-22T19:27:04+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "published": "2026-08-22T19:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.05
+        },
+        {
+          "summary_zh": "英语 ↔ 克​​劳迪什 翻译",
+          "summary_en": "English ↔ Claudish Translator",
+          "source": "Hacker News: Front Page",
+          "url": "https://programasweights.com/claudish",
+          "published": "2026-08-22T19:19:15+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.13
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+          "published": "2026-08-22T11:08:53+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.08
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "published": "2026-08-22T21:46:56+00:00"
+        },
+        {
+          "summary": "How to limit Instagram from using your data for AI and ads",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+          "published": "2026-08-22T20:30:00+00:00"
+        },
+        {
+          "summary": "OpenAI calls for California to strengthen its AI safety laws",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+          "published": "2026-08-22T19:27:04+00:00"
+        },
+        {
+          "summary": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "published": "2026-08-22T19:00:00+00:00"
+        },
+        {
+          "summary": "NanoGPT Speedrun Frontier",
+          "source": "Hacker News: Front Page",
+          "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+          "published": "2026-08-22T22:14:27+00:00"
+        },
+        {
+          "summary": "English ↔ Claudish Translator",
+          "source": "Hacker News: Front Page",
+          "url": "https://programasweights.com/claudish",
+          "published": "2026-08-22T19:19:15+00:00"
+        },
+        {
+          "summary": "Windows 是 AI PC 路上的绊脚石",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1676189?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-22T10:00:42+00:00"
+        },
+        {
+          "summary": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
+          "source": "WIRED",
+          "url": "https://www.wired.com/review/saily-ultra-esim/",
+          "published": "2026-08-22T13:00:00+00:00"
+        },
+        {
+          "summary": "Putting mice into hibernation causes a major loss of synapses",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+          "published": "2026-08-22T11:22:32+00:00"
+        },
+        {
+          "summary": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+          "source": "Ars Technica - All content",
+          "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+          "published": "2026-08-22T11:08:53+00:00"
+        },
+        {
+          "summary": "Set Up a Separate Work Profile on Your Android Phone",
+          "source": "WIRED",
+          "url": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
+          "published": "2026-08-22T11:00:00+00:00"
+        },
+        {
+          "summary": "早报｜摄像头AirPods或配备拍摄指示灯/问界儿童车售价1.58万元/LV否认「起诉国家知识产权局遭驳回」",
+          "source": "爱范儿",
+          "url": "https://www.ifanr.com/1676129?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-22T00:50:06+00:00"
+        },
+        {
+          "summary": "Two great new repairable gadgets",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+          "published": null
+        },
+        {
+          "summary": "HoverAir’s transforming modular drone has already been halted in the US",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+          "published": null
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
+          "published": "2026-08-23T00:00:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.3
+        },
+        {
+          "summary_zh": "卡尼：美国9月8日反关税、特朗普股票披露",
+          "summary_en": "Carney: Counter-Tariffs on US Sept 8, Trump’s Stock Disclosure",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-22/carney-counter-tariffs-on-us-sept-8-trump-s-stock-disclosure",
+          "published": "2026-08-22T23:16:48+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+          "published": "2026-08-22T20:31:00+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "卡尼称加拿大将对美国钢铁、电子产品和其他产品征收报复性关税 - 路透中文网",
+          "summary_en": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "published": "2026-08-22T20:03:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.31
+        },
+        {
+          "summary_zh": "派拉蒙和加州将就华纳兄弟交易进行初步谈判",
+          "summary_en": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html",
+          "published": "2026-08-22T19:20:33+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "能源行业表示，陷入困境的家庭需要更多账单帮助",
+          "summary_en": "Struggling households need more help with bills, energy industry says",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T23:00:03+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.05
+        },
+        {
+          "summary_zh": "收益率上升令市场不安，但我们仍坚持我们最喜欢的人工智能和零售股票",
+          "summary_en": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+          "published": "2026-08-22T15:08:54+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.58
+        },
+        {
+          "summary_zh": "丰厚的收益率吸引垃圾债券买家购买投资级人工智能债务",
+          "summary_en": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+          "published": "2026-08-22T19:00:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "特朗普最高贸易代表详细介绍了加拿大拒绝的提议",
+          "summary_en": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+          "published": "2026-08-22T23:02:27+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "让阳光充足：梵蒂冈计划太阳能和农业工厂以满足电力需求 - 路透中文网",
+          "summary_en": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
+          "published": "2026-08-22T21:46:16+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.74
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-23/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout",
+          "published": "2026-08-23T00:00:00+00:00"
+        },
+        {
+          "summary": "Carney: Counter-Tariffs on US Sept 8, Trump’s Stock Disclosure",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-22/carney-counter-tariffs-on-us-sept-8-trump-s-stock-disclosure",
+          "published": "2026-08-22T23:16:48+00:00"
+        },
+        {
+          "summary": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+          "source": "Bloomberg Markets",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+          "published": "2026-08-22T19:00:00+00:00"
+        },
+        {
+          "summary": "Canada US Counter-Tariffs Sept 8, Trump’s Stock Disclosure, More",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-22/canada-us-counter-tariffs-sept-8-trump-s-stock-disclosure-more",
+          "published": "2026-08-22T21:57:27+00:00"
+        },
+        {
+          "summary": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+          "published": "2026-08-22T20:31:00+00:00"
+        },
+        {
+          "summary": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "published": "2026-08-22T20:03:10+00:00"
+        },
+        {
+          "summary": "Paramount and California to Hold Preliminary Talks on Warner Bros. Deal",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/paramount-california-warner-bros.html",
+          "published": "2026-08-22T19:20:33+00:00"
+        },
+        {
+          "summary": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+          "source": "NYT > Business",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+          "published": "2026-08-22T23:02:27+00:00"
+        },
+        {
+          "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
+          "source": "\"site:reuters.com business\" - Google News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
+          "published": "2026-08-22T21:46:16+00:00"
+        },
+        {
+          "summary": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+          "published": "2026-08-22T13:01:00+00:00"
+        },
+        {
+          "summary": "Struggling households need more help with bills, energy industry says",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T23:00:03+00:00"
+        },
+        {
+          "summary": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+          "published": "2026-08-22T15:08:54+00:00"
+        },
+        {
+          "summary": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+          "source": "US Top News and Analysis",
+          "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+          "published": "2026-08-22T20:18:15+00:00"
+        },
+        {
+          "summary": "Taxi drivers urge council to agree 8% fare hike",
+          "source": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-22T10:53:26+00:00"
+        },
+        {
+          "summary": "Here are your favorite products hit by Trump’s new 50% tariffs on Canada",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/list-of-trump-tariffs-canada-whisky-dairy-hockey-gear-2026-8",
+          "published": null
+        },
+        {
+          "summary": "A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "source": "All Content from Business Insider",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "published": null
+        },
+        {
+          "summary": "Trump trade chief warns Canada walked away from 'the best deal' to trigger 50% U.S. tariffs",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://www.yahoo.com/news/politics/articles/trump-trade-chief-warns-canada-173706935.html",
+          "published": null
+        },
+        {
+          "summary": "Wall Street is bemused by Bessent’s bond plan and the unwinding punt on the Japanese yen—he’s hinting he knows something the markets don’t",
+          "source": "Yahoo News - Latest News & Headlines",
+          "url": "https://finance.yahoo.com/markets/currencies/articles/wall-street-bemused-bessent-bond-105816100.html",
+          "published": null
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_en": "AI agents can build consensus on a scale humans can't",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-consensus-scale-humans.html",
+          "published": "2026-08-22T08:00:04-04:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "研究解释了为什么人工智能代理会从“技能”中受益以及何时会失败",
+          "summary_en": "Study explains why AI agents benefit from \"skills\" and when they fail",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+          "published": "2026-08-22T12:15:10+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "如何优化基于 Transformer 的模型以进行低精度训练",
+          "summary_en": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null,
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/477155.html",
+          "published": "2026-08-22T14:11:20+00:00",
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.84
+        },
+        {
+          "summary_zh": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/477094.html",
+          "published": "2026-08-22T13:56:00+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.78
+        },
+        {
+          "summary_zh": "新研究表明，忽视人类信念的世界模型会预测错误的行为",
+          "summary_en": "World models that ignore human beliefs predict the wrong actions, new research shows",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+          "published": "2026-08-22T09:00:20+00:00",
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.55
+        },
+        {
+          "summary_zh": "使用 NVIDIA NeMo Switchyard 跨模型路由 AI 代理工作负载",
+          "summary_en": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null,
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI agents can build consensus on a scale humans can't",
+          "source": "News on Artificial Intelligence and Machine Learning",
+          "url": "https://techxplore.com/news/2026-08-ai-agents-consensus-scale-humans.html",
+          "published": "2026-08-22T08:00:04-04:00"
+        },
+        {
+          "summary": "Study explains why AI agents benefit from \"skills\" and when they fail",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+          "published": "2026-08-22T12:15:10+00:00"
+        },
+        {
+          "summary": "How to Optimize Transformer-Based Models for Low-Precision Training",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-transformer-based-models-for-low-precision-training/",
+          "published": null
+        },
+        {
+          "summary": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/477155.html",
+          "published": "2026-08-22T14:11:20+00:00"
+        },
+        {
+          "summary": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/08/477094.html",
+          "published": "2026-08-22T13:56:00+00:00"
+        },
+        {
+          "summary": "World models that ignore human beliefs predict the wrong actions, new research shows",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+          "published": "2026-08-22T09:00:20+00:00"
+        },
+        {
+          "summary": "Route AI Agent Workloads Across Models with NVIDIA NeMo Switchyard",
+          "source": "NVIDIA Technical Blog",
+          "url": "https://developer.nvidia.com/blog/route-ai-agent-workloads-across-models-with-nvidia-nemo-switchyard/",
+          "published": null
+        }
+      ]
+    }
+  }
+}
