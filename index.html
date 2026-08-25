@@ -282,7 +282,7 @@
   async function loadDay(dateStr) {
     showSkeleton();
     try {
-      const resp = await fetch(`https://seeln-la.github.io/news/data/${dateStr}.json?v=${dataVersion}`, { cache: "no-store" });
+      const resp = await fetch(`https://seeln-la.github.io/Daily_Global_Brief/data/${dateStr}.json?v=${dataVersion}`, { cache: "no-store" });
       if (!resp.ok) {
         if (resp.status === 404) { showEmpty(); return; }
         throw new Error(`HTTP ${resp.status}`);
@@ -301,7 +301,7 @@
     showSkeleton();
     let indexData;
     try {
-      const resp = await fetch(`https://seeln-la.github.io/news/data/index.json?v=${dataVersion}`, { cache: "no-store" });
+      const resp = await fetch(`https://seeln-la.github.io/Daily_Global_Brief/data/index.json?v=${dataVersion}`, { cache: "no-store" });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       indexData = await resp.json();
     } catch (e) {
