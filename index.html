@@ -218,15 +218,9 @@
     for (const key of catKeys) {
       const cat = cats[key] || {};
       const allArticles = cat.articles || [];
-      // 翻译失败的英文标题不在网页展示，避免用户看到无法阅读的原文。
-      const articles = allArticles.filter(a => /[一-鿿㐀-䶿]/.test(a.summary_zh || ""));
-      const hiddenCount = allArticles.length - articles.length;
+      const articles = allArticles;
       html += `<div class="category-col ${catCSS[key]}">`;
       html += `<div class="category-title">${cat.name_zh || key} · ${articles.length} 篇</div>`;
-
-      if (hiddenCount > 0) {
-        html += `<div class="category-note">有 ${hiddenCount} 篇标题暂时无法翻译，已隐藏。</div>`;
-      }
 
       if (key === "ai" && articles.length < 10 && isWeekend(currentDate)) {
         html += `<div class="category-note">周末官方一手更新较少，已展示最近 72 小时内符合条件的内容。</div>`;
