@@ -8,7 +8,7 @@ from typing import Optional
 
 from config import TRANSLATION_DELAY
 
-TRANSLATION_TIMEOUT = 3  # 单次翻译超时秒数
+TRANSLATION_TIMEOUT = 15  # 在线备用翻译的单次超时秒数；离线模型通常远低于此值
 
 # Argos 的中译英/英译中模型由 GitHub Actions 预先安装，翻译时不依赖在线额度。
 _ARGOS_LOCK = threading.Lock()
