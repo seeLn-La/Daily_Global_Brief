@@ -1,13 +1,30 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T14:56:45.046780+00:00",
+  "generated_at": "2026-08-25T15:43:09.643249+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "Apple 在 M5 Ultra 和 M6 中首次推出“有史以来最强大的芯片”",
+          "summary_zh": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+          "summary_en": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+          "published": "2026-08-25T15:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.32
+        },
+        {
+          "summary_zh": "苹果在M5 Ultra和M6中首发“有史以来最强大的芯片”",
           "summary_en": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "source": "TechCrunch",
           "source_type": "original_reporting",
@@ -21,10 +38,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.11
+          "selection_score": 8.92
         },
         {
-          "summary_zh": "OpenAI 表示，其 Jalapeo 芯片可以比竞争对手提供更快的人工智能响应",
+          "summary_zh": "OpenAI说,它的哈拉佩尼奥芯片能比比赛更快地对AI进行响应",
           "summary_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
           "source": "The Verge",
           "source_type": "original_reporting",
@@ -38,7 +55,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.06
+          "selection_score": 8.87
         },
         {
           "summary_zh": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
@@ -55,10 +72,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.86
+          "selection_score": 8.67
         },
         {
-          "summary_zh": "Apple 的 M5 Ultra 配备 80 核 GPU，将为您的 AI 模型和 8K 视频提供动力",
+          "summary_zh": "Apple的M5 Ultra 具有80个核心GPU的会通过你的AI模型和8K视频产生能量",
           "summary_en": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
           "source": "Engadget - Technology News & Expert Reviews",
           "source_type": "original_reporting",
@@ -72,10 +89,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.81
+          "selection_score": 8.62
         },
         {
-          "summary_zh": "下载：更智能的人工智能走进学校，上海的机器人“嘉年华”",
+          "summary_zh": "下载:学校中的智能AI,上海的机器人\"嘉年华\"",
           "summary_en": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
           "source": "MIT Technology Review",
           "source_type": "original_reporting",
@@ -89,10 +106,27 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.61
+          "selection_score": 8.41
         },
         {
-          "summary_zh": "Apple 推出配备 M5 Max 和 M5 Ultra 的全新 Mac Studio",
+          "summary_zh": "最高法院的选票裁决是中期混乱的一步",
+          "summary_en": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+          "published": "2026-08-25T15:16:36+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "苹果公司推出新的Mac Studio,配有M5 Max和M5 Ultra",
           "summary_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
           "source": "Apple Newsroom",
           "source_type": "first_party",
@@ -106,10 +140,27 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.02
+          "selection_score": 7.82
         },
         {
-          "summary_zh": "苹果新款台式电脑专为本地AI开发而设计",
+          "summary_zh": "S&P 500随着产量下降而略有上升, Nasdaq 由芯片名称推动: Live更新",
+          "summary_en": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+          "published": "2026-08-25T15:29:18+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.74
+        },
+        {
+          "summary_zh": "苹果公司的新台式计算机是专门为本地AI开发设计的",
           "summary_en": "Apple's new desktop computers are designed specifically for local AI development",
           "source": "Ars Technica - All content",
           "source_type": "original_reporting",
@@ -123,61 +174,17 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.82
-        },
-        {
-          "summary_zh": "Apple Mac Mini M6 和 Mac Studio M5 Ultra：规格、价格、发布日期",
-          "summary_en": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
-          "published": "2026-08-25T13:00:00+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.81
-        },
-        {
-          "summary_zh": "随着收益率下降，标普 500 指数小幅上涨，纳斯达克指数受芯片名称提振：实时更新",
-          "summary_en": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-          "source": "US Top News and Analysis",
-          "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-          "published": "2026-08-25T14:55:13+00:00",
-          "category_reason": "标题主题匹配",
-          "category_scores": {
-            "technology": 1.0,
-            "business": 1.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.79
-        },
-        {
-          "summary_zh": "美国运输安全管理局 (TSA) 正计划对机场安全进行重大改革。这就是它们对旅行者的意义。",
-          "summary_en": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/tsa-plans-big-changes-for-airport-security-and-more-privatization-2026-8",
-          "published": "2026-08-25T14:40:33+00:00",
-          "category_reason": "标题主题匹配",
-          "category_scores": {
-            "technology": 1.0,
-            "business": 1.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.73
+          "selection_score": 7.62
         }
       ],
       "candidates": [
+        {
+          "summary": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+          "published": "2026-08-25T15:00:00+00:00"
+        },
         {
           "summary": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "source": "TechCrunch",
@@ -235,6 +242,13 @@
           "published": "2026-08-25T12:10:00+00:00"
         },
         {
+          "summary": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
+          "published": "2026-08-25T15:16:36+00:00"
+        },
+        {
           "summary": "27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
           "source": "爱范儿",
           "source_type": "original_reporting",
@@ -254,6 +268,13 @@
           "source_type": "first_party",
           "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
           "published": "2026-08-25T12:59:36.109000+00:00"
+        },
+        {
+          "summary": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+          "published": "2026-08-25T15:29:18+00:00"
         },
         {
           "summary": "Apple's new desktop computers are designed specifically for local AI development",
@@ -277,13 +298,6 @@
           "published": "2026-08-25T09:00:00+00:00"
         },
         {
-          "summary": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
-          "source": "US Top News and Analysis",
-          "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-          "published": "2026-08-25T14:55:13+00:00"
-        },
-        {
           "summary": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
           "source": "All Content from Business Insider",
           "source_type": "original_reporting",
@@ -298,13 +312,6 @@
           "published": "2026-08-25T00:00:00-04:00"
         },
         {
-          "summary": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/story/home-composters-buying-guide/",
-          "published": "2026-08-25T11:30:00+00:00"
-        },
-        {
           "summary": "Modi Opens Defense and Space Technology to Indian Industry",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
@@ -312,18 +319,18 @@
           "published": "2026-08-25T12:56:10+00:00"
         },
         {
-          "summary": "Anthropic tells staff to work from home due to possible security team strike",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-          "published": "2026-08-25T14:00:27+00:00"
-        },
-        {
           "summary": "HelloAssembly The smallest possible complete Windows application",
           "source": "Hacker News: Front Page",
           "source_type": "community",
           "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
           "published": "2026-08-25T11:40:00+00:00"
+        },
+        {
+          "summary": "How much of HN is AI?",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+          "published": "2026-08-25T15:23:41+00:00"
         },
         {
           "summary": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
@@ -375,13 +382,6 @@
           "published": "2026-08-24T19:00:00+00:00"
         },
         {
-          "summary": "Intent to Ship: JPEG XL",
-          "source": "Mozilla Hacks – the Web developer blog",
-          "source_type": "first_party",
-          "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-          "published": "2026-08-24T15:32:15+00:00"
-        },
-        {
           "summary": "How Big Tech Captured American Schools",
           "source": "NYT > Business",
           "source_type": "original_reporting",
@@ -395,24 +395,24 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "AI收入放缓将是市场的大考验",
-          "summary_en": "AI Revenue Slowdown Would Be the Market's Big Test",
+          "summary_zh": "美联储的柯林斯说持有率取决于通胀进度",
+          "summary_en": "Fed’s Collins Says Holding Rates Hangs on Inflation Progress",
           "source": "Bloomberg Markets",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-25/ai-revenue-slowdown-would-be-the-market-s-big-test-video",
-          "published": "2026-08-25T14:33:55+00:00",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/fed-s-collins-says-holding-rates-hangs-on-inflation-progress",
+          "published": "2026-08-25T14:54:04+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
-            "business": 3.5,
-            "ai": 1.0
+            "business": 4.5,
+            "ai": 0.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.21
+          "selection_score": 11.1
         },
         {
-          "summary_zh": "通货膨胀后泽西岛收入增长 1.2%",
+          "summary_zh": "通货膨胀后泽西岛收入增加1.2%。",
           "summary_en": "Jersey earnings rise by 1.2% after inflation",
           "source": "BBC News",
           "source_type": "original_reporting",
@@ -426,32 +426,15 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.41
+          "selection_score": 9.21
         },
         {
-          "summary_zh": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
-          "summary_en": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
-          "source": "MarketWatch.com - Top Stories",
-          "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-          "published": "2026-08-25T14:41:00+00:00",
-          "category_reason": "商业事件词优先",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 2.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 9.24
-        },
-        {
-          "summary_zh": "加拿大准备关税应对措施、美国消费者信心下降等",
-          "summary_en": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
+          "summary_zh": "股票移动器:迪克的体育用品,Uber,目标(Podcast)",
+          "summary_en": "Stock Movers: Dick's Sporting Goods, Uber, Target (Podcast)",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-25/canada-preps-tariff-response-us-consumer-confidence-falls-more",
-          "published": "2026-08-25T14:29:58+00:00",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-dick-s-sporting-goods-uber-target-podcast",
+          "published": "2026-08-25T15:13:01+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
@@ -460,10 +443,44 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.19
+          "selection_score": 9.18
         },
         {
-          "summary_zh": "Dick's Sporting Goods 股价下跌 25%，因零售商未达到预期，称鞋类市场“充满挑战”",
+          "summary_zh": "为何Meta的股票可以看到50%的集会,",
+          "summary_en": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+          "published": "2026-08-25T15:10:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "Sam Altman说经济适应AI的速度比他预期的要慢",
+          "summary_en": "Sam Altman says the economy is adapting to AI slower than he expected",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+          "published": "2026-08-25T15:09:20+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "Dick's Sporting Goods的股票下跌25%, 零售商错过了预期,",
           "summary_en": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
           "source": "US Top News and Analysis",
           "source_type": "original_reporting",
@@ -477,10 +494,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.76
+          "selection_score": 8.57
         },
         {
-          "summary_zh": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+          "summary_zh": "在百事可乐交易之后,自驾卡车Gatik筹集了20万美元",
           "summary_en": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
           "source": "TechCrunch",
           "source_type": "original_reporting",
@@ -494,32 +511,15 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.56
+          "selection_score": 8.37
         },
         {
-          "summary_zh": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
-          "summary_en": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/nikita-bier-business-advice-intro-x-elon-musk-2026-8",
-          "published": "2026-08-25T11:51:36+00:00",
-          "category_reason": "商业事件词优先",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 2.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 8.53
-        },
-        {
-          "summary_zh": "Is It Time for This 95-Year-Old Pianist to Retire?",
-          "summary_en": "Is It Time for This 95-Year-Old Pianist to Retire?",
+          "summary_zh": "特朗普的《加拿大关税法》",
+          "summary_en": "Trump’s Canada Tariffs Rely on Untested Law",
           "source": "NYT > Business",
           "source_type": "original_reporting",
-          "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
-          "published": "2026-08-25T13:55:52+00:00",
+          "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+          "published": "2026-08-25T15:26:41+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
@@ -528,10 +528,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.05
+          "selection_score": 8.23
         },
         {
-          "summary_zh": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+          "summary_zh": "您的AI, 关于一个拨号: 控制对单神经元的 LLMs 的投资",
           "summary_en": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -545,10 +545,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.56
+          "selection_score": 6.37
         },
         {
-          "summary_zh": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
+          "summary_zh": "供应-香槟市场波动下的联邦联合预测",
           "summary_en": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -562,23 +562,23 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.56
+          "selection_score": 6.37
         }
       ],
       "candidates": [
+        {
+          "summary": "Fed’s Collins Says Holding Rates Hangs on Inflation Progress",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/fed-s-collins-says-holding-rates-hangs-on-inflation-progress",
+          "published": "2026-08-25T14:54:04+00:00"
+        },
         {
           "summary": "AI Revenue Slowdown Would Be the Market's Big Test",
           "source": "Bloomberg Markets",
           "source_type": "original_reporting",
           "url": "https://www.bloomberg.com/news/videos/2026-08-25/ai-revenue-slowdown-would-be-the-market-s-big-test-video",
           "published": "2026-08-25T14:33:55+00:00"
-        },
-        {
-          "summary": "VIX Curve ‘Bump’ Shows Stock-Market Anxiety Growing by Midterms",
-          "source": "Bloomberg Markets",
-          "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-25/vix-curve-bump-shows-stock-market-anxiety-growing-by-midterms",
-          "published": "2026-08-25T14:04:34+00:00"
         },
         {
           "summary": "Jersey earnings rise by 1.2% after inflation",
@@ -588,11 +588,39 @@
           "published": "2026-08-25T11:22:05+00:00"
         },
         {
-          "summary": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
+          "summary": "Stock Movers: Dick's Sporting Goods, Uber, Target (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-dick-s-sporting-goods-uber-target-podcast",
+          "published": "2026-08-25T15:13:01+00:00"
+        },
+        {
+          "summary": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
           "source": "MarketWatch.com - Top Stories",
           "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-          "published": "2026-08-25T14:41:00+00:00"
+          "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+          "published": "2026-08-25T15:10:00+00:00"
+        },
+        {
+          "summary": "Sam Altman says the economy is adapting to AI slower than he expected",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
+          "published": "2026-08-25T15:09:20+00:00"
+        },
+        {
+          "summary": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T15:04:52+00:00"
+        },
+        {
+          "summary": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
+          "published": "2026-08-25T15:04:00+00:00"
         },
         {
           "summary": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
@@ -600,20 +628,6 @@
           "source_type": "original_reporting",
           "url": "https://www.bloomberg.com/news/audio/2026-08-25/canada-preps-tariff-response-us-consumer-confidence-falls-more",
           "published": "2026-08-25T14:29:58+00:00"
-        },
-        {
-          "summary": "Stock Movers: Zoom, Dick's Sporting Goods, Navitas (Podcast)",
-          "source": "Bloomberg.com",
-          "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-zoom-dick-s-sporting-goods-navitas-podcast",
-          "published": "2026-08-25T14:20:04+00:00"
-        },
-        {
-          "summary": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
-          "source": "MarketWatch.com - Top Stories",
-          "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-          "published": "2026-08-25T13:59:00+00:00"
         },
         {
           "summary": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
@@ -644,32 +658,18 @@
           "published": "2026-08-25T11:51:36+00:00"
         },
         {
-          "summary": "We moved from Chicago to a much smaller Midwestern city. It had a lot of perks, but not enough to keep us.",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/moved-from-chicago-to-smaller-city-and-back-lessons-learned-2026-8",
-          "published": "2026-08-25T14:38:11+00:00"
-        },
-        {
-          "summary": "Is It Time for This 95-Year-Old Pianist to Retire?",
+          "summary": "Trump’s Canada Tariffs Rely on Untested Law",
           "source": "NYT > Business",
           "source_type": "original_reporting",
-          "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
-          "published": "2026-08-25T13:55:52+00:00"
+          "url": "https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html",
+          "published": "2026-08-25T15:26:41+00:00"
         },
         {
           "summary": "Target Apologizes and Drops Halloween Costume Criticized as Racist",
           "source": "NYT > Business",
           "source_type": "original_reporting",
           "url": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html",
-          "published": "2026-08-25T13:42:15+00:00"
-        },
-        {
-          "summary": "More than 70,000 social and affordable homes to be built across England over 10 years",
-          "source": "BBC News",
-          "source_type": "original_reporting",
-          "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T12:10:13+00:00"
+          "published": "2026-08-25T15:07:53+00:00"
         },
         {
           "summary": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
@@ -712,13 +712,6 @@
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
           "published": "2026-08-24T19:54:19+00:00"
-        },
-        {
-          "summary": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-          "source": "AI News & Artificial Intelligence | TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-          "published": "2026-08-24T15:24:18+00:00"
         }
       ]
     },
@@ -727,7 +720,7 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率",
+          "summary_zh": "Jalapeño的首批结果显示AI推论的行业领先速度和效率",
           "summary_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "source": "OpenAI News",
           "source_type": "first_party",
@@ -741,10 +734,27 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.01
+          "selection_score": 9.82
         },
         {
-          "summary_zh": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+          "summary_zh": "Granite 4.2 LLMs:它们是如何建造的",
+          "summary_en": "Granite 4.2 LLMs: How They're Built",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "published": "2026-08-25T15:14:14+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "KVBoost: Chunk - Level 键 - Vale Cache 重复使用, 并使用 Deviation - Guided Recompution 为高效的大语言模型推论",
           "summary_en": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -758,10 +768,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.56
+          "selection_score": 8.37
         },
         {
-          "summary_zh": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+          "summary_zh": "MSM-Mem:通用医疗结构多模式记忆框架",
           "summary_en": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -775,27 +785,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.56
+          "selection_score": 8.37
         },
         {
-          "summary_zh": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "summary_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "source": "Hugging Face - Blog",
-          "source_type": "first_party",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "published": "2026-08-25T11:39:24+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 1.5
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.68
-        },
-        {
-          "summary_zh": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "summary_zh": "STARFlow2:为统一多式联运生成而简化语言模式和规范流动",
           "summary_en": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
           "source": "Apple Machine Learning Research",
           "source_type": "first_party",
@@ -809,27 +802,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.76
+          "selection_score": 5.57
         },
         {
-          "summary_zh": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-          "summary_en": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-          "source": "NVIDIA Technical Blog",
-          "source_type": "first_party",
-          "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
-          "published": "2026-08-24T15:08:39+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 2.5
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 5.05
-        },
-        {
-          "summary_zh": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+          "summary_zh": "阅读 Less, Solve 更多: 为 AI 代理读取 Token- 有效 Sparse",
           "summary_en": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -843,10 +819,10 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.56
+          "selection_score": 8.37
         },
         {
-          "summary_zh": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
+          "summary_zh": "Token-Level 成员推论和AI-Generated文本检测的概率-Array回归",
           "summary_en": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -860,15 +836,15 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.56
+          "selection_score": 8.37
         },
         {
-          "summary_zh": "Disrupting a new covert influence campaign from Russia",
-          "summary_en": "Disrupting a new covert influence campaign from Russia",
+          "summary_zh": "充满智慧的堆积物",
+          "summary_en": "The full stack behind abundant intelligence",
           "source": "OpenAI News",
           "source_type": "first_party",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "published": "2026-08-25T00:00:00+00:00",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "published": "2026-08-25T07:05:00+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
@@ -877,15 +853,32 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 6.26
+          "selection_score": 7.84
         },
         {
-          "summary_zh": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "summary_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "summary_zh": "量子化- Aware 治疗: 一个压缩的4位模型,它超越了它的完全精度原创",
+          "summary_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "source": "Hugging Face - Blog",
           "source_type": "first_party",
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "published": "2026-08-25T00:00:00+00:00",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "published": "2026-08-25T11:39:24+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "机构知识的民主化:与AI系统一起建立一个AI驱动的知识管理系统",
+          "summary_en": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
+          "published": "2026-08-24T18:59:15+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
@@ -894,7 +887,7 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.76
+          "selection_score": 4.32
         }
       ],
       "candidates": [
@@ -918,6 +911,13 @@
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
           "published": "2026-08-25T14:22:04+00:00"
+        },
+        {
+          "summary": "Granite 4.2 LLMs: How They're Built",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "published": "2026-08-25T15:14:14+00:00"
         },
         {
           "summary": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
@@ -955,6 +955,13 @@
           "published": "2026-08-25T12:00:00+00:00"
         },
         {
+          "summary": "The full stack behind abundant intelligence",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "published": "2026-08-25T07:05:00+00:00"
+        },
+        {
           "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "source": "Hugging Face - Blog",
           "source_type": "first_party",
@@ -962,39 +969,11 @@
           "published": "2026-08-25T11:39:24+00:00"
         },
         {
-          "summary": "Disrupting a new covert influence campaign from Russia",
-          "source": "OpenAI News",
-          "source_type": "first_party",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "published": "2026-08-25T00:00:00+00:00"
-        },
-        {
-          "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "source": "Hugging Face - Blog",
-          "source_type": "first_party",
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "published": "2026-08-25T00:00:00+00:00"
-        },
-        {
           "summary": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
           "source": "Apple Machine Learning Research",
           "source_type": "first_party",
           "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
           "published": "2026-08-25T00:00:00+00:00"
-        },
-        {
-          "summary": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
-          "source": "NVIDIA Technical Blog",
-          "source_type": "first_party",
-          "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
-          "published": "2026-08-24T15:08:39+00:00"
-        },
-        {
-          "summary": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-          "source": "NVIDIA Technical Blog",
-          "source_type": "first_party",
-          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
-          "published": "2026-08-24T15:00:05+00:00"
         },
         {
           "summary": "实测豆包工作：连上飞书后，Agent 终于像个同事了",
@@ -1011,13 +990,6 @@
           "published": "2026-08-24T18:59:15+00:00"
         },
         {
-          "summary": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "source": "AI News & Artificial Intelligence | TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-          "published": "2026-08-24T15:00:00+00:00"
-        },
-        {
           "summary": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
           "source": "Artificial Intelligence",
           "source_type": "first_party",
@@ -1030,13 +1002,6 @@
           "source_type": "original_reporting",
           "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
           "published": "2026-08-24T21:32:16+00:00"
-        },
-        {
-          "summary": "Headlong: A Microharness for Persistent Agents",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-          "published": "2026-08-25T03:54:19+00:00"
         }
       ]
     }
