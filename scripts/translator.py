@@ -37,6 +37,13 @@ def _is_error_response(text: str) -> bool:
     return sum(marker in normalized for marker in ERROR_RESPONSE_MARKERS) >= 3
 
 
+def _is_usable_translation(text: Optional[str], target: str) -> bool:
+    """确认翻译结果不是错误页面，且中文目标确实含有中文。"""
+    if not text or _is_error_response(text):
+        return False
+    return target != "zh-CN" or _has_chinese(text)
+
+
 def _run_with_timeout(func, *args, timeout: int = TRANSLATION_TIMEOUT):
     """在线程中运行函数，带超时控制。
 
@@ -67,7 +74,7 @@ def _google_translate(text: str, target: str) -> Optional[str]:
     def _call():
         from deep_translator import GoogleTranslator
         result = GoogleTranslator(source="auto", target=target).translate(text)
-        return result if result and not _is_error_response(result) else None
+        return result if _is_usable_translation(result, target) else None
 
     return _run_with_timeout(_call)
 
@@ -97,7 +104,7 @@ def _argos_translate(text: str, target: str) -> Optional[str]:
                 return None
 
             result = argostranslate.translate.translate(text, "en", "zh")
-            return result if result and not _is_error_response(result) else None
+            return result if _is_usable_translation(result, target) else None
         except Exception:  # noqa: BLE001
             _ARGOS_AVAILABLE = False
             return None
@@ -111,7 +118,7 @@ def _mymemory_translate(text: str, target: str) -> Optional[str]:
         from deep_translator import MyMemoryTranslator
         source = "zh-CN" if _has_chinese(text) else "en"
         result = MyMemoryTranslator(source=source, target=target).translate(text)
-        return result if result and not _is_error_response(result) else None
+        return result if _is_usable_translation(result, target) else None
 
     return _run_with_timeout(_call)
 
@@ -122,7 +129,7 @@ def _translate_fallback(text: str, target: str) -> Optional[str]:
         from translate import Translator
         translator = Translator(to_lang=target)
         result = translator.translate(text)
-        return result if result and not _is_error_response(result) else None
+        return result if _is_usable_translation(result, target) else None
 
     return _run_with_timeout(_call)
 
@@ -143,22 +150,22 @@ def translate_text(text: str, target_lang: str) -> tuple[str, str]:
     # 英文标题优先使用离线模型，不受在线翻译服务额度影响。
     if target_lang == "zh-CN" and not _has_chinese(text):
         result = _argos_translate(text, target_lang)
-        if result and not _is_error_response(result):
+        if _is_usable_translation(result, target_lang):
             return result, "offline"
 
     # 尝试主翻译方案
     result = _google_translate(text, target_lang)
-    if result and not _is_error_response(result):
+    if _is_usable_translation(result, target_lang):
         return result, "auto"
 
     # 备用免费翻译服务
     result = _mymemory_translate(text, target_lang)
-    if result and not _is_error_response(result):
+    if _is_usable_translation(result, target_lang):
         return result, "auto"
 
     # 尝试备选方案
     result = _translate_fallback(text, target_lang)
-    if result and not _is_error_response(result):
+    if _is_usable_translation(result, target_lang):
         return result, "auto"
 
     # 全部失败，降级为原文
