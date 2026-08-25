@@ -1,52 +1,103 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T00:45:39.431842+00:00",
+  "generated_at": "2026-08-25T14:46:23.171942+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型",
-          "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "source": "爱范儿",
-          "source_type": "original_reporting",
-          "url": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-08-25T00:25:59+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 8.22
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "summary_zh": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+          "summary_en": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "source": "TechCrunch",
           "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-          "published": "2026-08-25T00:23:12+00:00",
-          "category_reason": "沿用来源默认分类",
+          "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+          "published": "2026-08-25T14:10:36+00:00",
+          "category_reason": "标题主题匹配",
           "category_scores": {
-            "technology": 1.5,
+            "technology": 2.5,
             "business": 0.0,
-            "ai": 1.0
+            "ai": 0.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.21
+          "selection_score": 9.15
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+          "summary_zh": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+          "summary_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
           "source": "The Verge",
           "source_type": "original_reporting",
-          "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-          "published": "2026-08-24T19:38:10-04:00",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+          "published": "2026-08-25T10:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.11
+        },
+        {
+          "summary_zh": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+          "summary_en": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T13:10:31+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+          "summary_en": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/",
+          "published": "2026-08-25T13:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+          "summary_en": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+          "published": "2026-08-25T12:10:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.65
+        },
+        {
+          "summary_zh": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "summary_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "published": "2026-08-25T13:00:23.969000+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 1.5,
@@ -55,15 +106,15 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.02
+          "selection_score": 8.06
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
+          "summary_zh": "Apple's new desktop computers are designed specifically for local AI development",
+          "summary_en": "Apple's new desktop computers are designed specifically for local AI development",
           "source": "Ars Technica - All content",
           "source_type": "original_reporting",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-          "published": "2026-08-24T21:45:53+00:00",
+          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "published": "2026-08-25T13:00:11+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 1.5,
@@ -72,49 +123,15 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.55
+          "selection_score": 7.86
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-          "source": "The GitHub Blog",
-          "source_type": "first_party",
-          "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-          "published": "2026-08-24T20:56:32+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.55
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "How does converting a video to 4K actually work?",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "source_type": "original_reporting",
-          "url": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-          "published": "2026-08-24T21:30:00+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.49
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Bitdefender VPN Review: Fast and Affordable Privacy",
+          "summary_zh": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+          "summary_en": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
           "source": "WIRED",
           "source_type": "original_reporting",
-          "url": "https://www.wired.com/review/bitdefender-vpn/",
-          "published": "2026-08-24T21:08:00+00:00",
+          "url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+          "published": "2026-08-25T13:00:00+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 1.5,
@@ -123,88 +140,211 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.39
+          "selection_score": 7.86
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "The Cloudflare Blog – Brought to you by EmDash",
-          "source": "Cloudflare Blog",
-          "source_type": "first_party",
-          "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
-          "published": "2026-08-24T19:00:00+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.06
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Leaked Microsoft pay data shows how much hundreds of employees report making in AI, cloud, and other teams",
+          "summary_zh": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
+          "summary_en": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
           "source": "All Content from Business Insider",
           "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/microsoft-staff-share-pay-in-internal-spreadsheet-see-the-numbers-2026-8",
-          "published": "2026-08-24T20:16:23+00:00",
+          "url": "https://www.businessinsider.com/tsa-plans-big-changes-for-airport-security-and-more-privatization-2026-8",
+          "published": "2026-08-25T14:40:33+00:00",
           "category_reason": "标题主题匹配",
           "category_scores": {
             "technology": 1.0,
             "business": 1.5,
-            "ai": 1.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 6.68
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Intent to Ship: JPEG XL",
-          "source": "Mozilla Hacks – the Web developer blog",
-          "source_type": "first_party",
-          "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
-          "published": "2026-08-24T15:32:15+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
             "ai": 0.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.19
+          "selection_score": 7.78
+        },
+        {
+          "summary_zh": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
+          "summary_en": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21380",
+          "published": "2026-08-25T00:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.61
         }
       ],
       "candidates": [
         {
-          "summary": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型",
-          "source": "爱范儿",
-          "source_type": "original_reporting",
-          "url": "https://www.ifanr.com/1676529?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-08-25T00:25:59+00:00"
-        },
-        {
-          "summary": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "summary": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "source": "TechCrunch",
           "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-          "published": "2026-08-25T00:23:12+00:00"
+          "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+          "published": "2026-08-25T14:10:36+00:00"
         },
         {
-          "summary": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-          "source": "TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
-          "published": "2026-08-24T19:54:50+00:00"
-        },
-        {
-          "summary": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+          "summary": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
           "source": "The Verge",
           "source_type": "original_reporting",
-          "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
-          "published": "2026-08-24T19:38:10-04:00"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+          "published": "2026-08-25T10:00:00-04:00"
+        },
+        {
+          "summary": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+          "published": "2026-08-25T13:55:06+00:00"
+        },
+        {
+          "summary": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T13:10:31+00:00"
+        },
+        {
+          "summary": "Apple’s new M6 chip gets more cores and more AI compute",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
+          "published": "2026-08-25T09:00:00-04:00"
+        },
+        {
+          "summary": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/",
+          "published": "2026-08-25T13:00:00+00:00"
+        },
+        {
+          "summary": "Apple refreshes Mac mini and Mac Studio with new M6 and M5 Ultra chips",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2243379/apple-mac-mini-m6-mac-studio-m5-max/",
+          "published": "2026-08-25T13:00:00+00:00"
+        },
+        {
+          "summary": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+          "published": "2026-08-25T12:10:00+00:00"
+        },
+        {
+          "summary": "27.98 万元起，泰钽 700 正式上市，越野 NOA 开上挂壁公路",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676715?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T14:13:09+00:00"
+        },
+        {
+          "summary": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "published": "2026-08-25T13:00:23.969000+00:00"
+        },
+        {
+          "summary": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "published": "2026-08-25T12:59:36.109000+00:00"
+        },
+        {
+          "summary": "Apple's new desktop computers are designed specifically for local AI development",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+          "published": "2026-08-25T13:00:11+00:00"
+        },
+        {
+          "summary": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+          "published": "2026-08-25T13:00:00+00:00"
+        },
+        {
+          "summary": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+          "published": "2026-08-25T09:00:00+00:00"
+        },
+        {
+          "summary": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/tsa-plans-big-changes-for-airport-security-and-more-privatization-2026-8",
+          "published": "2026-08-25T14:40:33+00:00"
+        },
+        {
+          "summary": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21380",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/home-composters-buying-guide/",
+          "published": "2026-08-25T11:30:00+00:00"
+        },
+        {
+          "summary": "Modi Opens Defense and Space Technology to Indian Industry",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-25/modi-opens-defense-and-space-technology-to-indian-industry",
+          "published": "2026-08-25T12:56:10+00:00"
+        },
+        {
+          "summary": "Anthropic tells staff to work from home due to possible security team strike",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+          "published": "2026-08-25T14:00:27+00:00"
+        },
+        {
+          "summary": "HelloAssembly The smallest possible complete Windows application",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+          "published": "2026-08-25T11:40:00+00:00"
+        },
+        {
+          "summary": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21417",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Model-Based Reinforcement Learning for Heterogeneous Multi-Robot Task Assignment Under Distribution Shifts",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21554",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "TherMapNet Attention-Guided Runtime Full-Chip Thermal Map Prediction from Performance Metrics",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21887",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "published": "2026-08-24T18:03:55+00:00"
         },
         {
           "summary": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -221,60 +361,11 @@
           "published": "2026-08-24T20:56:32+00:00"
         },
         {
-          "summary": "How does converting a video to 4K actually work?",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "source_type": "original_reporting",
-          "url": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
-          "published": "2026-08-24T21:30:00+00:00"
-        },
-        {
-          "summary": "Bitdefender VPN Review: Fast and Affordable Privacy",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/review/bitdefender-vpn/",
-          "published": "2026-08-24T21:08:00+00:00"
-        },
-        {
-          "summary": "RFK Jr. may upend how vaccine recommendations are categorized",
-          "source": "Ars Technica - All content",
-          "source_type": "original_reporting",
-          "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-          "published": "2026-08-24T21:04:48+00:00"
-        },
-        {
-          "summary": "Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/story/sous-vide-salmonella-eggs/",
-          "published": "2026-08-24T20:45:52+00:00"
-        },
-        {
-          "summary": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
-          "source": "Engadget - Technology News & Expert Reviews",
-          "source_type": "original_reporting",
-          "url": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
-          "published": "2026-08-24T20:30:00+00:00"
-        },
-        {
-          "summary": "The cat-and-mouse game over 3D-printed guns has begun",
-          "source": "The Verge",
-          "source_type": "original_reporting",
-          "url": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
-          "published": "2026-08-24T15:50:00-04:00"
-        },
-        {
           "summary": "The Cloudflare Blog – Brought to you by EmDash",
           "source": "Cloudflare Blog",
           "source_type": "first_party",
           "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
           "published": "2026-08-24T19:00:00+00:00"
-        },
-        {
-          "summary": "Leaked Microsoft pay data shows how much hundreds of employees report making in AI, cloud, and other teams",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/microsoft-staff-share-pay-in-internal-spreadsheet-see-the-numbers-2026-8",
-          "published": "2026-08-24T20:16:23+00:00"
         },
         {
           "summary": "Intent to Ship: JPEG XL",
@@ -284,74 +375,11 @@
           "published": "2026-08-24T15:32:15+00:00"
         },
         {
-          "summary": "Iran Is Using Foreign Criminals to Attack Its Critics Overseas",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://www.newyorker.com/news/letter-from-the-uk/iran-is-using-foreign-criminals-to-attack-its-critics-overseas",
-          "published": "2026-08-24T23:06:37+00:00"
-        },
-        {
-          "summary": "Bookshelf – Self-hosted eBook library that runs on object storage",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://github.com/murerkinn/bookshelf",
-          "published": "2026-08-24T23:00:37+00:00"
-        },
-        {
-          "summary": "How to encourage smarter AI use in the classroom",
-          "source": "MIT Technology Review",
-          "source_type": "original_reporting",
-          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-          "published": "2026-08-24T14:20:19+00:00"
-        },
-        {
           "summary": "How Big Tech Captured American Schools",
           "source": "NYT > Business",
           "source_type": "original_reporting",
           "url": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
           "published": "2026-08-24T15:46:53+00:00"
-        },
-        {
-          "summary": "折叠 iPhone 细节曝光，苹果想折叠的不只是屏幕",
-          "source": "爱范儿",
-          "source_type": "original_reporting",
-          "url": "https://www.ifanr.com/1676310?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-08-24T09:31:09+00:00"
-        },
-        {
-          "summary": "Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21107",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "Kids outlearn AI—and we still don’t know why",
-          "source": "MIT Technology Review",
-          "source_type": "original_reporting",
-          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-          "published": "2026-08-24T09:00:00+00:00"
-        },
-        {
-          "summary": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21233",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "Faults That Fortify: CNN Adversarial Robustness via GPU Undervolting",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.20572",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21134",
-          "published": "2026-08-24T00:00:00-04:00"
         }
       ]
     },
@@ -360,63 +388,46 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Asian Stocks Dip After US Tech Selloff, Gold Gains: Markets Wrap",
+          "summary_zh": "AI Revenue Slowdown Would Be the Market's Big Test",
+          "summary_en": "AI Revenue Slowdown Would Be the Market's Big Test",
           "source": "Bloomberg Markets",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
-          "published": "2026-08-24T22:09:52+00:00",
-          "category_reason": "商业事件词优先",
-          "category_scores": {
-            "technology": 1.0,
-            "business": 3.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 9.65
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
-          "source": "US Top News and Analysis",
-          "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-          "published": "2026-08-25T00:09:11+00:00",
-          "category_reason": "商业事件词优先",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 4.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 9.65
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Here’s how overvalued the stock market really is",
-          "source": "MarketWatch.com - Top Stories",
-          "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-          "published": "2026-08-24T20:54:00+00:00",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-25/ai-revenue-slowdown-would-be-the-market-s-big-test-video",
+          "published": "2026-08-25T14:33:55+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
             "business": 3.5,
-            "ai": 0.0
+            "ai": 1.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.34
+          "selection_score": 10.25
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+          "summary_zh": "Jersey earnings rise by 1.2% after inflation",
+          "summary_en": "Jersey earnings rise by 1.2% after inflation",
           "source": "BBC News",
           "source_type": "original_reporting",
-          "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T00:25:52+00:00",
+          "url": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T11:22:05+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.45
+        },
+        {
+          "summary_zh": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
+          "summary_en": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+          "published": "2026-08-25T14:41:00+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
@@ -425,15 +436,32 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.22
+          "selection_score": 9.28
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Stocks Close Lower, US to Isolate Iran From World Economy, More",
+          "summary_zh": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
+          "summary_en": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-24/stocks-close-lower-us-to-isolate-iran-from-world-economy-more",
-          "published": "2026-08-24T20:15:48+00:00",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/canada-preps-tariff-response-us-consumer-confidence-falls-more",
+          "published": "2026-08-25T14:29:58+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+          "summary_en": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+          "published": "2026-08-25T14:45:22+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
@@ -442,227 +470,241 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.18
+          "selection_score": 8.8
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
-          "source": "NYT > Business",
-          "source_type": "original_reporting",
-          "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-          "published": "2026-08-25T00:33:34+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 1.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 8.25
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Ontario Premier Doug Ford threatens to cut off electricity to the US",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/doug-ford-canada-could-cut-off-electricity-us-critical-minerals-2026-8",
-          "published": "2026-08-24T23:53:44+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 1.5,
-            "ai": 0.0
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 8.08
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+          "summary_zh": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+          "summary_en": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
           "source": "TechCrunch",
           "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-          "published": "2026-08-24T23:05:44+00:00",
+          "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+          "published": "2026-08-25T14:00:00+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 1.5,
-            "business": 1.0,
+            "business": 2.0,
             "ai": 0.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.38
+          "selection_score": 8.61
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-          "source": "US Top News and Analysis",
+          "summary_zh": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
+          "summary_en": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
+          "source": "All Content from Business Insider",
           "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "published": "2026-08-24T23:24:12+00:00",
+          "url": "https://www.businessinsider.com/nikita-bier-business-advice-intro-x-elon-musk-2026-8",
+          "published": "2026-08-25T11:51:36+00:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
-            "business": 4.5,
+            "business": 2.5,
             "ai": 0.0
           },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.46
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.57
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-          "source": "MarketWatch.com - Top Stories",
+          "summary_zh": "Is It Time for This 95-Year-Old Pianist to Retire?",
+          "summary_en": "Is It Time for This 95-Year-Old Pianist to Retire?",
+          "source": "NYT > Business",
           "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-          "published": "2026-08-24T20:50:00+00:00",
+          "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
+          "published": "2026-08-25T13:55:52+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.09
+        },
+        {
+          "summary_zh": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+          "summary_en": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22852",
+          "published": "2026-08-25T00:00:00-04:00",
           "category_reason": "商业事件词优先",
           "category_scores": {
             "technology": 0.0,
-            "business": 3.5,
-            "ai": 0.0
+            "business": 1.0,
+            "ai": 2.5
           },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 9.32
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.61
+        },
+        {
+          "summary_zh": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
+          "summary_en": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21399",
+          "published": "2026-08-25T00:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.61
         }
       ],
       "candidates": [
         {
-          "summary": "Asian Stocks Dip After US Tech Selloff, Gold Gains: Markets Wrap",
+          "summary": "AI Revenue Slowdown Would Be the Market's Big Test",
           "source": "Bloomberg Markets",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
-          "published": "2026-08-24T22:09:52+00:00"
+          "url": "https://www.bloomberg.com/news/videos/2026-08-25/ai-revenue-slowdown-would-be-the-market-s-big-test-video",
+          "published": "2026-08-25T14:33:55+00:00"
         },
         {
-          "summary": "Stock futures are flat as investors await Nvidia earnings, inflation report due later this week: Live updates",
-          "source": "US Top News and Analysis",
+          "summary": "VIX Curve ‘Bump’ Shows Stock-Market Anxiety Growing by Midterms",
+          "source": "Bloomberg Markets",
           "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-          "published": "2026-08-25T00:09:11+00:00"
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/vix-curve-bump-shows-stock-market-anxiety-growing-by-midterms",
+          "published": "2026-08-25T14:04:34+00:00"
         },
         {
-          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
-          "source": "US Top News and Analysis",
-          "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/24/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-          "published": "2026-08-24T23:24:12+00:00"
-        },
-        {
-          "summary": "Here’s how overvalued the stock market really is",
-          "source": "MarketWatch.com - Top Stories",
-          "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-          "published": "2026-08-24T20:54:00+00:00"
-        },
-        {
-          "summary": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-          "source": "MarketWatch.com - Top Stories",
-          "source_type": "original_reporting",
-          "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-          "published": "2026-08-24T20:50:00+00:00"
-        },
-        {
-          "summary": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+          "summary": "Jersey earnings rise by 1.2% after inflation",
           "source": "BBC News",
           "source_type": "original_reporting",
-          "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T00:25:52+00:00"
+          "url": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T11:22:05+00:00"
         },
         {
-          "summary": "Stocks Close Lower, US to Isolate Iran From World Economy, More",
+          "summary": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+          "published": "2026-08-25T14:41:00+00:00"
+        },
+        {
+          "summary": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-24/stocks-close-lower-us-to-isolate-iran-from-world-economy-more",
-          "published": "2026-08-24T20:15:48+00:00"
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/canada-preps-tariff-response-us-consumer-confidence-falls-more",
+          "published": "2026-08-25T14:29:58+00:00"
         },
         {
-          "summary": "Woodside Profit Jumps as Higher Prices Offset Lower Output",
+          "summary": "Stock Movers: Zoom, Dick's Sporting Goods, Navitas (Podcast)",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-24/woodside-profit-jumps-as-higher-prices-offset-lower-output",
-          "published": "2026-08-24T22:53:41+00:00"
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-zoom-dick-s-sporting-goods-navitas-podcast",
+          "published": "2026-08-25T14:20:04+00:00"
         },
         {
-          "summary": "Latest Oil Market News and Analysis for Aug. 25",
-          "source": "Bloomberg Markets",
+          "summary": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+          "source": "MarketWatch.com - Top Stories",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
-          "published": "2026-08-24T22:02:31+00:00"
+          "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+          "published": "2026-08-25T13:59:00+00:00"
         },
         {
-          "summary": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+          "summary": "Dick's Sporting Goods stock falls 20% as retailer misses expectations, cites 'challenging' footwear market",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+          "published": "2026-08-25T14:45:22+00:00"
+        },
+        {
+          "summary": "A lesser known area of the AI market is set for its biggest boom since 2022. Buy this stock to play the trend, Morgan Stanley says",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
+          "published": "2026-08-25T14:11:19+00:00"
+        },
+        {
+          "summary": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+          "published": "2026-08-25T14:00:00+00:00"
+        },
+        {
+          "summary": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nikita-bier-business-advice-intro-x-elon-musk-2026-8",
+          "published": "2026-08-25T11:51:36+00:00"
+        },
+        {
+          "summary": "We moved from Chicago to a much smaller Midwestern city. It had a lot of perks, but not enough to keep us.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/moved-from-chicago-to-smaller-city-and-back-lessons-learned-2026-8",
+          "published": "2026-08-25T14:38:11+00:00"
+        },
+        {
+          "summary": "Is It Time for This 95-Year-Old Pianist to Retire?",
           "source": "NYT > Business",
           "source_type": "original_reporting",
-          "url": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
-          "published": "2026-08-25T00:33:34+00:00"
+          "url": "https://www.nytimes.com/2026/08/25/business/piano-teacher-performer-retirement.html",
+          "published": "2026-08-25T13:55:52+00:00"
         },
         {
-          "summary": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+          "summary": "Target Apologizes and Drops Halloween Costume Criticized as Racist",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html",
+          "published": "2026-08-25T13:42:15+00:00"
+        },
+        {
+          "summary": "More than 70,000 social and affordable homes to be built across England over 10 years",
           "source": "BBC News",
           "source_type": "original_reporting",
           "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-          "published": "2026-08-25T00:32:20+00:00"
+          "published": "2026-08-25T12:10:13+00:00"
         },
         {
-          "summary": "What’s Behind the U.S. Treasury’s Latest Attempt to Lower Interest Rates",
-          "source": "NYT > Business",
-          "source_type": "original_reporting",
-          "url": "https://www.nytimes.com/2026/08/24/business/treasury-bond-buybacks-impact.html",
-          "published": "2026-08-24T20:03:52+00:00"
-        },
-        {
-          "summary": "Ontario Premier Doug Ford threatens to cut off electricity to the US",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/doug-ford-canada-could-cut-off-electricity-us-critical-minerals-2026-8",
-          "published": "2026-08-24T23:53:44+00:00"
-        },
-        {
-          "summary": "I took my daughter on a 'collegemoon' to Europe. It made my anticipatory grief about her leaving for school even stronger.",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/collegemoon-parent-child-trip-before-leaving-for-school-college-2026-8",
-          "published": "2026-08-24T22:25:01+00:00"
-        },
-        {
-          "summary": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+          "summary": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
           "source": "TechCrunch",
           "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-          "published": "2026-08-24T23:05:44+00:00"
+          "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+          "published": "2026-08-25T12:37:37+00:00"
         },
         {
-          "summary": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-          "source": "TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-          "published": "2026-08-24T21:24:17+00:00"
-        },
-        {
-          "summary": "Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance",
+          "summary": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.20661",
-          "published": "2026-08-24T00:00:00-04:00"
+          "url": "https://arxiv.org/abs/2608.22852",
+          "published": "2026-08-25T00:00:00-04:00"
         },
         {
-          "summary": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+          "summary": "TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21332",
-          "published": "2026-08-24T00:00:00-04:00"
+          "url": "https://arxiv.org/abs/2608.22793",
+          "published": "2026-08-25T00:00:00-04:00"
         },
         {
-          "summary": "Mint-Agent: Introducing Finance-Native Agentic Foundation Models",
+          "summary": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.16386",
-          "published": "2026-08-24T00:00:00-04:00"
+          "url": "https://arxiv.org/abs/2608.21399",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Loss-Parameterized Fisher Width Along Learning Trajectories",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21561",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "published": "2026-08-24T15:24:18+00:00"
         }
       ]
     },
@@ -671,7 +713,92 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+          "summary_zh": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "summary_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published": "2026-08-25T07:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+          "summary_en": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21362",
+          "published": "2026-08-25T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+          "summary_en": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21810",
+          "published": "2026-08-25T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "summary_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "published": "2026-08-25T11:39:24+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.72
+        },
+        {
+          "summary_zh": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "summary_en": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+          "published": "2026-08-25T00:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.81
+        },
+        {
+          "summary_zh": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
           "summary_en": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
           "source": "NVIDIA Technical Blog",
           "source_type": "first_party",
@@ -685,84 +812,67 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.6
+          "selection_score": 5.09
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
-          "source": "Artificial Intelligence",
-          "source_type": "first_party",
-          "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-institutional-knowledge-building-an-ai-powered-knowledge-management-system-with-aws/",
-          "published": "2026-08-24T18:59:15+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 2.5
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 8.06
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI",
+          "summary_zh": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+          "summary_en": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
-          "url": "https://arxiv.org/abs/2411.08881",
-          "published": "2026-08-24T00:00:00-04:00",
+          "url": "https://arxiv.org/abs/2608.22237",
+          "published": "2026-08-25T00:00:00-04:00",
           "category_reason": "AI 核心技术主题",
           "category_scores": {
             "technology": 0.0,
             "business": 0.0,
-            "ai": 5.5
+            "ai": 4.5
           },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.11
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.61
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "summary_zh": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
+          "summary_en": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22179",
+          "published": "2026-08-25T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "Disrupting a new covert influence campaign from Russia",
+          "summary_en": "Disrupting a new covert influence campaign from Russia",
           "source": "OpenAI News",
           "source_type": "first_party",
-          "url": "https://openai.com/index/gpt-5-6-in-kiro",
-          "published": "2026-08-24T12:00:00+00:00",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "published": "2026-08-25T00:00:00+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
             "business": 0.0,
             "ai": 1.5
           },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 6.81
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.31
         },
         {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.17310",
-          "published": "2026-08-24T00:00:00-04:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 1.0,
-            "business": 0.0,
-            "ai": 4.5
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 6.11
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
-          "source": "NVIDIA Technical Blog",
+          "summary_zh": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "summary_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "source": "Hugging Face - Blog",
           "source_type": "first_party",
-          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
-          "published": "2026-08-24T15:00:05+00:00",
-          "category_reason": "AI 核心技术主题",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "published": "2026-08-25T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
             "business": 0.0,
@@ -770,61 +880,94 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.56
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Agentic Resource Discovery (ARD): An open specification for agent discovery",
-          "source": "Artificial Intelligence",
-          "source_type": "first_party",
-          "url": "https://aws.amazon.com/blogs/machine-learning/agentic-resource-discovery-ard-an-open-specification-for-agent-discovery/",
-          "published": "2026-08-24T16:22:03+00:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 2.5
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 7.4
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21095",
-          "published": "2026-08-24T00:00:00-04:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 4.5
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 6.11
-        },
-        {
-          "summary_zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-          "summary_en": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.20566",
-          "published": "2026-08-24T00:00:00-04:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 0.0,
-            "ai": 3.5
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.11
+          "selection_score": 5.81
         }
       ],
       "candidates": [
+        {
+          "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published": "2026-08-25T07:00:00+00:00"
+        },
+        {
+          "summary": "Accel-backed Keenable is indexing the web for AI agents",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+          "published": "2026-08-25T13:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "published": "2026-08-25T14:22:04+00:00"
+        },
+        {
+          "summary": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21362",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22237",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21810",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22179",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Talking Transports: PortPro’s AI Agents Target Drayage Costs",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/talking-transports-portpro-s-ai-agents-target-drayage-costs",
+          "published": "2026-08-25T12:00:00+00:00"
+        },
+        {
+          "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "published": "2026-08-25T11:39:24+00:00"
+        },
+        {
+          "summary": "Disrupting a new covert influence campaign from Russia",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "published": "2026-08-25T00:00:00+00:00"
+        },
+        {
+          "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "published": "2026-08-25T00:00:00+00:00"
+        },
+        {
+          "summary": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+          "published": "2026-08-25T00:00:00+00:00"
+        },
         {
           "summary": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
           "source": "NVIDIA Technical Blog",
@@ -840,6 +983,13 @@
           "published": "2026-08-24T15:00:05+00:00"
         },
         {
+          "summary": "实测豆包工作：连上飞书后，Agent 终于像个同事了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T03:32:51+00:00"
+        },
+        {
           "summary": "Democratizing institutional knowledge: Building an AI-powered knowledge management system with AWS",
           "source": "Artificial Intelligence",
           "source_type": "first_party",
@@ -848,7 +998,7 @@
         },
         {
           "summary": "OpenAI is building AI agents for everything. Will everyone use them?",
-          "source": "TechCrunch",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
           "published": "2026-08-24T15:00:00+00:00"
@@ -861,74 +1011,11 @@
           "published": "2026-08-24T16:22:03+00:00"
         },
         {
-          "summary": "The Download: kids outlearning AI, and space travel agents",
-          "source": "MIT Technology Review",
-          "source_type": "original_reporting",
-          "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-          "published": "2026-08-24T12:10:00+00:00"
-        },
-        {
-          "summary": "Can We Trust AI Agents? A Case Study of an LLM-Based Multi-Agent System for Ethical AI",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2411.08881",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
           "summary": "Data centers become \"killer application\" for new power transformer tech",
           "source": "Ars Technica - All content",
           "source_type": "original_reporting",
           "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
           "published": "2026-08-24T21:32:16+00:00"
-        },
-        {
-          "summary": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-          "source": "OpenAI News",
-          "source_type": "first_party",
-          "url": "https://openai.com/index/gpt-5-6-in-kiro",
-          "published": "2026-08-24T12:00:00+00:00"
-        },
-        {
-          "summary": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21095",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.17310",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "AgentDecarbonizer: Carbon-Aware Execution for AI Agents",
-          "source": "cs.LG updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.20566",
-          "published": "2026-08-24T00:00:00-04:00"
-        },
-        {
-          "summary": "LLMs could control their host machines by exploiting inference engines",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-          "published": "2026-08-24T19:03:06+00:00"
-        },
-        {
-          "summary": "Agent Lightning v1.0",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-          "published": "2026-08-24T17:23:22+00:00"
-        },
-        {
-          "summary": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场",
-          "source": "爱范儿",
-          "source_type": "original_reporting",
-          "url": "https://www.ifanr.com/1676318?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-08-24T04:00:14+00:00"
         }
       ]
     }
