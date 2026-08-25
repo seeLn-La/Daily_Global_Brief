@@ -10,10 +10,24 @@ from config import TRANSLATION_DELAY
 
 TRANSLATION_TIMEOUT = 3  # 单次翻译超时秒数
 
+# 翻译服务偶尔会把错误页面内容当作“译文”返回，不能写入新闻数据。
+ERROR_RESPONSE_MARKERS = (
+    "error 500",
+    "that's an error",
+    "there was an error",
+    "please try again later",
+)
+
 
 def _has_chinese(text: str) -> bool:
     """检测文本是否包含中文字符（Unicode CJK 范围）。"""
     return bool(re.search(r"[一-鿿㐀-䶿]", text))
+
+
+def _is_error_response(text: str) -> bool:
+    """识别翻译服务返回的错误页面文本。"""
+    normalized = re.sub(r"\s+", " ", str(text)).strip().lower().replace("’", "'")
+    return sum(marker in normalized for marker in ERROR_RESPONSE_MARKERS) >= 3
 
 
 def _run_with_timeout(func, *args, timeout: int = TRANSLATION_TIMEOUT):
@@ -46,7 +60,7 @@ def _google_translate(text: str, target: str) -> Optional[str]:
     def _call():
         from deep_translator import GoogleTranslator
         result = GoogleTranslator(source="auto", target=target).translate(text)
-        return result if result else None
+        return result if result and not _is_error_response(result) else None
 
     return _run_with_timeout(_call)
 
@@ -57,7 +71,7 @@ def _translate_fallback(text: str, target: str) -> Optional[str]:
         from translate import Translator
         translator = Translator(to_lang=target)
         result = translator.translate(text)
-        return result if result else None
+        return result if result and not _is_error_response(result) else None
 
     return _run_with_timeout(_call)
 
@@ -75,12 +89,12 @@ def translate_text(text: str, target_lang: str) -> tuple[str, str]:
     """
     # 尝试主翻译方案
     result = _google_translate(text, target_lang)
-    if result:
+    if result and not _is_error_response(result):
         return result, "auto"
 
     # 尝试备选方案
     result = _translate_fallback(text, target_lang)
-    if result:
+    if result and not _is_error_response(result):
         return result, "auto"
 
     # 全部失败，降级为原文
