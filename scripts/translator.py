@@ -16,6 +16,7 @@ ERROR_RESPONSE_MARKERS = (
     "that's an error",
     "there was an error",
     "please try again later",
+    "invalid source language",
 )
 
 
@@ -27,6 +28,8 @@ def _has_chinese(text: str) -> bool:
 def _is_error_response(text: str) -> bool:
     """识别翻译服务返回的错误页面文本。"""
     normalized = re.sub(r"\s+", " ", str(text)).strip().lower().replace("’", "'")
+    if "invalid source language" in normalized:
+        return True
     return sum(marker in normalized for marker in ERROR_RESPONSE_MARKERS) >= 3
 
 
@@ -69,7 +72,8 @@ def _mymemory_translate(text: str, target: str) -> Optional[str]:
     """通过 deep-translator 调用 MyMemory（免费，无需 API Key）。"""
     def _call():
         from deep_translator import MyMemoryTranslator
-        result = MyMemoryTranslator(source="auto", target=target).translate(text)
+        source = "zh-CN" if _has_chinese(text) else "en"
+        result = MyMemoryTranslator(source=source, target=target).translate(text)
         return result if result and not _is_error_response(result) else None
 
     return _run_with_timeout(_call)
