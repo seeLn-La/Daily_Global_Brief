@@ -1,13 +1,13 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T14:53:13.840968+00:00",
+  "generated_at": "2026-08-25T14:56:45.046780+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
       "name_en": "Technology",
       "articles": [
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Apple 在 M5 Ultra 和 M6 中首次推出“有史以来最强大的芯片”",
           "summary_en": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "source": "TechCrunch",
           "source_type": "original_reporting",
@@ -21,10 +21,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.12
+          "selection_score": 9.11
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "OpenAI 表示，其 Jalapeo 芯片可以比竞争对手提供更快的人工智能响应",
           "summary_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
           "source": "The Verge",
           "source_type": "original_reporting",
@@ -38,7 +38,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.08
+          "selection_score": 9.06
         },
         {
           "summary_zh": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
@@ -55,10 +55,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.87
+          "selection_score": 8.86
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Apple 的 M5 Ultra 配备 80 核 GPU，将为您的 AI 模型和 8K 视频提供动力",
           "summary_en": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
           "source": "Engadget - Technology News & Expert Reviews",
           "source_type": "original_reporting",
@@ -72,10 +72,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.83
+          "selection_score": 8.81
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "下载：更智能的人工智能走进学校，上海的机器人“嘉年华”",
           "summary_en": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
           "source": "MIT Technology Review",
           "source_type": "original_reporting",
@@ -89,10 +89,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.62
+          "selection_score": 8.61
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Apple 推出配备 M5 Max 和 M5 Ultra 的全新 Mac Studio",
           "summary_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
           "source": "Apple Newsroom",
           "source_type": "first_party",
@@ -106,10 +106,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.03
+          "selection_score": 8.02
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "苹果新款台式电脑专为本地AI开发而设计",
           "summary_en": "Apple's new desktop computers are designed specifically for local AI development",
           "source": "Ars Technica - All content",
           "source_type": "original_reporting",
@@ -123,10 +123,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.83
+          "selection_score": 7.82
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Apple Mac Mini M6 和 Mac Studio M5 Ultra：规格、价格、发布日期",
           "summary_en": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
           "source": "WIRED",
           "source_type": "original_reporting",
@@ -140,10 +140,27 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.83
+          "selection_score": 7.81
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "随着收益率下降，标普 500 指数小幅上涨，纳斯达克指数受芯片名称提振：实时更新",
+          "summary_en": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+          "published": "2026-08-25T14:55:13+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.79
+        },
+        {
+          "summary_zh": "美国运输安全管理局 (TSA) 正计划对机场安全进行重大改革。这就是它们对旅行者的意义。",
           "summary_en": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
           "source": "All Content from Business Insider",
           "source_type": "original_reporting",
@@ -157,24 +174,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.75
-        },
-        {
-          "summary_zh": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
-          "summary_en": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
-          "source": "cs.AI updates on arXiv.org",
-          "source_type": "research",
-          "url": "https://arxiv.org/abs/2608.21380",
-          "published": "2026-08-25T00:00:00-04:00",
-          "category_reason": "标题主题匹配",
-          "category_scores": {
-            "technology": 2.0,
-            "business": 0.0,
-            "ai": 1.5
-          },
-          "selection_tier": "strong_match",
-          "selection_reason": "高相关且来源优先",
-          "selection_score": 7.58
+          "selection_score": 7.73
         }
       ],
       "candidates": [
@@ -275,6 +275,13 @@
           "source_type": "original_reporting",
           "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
           "published": "2026-08-25T09:00:00+00:00"
+        },
+        {
+          "summary": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+          "published": "2026-08-25T14:55:13+00:00"
         },
         {
           "summary": "The TSA is planning big changes to airport security. Here's what they mean for travelers.",
@@ -388,7 +395,7 @@
       "name_en": "Business",
       "articles": [
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "AI收入放缓将是市场的大考验",
           "summary_en": "AI Revenue Slowdown Would Be the Market's Big Test",
           "source": "Bloomberg Markets",
           "source_type": "original_reporting",
@@ -402,10 +409,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.22
+          "selection_score": 10.21
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "通货膨胀后泽西岛收入增长 1.2%",
           "summary_en": "Jersey earnings rise by 1.2% after inflation",
           "source": "BBC News",
           "source_type": "original_reporting",
@@ -419,10 +426,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.42
+          "selection_score": 9.41
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
           "summary_en": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
           "source": "MarketWatch.com - Top Stories",
           "source_type": "original_reporting",
@@ -436,10 +443,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.25
+          "selection_score": 9.24
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "加拿大准备关税应对措施、美国消费者信心下降等",
           "summary_en": "Canada Preps Tariff Response, US Consumer Confidence Falls, More",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
@@ -453,10 +460,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.21
+          "selection_score": 9.19
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Dick's Sporting Goods 股价下跌 25%，因零售商未达到预期，称鞋类市场“充满挑战”",
           "summary_en": "Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market",
           "source": "US Top News and Analysis",
           "source_type": "original_reporting",
@@ -470,10 +477,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.78
+          "selection_score": 8.76
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
           "summary_en": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
           "source": "TechCrunch",
           "source_type": "original_reporting",
@@ -487,10 +494,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.58
+          "selection_score": 8.56
         },
         {
-          "summary_zh": "埃隆·马斯克 (Elon Musk) 在 X 的前得力助手将为您提供 30 分钟的商业建议，价格为 15,000 美元",
+          "summary_zh": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
           "summary_en": "Elon Musk's former right-hand man at X will give you 30 minutes of business advice for $15,000",
           "source": "All Content from Business Insider",
           "source_type": "original_reporting",
@@ -504,10 +511,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.55
+          "selection_score": 8.53
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Is It Time for This 95-Year-Old Pianist to Retire?",
           "summary_en": "Is It Time for This 95-Year-Old Pianist to Retire?",
           "source": "NYT > Business",
           "source_type": "original_reporting",
@@ -521,10 +528,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.06
+          "selection_score": 8.05
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
           "summary_en": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -538,10 +545,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.58
+          "selection_score": 6.56
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
           "summary_en": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -555,7 +562,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.58
+          "selection_score": 6.56
         }
       ],
       "candidates": [
@@ -720,7 +727,7 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Jalapeo 的首批结果显示了人工智能推理行业领先的速度和效率",
           "summary_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
           "source": "OpenAI News",
           "source_type": "first_party",
@@ -734,10 +741,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 10.03
+          "selection_score": 10.01
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
           "summary_en": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -751,10 +758,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.58
+          "selection_score": 8.56
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
           "summary_en": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -768,10 +775,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 8.58
+          "selection_score": 8.56
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "summary_en": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
           "source": "Hugging Face - Blog",
           "source_type": "first_party",
@@ -785,10 +792,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.69
+          "selection_score": 7.68
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
           "summary_en": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
           "source": "Apple Machine Learning Research",
           "source_type": "first_party",
@@ -802,10 +809,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.78
+          "selection_score": 5.76
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
           "summary_en": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
           "source": "NVIDIA Technical Blog",
           "source_type": "first_party",
@@ -819,10 +826,10 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.07
+          "selection_score": 5.05
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
           "summary_en": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
           "source": "cs.AI updates on arXiv.org",
           "source_type": "research",
@@ -836,10 +843,10 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.58
+          "selection_score": 8.56
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
           "summary_en": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
           "source": "cs.LG updates on arXiv.org",
           "source_type": "research",
@@ -853,10 +860,10 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 8.58
+          "selection_score": 8.56
         },
         {
-          "summary_zh": "破坏俄罗斯新的秘密影响活动",
+          "summary_zh": "Disrupting a new covert influence campaign from Russia",
           "summary_en": "Disrupting a new covert influence campaign from Russia",
           "source": "OpenAI News",
           "source_type": "first_party",
@@ -870,10 +877,10 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 6.28
+          "selection_score": 6.26
         },
         {
-          "summary_zh": "'AUTO' IS AN INVALID SOURCE LANGUAGE . EXAMPLE: LANGPAIR=EN|IT USING 2 LETTER ISO OR RFC3066 LIKE ZH-CN. ALMOST ALL LANGUAGES SUPPORTED BUT SOME MAY HAVE NO CONTENT",
+          "summary_zh": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
           "summary_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
           "source": "Hugging Face - Blog",
           "source_type": "first_party",
@@ -887,7 +894,7 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.78
+          "selection_score": 5.76
         }
       ],
       "candidates": [
@@ -1023,6 +1030,13 @@
           "source_type": "original_reporting",
           "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
           "published": "2026-08-24T21:32:16+00:00"
+        },
+        {
+          "summary": "Headlong: A Microharness for Persistent Agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+          "published": "2026-08-25T03:54:19+00:00"
         }
       ]
     }
