@@ -65,6 +65,16 @@ def _google_translate(text: str, target: str) -> Optional[str]:
     return _run_with_timeout(_call)
 
 
+def _mymemory_translate(text: str, target: str) -> Optional[str]:
+    """通过 deep-translator 调用 MyMemory（免费，无需 API Key）。"""
+    def _call():
+        from deep_translator import MyMemoryTranslator
+        result = MyMemoryTranslator(source="auto", target=target).translate(text)
+        return result if result and not _is_error_response(result) else None
+
+    return _run_with_timeout(_call)
+
+
 def _translate_fallback(text: str, target: str) -> Optional[str]:
     """备选翻译：使用 translate 库。"""
     def _call():
@@ -84,11 +94,17 @@ def translate_text(text: str, target_lang: str) -> tuple[str, str]:
 
     翻译链:
         1. deep-translator (GoogleTranslator)
-        2. translate 库
-        3. 原文降级
+        2. deep-translator (MyMemoryTranslator)
+        3. translate 库
+        4. 原文降级
     """
     # 尝试主翻译方案
     result = _google_translate(text, target_lang)
+    if result and not _is_error_response(result):
+        return result, "auto"
+
+    # 备用免费翻译服务
+    result = _mymemory_translate(text, target_lang)
     if result and not _is_error_response(result):
         return result, "auto"
 
