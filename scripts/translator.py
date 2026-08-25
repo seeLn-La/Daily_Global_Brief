@@ -10,6 +10,10 @@ from config import TRANSLATION_DELAY
 
 TRANSLATION_TIMEOUT = 3  # 单次翻译超时秒数
 
+# Argos 的中译英/英译中模型由 GitHub Actions 预先安装，翻译时不依赖在线额度。
+_ARGOS_LOCK = threading.Lock()
+_ARGOS_AVAILABLE = None
+
 # 翻译服务偶尔会把错误页面内容当作“译文”返回，不能写入新闻数据。
 ERROR_RESPONSE_MARKERS = (
     "error 500",
@@ -68,6 +72,39 @@ def _google_translate(text: str, target: str) -> Optional[str]:
     return _run_with_timeout(_call)
 
 
+def _argos_translate(text: str, target: str) -> Optional[str]:
+    """使用已安装的 Argos 离线模型翻译英文标题为简体中文。"""
+    global _ARGOS_AVAILABLE
+
+    if target != "zh-CN":
+        return None
+
+    def _call():
+        global _ARGOS_AVAILABLE
+        try:
+            import argostranslate.package
+            import argostranslate.translate
+
+            with _ARGOS_LOCK:
+                if _ARGOS_AVAILABLE is None:
+                    installed = argostranslate.package.get_installed_packages()
+                    _ARGOS_AVAILABLE = any(
+                        package.from_code == "en" and package.to_code == "zh"
+                        for package in installed
+                    )
+
+            if not _ARGOS_AVAILABLE:
+                return None
+
+            result = argostranslate.translate.translate(text, "en", "zh")
+            return result if result and not _is_error_response(result) else None
+        except Exception:  # noqa: BLE001
+            _ARGOS_AVAILABLE = False
+            return None
+
+    return _run_with_timeout(_call)
+
+
 def _mymemory_translate(text: str, target: str) -> Optional[str]:
     """通过 deep-translator 调用 MyMemory（免费，无需 API Key）。"""
     def _call():
@@ -97,11 +134,18 @@ def translate_text(text: str, target_lang: str) -> tuple[str, str]:
     质量标记: "auto" = 翻译成功, "fallback" = 降级为原文
 
     翻译链:
-        1. deep-translator (GoogleTranslator)
-        2. deep-translator (MyMemoryTranslator)
-        3. translate 库
-        4. 原文降级
+        1. Argos 离线模型（英文 → 简体中文）
+        2. deep-translator (GoogleTranslator)
+        3. deep-translator (MyMemoryTranslator)
+        4. translate 库
+        5. 原文降级
     """
+    # 英文标题优先使用离线模型，不受在线翻译服务额度影响。
+    if target_lang == "zh-CN" and not _has_chinese(text):
+        result = _argos_translate(text, target_lang)
+        if result and not _is_error_response(result):
+            return result, "offline"
+
     # 尝试主翻译方案
     result = _google_translate(text, target_lang)
     if result and not _is_error_response(result):
