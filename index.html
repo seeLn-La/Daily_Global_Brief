@@ -73,7 +73,8 @@
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   }
   .article-item .zh { font-size: 15px; font-weight: 500; line-height: 1.5; margin-bottom: 4px; }
-  .article-item .en { font-size: 13px; color: #86868b; line-height: 1.4; margin-bottom: 6px; }
+  /* 网页只展示中文标题；英文标题仍保留在数据中，便于后续使用。 */
+  .article-item .en { display: none; }
   .article-item .meta { font-size: 12px; color: #aeaeb2; display: flex; align-items: center; gap: 8px; }
   .article-item .source-type {
     color: #6e6e73; background: #f5f5f7; border-radius: 5px;
