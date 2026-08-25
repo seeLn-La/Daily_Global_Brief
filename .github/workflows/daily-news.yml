@@ -28,6 +28,39 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
+      - name: Cache offline translation model
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/share/argos-translate
+            ~/.cache/argos-translate
+          key: argos-translate-en-zh-v1-${{ runner.os }}
+
+      - name: Prepare offline translation model
+        run: |
+          python - <<'PY'
+          import argostranslate.package
+
+          installed = argostranslate.package.get_installed_packages()
+          has_english_to_chinese = any(
+              package.from_code == "en" and package.to_code == "zh"
+              for package in installed
+          )
+
+          if has_english_to_chinese:
+              print("离线中英翻译模型已从缓存恢复。")
+          else:
+              print("首次运行，正在下载离线中英翻译模型。")
+              argostranslate.package.update_package_index()
+              package = next(
+                  package
+                  for package in argostranslate.package.get_available_packages()
+                  if package.from_code == "en" and package.to_code == "zh"
+              )
+              argostranslate.package.install_from_path(package.download())
+              print("离线中英翻译模型安装完成。")
+          PY
+
       - name: Run news aggregator
         run: python scripts/aggregator.py
 
