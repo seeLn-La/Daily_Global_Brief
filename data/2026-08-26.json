@@ -1,0 +1,924 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T00:48:15.918104+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+          "summary_en": "Morning Post｜From 6999, Apple releases new Mac mini/Chai Mi officially announced that it will shrink its exploration phase business/\"Bean Bao Work\" is officially launched, you can read the Feishu context",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-26T00:13:57+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.16
+        },
+        {
+          "summary_zh": "特朗普正在提高大科技最喜爱的签证价格",
+          "summary_en": "Trump is upping the price of Big Tech’s favorite visa",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+          "published": "2026-08-25T17:45:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.54
+        },
+        {
+          "summary_zh": "麻省理工学院的技术为阿尔特米斯二世提供动力",
+          "summary_en": "MIT tech powered the Artemis II livestreams",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
+          "published": "2026-08-25T21:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "世界人造机器人游戏显示跑者打破记录,爆发成火焰",
+          "summary_en": "World humanoid robot games show runners breaking records, bursting into flames",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+          "published": "2026-08-25T20:59:03+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.35
+        },
+        {
+          "summary_zh": "X 向开源项目发送终止和失效信号",
+          "summary_en": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+          "published": "2026-08-25T20:44:12+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "Adam Mossaeri说\"新闻给我\" Instagram员工限制他接触青少年安全数据",
+          "summary_en": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+          "published": "2026-08-25T23:08:06+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "如何在生产前评价有限责任公司",
+          "summary_en": "How to evaluate LLMs before production",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+          "published": "2026-08-25T21:35:11+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "“Darth Vader ” 想要你知道,他肯定支持泡沫监视",
+          "summary_en": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+          "published": "2026-08-25T21:51:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.56
+        },
+        {
+          "summary_zh": "当str.lower () 成为 Python 的安全弱点时 – Seth Larson",
+          "summary_en": "When str.lower() is a security vulnerability in Python – Seth Larson",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+          "published": "2026-08-25T20:49:03+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "HHS计划新的FDA 副专员的作用 技术和药物,来源说",
+          "summary_en": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+          "published": "2026-08-25T17:00:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.85
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜6999起,苹果发布新款Mac mini/追觅官宣收缩探索阶段业务/「豆包工作」正式推出,可读取飞书上下文",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676731?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-26T00:13:57+00:00"
+        },
+        {
+          "summary": "Trump is upping the price of Big Tech’s favorite visa",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+          "published": "2026-08-25T17:45:00-04:00"
+        },
+        {
+          "summary": "MIT tech powered the Artemis II livestreams",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
+          "published": "2026-08-25T21:00:00+00:00"
+        },
+        {
+          "summary": "World humanoid robot games show runners breaking records, bursting into flames",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+          "published": "2026-08-25T20:59:03+00:00"
+        },
+        {
+          "summary": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+          "published": "2026-08-25T20:44:12+00:00"
+        },
+        {
+          "summary": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "published": "2026-08-26T00:06:20+00:00"
+        },
+        {
+          "summary": "Adam Mosseri says it's 'news to me' that Instagram employees limited his exposure to teen safety data",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+          "published": "2026-08-25T23:08:06+00:00"
+        },
+        {
+          "summary": "Here are three sick Gibson guitar controllers made for Stage Tour's Dec. 10 release",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2244257/three-sick-gibson-guitar-controllers-made-for-stage-tour-december-10-release-date/",
+          "published": "2026-08-25T22:42:07+00:00"
+        },
+        {
+          "summary": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
+          "published": "2026-08-25T18:32:30+00:00"
+        },
+        {
+          "summary": "How to evaluate LLMs before production",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+          "published": "2026-08-25T21:35:11+00:00"
+        },
+        {
+          "summary": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+          "published": "2026-08-25T18:20:17-04:00"
+        },
+        {
+          "summary": "‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/",
+          "published": "2026-08-25T21:51:32+00:00"
+        },
+        {
+          "summary": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
+          "published": "2026-08-25T21:26:24+00:00"
+        },
+        {
+          "summary": "Addressing a sticking point in sustainable adhesives",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+          "published": "2026-08-25T21:00:00+00:00"
+        },
+        {
+          "summary": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+          "published": "2026-08-25T15:00:00+00:00"
+        },
+        {
+          "summary": "When str.lower() is a security vulnerability in Python – Seth Larson",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+          "published": "2026-08-25T20:49:03+00:00"
+        },
+        {
+          "summary": "刚刚，新款 Mac mini 发布！价格大涨2500元，苹果第一次为 AI 造电脑",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676537?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T13:10:31+00:00"
+        },
+        {
+          "summary": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+          "published": "2026-08-25T19:07:01+00:00"
+        },
+        {
+          "summary": "HHS plans new FDA deputy commissioner roles for technology and drugs, sources say",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/hhs-fda-leadership-roles-technology-drugs.html",
+          "published": "2026-08-25T17:00:01+00:00"
+        },
+        {
+          "summary": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "published": "2026-08-25T13:00:23.969000+00:00"
+        },
+        {
+          "summary": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "published": "2026-08-25T12:59:36.109000+00:00"
+        },
+        {
+          "summary": "RoboShape: Information-Theoretic Point Cloud Representations for Privacy-Aware Robot Perception",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21380",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Retrieval-grounded robot program generation and simulation-based correction via Model Context Protocol",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21417",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Model-Based Reinforcement Learning for Heterogeneous Multi-Robot Task Assignment Under Distribution Shifts",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21554",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "TherMapNet Attention-Guided Runtime Full-Chip Thermal Map Prediction from Performance Metrics",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21887",
+          "published": "2026-08-25T00:00:00-04:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "股票期货几乎没有变化, 实时更新",
+          "summary_en": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+          "published": "2026-08-26T00:29:32+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.72
+        },
+        {
+          "summary_zh": "美国股票期货公司在Nvidia之前,",
+          "summary_en": "US Stock Futures Dip Before Nvidia, Oil Declines: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+          "published": "2026-08-25T22:08:45+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.64
+        },
+        {
+          "summary_zh": "\" 这是最终的调整 \" : 我妈妈给了我房子。 我是不是应该把它还给她 以减少资本收益?",
+          "summary_en": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+          "published": "2026-08-25T23:01:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.85
+        },
+        {
+          "summary_zh": "美国 \" 经济D日 \" 目标多于伊朗石油",
+          "summary_en": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+          "published": "2026-08-25T22:58:03+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "股票移动器:因图伊特,斯派尔治疗器,迪克(Podcast)",
+          "summary_en": "Stock Movers: Intuit, Spyre Therapeutics, Dick's (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-intuit-spyre-therapeutics-dick-s-podcast",
+          "published": "2026-08-25T21:07:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "多莉·帕顿 传说中的乡村音乐超级明星 80岁就死了",
+          "summary_en": "Dolly Parton, legendary country music superstar, dead at 80",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dolly-parton-country-legend-dead-2026-08",
+          "published": "2026-08-26T00:42:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "AI淘金热从比特币那里吸引隐秘公司",
+          "summary_en": "AI gold rush draws crypto firms away from Bitcoin",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T23:11:02+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.9
+        },
+        {
+          "summary_zh": "机器人启动 通用技术达到 3B 估值,来源说",
+          "summary_en": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "published": "2026-08-26T00:40:59+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.77
+        },
+        {
+          "summary_zh": "2026年7月20日和7月29日联委会贴现率会议记录",
+          "summary_en": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+          "published": "2026-08-25T18:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.8
+        },
+        {
+          "summary_zh": "博斯最小的蓝牙演说家 以35%的低价说得非常多",
+          "summary_en": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+          "published": "2026-08-25T13:39:20-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.01
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/stock-market-today-live-updates.html",
+          "published": "2026-08-26T00:29:32+00:00"
+        },
+        {
+          "summary": "US Stock Futures Dip Before Nvidia, Oil Declines: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+          "published": "2026-08-25T22:08:45+00:00"
+        },
+        {
+          "summary": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns",
+          "published": "2026-08-25T23:52:39+00:00"
+        },
+        {
+          "summary": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+          "published": "2026-08-25T23:01:00+00:00"
+        },
+        {
+          "summary": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+          "published": "2026-08-25T22:58:03+00:00"
+        },
+        {
+          "summary": "Stock Movers: Intuit, Spyre Therapeutics, Dick's (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-intuit-spyre-therapeutics-dick-s-podcast",
+          "published": "2026-08-25T21:07:00+00:00"
+        },
+        {
+          "summary": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+          "published": "2026-08-25T21:01:00+00:00"
+        },
+        {
+          "summary": "'Big Short' investor Danny Moses calls 10-year yield, Nvidia the two most important assets for markets right now",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/25/big-short-investor-calls-10-year-yield-nvidia-the-two-most-important-assets-for-markets.html",
+          "published": "2026-08-25T22:45:04+00:00"
+        },
+        {
+          "summary": "Dolly Parton, legendary country music superstar, dead at 80",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dolly-parton-country-legend-dead-2026-08",
+          "published": "2026-08-26T00:42:01+00:00"
+        },
+        {
+          "summary": "Stock Movers: Moderna, Dick's Sporting Goods, Target (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-moderna-dick-s-sporting-goods-target-podcast",
+          "published": "2026-08-25T20:18:26+00:00"
+        },
+        {
+          "summary": "Worker Dies After Accident With Plane at Montreal Airport",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html",
+          "published": "2026-08-25T23:15:03+00:00"
+        },
+        {
+          "summary": "AI gold rush draws crypto firms away from Bitcoin",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T23:11:02+00:00"
+        },
+        {
+          "summary": "Firms scramble for battery power in Spain and Portugal",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-25T23:09:31+00:00"
+        },
+        {
+          "summary": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "published": "2026-08-26T00:40:59+00:00"
+        },
+        {
+          "summary": "10 essential Dolly Parton songs",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dolly-parton-songs-to-know-2026-8",
+          "published": "2026-08-25T22:02:35+00:00"
+        },
+        {
+          "summary": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+          "published": "2026-08-25T19:03:47+00:00"
+        },
+        {
+          "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+          "published": "2026-08-25T18:00:00+00:00"
+        },
+        {
+          "summary": "Bose’s smallest Bluetooth speaker is a great deal at 35 percent off",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale",
+          "published": "2026-08-25T13:39:20-04:00"
+        },
+        {
+          "summary": "What makes a great investor?",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+          "published": "2026-08-25T17:15:09+00:00"
+        },
+        {
+          "summary": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+          "published": "2026-08-25T17:28:52+00:00"
+        },
+        {
+          "summary": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22852",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22793",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Federated Ensemble Forecasting Under Supply-Chain Market Volatility",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21399",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Loss-Parameterized Fisher Width Along Learning Trajectories",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21561",
+          "published": "2026-08-25T00:00:00-04:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "在 NVIDIA Dynamo 恢复 LLM 推导能力( 以阴影引擎回收)",
+          "summary_en": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+          "published": "2026-08-25T20:57:54+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.04
+        },
+        {
+          "summary_zh": "AgentHands:为基于空间的XR代理对话生成交互式手势",
+          "summary_en": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+          "published": "2026-08-25T19:10:59+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "使用 Amazon OpenSearch Service MCP Apps 的代理可观察性",
+          "summary_en": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+          "published": "2026-08-25T19:00:09+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.05
+        },
+        {
+          "summary_zh": "用 Google 搜索 更新您家的装饰的 5 种方法",
+          "summary_en": "5 ways to upgrade your home decor with Google Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "published": "2026-08-25T16:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.3
+        },
+        {
+          "summary_zh": "与 Amazon Quick 桌面和 Amazon FSx 为 NetApp ONTAP 管理的报告",
+          "summary_en": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+          "published": "2026-08-25T16:35:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.45
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+          "published": "2026-08-25T20:57:54+00:00"
+        },
+        {
+          "summary": "Record Short Bets Hit China’s AI Model Duo on Fierce Competition",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-25/record-short-bets-hit-china-s-ai-model-duo-on-fierce-competition",
+          "published": "2026-08-25T23:30:00+00:00"
+        },
+        {
+          "summary": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+          "published": "2026-08-25T19:10:59+00:00"
+        },
+        {
+          "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published": "2026-08-25T07:00:00+00:00"
+        },
+        {
+          "summary": "Accel-backed Keenable is indexing the web for AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+          "published": "2026-08-25T13:00:00+00:00"
+        },
+        {
+          "summary": "Agentic observability with Amazon OpenSearch Service MCP Apps",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/agentic-observability-with-amazon-opensearch-service-mcp-apps/",
+          "published": "2026-08-25T19:00:09+00:00"
+        },
+        {
+          "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "published": "2026-08-25T14:22:04+00:00"
+        },
+        {
+          "summary": "Governed reports with Amazon Quick Desktop and Amazon FSx for NetApp ONTAP",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/governed-reports-with-amazon-quick-desktop-and-amazon-fsx-for-netapp-ontap/",
+          "published": "2026-08-25T16:35:01+00:00"
+        },
+        {
+          "summary": "5 ways to upgrade your home decor with Google Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "published": "2026-08-25T16:00:00+00:00"
+        },
+        {
+          "summary": "Granite 4.2 LLMs: How They're Built",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "published": "2026-08-25T15:14:14+00:00"
+        },
+        {
+          "summary": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21362",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Read Less, Solve More: Token-Efficient Sparse Reading for AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22237",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "MSM-Mem: A Universal Medical Structured Multimodal Memory Framework for Medical AI Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21810",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.22179",
+          "published": "2026-08-25T00:00:00-04:00"
+        },
+        {
+          "summary": "The full stack behind abundant intelligence",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "published": "2026-08-25T07:05:00+00:00"
+        },
+        {
+          "summary": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "published": "2026-08-25T11:39:24+00:00"
+        },
+        {
+          "summary": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "published": "2026-08-25T12:00:00+00:00"
+        },
+        {
+          "summary": "实测豆包工作：连上飞书后，Agent 终于像个同事了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676539?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-25T03:32:51+00:00"
+        }
+      ]
+    }
+  }
+}
