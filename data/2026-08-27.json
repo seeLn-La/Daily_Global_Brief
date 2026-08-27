@@ -1,0 +1,1058 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T05:59:51.538582+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Litter-Robot 推进代码:最多150美元",
+          "summary_en": "Litter-Robot Promo Codes: Up to $150 Off",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/litter-robot-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "服务面部扩散 LLMS:来自真实硬件的特性和设计原则",
+          "summary_en": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.23807",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "Flower Hub:联邦模拟和部署学习可复制基准平台",
+          "summary_en": "Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25114",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "亚马逊将Nvidia薯片的订单翻了三倍,",
+          "summary_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "published": "2026-08-26T23:47:18+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.75
+        },
+        {
+          "summary_zh": "日本的初创公司,IPO 设置的升级平台 交易非上市公司",
+          "summary_en": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
+          "published": "2026-08-27T03:41:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.22
+        },
+        {
+          "summary_zh": "澳大利亚的录音协会禁止 AI制作的音乐从图表。",
+          "summary_en": "Australia's recording association bans AI-made music from charts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts/",
+          "published": "2026-08-26T23:00:49+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.56
+        },
+        {
+          "summary_zh": "CEO解雇开发商为AI腾出空间. 开发者创建开源 AI CEO",
+          "summary_en": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "published": "2026-08-27T01:46:22+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.44
+        },
+        {
+          "summary_zh": "RIP, Tim Curry: Ars回忆起他十大标志性表演",
+          "summary_en": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "published": "2026-08-26T22:13:15+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.36
+        },
+        {
+          "summary_zh": "Nvidia将要是百亿的四分之一公司",
+          "summary_en": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+          "published": "2026-08-26T17:40:53-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.22
+        },
+        {
+          "summary_zh": "Beginners 的 GitHub 副驾驶应用: 自动调取 Dependabot 拖取请求分解",
+          "summary_en": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+          "published": "2026-08-26T20:12:53+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.06
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Litter-Robot Promo Codes: Up to $150 Off",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/litter-robot-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00"
+        },
+        {
+          "summary": "Serving Masked Diffusion LLMs: Characterization and Design Principles from Real Hardware",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.23807",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Automated Synthesis of Cloud Emulators",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.23842",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25114",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Group-Shared Low-Rank Approximation for Mobile-Efficient Pointwise Convolutions in Large-Kernel CNNs",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26069",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Therabody Promo Codes: 15% Off September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/therabody-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00"
+        },
+        {
+          "summary": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "published": "2026-08-26T23:47:18+00:00"
+        },
+        {
+          "summary": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+          "published": "2026-08-26T22:47:58+00:00"
+        },
+        {
+          "summary": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
+          "published": "2026-08-27T03:41:00+00:00"
+        },
+        {
+          "summary": "Australia's recording association bans AI-made music from charts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts/",
+          "published": "2026-08-26T23:00:49+00:00"
+        },
+        {
+          "summary": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "published": "2026-08-27T01:46:22+00:00"
+        },
+        {
+          "summary": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "published": "2026-08-26T22:13:15+00:00"
+        },
+        {
+          "summary": "OpenAI details the failures that led to Hugging Face breach in official report",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/",
+          "published": "2026-08-26T21:54:58+00:00"
+        },
+        {
+          "summary": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+          "published": "2026-08-26T17:40:53-04:00"
+        },
+        {
+          "summary": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+          "published": "2026-08-26T20:12:53+00:00"
+        },
+        {
+          "summary": "New Twitter launches, says Musk's X gave up the name",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+          "published": "2026-08-26T20:49:04+00:00"
+        },
+        {
+          "summary": "All the ways Instagram and Facebook are changing for teens",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+          "published": "2026-08-26T16:00:00-04:00"
+        },
+        {
+          "summary": "Okta pops 20% after topping estimates as AI threat spikes demand for identity security",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+          "published": "2026-08-26T21:27:53+00:00"
+        },
+        {
+          "summary": "Humanity has the debate about AI consciousness backwards",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+          "published": "2026-08-27T02:37:07+00:00"
+        },
+        {
+          "summary": "Robot brain builders are pushing out of their GPT-2 era",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+          "published": "2026-08-26T13:30:00+00:00"
+        },
+        {
+          "summary": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+          "published": "2026-08-26T12:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI 自研「辣椒芯片」首测超英伟达，会让 ChatGPT 更便宜吗？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676738?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-26T09:46:32+00:00"
+        },
+        {
+          "summary": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+          "published": "2026-08-26T12:10:00+00:00"
+        },
+        {
+          "summary": "AI 开始给自己造芯了，OpenAI 只用了九个月",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676824?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-26T12:07:59+00:00"
+        },
+        {
+          "summary": "Raised on AI",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+          "published": "2026-08-26T09:00:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Nvidia的展望显示Tech Stocks升起; BOK hikes 速率",
+          "summary_en": "Tech Stocks Rise on Nvidia's Outlook; BOK Hikes Rates | The Asia Trade 8/27/2026",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/the-asia-trade-8-27-2026-video",
+          "published": "2026-08-27T04:32:38+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.94
+        },
+        {
+          "summary_zh": "澳大利亚的EV Boo将如何影响通货膨胀和利率:播客",
+          "summary_en": "How Australia's EV Boom Will Impact Inflation and Interest Rates: Podcast",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-27/how-australia-s-ev-boom-will-impact-inflation-and-interest-rates-podcast",
+          "published": "2026-08-27T02:30:33+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.43
+        },
+        {
+          "summary_zh": "毒剂阿尔法:多剂交易系统中各种作用和结构的不利脆弱性",
+          "summary_en": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24069",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "拒绝几何反映了拒绝训练: 不同的拒绝前缀可以提高稳定的分级并削弱拒绝向量衰减攻击",
+          "summary_en": "Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25390",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.8
+        },
+        {
+          "summary_zh": "股票期货随着Nvidia股票在收益后增加4%以上而增加: 实时更新",
+          "summary_en": "Stock futures rise as Nvidia shares gain over 4% after earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+          "published": "2026-08-27T05:54:38+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.78
+        },
+        {
+          "summary_zh": "8月CEOJensen Huang做了一次AI交易 恩维迪亚计划本财政年度再投资180亿美元.",
+          "summary_en": "CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8",
+          "published": "2026-08-26T22:51:11+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.51
+        },
+        {
+          "summary_zh": "销售力量的股权得到了安心的提升 — — 以及收入带来的更多亮点。",
+          "summary_en": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+          "published": "2026-08-26T22:50:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.51
+        },
+        {
+          "summary_zh": "丽莎·库克在特朗普最新尝试 击败她当美联储州长",
+          "summary_en": "Lisa Cook Hits Back at Trump’s Latest Attempt to Oust Her as Fed Governor",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/26/business/trump-lisa-cook-fed.html",
+          "published": "2026-08-27T01:53:43+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.28
+        },
+        {
+          "summary_zh": "Dolly Parton的生意如何帮助她成功 远远超越了图表",
+          "summary_en": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-26T23:03:46+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.57
+        },
+        {
+          "summary_zh": "Motley Fool Promo代码:200 Off on Stock Profile 顾问 2026年9月",
+          "summary_en": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Tech Stocks Rise on Nvidia's Outlook; BOK Hikes Rates | The Asia Trade 8/27/2026",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-27/the-asia-trade-8-27-2026-video",
+          "published": "2026-08-27T04:32:38+00:00"
+        },
+        {
+          "summary": "How Australia's EV Boom Will Impact Inflation and Interest Rates: Podcast",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-27/how-australia-s-ev-boom-will-impact-inflation-and-interest-rates-podcast",
+          "published": "2026-08-27T02:30:33+00:00"
+        },
+        {
+          "summary": "Nvidia Sees AI-Fueled Sales Surge, Iran-Oman Strait Deal, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-27/nvidia-sees-ai-fueled-sales-surge-iran-oman-strait-deal-more",
+          "published": "2026-08-27T05:50:37+00:00"
+        },
+        {
+          "summary": "FTSE 100 Live: UK Stocks to Miss Out on Nvidia-Fueled Rally",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-08-27/ftse-100-live-updates-nvidia-pound-bonds-ai-stocks-trump-iran-war-hormuz-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mtb3p4x8",
+          "published": "2026-08-27T05:47:17+00:00"
+        },
+        {
+          "summary": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24069",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "QML for Quantum Sensing under Measurement-Induced Information Loss",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.23934",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Refusal geometry reflects refusal training: diverse refusal prefixes can raise stable rank and weaken refusal vector ablation attacks",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25390",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Beyond Optimal Rates in Stochastic Optimization: Trajectory-Adaptive Stopping Rules",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25551",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Stock futures rise as Nvidia shares gain over 4% after earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/26/stock-market-today-live-updates.html",
+          "published": "2026-08-27T05:54:38+00:00"
+        },
+        {
+          "summary": "Bank of Korea delivers back-to-back rate hikes as core inflation stays elevated",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/korea-bok-rate-hike-inflation.html",
+          "published": "2026-08-27T05:45:31+00:00"
+        },
+        {
+          "summary": "CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-q2-2027-earnings-bets-big-ai-18-billion-investment-2026-8",
+          "published": "2026-08-26T22:51:11+00:00"
+        },
+        {
+          "summary": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+          "published": "2026-08-26T22:50:00+00:00"
+        },
+        {
+          "summary": "Lisa Cook Hits Back at Trump’s Latest Attempt to Oust Her as Fed Governor",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/26/business/trump-lisa-cook-fed.html",
+          "published": "2026-08-27T01:53:43+00:00"
+        },
+        {
+          "summary": "Canada could use 2 key exports as leverage against Trump. One premier says that's a bad idea.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/us-canada-trump-trade-tariffs-policy-pushback-oil-potash-alcohol-2026-8",
+          "published": "2026-08-27T05:10:15+00:00"
+        },
+        {
+          "summary": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+          "published": "2026-08-27T00:43:00+00:00"
+        },
+        {
+          "summary": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+          "published": "2026-08-27T03:13:13+00:00"
+        },
+        {
+          "summary": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-26T23:03:46+00:00"
+        },
+        {
+          "summary": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00"
+        },
+        {
+          "summary": "Nvidia revenue doubles on continued AI demand",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-26T21:49:26+00:00"
+        },
+        {
+          "summary": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T02:48:30+00:00"
+        },
+        {
+          "summary": "早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T00:41:31+00:00"
+        },
+        {
+          "summary": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "published": "2026-08-27T00:24:57+00:00"
+        },
+        {
+          "summary": "Panic is refunding tariff fees paid by Playdate owners",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/",
+          "published": "2026-08-26T21:57:48+00:00"
+        },
+        {
+          "summary": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "published": "2026-08-26T21:37:39+00:00"
+        },
+        {
+          "summary": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+          "published": "2026-08-26T19:50:52+00:00"
+        },
+        {
+          "summary": "Why is Russia deliberately weakening its currency?",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
+          "published": "2026-08-26T18:28:55+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "声纳LLM:水下感知的原生声纳-奥取多式大型语言模型",
+          "summary_en": "SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24325",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.8
+        },
+        {
+          "summary_zh": "理解跨上下文长度和关注结构的大语言模型推论的能量放大",
+          "summary_en": "Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25096",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.8
+        },
+        {
+          "summary_zh": "如何与人工智能特工一起培训跨源机器人导航政策",
+          "summary_en": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
+          "published": "2026-08-26T20:05:06+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.52
+        },
+        {
+          "summary_zh": "与 Amazon Bedrock Agent Core 评价任何代理框架",
+          "summary_en": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+          "published": "2026-08-26T19:13:35+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.81
+        },
+        {
+          "summary_zh": "GlucoFM:持续葡萄糖监测的基础模型",
+          "summary_en": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "published": "2026-08-26T18:42:43+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.68
+        },
+        {
+          "summary_zh": "学习永不停止:AI如何使学习持续",
+          "summary_en": "Learning never stops: How AI makes learning continuous",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/learning-never-stops",
+          "published": "2026-08-26T10:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "与双子座3.5转录的智能转录",
+          "summary_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "published": "2026-08-26T17:01:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.26
+        },
+        {
+          "summary_zh": "联合优化大型语言模型代理工具的创建和使用",
+          "summary_en": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24571",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.8
+        },
+        {
+          "summary_zh": "大型语言模型 少- Shot 提示与 dilemma 训练 超越 预测病人偏好中的人类代理",
+          "summary_en": "Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25771",
+          "published": "2026-08-27T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.8
+        },
+        {
+          "summary_zh": "NVIDIA NVLink Fusion 将NVHBM带入下Generation AI基础设施",
+          "summary_en": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
+          "published": "2026-08-26T21:06:58+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.78
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "SonarLLM: A Native Sonar--Optical Multimodal Large Language Model for Underwater Perception",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24325",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.24571",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Understanding the Energy Scaling of Large Language Model Inference Across Context Lengths and Attention Architectures",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25096",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "Large Language Model Few-Shot Prompting with Dilemma Training Outperforms Human Surrogates in Predicting Patient Preferences",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.25771",
+          "published": "2026-08-27T00:00:00-04:00"
+        },
+        {
+          "summary": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
+          "published": "2026-08-26T20:05:06+00:00"
+        },
+        {
+          "summary": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
+          "published": "2026-08-26T21:06:58+00:00"
+        },
+        {
+          "summary": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+          "published": "2026-08-27T05:34:13+00:00"
+        },
+        {
+          "summary": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+          "published": "2026-08-26T19:13:35+00:00"
+        },
+        {
+          "summary": "Radar makes podcasts searchable — and usable by AI agents",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+          "published": "2026-08-26T15:47:28+00:00"
+        },
+        {
+          "summary": "OpenAI’s rogue AI model incident was worse than we thought",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "published": "2026-08-26T17:36:06-04:00"
+        },
+        {
+          "summary": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "published": "2026-08-26T18:42:43+00:00"
+        },
+        {
+          "summary": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+          "published": "2026-08-26T21:25:27+00:00"
+        },
+        {
+          "summary": "OpenAI releases sweeping report on Hugging Face AI agent hack",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/26/open-ai-hugging-face-hack.html",
+          "published": "2026-08-26T21:17:34+00:00"
+        },
+        {
+          "summary": "The inside story on why OpenAI agents hacked Hugging Face",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "published": "2026-08-26T19:00:00+00:00"
+        },
+        {
+          "summary": "Bring your own model with Amazon SageMaker AI: Script mode in SDK v3",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-model-with-amazon-sagemaker-ai-script-mode-in-sdk-v3/",
+          "published": "2026-08-26T16:31:32+00:00"
+        },
+        {
+          "summary": "Arga Labs is building a better way to train enterprise AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+          "published": "2026-08-26T12:55:28+00:00"
+        },
+        {
+          "summary": "Learning never stops: How AI makes learning continuous",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/learning-never-stops",
+          "published": "2026-08-26T10:00:00+00:00"
+        },
+        {
+          "summary": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-26T22:03:45+00:00"
+        },
+        {
+          "summary": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+          "published": "2026-08-26T11:00:00+00:00"
+        },
+        {
+          "summary": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "published": "2026-08-26T17:01:00+00:00"
+        },
+        {
+          "summary": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "published": "2026-08-26T10:00:00+00:00"
+        },
+        {
+          "summary": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+          "published": "2026-08-26T17:13:37+00:00"
+        },
+        {
+          "summary": "Serve Markdown to AI Agents with Accept Headers",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://acceptmarkdown.com/",
+          "published": "2026-08-26T19:45:59+00:00"
+        }
+      ]
+    }
+  }
+}
