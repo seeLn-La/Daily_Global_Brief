@@ -1,0 +1,1072 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T08:11:29.185544+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "学术工作流法学硕士:对文学评论的评价",
+          "summary_en": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26145",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "贝叶斯方法和马尔可夫链 蒙特卡洛算法用于曲线重建及点云数据分析",
+          "summary_en": "Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26490",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "X声称发现一个中国的机器人农场 张贴了反AI的数据中心情绪",
+          "summary_en": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+          "published": "2026-08-28T06:21:43+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.84
+        },
+        {
+          "summary_zh": "特朗普的格陵兰固态将安全置于冰岛刀锋欧盟投票的核心",
+          "summary_en": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
+          "published": "2026-08-28T07:07:12+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.53
+        },
+        {
+          "summary_zh": "Uber Eats Promo Codes: 15 Off 2026年9月 Q.",
+          "summary_en": "Uber Eats Promo Codes: $15 Off │September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uber-eats-promo-code/",
+          "published": "2026-08-28T05:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.5
+        },
+        {
+          "summary_zh": "Anthropic被特朗普政府非法列入黑名单 法庭规则",
+          "summary_en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "published": "2026-08-27T23:14:06-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "主权技术机构投资500克平板电脑",
+          "summary_en": "Sovereign Tech Agency invests €500k in Flatpak",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+          "published": "2026-08-28T05:42:47+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.88
+        },
+        {
+          "summary_zh": "AI,运动员和克思·拉布瓦:严格VC9月10日回到纽约.",
+          "summary_en": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+          "published": "2026-08-28T02:02:44+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.76
+        },
+        {
+          "summary_zh": "Huawei的芯片,数据中心比德将美中AI里尔带到了埃及",
+          "summary_en": "Huawei’s Chip, Data Center Bid Takes US-China AI Rivalry to Egypt",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-28/huawei-s-chip-data-center-bid-takes-us-china-ai-rivalry-to-egypt",
+          "published": "2026-08-28T03:55:38+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.73
+        },
+        {
+          "summary_zh": "用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测",
+          "summary_en": "After using the wide straight Huawei, I forgot about the BlackBerry in my memories｜Huawei Pura X View review",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-28T01:00:05+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26145",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "SAREF-based Ontology for Distributed AI Workflows across the Edge-Fog-Cloud Continuum",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26160",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26490",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Diffusion Policies for Short-Horizon Planning in Robot Crowd Navigation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27158",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+          "published": "2026-08-28T06:21:43+00:00"
+        },
+        {
+          "summary": "Trump’s Greenland fixation puts security at the heart of Iceland’s knife-edge EU vote",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/28/iceland-eu-referendum-trump-greenland-arctic.html",
+          "published": "2026-08-28T07:07:12+00:00"
+        },
+        {
+          "summary": "Uber Eats Promo Codes: $15 Off │September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uber-eats-promo-code/",
+          "published": "2026-08-28T05:00:00+00:00"
+        },
+        {
+          "summary": "Reebok Discount Code: Save 15%+ in September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/reebok-discount-code/",
+          "published": "2026-08-28T05:00:00+00:00"
+        },
+        {
+          "summary": "Judge rules that the Pentagon's Anthropic ban was 'illegal and baseless'",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246131/judge-rules-that-pentagon-anthropic-ban-illegal-and-baseless/",
+          "published": "2026-08-28T04:43:23+00:00"
+        },
+        {
+          "summary": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+          "published": "2026-08-27T23:14:06-04:00"
+        },
+        {
+          "summary": "Sovereign Tech Agency invests €500k in Flatpak",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+          "published": "2026-08-28T05:42:47+00:00"
+        },
+        {
+          "summary": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
+          "published": "2026-08-28T02:02:44+00:00"
+        },
+        {
+          "summary": "Huawei’s Chip, Data Center Bid Takes US-China AI Rivalry to Egypt",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-08-28/huawei-s-chip-data-center-bid-takes-us-china-ai-rivalry-to-egypt",
+          "published": "2026-08-28T03:55:38+00:00"
+        },
+        {
+          "summary": "The GTA VI ‘extended look’ is now streaming on YouTube",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+          "published": "2026-08-27T21:05:18-04:00"
+        },
+        {
+          "summary": "用了阔直板华为，忘了回忆里的黑莓｜华为 Pura X View 评测",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677161?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-28T01:00:05+00:00"
+        },
+        {
+          "summary": "早报｜iPhone 17登顶Q2最畅销智能手机/《GTA6》公布26分钟实机演示/追觅咖啡回应多店闭店",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677210?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-28T00:09:21+00:00"
+        },
+        {
+          "summary": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "published": "2026-08-27T23:16:45+00:00"
+        },
+        {
+          "summary": "FTC Probes YouTube Over Social Media Policies, Tech Rallies",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-28/ftc-probes-youtube-over-social-media-policies-tech-rallies",
+          "published": "2026-08-28T01:03:44+00:00"
+        },
+        {
+          "summary": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+          "published": "2026-08-27T18:57:08+00:00"
+        },
+        {
+          "summary": "Time is running out for cyber security, warn top tech firms",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-27T19:44:27+00:00"
+        },
+        {
+          "summary": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+          "published": "2026-08-27T20:52:31+00:00"
+        },
+        {
+          "summary": "GoGoGrandparent (YC S16) is hiring back end engineers",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+          "published": "2026-08-28T03:35:15+00:00"
+        },
+        {
+          "summary": "A startup claims it’s found a drug to make your blood young",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+          "published": "2026-08-27T19:48:13+00:00"
+        },
+        {
+          "summary": "Salesforce rockets 22% for second-best day ever, leading software rally",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+          "published": "2026-08-27T20:04:01+00:00"
+        },
+        {
+          "summary": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+          "published": "2026-08-27T17:02:35+00:00"
+        },
+        {
+          "summary": "OpenClaw went viral. Meet the maintainers building and securing it.",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+          "published": "2026-08-27T13:59:18.486000+00:00"
+        },
+        {
+          "summary": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+          "published": "2026-08-27T12:10:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "DSA: 多市场股票研究的证据-智能 LLM-代理管弦乐团",
+          "summary_en": "DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26990",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "股票移动器:克奥克西亚, SK Hynix, Kingdee (Podcast)",
+          "summary_en": "Stock Movers: Kioxia, SK Hynix, Kingdee (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-28/stock-movers-kioxia-sk-hynix-kingdee-podcast",
+          "published": "2026-08-28T07:39:40+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.17
+        },
+        {
+          "summary_zh": "沃什讲话前的欧洲股票组合",
+          "summary_en": "European Stocks Set for Fifth Monthly Gain Before Warsh Speech",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-28/european-stocks-set-for-fifth-monthly-gain-before-warsh-speech",
+          "published": "2026-08-28T07:17:35+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "DeepSeek 寻找新的资本,因为创始人的四分之一的帝国 将中国的IPO市场推向平地",
+          "summary_en": "DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+          "published": "2026-08-28T02:17:01+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.32
+        },
+        {
+          "summary_zh": "算术交易的表型深层学习:跨行政区的 Bayesian 优化公平信号生成",
+          "summary_en": "Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27076",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "体育 直接创始人攻击伯纳姆的\"流行\"高街计划",
+          "summary_en": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-28T07:40:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "关于Z.ai的一切我们都知道, 神秘的Ox Alpha模型背后的中国公司",
+          "summary_en": "Everything we know about Z.ai, the Chinese company behind the mysterious Ox Alpha model",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/what-is-ox-alpha-ai-model-openroute-opencode-z-ai-2026-8",
+          "published": "2026-08-28T07:28:03+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "我母亲91岁患了痴呆症 每个银行都说我需要她的签名 才能解锁她10万美元的股票证 我能怎么办?",
+          "summary_en": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+          "published": "2026-08-27T23:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "预测市场和国家冲突,掀起激烈的政治战役",
+          "summary_en": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+          "published": "2026-08-28T01:09:44+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.54
+        },
+        {
+          "summary_zh": "据报由花旗领导的团体正在放弃购买花旗",
+          "summary_en": "Stripe-led group is reportedly abandoning its PayPal acquisition",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition/",
+          "published": "2026-08-28T06:34:44+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.4
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26990",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Stock Movers: Kioxia, SK Hynix, Kingdee (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-28/stock-movers-kioxia-sk-hynix-kingdee-podcast",
+          "published": "2026-08-28T07:39:40+00:00"
+        },
+        {
+          "summary": "European Stocks Set for Fifth Monthly Gain Before Warsh Speech",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-28/european-stocks-set-for-fifth-monthly-gain-before-warsh-speech",
+          "published": "2026-08-28T07:17:35+00:00"
+        },
+        {
+          "summary": "European Stocks Face Seasonal Risks After Five-Month Rally",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-28/european-stocks-face-seasonal-risks-after-five-month-rally",
+          "published": "2026-08-28T06:15:51+00:00"
+        },
+        {
+          "summary": "DeepSeek looks for fresh capital as founder’s quant empire navigates China’s choppy IPO market",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+          "published": "2026-08-28T02:17:01+00:00"
+        },
+        {
+          "summary": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26134",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27076",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Profit based evaluation of machine learning for nitrogen recommendations in winter wheat",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27205",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Investors Seek Warsh Clarity, France GDP Growth Flat, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-28/investors-seek-warsh-clarity-france-gdp-growth-flat-more",
+          "published": "2026-08-28T07:40:19+00:00"
+        },
+        {
+          "summary": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-28T07:40:00+00:00"
+        },
+        {
+          "summary": "Everything we know about Z.ai, the Chinese company behind the mysterious Ox Alpha model",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/what-is-ox-alpha-ai-model-openroute-opencode-z-ai-2026-8",
+          "published": "2026-08-28T07:28:03+00:00"
+        },
+        {
+          "summary": "Nearly 600 foreign tourists from more than 30 countries are missing in Nepal's flash floods",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nepal-floods-540-foreign-tourists-from-over-30-countries-missing-2026-8",
+          "published": "2026-08-28T07:03:38+00:00"
+        },
+        {
+          "summary": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+          "published": "2026-08-27T23:00:00+00:00"
+        },
+        {
+          "summary": "CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
+          "published": "2026-08-27T22:53:00+00:00"
+        },
+        {
+          "summary": "Selena Gomez pushes back against 'frivolous' fraud claims",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-28T05:53:05+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/27/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-08-27T23:25:21+00:00"
+        },
+        {
+          "summary": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+          "published": "2026-08-28T01:09:44+00:00"
+        },
+        {
+          "summary": "Stripe-led group is reportedly abandoning its PayPal acquisition",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition/",
+          "published": "2026-08-28T06:34:44+00:00"
+        },
+        {
+          "summary": "Benjamin Rosen, Who Brought Venture Capital to Tech, Dies at 93",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/27/business/ben-rosen-dead.html",
+          "published": "2026-08-28T00:06:59+00:00"
+        },
+        {
+          "summary": "SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+          "published": "2026-08-27T17:30:00-04:00"
+        },
+        {
+          "summary": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+          "published": "2026-08-27T19:12:39+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+          "published": "2026-08-27T15:00:00+00:00"
+        },
+        {
+          "summary": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+          "published": "2026-08-27T17:00:00+00:00"
+        },
+        {
+          "summary": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
+          "published": "2026-08-27T14:53:17+00:00"
+        },
+        {
+          "summary": "The economic costs of Donald Trump’s immigration crackdown",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "published": "2026-08-27T09:49:05+00:00"
+        },
+        {
+          "summary": "Scott Bessent takes on the bond market",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+          "published": "2026-08-27T09:13:40+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "多代理系统的风险和控制:跨组织边界部署AI代理的分析框架",
+          "summary_en": "Risks and Controls for Multi-Agent Systems: an analytical framework for deployment of AI agents across organisational boundaries",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26626",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.25
+        },
+        {
+          "summary_zh": "Trace Bench:控制下对LLM代理的评价,用于时间序列根-原因的归属",
+          "summary_en": "TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27182",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "与 Amazon Quick and fal 建立代理创意工作流程",
+          "summary_en": "Build agentic creative workflows with Amazon Quick and fal",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+          "published": "2026-08-27T23:04:22+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.22
+        },
+        {
+          "summary_zh": "行星预测引擎:通过地球AI实现全球模型自动化.",
+          "summary_en": "Planetary prediction engine: Automating global models via Earth AI",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "published": "2026-08-27T17:37:20+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.86
+        },
+        {
+          "summary_zh": "更好的答案,更广泛的思考: 学生从ChatGPT和批判性思维训练中获得什么",
+          "summary_en": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "published": "2026-08-27T09:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.2
+        },
+        {
+          "summary_zh": "CIFQA:一个定型工具环绕多代理 LLM 财务查询回答框架",
+          "summary_en": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26114",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "带有基础模型摘要的跨模拟器传输:走向稳健的SKA时代再电离推论",
+          "summary_en": "Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26354",
+          "published": "2026-08-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "Deepgram用增强度量法加深了Amazon SageMaker AI的可观察性",
+          "summary_en": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+          "published": "2026-08-27T16:11:27+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "世界首个双盲AI评价试点.",
+          "summary_en": "Piloting the world's first double-blind AI evaluations",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "published": "2026-08-27T12:59:16+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.7
+        },
+        {
+          "summary_zh": "双子座 1.1 闪光让您用更多的控制来构建",
+          "summary_en": "Gemini Omni 1.1 Flash lets you build with more control",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "published": "2026-08-27T16:11:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Risks and Controls for Multi-Agent Systems: an analytical framework for deployment of AI agents across organisational boundaries",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26626",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26114",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.27182",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Cross-simulator transfer with foundation model summaries: Towards robust SKA-era reionization inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.26354",
+          "published": "2026-08-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Lindsey Vonn says training gave her something retirement did not: time without distractions",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/lindsey-vonn-retirement-miss-focus-training-skiing-2026-8",
+          "published": "2026-08-28T05:48:46+00:00"
+        },
+        {
+          "summary": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "published": "2026-08-27T22:15:43+00:00"
+        },
+        {
+          "summary": "Build agentic creative workflows with Amazon Quick and fal",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-agentic-creative-workflows-with-amazon-quick-and-fal/",
+          "published": "2026-08-27T23:04:22+00:00"
+        },
+        {
+          "summary": "Google employees are already testing the next Gemini Flash AI model",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/google-employees-testing-next-gemini-flash-3-8-model-2026-8",
+          "published": "2026-08-27T21:30:06+00:00"
+        },
+        {
+          "summary": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+          "published": "2026-08-27T21:08:34+00:00"
+        },
+        {
+          "summary": "Planetary prediction engine: Automating global models via Earth AI",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "published": "2026-08-27T17:37:20+00:00"
+        },
+        {
+          "summary": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+          "published": "2026-08-27T19:55:22+00:00"
+        },
+        {
+          "summary": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "published": "2026-08-27T13:00:00+00:00"
+        },
+        {
+          "summary": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+          "published": "2026-08-27T16:11:27+00:00"
+        },
+        {
+          "summary": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+          "published": "2026-08-27T21:46:39+00:00"
+        },
+        {
+          "summary": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+          "published": "2026-08-27T18:06:52+00:00"
+        },
+        {
+          "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "published": "2026-08-27T09:00:00+00:00"
+        },
+        {
+          "summary": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.terminal-bench-science.ai/announcement",
+          "published": "2026-08-28T00:06:51+00:00"
+        },
+        {
+          "summary": "Piloting the world's first double-blind AI evaluations",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "published": "2026-08-27T12:59:16+00:00"
+        },
+        {
+          "summary": "Gemini Omni 1.1 Flash lets you build with more control",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "published": "2026-08-27T16:11:32+00:00"
+        },
+        {
+          "summary": "3 new ways to plan and book travel in Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+          "published": "2026-08-27T11:35:59+00:00"
+        },
+        {
+          "summary": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T10:34:37+00:00"
+        }
+      ]
+    }
+  }
+}
