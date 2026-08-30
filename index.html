@@ -203,6 +203,13 @@
     return [0, 6].includes(d.getUTCDay());
   }
 
+  function isWeekendDigest(dateStr) {
+    if (!dateStr) return false;
+    const d = new Date(`${dateStr}T12:00:00+08:00`);
+    // Monday still presents the weekend coverage window.
+    return [0, 1, 6].includes(d.getUTCDay());
+  }
+
   function sourceTypeLabel(type) {
     const labels = {
       first_party: "Official",
@@ -226,8 +233,8 @@
       html += `<div class="category-col ${catCSS[key]}">`;
       html += `<div class="category-title">${cat.name_en || key} · ${articles.length}</div>`;
 
-      if (key === "ai" && articles.length < 10 && isWeekend(currentDate)) {
-        html += `<div class="category-note">Fewer AI updates are published on weekends. Showing qualifying content from the past 72 hours, including original reporting when needed.</div>`;
+      if (key === "ai" && articles.length < 10 && isWeekendDigest(currentDate)) {
+        html += `<div class="category-note">Weekend coverage searched up to 7 days, removed repeated events, and used original reporting only when official and research sources were insufficient. Showing ${articles.length} verified ${articles.length === 1 ? "story" : "stories"}.</div>`;
       }
 
       if (articles.length === 0) {
