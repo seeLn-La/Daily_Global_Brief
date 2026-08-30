@@ -44,7 +44,7 @@ news/
 ```
 RSS Feeds (28 sources)
   → fetcher.py (parallel fetch + parse + dedup + source health)
-    → aggregator.py (categorize + candidate pool + event dedup + top 10)
+  → aggregator.py (categorize + enlarged candidate pool + event dedup + up to 10)
       → translator.py (bilingual translation)
         → data/YYYY-MM-DD.json (write)
           → bark_pusher.py (push notification)
@@ -184,6 +184,14 @@ translate 库 (备选)
 6. 每次去重输出跳过数量及对应标题，便于检查规则是否过严。
 
 该策略不调用 AI/LLM API，不新增第三方依赖。措辞差异特别大的跨语言标题可能无法完全识别，后续可根据每日结果调整阈值。
+
+## 周末数量策略
+
+- 周六、周日抓取最近 7 天；周一抓取最近 4 天，覆盖周末回顾窗口。
+- 候选池每分类最多保留 50 篇、每来源最多保留 4 篇，给跨来源去重和分层补位留下空间。
+- AI 发展模块优先官方发布和研究论文，不足时使用媒体原创报道；社区转载不作为补位来源。
+- 最终数量上限为 10 篇。合格且不重复的事件不足 10 篇时保留实际数量，不重复展示旧事件或降低来源门槛。
+- 页面显示实际 verified 数量，并在周末数量不足时说明扩展窗口和补位规则。
 
 ## 容错设计
 
