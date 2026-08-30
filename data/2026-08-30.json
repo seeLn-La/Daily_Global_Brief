@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T06:01:47.274473+00:00",
+  "generated_at": "2026-08-30T06:56:32.456017+00:00",
   "categories": {
     "technology": {
       "name_zh": "科技",
@@ -21,7 +21,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.81
+          "selection_score": 6.58
         },
         {
           "summary_zh": "如何用MVNO在电话单上省钱",
@@ -38,7 +38,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.54
+          "selection_score": 6.32
         },
         {
           "summary_zh": "日交易商弃用朝鲜芯片",
@@ -55,7 +55,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.29
+          "selection_score": 6.07
         },
         {
           "summary_zh": "阴险地爬上阿巴拉契亚人 在华丽的一出轨迹",
@@ -72,7 +72,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.04
+          "selection_score": 5.81
         },
         {
           "summary_zh": "Sony Music, Warner 控告Anthropic, 指控“疯狂的”知识产权盗窃运动",
@@ -89,7 +89,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.47
+          "selection_score": 5.24
         },
         {
           "summary_zh": "由于AI angst与社交媒体的恐惧相冲突,",
@@ -106,7 +106,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.27
+          "selection_score": 5.05
         },
         {
           "summary_zh": "最疯狂的电子游戏预算不能为GTA 6挂起蜡烛",
@@ -123,15 +123,15 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 6.42
+          "selection_score": 6.19
         },
         {
-          "summary_zh": "Google:安大略湖/美国湖名称在美国的更名会出现在地图中",
-          "summary_en": "Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
-          "published": "2026-08-30T05:26:10+00:00",
+          "summary_zh": "为什么Kindle还有蓝牙?",
+          "summary_en": "Why does your Kindle even have Bluetooth?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
+          "published": "2026-08-29T22:00:00+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 1.5,
@@ -140,7 +140,24 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 6.35
+          "selection_score": 6.07
+        },
+        {
+          "summary_zh": "TPU对GPU有什么区别?.",
+          "summary_en": "What's the difference between TPU vs. GPU?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/",
+          "published": "2026-08-29T17:30:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.94
         },
         {
           "summary_zh": "右翼巨魔米洛·扬诺普洛斯被驱逐出境了",
@@ -157,24 +174,7 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.75
-        },
-        {
-          "summary_zh": "在TechBBQ,欧洲的AI对话不断回到:谁在实际控制之中?",
-          "summary_en": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-          "source": "TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-          "published": "2026-08-29T17:51:10+00:00",
-          "category_reason": "沿用来源默认分类",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 1.0
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.26
+          "selection_score": 5.52
         }
       ],
       "candidates": [
@@ -200,11 +200,11 @@
           "published": "2026-08-29T22:30:00+00:00"
         },
         {
-          "summary": "Google: Lake Ontario/Lake America name change in the U.S. will appear in Maps",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/",
-          "published": "2026-08-30T05:26:10+00:00"
+          "summary": "Why does your Kindle even have Bluetooth?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242764/why-does-your-kindle-even-have-bluetooth/",
+          "published": "2026-08-29T22:00:00+00:00"
         },
         {
           "summary": "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
@@ -212,6 +212,13 @@
           "source_type": "original_reporting",
           "url": "https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves",
           "published": "2026-08-30T00:00:00+00:00"
+        },
+        {
+          "summary": "What's the difference between TPU vs. GPU?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/",
+          "published": "2026-08-29T17:30:00+00:00"
         },
         {
           "summary": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
@@ -228,11 +235,39 @@
           "published": "2026-08-29T15:49:59-04:00"
         },
         {
+          "summary": "Algorithmic rent-pricing litigation expands under new state and local laws",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+          "published": "2026-08-30T02:25:32+00:00"
+        },
+        {
           "summary": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
           "source": "TechCrunch",
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
           "published": "2026-08-29T18:41:59+00:00"
+        },
+        {
+          "summary": "Sony Music and Warner Chappell are suing Anthropic",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "published": "2026-08-29T14:19:53-04:00"
+        },
+        {
+          "summary": "FreeCORE TrueNAS Core – Continued",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://freecore.org/",
+          "published": "2026-08-30T01:31:32+00:00"
+        },
+        {
+          "summary": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
+          "published": "2026-08-30T01:09:15+00:00"
         },
         {
           "summary": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
@@ -247,6 +282,27 @@
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
           "published": "2026-08-29T17:51:10+00:00"
+        },
+        {
+          "summary": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "published": "2026-08-29T17:36:47+00:00"
+        },
+        {
+          "summary": "Nvidia’s AI advantage is moving beyond the GPU",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "published": "2026-08-29T13:00:00+00:00"
+        },
+        {
+          "summary": "Distraction-free writing gadget BYOK is adding custom extensions",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
+          "published": "2026-08-29T12:01:13-04:00"
         },
         {
           "summary": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
@@ -277,13 +333,6 @@
           "published": "2026-08-29T11:00:00+00:00"
         },
         {
-          "summary": "I asked 100 companies for my data. Some deleted it instead.",
-          "source": "Ars Technica - All content",
-          "source_type": "original_reporting",
-          "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-          "published": "2026-08-29T10:50:31+00:00"
-        },
-        {
           "summary": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
           "source": "Ars Technica - All content",
           "source_type": "original_reporting",
@@ -303,6 +352,41 @@
           "source_type": "original_reporting",
           "url": "https://www.ifanr.com/1677135?utm_source=rss&utm_medium=rss&utm_campaign=",
           "published": "2026-08-27T13:42:10+00:00"
+        },
+        {
+          "summary": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T10:15:44+00:00"
+        },
+        {
+          "summary": "苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T06:25:14+00:00"
+        },
+        {
+          "summary": "I asked 100 companies for my data. Some deleted it instead.",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+          "published": "2026-08-29T10:50:31+00:00"
+        },
+        {
+          "summary": "NASA’s Nancy Grace Roman Space Telescope Has a Hidden Technological Leap",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
+          "published": "2026-08-29T10:30:00+00:00"
+        },
+        {
+          "summary": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+          "published": "2026-08-29T10:30:00+00:00"
         },
         {
           "summary": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
@@ -326,6 +410,76 @@
           "published": "2026-08-27T13:59:18.486000+00:00"
         },
         {
+          "summary": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+          "published": "2026-08-26T20:12:53+00:00"
+        },
+        {
+          "summary": "How to evaluate LLMs before production",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+          "published": "2026-08-25T21:35:11+00:00"
+        },
+        {
+          "summary": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "published": "2026-08-25T13:00:23.969000+00:00"
+        },
+        {
+          "summary": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "published": "2026-08-25T12:59:36.109000+00:00"
+        },
+        {
+          "summary": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+          "published": "2026-08-25T12:58:13.056000+00:00"
+        },
+        {
+          "summary": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+          "published": "2026-08-24T20:56:32+00:00"
+        },
+        {
+          "summary": "The Cloudflare Blog – Brought to you by EmDash",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
+          "published": "2026-08-24T19:00:00+00:00"
+        },
+        {
+          "summary": "Intent to Ship: JPEG XL",
+          "source": "Mozilla Hacks – the Web developer blog",
+          "source_type": "first_party",
+          "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+          "published": "2026-08-24T15:32:15+00:00"
+        },
+        {
+          "summary": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "published": "2026-08-28T22:14:52+00:00"
+        },
+        {
+          "summary": "Cities terminate Flock contracts at record pace in August",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+          "published": "2026-08-28T21:33:54+00:00"
+        },
+        {
           "summary": "The Download: a secretive antiaging drug and joining virtual power plants",
           "source": "MIT Technology Review",
           "source_type": "original_reporting",
@@ -338,6 +492,20 @@
           "source_type": "original_reporting",
           "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
           "published": "2026-08-28T09:00:00+00:00"
+        },
+        {
+          "summary": "A startup claims it’s found a drug to make your blood young",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+          "published": "2026-08-27T19:48:13+00:00"
+        },
+        {
+          "summary": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+          "published": "2026-08-27T12:10:00+00:00"
         },
         {
           "summary": "China Sees Opportunity in America’s Recent A.I. Security Scares",
@@ -374,24 +542,24 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 9.16
+          "selection_score": 8.94
         },
         {
-          "summary_zh": "美国-委内瑞拉石油交易,向中非共和国的驱逐",
-          "summary_en": "US-Venezuela Oil Deal, Deportations to Central African Republic",
+          "summary_zh": "英国的Burnham 屏障 更多来自判决变化的罪犯",
+          "summary_en": "UK’s Burnham Blocks More Criminals From Sentencing Changes",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-30/us-venezuela-oil-deal-deportations-to-central-african-republic",
-          "published": "2026-08-30T00:37:36+00:00",
-          "category_reason": "标题主题匹配",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/uk-s-burnham-blocks-more-criminals-from-sentencing-changes",
+          "published": "2026-08-30T06:21:43+00:00",
+          "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
-            "business": 2.5,
+            "business": 1.5,
             "ai": 0.0
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 7.95
+          "selection_score": 8.16
         },
         {
           "summary_zh": "Guggenheim Ties Weigh on Acrisure Bunders, Dragging High-Yield Credit Markets (Guggenheim Ties Weigh on Acrisure Bunds, Dragging High-Yield Credit Systems) 互联网档案馆的存檔,存档日期2013-12-22. 互联网档案馆的存檔,存档日期2011-12-22. 互联网档案馆的存檔,存档日期2014-12-22. 互联网档案馆的存檔,存档日期2014-12-12. 互联网档案馆的存檔,存档日期2014-12-12. 互联网档案馆的存檔,存档日期2014-12-04.",
@@ -408,7 +576,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 6.54
+          "selection_score": 6.32
         },
         {
           "summary_zh": "索尼指责Anthropic“brazen campaign”,",
@@ -425,7 +593,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.56
+          "selection_score": 5.34
         },
         {
           "summary_zh": "K C 还是E? 为什么经济学家不能就今天的经济形态达成一致?",
@@ -442,7 +610,7 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.39
+          "selection_score": 5.16
         },
         {
           "summary_zh": "发起筹资活动,以确保商店的未来",
@@ -459,49 +627,15 @@
           },
           "selection_tier": "strong_match",
           "selection_reason": "高相关且来源优先",
-          "selection_score": 5.36
+          "selection_score": 5.13
         },
         {
-          "summary_zh": "尼泊尔在洪水后寻求帮助,",
-          "summary_en": "“Historic Deal” with Venezuela,Nepal Seeks Help After Flood,More",
+          "summary_zh": "EssilorLuxottica Clan的40亿欧元裂口随着海尔的出走而增长",
+          "summary_en": "EssilorLuxottica Clan’s €40 Billion Rift Grows With Heir’s Exit",
           "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-29/-historic-deal-with-venezuela-nepal-seeks-help-after-flood-more-mtf03sk2",
-          "published": "2026-08-29T23:17:46+00:00",
-          "category_reason": "标题主题匹配",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 2.5,
-            "ai": 0.0
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 7.62
-        },
-        {
-          "summary_zh": "Warsh 说通货膨胀不是缓慢的,要达到2%的目标",
-          "summary_en": "Warsh Says Inflation Isn’t Slowing, Vows to Reach 2% Target",
-          "source": "Bloomberg Markets",
-          "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
-          "published": "2026-08-29T16:16:51+00:00",
-          "category_reason": "商业事件词优先",
-          "category_scores": {
-            "technology": 0.0,
-            "business": 2.5,
-            "ai": 0.0
-          },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.86
-        },
-        {
-          "summary_zh": "我们的女儿启发了一个YouTube的节目 我们开始在衣柜。 现在我们准备建立一个帝国。",
-          "summary_en": "Our daughter inspired a YouTube show that we started in our closet. Now we're set on creating an empire.",
-          "source": "All Content from Business Insider",
-          "source_type": "original_reporting",
-          "url": "https://www.businessinsider.com/gracies-corner-founders-javoris-arlene-hollingsworth-2026-8",
-          "published": "2026-08-29T18:49:01+00:00",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/essilorluxottica-clan-s-40-billion-rift-grows-with-heir-s-exit",
+          "published": "2026-08-30T06:00:00+00:00",
           "category_reason": "沿用来源默认分类",
           "category_scores": {
             "technology": 0.0,
@@ -510,16 +644,50 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.5
+          "selection_score": 8.07
         },
         {
-          "summary_zh": "OpenAI 由 Eron Musk 的 SpaceX 收购后结束模式访问 Cursor",
-          "summary_en": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-          "source": "US Top News and Analysis",
+          "summary_zh": "英国庇护制度测试 Burnham 推动更多公众控制",
+          "summary_en": "UK Asylum System Tests Burnham’s Push for More Public Control",
+          "source": "Bloomberg.com",
           "source_type": "original_reporting",
-          "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-          "published": "2026-08-29T19:06:22+00:00",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/uk-asylum-system-tests-burnham-s-push-for-more-public-control",
+          "published": "2026-08-30T06:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "Warsh,在谈论通货膨胀问题之后,面对利率的“无弊局面”",
+          "summary_en": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
+          "published": "2026-08-29T21:47:19+00:00",
           "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "美国-委内瑞拉石油交易,向中非共和国的驱逐",
+          "summary_en": "US-Venezuela Oil Deal, Deportations to Central African Republic",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-30/us-venezuela-oil-deal-deportations-to-central-african-republic",
+          "published": "2026-08-30T00:37:36+00:00",
+          "category_reason": "标题主题匹配",
           "category_scores": {
             "technology": 0.0,
             "business": 2.5,
@@ -527,7 +695,7 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 5.07
+          "selection_score": 7.72
         }
       ],
       "candidates": [
@@ -546,11 +714,39 @@
           "published": "2026-08-30T04:01:02+00:00"
         },
         {
+          "summary": "UK’s Burnham Blocks More Criminals From Sentencing Changes",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/uk-s-burnham-blocks-more-criminals-from-sentencing-changes",
+          "published": "2026-08-30T06:21:43+00:00"
+        },
+        {
+          "summary": "EssilorLuxottica Clan’s €40 Billion Rift Grows With Heir’s Exit",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/essilorluxottica-clan-s-40-billion-rift-grows-with-heir-s-exit",
+          "published": "2026-08-30T06:00:00+00:00"
+        },
+        {
+          "summary": "UK Asylum System Tests Burnham’s Push for More Public Control",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/uk-asylum-system-tests-burnham-s-push-for-more-public-control",
+          "published": "2026-08-30T06:00:00+00:00"
+        },
+        {
           "summary": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
           "source": "NYT > Business",
           "source_type": "original_reporting",
           "url": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
           "published": "2026-08-30T01:52:59+00:00"
+        },
+        {
+          "summary": "Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html",
+          "published": "2026-08-29T21:47:19+00:00"
         },
         {
           "summary": "US-Venezuela Oil Deal, Deportations to Central African Republic",
@@ -560,11 +756,11 @@
           "published": "2026-08-30T00:37:36+00:00"
         },
         {
-          "summary": "“Historic Deal” with Venezuela,Nepal Seeks Help After Flood,More",
-          "source": "Bloomberg.com",
+          "summary": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+          "source": "NYT > Business",
           "source_type": "original_reporting",
-          "url": "https://www.bloomberg.com/news/audio/2026-08-29/-historic-deal-with-venezuela-nepal-seeks-help-after-flood-more-mtf03sk2",
-          "published": "2026-08-29T23:17:46+00:00"
+          "url": "https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html",
+          "published": "2026-08-29T20:07:02+00:00"
         },
         {
           "summary": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
@@ -588,6 +784,13 @@
           "published": "2026-08-29T16:16:51+00:00"
         },
         {
+          "summary": "Warsh Says Fed Must Act if Inflation Stays High",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-fed-must-act-if-inflation-stays-high-video",
+          "published": "2026-08-29T12:05:49+00:00"
+        },
+        {
           "summary": "Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
           "source": "All Content from Business Insider",
           "source_type": "original_reporting",
@@ -600,6 +803,13 @@
           "source_type": "original_reporting",
           "url": "https://www.businessinsider.com/gracies-corner-founders-javoris-arlene-hollingsworth-2026-8",
           "published": "2026-08-29T18:49:01+00:00"
+        },
+        {
+          "summary": "Warsh Sets the Tone for Fed’s Road Ahead",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-sets-the-tone-for-fed-s-road-ahead-video",
+          "published": "2026-08-29T14:33:53+00:00"
         },
         {
           "summary": "K, C or E? Why economists can’t agree on the shape of today’s economy",
@@ -616,6 +826,20 @@
           "published": "2026-08-29T18:15:54+00:00"
         },
         {
+          "summary": "My grandparents had a complicated marriage. Then illness made them fall in love again.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/grandparents-marriage-illness-falling-in-love-again-2026-8",
+          "published": "2026-08-29T17:43:01+00:00"
+        },
+        {
+          "summary": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-ends-cursor-contract-elon-musk-spacex-sam-altman-feud-2026-8",
+          "published": "2026-08-29T13:32:06+00:00"
+        },
+        {
           "summary": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
           "source": "US Top News and Analysis",
           "source_type": "original_reporting",
@@ -630,6 +854,34 @@
           "published": "2026-08-29T16:30:00+00:00"
         },
         {
+          "summary": "I’m managing a pathological liar who never does her work. How do I deal with her?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories",
+          "published": "2026-08-29T12:00:00+00:00"
+        },
+        {
+          "summary": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+          "published": "2026-08-29T15:31:00+00:00"
+        },
+        {
+          "summary": "Norway's King Haakon honors 'dear father' Harald in first speech as sovereign",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/29/tens-of-thousands-mourn-king-harald-v-in-norway.html",
+          "published": "2026-08-29T20:51:56+00:00"
+        },
+        {
+          "summary": "Op-ed: Dolly Parton was underestimated for decades. That became one of her greatest strengths",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html",
+          "published": "2026-08-29T20:22:50+00:00"
+        },
+        {
           "summary": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
           "source": "Engadget - Technology News & Expert Reviews",
           "source_type": "original_reporting",
@@ -637,11 +889,25 @@
           "published": "2026-08-29T14:58:40+00:00"
         },
         {
+          "summary": "Barber offers free back-to-school haircuts",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-29T11:47:46+00:00"
+        },
+        {
           "summary": "Our decision on Cursor following its acquisition by SpaceX",
           "source": "OpenAI News",
           "source_type": "first_party",
           "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
           "published": "2026-08-28T06:00:00+00:00"
+        },
+        {
+          "summary": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-28T15:15:26+00:00"
         },
         {
           "summary": "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
@@ -663,6 +929,13 @@
           "source_type": "first_party",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
           "published": "2026-08-27T15:00:00+00:00"
+        },
+        {
+          "summary": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+          "published": "2026-08-25T18:00:00+00:00"
         },
         {
           "summary": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
@@ -721,11 +994,53 @@
           "published": "2026-08-27T09:13:40+00:00"
         },
         {
+          "summary": "How India’s central bank subsidised the diaspora",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
+          "published": "2026-08-27T08:57:29+00:00"
+        },
+        {
           "summary": "Nvidia closes in on Hugging Face acquisition",
           "source": "AI News & Artificial Intelligence | TechCrunch",
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
           "published": "2026-08-27T06:32:51+00:00"
+        },
+        {
+          "summary": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00"
+        },
+        {
+          "summary": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T02:48:30+00:00"
+        },
+        {
+          "summary": "早报｜苹果新iPhone 9月10日见/特斯拉中国辟谣上海数据中心撤离/工信部:严禁未经充分测试验证的汽车产品进入市场",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676848?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T00:41:31+00:00"
+        },
+        {
+          "summary": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "published": "2026-08-27T00:24:57+00:00"
+        },
+        {
+          "summary": "What makes a great investor?",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/25/what-makes-a-great-investor",
+          "published": "2026-08-25T17:15:09+00:00"
         }
       ]
     },
@@ -734,30 +1049,132 @@
       "name_en": "AI Development",
       "articles": [
         {
-          "summary_zh": "Plaud的新耳机 带有一个eSIM的病例 与AI代理商交谈",
-          "summary_en": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-          "source": "AI News & Artificial Intelligence | TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-          "published": "2026-08-27T13:00:00+00:00",
+          "summary_zh": "在 NVIDIA Dynamo 恢复 LLM 推论能力, 以阴影引擎回收",
+          "summary_en": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+          "published": "2026-08-25T20:57:54+00:00",
           "category_reason": "AI 核心技术主题",
           "category_scores": {
             "technology": 0.0,
             "business": 0.0,
             "ai": 3.5
           },
-          "selection_tier": "soft_match",
-          "selection_reason": "主题相关，补足数量",
-          "selection_score": 4.3
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.0
         },
         {
-          "summary_zh": "Anthropic和OpenAI正在TechCrunch Disrupt 2026 加入AI阶段.",
-          "summary_en": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-          "source": "AI News & Artificial Intelligence | TechCrunch",
-          "source_type": "original_reporting",
-          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-          "published": "2026-08-27T23:16:45+00:00",
+          "summary_zh": "Jalapeño的第一个结果显示,",
+          "summary_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published": "2026-08-25T07:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.0
+        },
+        {
+          "summary_zh": "将ASR推论费用与亚马逊EC2上的NVIDIA MPS降低75%",
+          "summary_en": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+          "published": "2026-08-27T16:05:10+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "培训和精细调整多变量嵌入模型与判决变换器",
+          "summary_en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "published": "2026-08-26T00:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "EIDO Prune: 通用语言模式中一个集成的大型和Prune管道",
+          "summary_en": "IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/idea-prune-pipeline",
+          "published": "2026-08-26T00:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "AgentHands:为XR空间化的代理对话生成交互式手势",
+          "summary_en": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+          "published": "2026-08-25T19:10:59+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "用 Google 搜索 更新您家用装饰的 5 个方法",
+          "summary_en": "5 ways to upgrade your home decor with Google Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "published": "2026-08-25T16:00:00+00:00",
           "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "接通它,运行它,部署它: 在格拉迪奥的AI工作流",
+          "summary_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "published": "2026-08-25T00:00:00+00:00",
+          "category_reason": "标题主题匹配",
           "category_scores": {
             "technology": 0.0,
             "business": 0.0,
@@ -765,95 +1182,65 @@
           },
           "selection_tier": "soft_match",
           "selection_reason": "主题相关，补足数量",
-          "selection_score": 3.3
+          "selection_score": 6.5
         },
         {
-          "summary_zh": "Anthropic的新硬件标准让AI代理控制物理世界",
-          "summary_en": "Anthropic's new hardware standard lets AI agents control the physical world",
-          "source": "Ars Technica - All content",
-          "source_type": "original_reporting",
-          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-          "published": "2026-08-27T22:15:43+00:00",
+          "summary_zh": "STARFlow2:为统一多式联运生成而简化语言模式并规范流动",
+          "summary_en": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+          "published": "2026-08-25T00:00:00+00:00",
           "category_reason": "AI 核心技术主题",
           "category_scores": {
-            "technology": 2.5,
+            "technology": 0.0,
             "business": 0.0,
-            "ai": 2.0
+            "ai": 2.5
           },
-          "selection_tier": "fill",
-          "selection_reason": "数量补位",
-          "selection_score": 2.8
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.5
         },
         {
-          "summary_zh": "AI探员是黑客系统。 那能促使美国和中国合作吗?",
-          "summary_en": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-          "published": "2026-08-27T21:08:34+00:00",
-          "category_reason": "AI 核心技术主题",
+          "summary_zh": "花岗岩 4.2 LLM:它们是如何建造的",
+          "summary_en": "Granite 4.2 LLMs: How They're Built",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "published": "2026-08-25T15:14:14+00:00",
+          "category_reason": "沿用来源默认分类",
           "category_scores": {
-            "technology": 1.5,
+            "technology": 0.0,
             "business": 0.0,
-            "ai": 2.0
+            "ai": 1.5
           },
-          "selection_tier": "fill",
-          "selection_reason": "数量补位",
-          "selection_score": 2.8
-        },
-        {
-          "summary_zh": "报告:Nvidia以130亿美元收购AI模型存储器Hugging Face",
-          "summary_en": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-          "source": "Ars Technica - All content",
-          "source_type": "original_reporting",
-          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-          "published": "2026-08-27T19:55:22+00:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 2.0
-          },
-          "selection_tier": "fill",
-          "selection_reason": "数量补位",
-          "selection_score": 2.8
-        },
-        {
-          "summary_zh": "这就是Anthropic如何思考AI代理商应该导航物理世界",
-          "summary_en": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-          "source": "WIRED",
-          "source_type": "original_reporting",
-          "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-          "published": "2026-08-27T18:06:52+00:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 2.0
-          },
-          "selection_tier": "fill",
-          "selection_reason": "数量补位",
-          "selection_score": 2.8
-        },
-        {
-          "summary_zh": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
-          "summary_en": "After the Robot Olympics, Ziziran Builds a Virtual Training Ground for Robots",
-          "source": "爱范儿",
-          "source_type": "original_reporting",
-          "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "published": "2026-08-27T10:34:37+00:00",
-          "category_reason": "AI 核心技术主题",
-          "category_scores": {
-            "technology": 1.5,
-            "business": 0.0,
-            "ai": 1.0
-          },
-          "selection_tier": "fill",
-          "selection_reason": "数量补位",
-          "selection_score": 1.8
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
         }
       ],
       "candidates": [
+        {
+          "summary": "How to Train a Cross-Embodiment Robot Navigation Policy with AI Agents",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents/",
+          "published": "2026-08-26T20:05:06+00:00"
+        },
+        {
+          "summary": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+          "published": "2026-08-25T20:57:54+00:00"
+        },
+        {
+          "summary": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "published": "2026-08-25T07:00:00+00:00"
+        },
         {
           "summary": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
           "source": "NVIDIA Technical Blog",
@@ -874,6 +1261,20 @@
           "source_type": "first_party",
           "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
           "published": "2026-08-27T09:00:00+00:00"
+        },
+        {
+          "summary": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
+          "published": "2026-08-26T21:06:58+00:00"
+        },
+        {
+          "summary": "Learning never stops: How AI makes learning continuous",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/learning-never-stops",
+          "published": "2026-08-26T10:00:00+00:00"
         },
         {
           "summary": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
@@ -911,11 +1312,67 @@
           "published": "2026-08-27T16:11:27+00:00"
         },
         {
+          "summary": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+          "published": "2026-08-27T16:05:10+00:00"
+        },
+        {
           "summary": "Piloting the world's first double-blind AI evaluations",
           "source": "Google DeepMind News",
           "source_type": "first_party",
           "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
           "published": "2026-08-27T12:59:16+00:00"
+        },
+        {
+          "summary": "Evaluate any agent framework with Amazon Bedrock AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-any-agent-framework-with-amazon-bedrock-agentcore-evaluations/",
+          "published": "2026-08-26T19:13:35+00:00"
+        },
+        {
+          "summary": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "published": "2026-08-26T18:42:43+00:00"
+        },
+        {
+          "summary": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "published": "2026-08-26T00:00:00+00:00"
+        },
+        {
+          "summary": "IDEA Prune: An Integrated Enlarge-and-Prune Pipeline in Generative Language Model Pretraining",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/idea-prune-pipeline",
+          "published": "2026-08-26T00:00:00+00:00"
+        },
+        {
+          "summary": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+          "published": "2026-08-25T19:10:59+00:00"
+        },
+        {
+          "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/gradio-workflow-guide",
+          "published": "2026-08-25T00:00:00+00:00"
+        },
+        {
+          "summary": "STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/starflow2-multimodal-generation",
+          "published": "2026-08-25T00:00:00+00:00"
         },
         {
           "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
@@ -946,11 +1403,25 @@
           "published": "2026-08-27T16:00:00+00:00"
         },
         {
-          "summary": "The Rise and Fall of Agent Civilizations",
-          "source": "Hacker News: Front Page",
-          "source_type": "community",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "published": "2026-08-29T23:43:24+00:00"
+          "summary": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "published": "2026-08-26T17:01:00+00:00"
+        },
+        {
+          "summary": "5 ways to upgrade your home decor with Google Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+          "published": "2026-08-25T16:00:00+00:00"
+        },
+        {
+          "summary": "Granite 4.2 LLMs: How They're Built",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "published": "2026-08-25T15:14:14+00:00"
         },
         {
           "summary": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
@@ -960,11 +1431,11 @@
           "published": "2026-08-27T13:00:00+00:00"
         },
         {
-          "summary": "Domain-Driven Agents",
+          "summary": "The Rise and Fall of Agent Civilizations",
           "source": "Hacker News: Front Page",
           "source_type": "community",
-          "url": "https://coldtake.dev/blog/domain-driven-agents",
-          "published": "2026-08-29T19:28:28+00:00"
+          "url": "https://www.dwarkesh.com/p/openai-huggingface",
+          "published": "2026-08-29T23:43:24+00:00"
         },
         {
           "summary": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
@@ -972,6 +1443,34 @@
           "source_type": "original_reporting",
           "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
           "published": "2026-08-27T23:16:45+00:00"
+        },
+        {
+          "summary": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "published": "2026-08-27T17:43:24+00:00"
+        },
+        {
+          "summary": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "The inside story on why OpenAI agents hacked Hugging Face",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "published": "2026-08-26T19:00:00+00:00"
+        },
+        {
+          "summary": "Domain-Driven Agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://coldtake.dev/blog/domain-driven-agents",
+          "published": "2026-08-29T19:28:28+00:00"
         },
         {
           "summary": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -1000,6 +1499,13 @@
           "source_type": "original_reporting",
           "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
           "published": "2026-08-27T18:06:52+00:00"
+        },
+        {
+          "summary": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+          "published": "2026-08-27T16:52:42+00:00"
         },
         {
           "summary": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
