@@ -22,7 +22,10 @@ LOOKBACK_HOURS = 24
 
 # 周末官方来源更新频率较低，扩大窗口用于补充研究和工程文章。
 # 后续聚合阶段会继续做跨来源事件去重；重复新闻不会直接展示两次。
-WEEKEND_LOOKBACK_HOURS = 72
+WEEKEND_LOOKBACK_HOURS = 168
+
+# 周一继续覆盖周末，避免周末回顾日内容突然变少。
+MONDAY_LOOKBACK_HOURS = 96
 
 LOCAL_TIMEZONE = ZoneInfo("Asia/Shanghai")
 
@@ -239,7 +242,12 @@ def fetch_all() -> list[Article]:
     """抓取所有 RSS 源，去重并返回文章列表。"""
     now = datetime.now(timezone.utc)
     local_weekday = now.astimezone(LOCAL_TIMEZONE).weekday()
-    lookback_hours = WEEKEND_LOOKBACK_HOURS if local_weekday >= 5 else LOOKBACK_HOURS
+    if local_weekday in (5, 6):
+        lookback_hours = WEEKEND_LOOKBACK_HOURS
+    elif local_weekday == 0:
+        lookback_hours = MONDAY_LOOKBACK_HOURS
+    else:
+        lookback_hours = LOOKBACK_HOURS
     cutoff = now - timedelta(hours=lookback_hours)
     period_name = "周末补充窗口" if local_weekday >= 5 else "平日窗口"
     print(
