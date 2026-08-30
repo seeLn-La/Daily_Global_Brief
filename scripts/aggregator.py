@@ -236,6 +236,11 @@ SOURCE_TYPE_SCORE = {
     "community": -1.0,
 }
 
+# AI 栏目优先使用官方发布和原始研究；官方内容不足时允许媒体原创补位。
+AI_ALLOWED_SOURCE_TYPES = {"first_party", "research", "original_reporting"}
+AI_PREFERRED_SOURCE_TYPES = {"first_party", "research"}
+AI_PREFERRED_SOURCE_BONUS = 3.0
+
 SOURCE_BONUS = {
     "technology": [
         "TechCrunch",
@@ -419,11 +424,19 @@ def _classify_article(article: Article) -> str:
     content_scores = {
         category: _topic_score(article, category) for category in CATEGORY_NAMES
     }
+    trusted_ai_source = (
+        article.category == "ai"
+        and getattr(article, "source_type", "original_reporting")
+        in AI_PREFERRED_SOURCE_TYPES
+    )
 
     # 融资、财报、并购等是商业事件；不能因为标题里出现 AI 或公司名，
     # 就把它们误判成 AI 新闻。
     if business_override_score >= 1:
         selected = "business"
+    # 已人工配置为官方 AI/研究来源的文章，除非是明显商业事件，保留在 AI 栏目。
+    elif trusted_ai_source:
+        selected = "ai"
     # AI 核心技术词达到两个以上时，优先归入 AI；“AI 产品”只有一个泛词时，
     # 仍允许根据来源和科技词落入科技分类。
     elif ai_core_score >= 1:
@@ -474,10 +487,10 @@ def _classify_article(article: Article) -> str:
 def _article_score(article: Article, category: str) -> float:
     """根据标题主题、来源可信度和时效性给文章打分。"""
     score = _topic_score(article, category)
-    score += SOURCE_TYPE_SCORE.get(
-        getattr(article, "source_type", "original_reporting"),
-        0.0,
-    )
+    source_type = getattr(article, "source_type", "original_reporting")
+    score += SOURCE_TYPE_SCORE.get(source_type, 0.0)
+    if category == "ai" and source_type in AI_PREFERRED_SOURCE_TYPES:
+        score += AI_PREFERRED_SOURCE_BONUS
 
     source_text = article.source.lower()
     for source_name in SOURCE_BONUS.get(category, []):
@@ -498,6 +511,11 @@ def _rank_articles(articles: list[Article], category: str) -> list[Article]:
     return sorted(
         articles,
         key=lambda article: (
+            int(
+                category == "ai"
+                and getattr(article, "source_type", "original_reporting")
+                in AI_PREFERRED_SOURCE_TYPES
+            ),
             _article_score(article, category),
             article.published or datetime.min.replace(tzinfo=timezone.utc),
         ),
@@ -570,6 +588,36 @@ def _is_same_event(first: Article, second: Article) -> bool:
     return token_overlap >= 0.65 and token_jaccard >= 0.40 and character_similarity >= 0.45
 
 
+def _is_same_history_event(first: Article, second: Article) -> bool:
+    """用更严格的条件判断是否与前几天的文章重复，避免误杀不同研究。"""
+    first_title = _normalize_title(first.summary)
+    second_title = _normalize_title(second.summary)
+    if not first_title or not second_title:
+        return False
+    if first_title == second_title:
+        return True
+
+    character_similarity = SequenceMatcher(None, first_title, second_title).ratio()
+    if character_similarity >= 0.94:
+        return True
+
+    first_tokens = _meaningful_tokens(first_title)
+    second_tokens = _meaningful_tokens(second_title)
+    common_count = len(first_tokens & second_tokens)
+    if common_count < 5:
+        return False
+
+    union_count = len(first_tokens | second_tokens)
+    smaller_count = min(len(first_tokens), len(second_tokens))
+    token_overlap = common_count / smaller_count if smaller_count else 0.0
+    token_jaccard = common_count / union_count if union_count else 0.0
+    return (
+        token_overlap >= 0.80
+        and token_jaccard >= 0.60
+        and character_similarity >= 0.65
+    )
+
+
 def _find_duplicate_event(article: Article, selected: list[dict]) -> Article | None:
     """返回已选列表中的同事件文章；没有重复时返回 None。"""
     for item in selected:
@@ -586,7 +634,7 @@ def _find_duplicate_history(article: Article, history: list[Article]) -> Article
     for existing in history:
         if _normalize_url(article.url) == _normalize_url(existing.url):
             return existing
-        if _is_same_event(article, existing):
+        if _is_same_history_event(article, existing):
             return existing
     return None
 
@@ -701,6 +749,8 @@ def _select_final_articles(
     selected: list[dict] = []
     seen_sources: set[str] = set()
     reported_duplicates: set[str] = set()
+    history_duplicate_ids: set[int] = set()
+    ineligible_ids: set[int] = set()
     history = history or []
     ranked = _rank_articles(candidates, category)
 
@@ -711,6 +761,7 @@ def _select_final_articles(
             history_existing = _find_duplicate_history(article, history)
             if history_existing is None:
                 return False
+            history_duplicate_ids.add(id(article))
             duplicate_key = f"history:{_normalize_url(article.url)}"
             if duplicate_key not in reported_duplicates:
                 reported_duplicates.add(duplicate_key)
@@ -729,12 +780,29 @@ def _select_final_articles(
         return True
 
     def is_ineligible(article: Article) -> bool:
-        """AI 板块只展示官方发布和原始研究，不用媒体内容硬凑数量。"""
-        return (
+        """AI 栏目排除社区转载，官方、研究和媒体原创均可进入。"""
+        result = (
             category == "ai"
             and getattr(article, "source_type", "original_reporting")
-            not in {"first_party", "research"}
+            not in AI_ALLOWED_SOURCE_TYPES
         )
+        if result:
+            ineligible_ids.add(id(article))
+        return result
+
+    def finish_selection() -> list[dict]:
+        if category == "ai":
+            source_counts: dict[str, int] = defaultdict(int)
+            for article in candidates:
+                source_counts[getattr(article, "source_type", "original_reporting")] += 1
+            print(
+                "  [AI筛选] 候选 "
+                f"{len(candidates)} 篇（官方 {source_counts['first_party']}、"
+                f"研究 {source_counts['research']}、媒体原创 {source_counts['original_reporting']}）；"
+                f"跨天重复排除 {len(history_duplicate_ids)} 篇，"
+                f"来源不合格排除 {len(ineligible_ids)} 篇，最终 {len(selected)} 篇"
+            )
+        return selected
 
     for article in ranked:
         if is_ineligible(article):
@@ -756,7 +824,7 @@ def _select_final_articles(
         )
         seen_sources.add(article.source)
         if len(selected) >= MAX_ARTICLES_PER_CATEGORY:
-            return selected
+            return finish_selection()
 
     for article in ranked:
         if is_ineligible(article):
@@ -802,7 +870,7 @@ def _select_final_articles(
     if reported_duplicates:
         print(f"  [去重/最终] {category} 共跳过 {len(reported_duplicates)} 篇同事件文章")
 
-    return selected
+    return finish_selection()
 
 
 def _group_by_category(articles: list[Article], history: list[Article] | None = None) -> dict:
@@ -908,7 +976,7 @@ def _write_push_message(data_dir: str, json_data: dict):
     body = f"{', '.join(parts)}，共 {total} 篇"
 
     title = f"{json_data['date']} 新闻速递"
-    url = "https://seeln-la.github.io/news"
+    url = "https://seeln-la.github.io/Daily_Global_Brief/"
 
     # 预编码 URL 路径，Shortcuts 直接拼接即可
     path = f"/{quote(title, safe='')}/{quote(body, safe='')}?url={quote(url, safe='')}"
