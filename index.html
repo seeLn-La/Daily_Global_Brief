@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,9 +72,13 @@
     background: #f9f9fb; border-left-color: #0071e3;
     box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   }
-  .article-item .zh { font-size: 15px; font-weight: 500; line-height: 1.5; margin-bottom: 4px; }
-  /* 网页只展示中文标题；英文标题仍保留在数据中，便于后续使用。 */
-  .article-item .en { display: none; }
+  .article-item .zh { display: none; }
+  /* Display the complete English title without clipping or ellipsis. */
+  .article-item .en {
+    font-size: 15px; font-weight: 500; line-height: 1.5; margin-bottom: 6px;
+    white-space: normal; overflow: visible; text-overflow: clip;
+    overflow-wrap: anywhere;
+  }
   .article-item .meta { font-size: 12px; color: #aeaeb2; display: flex; align-items: center; gap: 8px; }
   .article-item .source-type {
     color: #6e6e73; background: #f5f5f7; border-radius: 5px;
@@ -130,18 +134,18 @@
 
 <div class="header">
   <h1>Daily Global Brief</h1>
-  <div class="sub">科技 · 商业 · AI，每日自动更新</div>
+  <div class="sub">Technology · Business · AI · Updated daily</div>
 </div>
 
 <div class="date-nav" id="dateNav" style="display:none">
-  <button id="prevBtn" title="前一天">←</button>
+  <button id="prevBtn" title="Previous day">←</button>
   <span class="date-label" id="dateLabel"></span>
-  <button id="nextBtn" title="后一天">→</button>
+  <button id="nextBtn" title="Next day">→</button>
 </div>
 
 <div class="container" id="content"></div>
 
-<div class="footer">⚡ 每日自动更新 · GitHub Actions 定时抓取 · Bark 推送至 iPhone · 不消耗任何 AI Token</div>
+<div class="footer">⚡ Updated daily · Automated by GitHub Actions · Bark notifications to iPhone · No AI tokens used</div>
 
 <script>
 (function () {
@@ -171,7 +175,7 @@
   function showEmpty() {
     content.className = "";
     content.innerHTML = `<div class="empty-state">
-      <div class="icon">📭</div><h2>该日期暂无新闻</h2><p>换一天试试，或稍后再来看看</p>
+      <div class="icon">📭</div><h2>No news for this date</h2><p>Try another date or check back later.</p>
     </div>`;
   }
 
@@ -179,7 +183,7 @@
   function showError(msg) {
     content.className = "";
     content.innerHTML = `<div class="error-state">
-      <div class="icon">⚠️</div><h2>加载失败</h2><p>${msg}</p><button onclick="location.reload()">重新加载</button>
+      <div class="icon">⚠️</div><h2>Unable to load</h2><p>${msg}</p><button onclick="location.reload()">Reload</button>
     </div>`;
   }
 
@@ -189,7 +193,7 @@
     try {
       const d = new Date(iso);
       if (isNaN(d.getTime())) return "";
-      return d.toLocaleTimeString("zh-CN", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Shanghai" });
+      return d.toLocaleTimeString("en-HK", { hour: "2-digit", minute: "2-digit", timeZone: "Asia/Shanghai" });
     } catch { return ""; }
   }
 
@@ -201,12 +205,12 @@
 
   function sourceTypeLabel(type) {
     const labels = {
-      first_party: "官方发布",
-      research: "研究论文",
-      original_reporting: "媒体原创",
-      community: "社区来源",
+      first_party: "Official",
+      research: "Research",
+      original_reporting: "Original reporting",
+      community: "Community",
     };
-    return labels[type] || "来源文章";
+    return labels[type] || "Article";
   }
 
   /* ── Render articles ── */
@@ -220,25 +224,23 @@
       const allArticles = cat.articles || [];
       const articles = allArticles;
       html += `<div class="category-col ${catCSS[key]}">`;
-      html += `<div class="category-title">${cat.name_zh || key} · ${articles.length} 篇</div>`;
+      html += `<div class="category-title">${cat.name_en || key} · ${articles.length}</div>`;
 
       if (key === "ai" && articles.length < 10 && isWeekend(currentDate)) {
-        html += `<div class="category-note">周末官方一手更新较少，已展示最近 72 小时内符合条件的内容。</div>`;
+        html += `<div class="category-note">Fewer AI updates are published on weekends. Showing qualifying content from the past 72 hours, including original reporting when needed.</div>`;
       }
 
       if (articles.length === 0) {
-        html += `<div style="color:#aeaeb2;font-size:14px;padding:20px 0;text-align:center">暂无文章</div>`;
+        html += `<div style="color:#aeaeb2;font-size:14px;padding:20px 0;text-align:center">No articles today</div>`;
       } else {
         for (const a of articles) {
-          const zh = a.summary_zh || "";
-          const en = a.summary_en || "";
+          const en = a.summary_en || a.title_en || a.summary || "";
           const source = a.source || "";
           const sourceType = sourceTypeLabel(a.source_type);
           const time = formatTime(a.published);
           html += `<div class="article-item">
-            <div class="zh">${esc(zh)}</div>
             <div class="en">${esc(en)}</div>
-            <div class="meta"><span>${esc(source)}</span><span class="source-type">${esc(sourceType)}</span>${time ? `<span>${time}</span>` : ""}<a href="${esc(a.url)}" target="_blank" rel="noopener">原文 &#128279;</a></div>
+            <div class="meta"><span>${esc(source)}</span><span class="source-type">${esc(sourceType)}</span>${time ? `<span>${time}</span>` : ""}<a href="${esc(a.url)}" target="_blank" rel="noopener">Source &#128279;</a></div>
           </div>`;
         }
       }
@@ -307,7 +309,7 @@
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       indexData = await resp.json();
     } catch (e) {
-      showError("无法加载日期索引（data/index.json）");
+      showError("Unable to load the date index (data/index.json).");
       return;
     }
 
