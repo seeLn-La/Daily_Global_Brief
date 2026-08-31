@@ -1,0 +1,1324 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T02:36:17.771319+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+          "summary_en": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677344?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-31T00:02:45+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 3.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.66
+        },
+        {
+          "summary_zh": "美国在无人机和机器人周围筑起屏障 但中国有规模可以绕过它们",
+          "summary_en": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "published": "2026-08-31T02:34:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.29
+        },
+        {
+          "summary_zh": "如何提高Android Auto上的音频质量",
+          "summary_en": "How to improve your audio quality on Android Auto",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality/",
+          "published": "2026-08-30T20:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.65
+        },
+        {
+          "summary_zh": "一台12TB蒸汽机“teraleak”溢出十多年的PC游戏历史",
+          "summary_en": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "published": "2026-08-30T21:40:56+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "Murder Rides教授 地铁是被遗忘的舞蹈朋克完美片段",
+          "summary_en": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+          "published": "2026-08-30T17:18:59-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.98
+        },
+        {
+          "summary_zh": "特朗普对习近平和普京安全俱乐部的伊朗战争设置测试",
+          "summary_en": "Trump’s Iran War Sets Test for Xi and Putin’s Security Club",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-iran-war-sets-test-for-xi-and-putin-s-security-club",
+          "published": "2026-08-30T23:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.9
+        },
+        {
+          "summary_zh": "为什么开源岩石 — 一个新的 SM750 (硅运动 GPU) HDMI 驱动程序",
+          "summary_en": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/KodeMunkie/sm750hdmifb",
+          "published": "2026-08-30T18:49:08+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 3.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.55
+        },
+        {
+          "summary_zh": "Google Maps Now 显示“美国湖”而不是安大略湖",
+          "summary_en": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+          "published": "2026-08-30T16:16:24+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.72
+        },
+        {
+          "summary_zh": "Grindr希望成为同性恋的应用程序; 投资者仍在决定能否成功。",
+          "summary_en": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+          "published": "2026-08-31T02:18:57+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "为什么GameCube控制器如此受游戏者的喜爱?",
+          "summary_en": "Why is the GameCube controller so loved by gamers?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
+          "published": "2026-08-30T23:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.52
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677344?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-31T00:02:45+00:00"
+        },
+        {
+          "summary": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "published": "2026-08-31T02:34:00+00:00"
+        },
+        {
+          "summary": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+          "published": "2026-08-31T02:18:57+00:00"
+        },
+        {
+          "summary": "How to improve your audio quality on Android Auto",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246401/how-to-improve-android-auto-audio-quality/",
+          "published": "2026-08-30T20:00:00+00:00"
+        },
+        {
+          "summary": "Why is the GameCube controller so loved by gamers?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242789/why-gamecube-controller-loved-by-gamers/",
+          "published": "2026-08-30T23:30:00+00:00"
+        },
+        {
+          "summary": "How to improve your audio quality on Apple CarPlay",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246402/improve-audio-quality-apple-carplay/",
+          "published": "2026-08-30T23:00:00+00:00"
+        },
+        {
+          "summary": "How to soft and hard reset your iPhone",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone/",
+          "published": "2026-08-30T22:30:00+00:00"
+        },
+        {
+          "summary": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "published": "2026-08-30T21:40:56+00:00"
+        },
+        {
+          "summary": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
+          "published": "2026-08-30T17:18:59-04:00"
+        },
+        {
+          "summary": "Trump’s Iran War Sets Test for Xi and Putin’s Security Club",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-iran-war-sets-test-for-xi-and-putin-s-security-club",
+          "published": "2026-08-30T23:00:00+00:00"
+        },
+        {
+          "summary": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/KodeMunkie/sm750hdmifb",
+          "published": "2026-08-30T18:49:08+00:00"
+        },
+        {
+          "summary": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
+          "published": "2026-08-30T15:14:08-04:00"
+        },
+        {
+          "summary": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+          "published": "2026-08-30T18:33:44+00:00"
+        },
+        {
+          "summary": "Understanding ChatGPT Work",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+          "published": "2026-08-31T01:28:22+00:00"
+        },
+        {
+          "summary": "Why it matters that President Trump just dialed into a NASA news conference",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+          "published": "2026-08-30T17:40:30+00:00"
+        },
+        {
+          "summary": "Musk’s faster path to more gas turbines comes with pollution problem",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+          "published": "2026-08-30T16:54:25+00:00"
+        },
+        {
+          "summary": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+          "published": "2026-08-30T12:36:39-04:00"
+        },
+        {
+          "summary": "Matrox: Graphics for Professionals",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.abortretry.fail/p/matrox",
+          "published": "2026-08-30T23:39:35+00:00"
+        },
+        {
+          "summary": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
+          "published": "2026-08-30T16:16:24+00:00"
+        },
+        {
+          "summary": "“I just chose words carefully”",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "published": "2026-08-30T22:49:48+00:00"
+        },
+        {
+          "summary": "Chess.com launched a poker site and is planning even more classic games",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+          "published": "2026-08-30T09:00:00-04:00"
+        },
+        {
+          "summary": "Inside Meta’s push to put robots to work in data centers",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "published": "2026-08-30T11:03:47+00:00"
+        },
+        {
+          "summary": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+          "published": "2026-08-30T11:00:00+00:00"
+        },
+        {
+          "summary": "早报｜皮卡丘造访苹果,见到库克、特努斯/微信回应方言采集争议:已清理异常文本/鸿蒙生态设备突破8000万",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676877?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-29T00:21:15+00:00"
+        },
+        {
+          "summary": "The Easiest Ways to Share Anything Between Android and iOS",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
+          "published": "2026-08-28T10:45:00+00:00"
+        },
+        {
+          "summary": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+          "published": "2026-08-27T14:56:52+00:00"
+        },
+        {
+          "summary": "Why the Hottest New Wearables Want to Be Ignored",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+          "published": "2026-08-30T10:30:00+00:00"
+        },
+        {
+          "summary": "OpenAI and Anthropic are battling Big Tech for talent. We asked workers who's winning them over — and who's not.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/tech-workers-dream-employers-openai-anthropic-apple-google-amazon-jobs-2026-8",
+          "published": "2026-08-30T09:30:02+00:00"
+        },
+        {
+          "summary": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+          "published": "2026-08-27T18:57:08+00:00"
+        },
+        {
+          "summary": "AI’s memory crunch is coming for Android apps",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+          "published": "2026-08-27T14:27:04+00:00"
+        },
+        {
+          "summary": "风云 T7 上市：9.49 万元起、全系 600km，电池出事赔新车",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677135?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T13:42:10+00:00"
+        },
+        {
+          "summary": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676852?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T10:15:44+00:00"
+        },
+        {
+          "summary": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+          "published": "2026-08-27T17:02:35+00:00"
+        },
+        {
+          "summary": "OpenClaw went viral. Meet the maintainers building and securing it.",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/",
+          "published": "2026-08-27T13:59:18.486000+00:00"
+        },
+        {
+          "summary": "The Download: a secretive antiaging drug and joining virtual power plants",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "published": "2026-08-28T12:35:27+00:00"
+        },
+        {
+          "summary": "How to sign up for a virtual power plant—and decide whether you should",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "published": "2026-08-28T09:00:00+00:00"
+        },
+        {
+          "summary": "A startup claims it’s found a drug to make your blood young",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+          "published": "2026-08-27T19:48:13+00:00"
+        },
+        {
+          "summary": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+          "published": "2026-08-27T12:10:00+00:00"
+        },
+        {
+          "summary": "China Sees Opportunity in America’s Recent A.I. Security Scares",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/28/business/china-artificial-intelligence-zai.html",
+          "published": "2026-08-28T18:05:44+00:00"
+        },
+        {
+          "summary": "Clashes Cloud Shawn Fain’s Re-election Bid at U.A.W.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/28/business/economy/uaw-shawn-fain-reelection.html",
+          "published": "2026-08-28T09:00:24+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "美国股票期货滑落,",
+          "summary_en": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+          "published": "2026-08-31T02:20:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "Itochu Set to take Dentsu Soken Private in 130亿美元交易",
+          "summary_en": "Itochu Set to Take Dentsu Soken Private in $1.3 Billion Deal",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/itochu-set-to-take-dentsu-soken-private-in-1-3-billion-deal",
+          "published": "2026-08-31T02:19:24+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.23
+        },
+        {
+          "summary_zh": "美国打击后的石油跳跃,美国-加拿大贸易战争持续,更多",
+          "summary_en": "Oil Jumps After US Strikes, US-Canada Trade War Continues, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-31/oil-jumps-after-us-strikes-us-canada-trade-war-continues-more-mtglb4lj",
+          "published": "2026-08-31T01:59:07+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.15
+        },
+        {
+          "summary_zh": "我离开纽约 和六位数的工作 搬回印度。 H-1B限制使得走开更容易.",
+          "summary_en": "I left New York and a six-figure job to move back to India. H-1B restrictions made it easier to walk away.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/left-new-york-moved-back-to-india-family-h1b-visa-2026-8",
+          "published": "2026-08-31T00:14:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "边界两侧对美加贸易战的感觉",
+          "summary_en": "How the US-Canada trade war is being felt on both sides of the border",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-31T00:05:22+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "股票期货在美国打击伊朗后下跌;华尔街首发夺冠之月:现场更新",
+          "summary_en": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+          "published": "2026-08-31T01:47:28+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "特朗普说美国控制委内瑞拉石油超过65亿桶的斯特鲁克交易",
+          "summary_en": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+          "published": "2026-08-30T15:08:52+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.44
+        },
+        {
+          "summary_zh": "德克萨斯州州长Abbott 资助更多Flock相机",
+          "summary_en": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "published": "2026-08-30T11:35:10-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.05
+        },
+        {
+          "summary_zh": "亚洲股票, 债券随利率- 高速下注构建而下降: 市场环绕",
+          "summary_en": "Asian Stocks, Bonds Drop as Rate-Hike Bets Build: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-30T22:13:50+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.21
+        },
+        {
+          "summary_zh": "中国的工厂活动在经济的希望信号中崛起",
+          "summary_en": "China’s Factory Activity Gauge Rises in Hopeful Sign for Economy",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
+          "published": "2026-08-31T01:32:09+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.03
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
+          "published": "2026-08-31T02:20:00+00:00"
+        },
+        {
+          "summary": "Itochu Set to Take Dentsu Soken Private in $1.3 Billion Deal",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/itochu-set-to-take-dentsu-soken-private-in-1-3-billion-deal",
+          "published": "2026-08-31T02:19:24+00:00"
+        },
+        {
+          "summary": "Asian Stocks, Bonds Drop as Rate-Hike Bets Build: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-08-30T22:13:50+00:00"
+        },
+        {
+          "summary": "China’s Factory Activity Gauge Rises in Hopeful Sign for Economy",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/china-factory-activity-edges-up-in-hopeful-sign-for-economy",
+          "published": "2026-08-31T01:32:09+00:00"
+        },
+        {
+          "summary": "Thailand Plans Closer Gold Market Supervision to Curb Misuse",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/thailand-plans-closer-gold-market-supervision-to-curb-misuse",
+          "published": "2026-08-31T01:16:56+00:00"
+        },
+        {
+          "summary": "Treasury Bars Some Reporters From G20 Finance Meeting",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+          "published": "2026-08-30T22:55:25+00:00"
+        },
+        {
+          "summary": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+          "published": "2026-08-30T22:31:00+00:00"
+        },
+        {
+          "summary": "Oil Jumps After US Strikes, US-Canada Trade War Continues, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-31/oil-jumps-after-us-strikes-us-canada-trade-war-continues-more-mtglb4lj",
+          "published": "2026-08-31T01:59:07+00:00"
+        },
+        {
+          "summary": "Japan’s Takaichi Holds Steady in Polls Despite Price Concerns",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-31/japan-s-takaichi-holds-steady-in-polls-despite-price-concerns",
+          "published": "2026-08-31T01:49:37+00:00"
+        },
+        {
+          "summary": "Oil Jumps as US Strikes Iran, US-Canada Trade War Heats Up, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-31/oil-jumps-as-us-strikes-iran-us-canada-trade-war-heats-up-more",
+          "published": "2026-08-31T00:54:52+00:00"
+        },
+        {
+          "summary": "I left New York and a six-figure job to move back to India. H-1B restrictions made it easier to walk away.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/left-new-york-moved-back-to-india-family-h1b-visa-2026-8",
+          "published": "2026-08-31T00:14:01+00:00"
+        },
+        {
+          "summary": "How the US-Canada trade war is being felt on both sides of the border",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-31T00:05:22+00:00"
+        },
+        {
+          "summary": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/30/stock-market-today-live-updates.html",
+          "published": "2026-08-31T01:47:28+00:00"
+        },
+        {
+          "summary": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T23:22:24+00:00"
+        },
+        {
+          "summary": "Oil Jumps With US Strikes, US-Canada Trade War Heats Up, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-08-30/oil-jumps-with-us-strikes-us-canada-trade-war-heats-up-more",
+          "published": "2026-08-30T23:13:17+00:00"
+        },
+        {
+          "summary": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+          "published": "2026-08-30T14:30:00+00:00"
+        },
+        {
+          "summary": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
+          "published": "2026-08-30T22:15:00+00:00"
+        },
+        {
+          "summary": "What caused Nvidia's nasty reversal Friday? Look to the Fed for clues",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/30/what-caused-nvidias-nasty-reversal-friday-look-to-the-fed-for-clues.html",
+          "published": "2026-08-30T23:26:35+00:00"
+        },
+        {
+          "summary": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/30/bessent-bank-sanction-iran-transactions.html",
+          "published": "2026-08-30T22:37:31+00:00"
+        },
+        {
+          "summary": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
+          "published": "2026-08-30T22:05:32+00:00"
+        },
+        {
+          "summary": "Trump Says U.S. Struck Deal for Control of More Than 65 Billion Barrels of Venezuela’s Oil",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html",
+          "published": "2026-08-30T15:08:52+00:00"
+        },
+        {
+          "summary": "I outsourced 2 family dinners a week. Sometimes good parenting means doing less.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/meal-kits-whats-for-dinner-family-2026-8",
+          "published": "2026-08-30T17:18:01+00:00"
+        },
+        {
+          "summary": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T17:16:18+00:00"
+        },
+        {
+          "summary": "Meta goes on a PR blitz and updates privacy settings as venues restrict smart glasses",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/meta-smart-glasses-pr-problem-camera-privacy-led-light-2026-8",
+          "published": "2026-08-30T16:50:49+00:00"
+        },
+        {
+          "summary": "My sister and I were laid off around the same time. We started a small business together to survive unemployment.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/sisters-started-small-business-together-after-lay-off-2026-8",
+          "published": "2026-08-30T11:07:01+00:00"
+        },
+        {
+          "summary": "These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
+          "published": "2026-08-30T15:04:31+00:00"
+        },
+        {
+          "summary": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
+          "published": "2026-08-30T14:49:15+00:00"
+        },
+        {
+          "summary": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "published": "2026-08-30T11:35:10-04:00"
+        },
+        {
+          "summary": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-08-30T04:01:02+00:00"
+        },
+        {
+          "summary": "Our decision on Cursor following its acquisition by SpaceX",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "published": "2026-08-28T06:00:00+00:00"
+        },
+        {
+          "summary": "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
+          "published": "2026-08-28T13:33:00-04:00"
+        },
+        {
+          "summary": "SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
+          "published": "2026-08-27T17:30:00-04:00"
+        },
+        {
+          "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+          "published": "2026-08-27T15:00:00+00:00"
+        },
+        {
+          "summary": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+          "published": "2026-08-28T23:24:27+00:00"
+        },
+        {
+          "summary": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+          "published": "2026-08-28T22:29:13+00:00"
+        },
+        {
+          "summary": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "published": "2026-08-28T18:19:40+00:00"
+        },
+        {
+          "summary": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+          "published": "2026-08-27T19:12:39+00:00"
+        },
+        {
+          "summary": "The economic costs of Donald Trump’s immigration crackdown",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+          "published": "2026-08-27T09:49:05+00:00"
+        },
+        {
+          "summary": "Scott Bessent takes on the bond market",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+          "published": "2026-08-27T09:13:40+00:00"
+        },
+        {
+          "summary": "How India’s central bank subsidised the diaspora",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
+          "published": "2026-08-27T08:57:29+00:00"
+        },
+        {
+          "summary": "Motley Fool Promo Code: $200 Off on Stock Advisor September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "published": "2026-08-27T05:00:00+00:00"
+        },
+        {
+          "summary": "MiniMax 违背「祖训」，企业收入暴涨 700%，偷偷变成了「卖铲子」的",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1676874?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T02:48:30+00:00"
+        },
+        {
+          "summary": "Kevin Warsh tries being a normal central banker",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+          "published": "2026-08-28T17:02:18+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "扩大OpenAI在巴西的存在",
+          "summary_en": "Expanding OpenAI’s presence in Brazil",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "published": "2026-08-27T03:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "Plaud的新耳机 带有一个eSIM的病例 与AI代理商交谈",
+          "summary_en": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "published": "2026-08-27T13:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "我在思科管理10+特工 这并不意味着更长的时间,但工作可以感觉更紧张.",
+          "summary_en": "I manage 10+ agents at Cisco. It doesn't mean longer hours, but the work can feel more intense.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+          "published": "2026-08-30T09:55:01+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.63
+        },
+        {
+          "summary_zh": "Anthropic和OpenAI正在TechCrunch Disrupt 2026 加入AI阶段.",
+          "summary_en": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "published": "2026-08-27T23:16:45+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.3
+        },
+        {
+          "summary_zh": "OpenAI、Anthropic、Google等百家公司呼吁采取行动,",
+          "summary_en": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "published": "2026-08-27T17:43:24+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.3
+        },
+        {
+          "summary_zh": "Google的AI模式现在可以追踪飞行价格,帮助订旅馆,",
+          "summary_en": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "published": "2026-08-27T16:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.3
+        },
+        {
+          "summary_zh": "Anthropic的新硬件标准让AI代理控制物理世界",
+          "summary_en": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "published": "2026-08-27T22:15:43+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.8
+        },
+        {
+          "summary_zh": "AI探员是黑客系统。 那能促使美国和中国合作吗?",
+          "summary_en": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+          "published": "2026-08-27T21:08:34+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.8
+        },
+        {
+          "summary_zh": "报告:Nvidia以130亿美元收购AI模型存储器Hugging Face",
+          "summary_en": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+          "published": "2026-08-27T19:55:22+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.8
+        },
+        {
+          "summary_zh": "这就是Anthropic如何思考AI代理商应该导航物理世界",
+          "summary_en": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+          "published": "2026-08-27T18:06:52+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.8
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+          "published": "2026-08-28T17:06:28+00:00"
+        },
+        {
+          "summary": "Supporting Thailand’s next generation of AI startups",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "published": "2026-08-28T02:00:00+00:00"
+        },
+        {
+          "summary": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+          "published": "2026-08-27T09:00:00+00:00"
+        },
+        {
+          "summary": "Expanding OpenAI’s presence in Brazil",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+          "published": "2026-08-27T03:00:00+00:00"
+        },
+        {
+          "summary": "Spreading the load: How Salesforce met Multi-AZ HA with SageMaker Inference Components",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/spreading-the-load-how-salesforce-met-multi-az-ha-with-sagemaker-inference-components/",
+          "published": "2026-08-28T16:20:40+00:00"
+        },
+        {
+          "summary": "BotBase for Operators: A clearer path to joining Cloudflare's directory of bots and agents",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/botbase-for-operators/",
+          "published": "2026-08-28T12:59:44+00:00"
+        },
+        {
+          "summary": "Agent Seer: Synthesizing Scenarios from Specification Understanding",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/agent-seer-synthesizing-scenarios",
+          "published": "2026-08-28T00:00:00+00:00"
+        },
+        {
+          "summary": "Planetary prediction engine: Automating global models via Earth AI",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "published": "2026-08-27T17:37:20+00:00"
+        },
+        {
+          "summary": "Deepgram deepens Amazon SageMaker AI observability with Enhanced Metrics",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deepgram-deepens-amazon-sagemaker-ai-observability-with-enhanced-metrics/",
+          "published": "2026-08-27T16:11:27+00:00"
+        },
+        {
+          "summary": "Reduce ASR inference costs by 75% with NVIDIA MPS on Amazon EC2",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-asr-inference-costs-by-75-with-nvidia-mps-on-amazon-ec2/",
+          "published": "2026-08-27T16:05:10+00:00"
+        },
+        {
+          "summary": "Piloting the world's first double-blind AI evaluations",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "published": "2026-08-27T12:59:16+00:00"
+        },
+        {
+          "summary": "Batch write and discover records in Amazon SageMaker Feature Store",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+          "published": "2026-08-28T19:31:05+00:00"
+        },
+        {
+          "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "published": "2026-08-28T00:00:00+00:00"
+        },
+        {
+          "summary": "LLMs Are Not (Consistently) Bayesian: Quantifying Internal (In)consistencies of LLMs’ Probabilistic Beliefs",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/llms-not-consistently-bayesian",
+          "published": "2026-08-28T00:00:00+00:00"
+        },
+        {
+          "summary": "Gemini Omni 1.1 Flash lets you build with more control",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "published": "2026-08-27T16:11:32+00:00"
+        },
+        {
+          "summary": "3 new ways to plan and book travel in Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "How to build a diffusion language model",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+          "published": "2026-08-30T23:41:32+00:00"
+        },
+        {
+          "summary": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+          "published": "2026-08-27T13:00:00+00:00"
+        },
+        {
+          "summary": "I manage 10+ agents at Cisco. It doesn't mean longer hours, but the work can feel more intense.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/cisco-director-engineering-ai-agents-faster-work-2026-8",
+          "published": "2026-08-30T09:55:01+00:00"
+        },
+        {
+          "summary": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+          "published": "2026-08-27T23:16:45+00:00"
+        },
+        {
+          "summary": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "published": "2026-08-27T17:43:24+00:00"
+        },
+        {
+          "summary": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "published": "2026-08-27T16:00:00+00:00"
+        },
+        {
+          "summary": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "published": "2026-08-27T22:15:43+00:00"
+        },
+        {
+          "summary": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+          "published": "2026-08-27T21:08:34+00:00"
+        },
+        {
+          "summary": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+          "published": "2026-08-27T19:55:22+00:00"
+        },
+        {
+          "summary": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+          "published": "2026-08-27T18:06:52+00:00"
+        },
+        {
+          "summary": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+          "published": "2026-08-27T16:52:42+00:00"
+        },
+        {
+          "summary": "机器人运动会散场后，自变量给机器人建了一座「虚拟训练场」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1677048?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-08-27T10:34:37+00:00"
+        }
+      ]
+    }
+  }
+}
