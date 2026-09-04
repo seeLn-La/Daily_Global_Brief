@@ -1,0 +1,1303 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T02:13:02.462304+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Nvidia将正式将 DLSS 5 带给更老的 GPU , 但不会让游戏机完全控制",
+          "summary_en": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+          "published": "2026-09-03T21:49:25-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.2
+        },
+        {
+          "summary_zh": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+          "summary_en": "Companies that want to use AI but are not allowed to use it can finally use AI",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-04T01:24:28+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "第一次维基百科工人工会",
+          "summary_en": "Wikipedia Workers Unionize for the First Time",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+          "published": "2026-09-04T00:40:06+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.91
+        },
+        {
+          "summary_zh": "Audacity的新外观终于来了 以及多年来最大的特征更新",
+          "summary_en": "Audacity's new look is finally here, along with its largest feature update in years",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/",
+          "published": "2026-09-03T23:50:08+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "要公开的 Oura 文件",
+          "summary_en": "Oura files to go public",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+          "published": "2026-09-03T22:35:41+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.4
+        },
+        {
+          "summary_zh": "报告:小RFK下令删除麻疹死亡病例;疾控中心仍然秘密统计这些病例。",
+          "summary_en": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "published": "2026-09-03T22:13:50+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "采用Cloudflare管理防御和OpenAI日间休息模型,引入了解背景的脆弱性发现和补救",
+          "summary_en": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+          "published": "2026-09-03T21:03:02+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.21
+        },
+        {
+          "summary_zh": "微软对 Xbox 云彩游戏用户实施时间限制,因为成本持续攀升",
+          "summary_en": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+          "published": "2026-09-03T19:03:56+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.01
+        },
+        {
+          "summary_zh": "Xbox 对云彩游戏规定了每月时限",
+          "summary_en": "Xbox is putting monthly time limits on cloud gaming",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/xbox-limits-cloud-gaming-2026-9",
+          "published": "2026-09-03T18:28:32+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.87
+        },
+        {
+          "summary_zh": "GLP-1与包括结核病在内的较轻严重感染有关",
+          "summary_en": "GLP-1s are being linked to fewer serious infections, including TB",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+          "published": "2026-09-03T22:37:31+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.6
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+          "published": "2026-09-03T21:49:25-04:00"
+        },
+        {
+          "summary": "那些想用但不让用 AI 的公司，终于可以用 AI 了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-04T01:24:28+00:00"
+        },
+        {
+          "summary": "Wikipedia Workers Unionize for the First Time",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/",
+          "published": "2026-09-04T00:40:06+00:00"
+        },
+        {
+          "summary": "GPT-6 Astra 正式发布：性能 AGI，贵到要负债",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678409?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-04T00:36:58+00:00"
+        },
+        {
+          "summary": "The unusually muted Tesla Cybercab launch",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+          "published": "2026-09-03T20:25:06-04:00"
+        },
+        {
+          "summary": "早报｜全球主流AI集体宕机/GPT-6 Astra正式发布，AGI已来/微信回应「单删提示」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678380?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-04T00:10:13+00:00"
+        },
+        {
+          "summary": "Audacity's new look is finally here, along with its largest feature update in years",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years/",
+          "published": "2026-09-03T23:50:08+00:00"
+        },
+        {
+          "summary": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+          "published": "2026-09-03T19:37:37-04:00"
+        },
+        {
+          "summary": "Epic Games brings cross-platform voice chat to Fortnite and its services",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2250634/epic-games-brings-cross-platform-voice-chat-to-fortnite-and-its-services/",
+          "published": "2026-09-03T19:10:00+00:00"
+        },
+        {
+          "summary": "刚刚，GPT-6 震撼发布！人类进入 AGI 大分工时代",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678196?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-03T23:03:17+00:00"
+        },
+        {
+          "summary": "What Is The Best Waterproof Rating For Bluetooth Speakers?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2246427/best-waterproof-bluetooth-speaker-rating/",
+          "published": "2026-09-03T23:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+          "published": "2026-09-03T22:58:12+00:00"
+        },
+        {
+          "summary": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-video-doorbells/",
+          "published": "2026-09-03T22:48:55+00:00"
+        },
+        {
+          "summary": "Oura files to go public",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+          "published": "2026-09-03T22:35:41+00:00"
+        },
+        {
+          "summary": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+          "published": "2026-09-03T22:30:00+00:00"
+        },
+        {
+          "summary": "Tesla is asking people if they want to buy and run Cybercab fleets",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+          "published": "2026-09-03T22:18:30+00:00"
+        },
+        {
+          "summary": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "published": "2026-09-03T22:13:50+00:00"
+        },
+        {
+          "summary": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+          "published": "2026-09-03T21:56:21+00:00"
+        },
+        {
+          "summary": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+          "published": "2026-09-03T21:03:02+00:00"
+        },
+        {
+          "summary": "Xbox imposes harsh new time limits for Game Pass game streaming",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+          "published": "2026-09-03T21:10:59+00:00"
+        },
+        {
+          "summary": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+          "published": "2026-09-03T13:00:00-04:00"
+        },
+        {
+          "summary": "Startup ARR is less secure than ever, new research shows",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+          "published": "2026-09-03T20:59:23+00:00"
+        },
+        {
+          "summary": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+          "published": "2026-09-03T20:14:48+00:00"
+        },
+        {
+          "summary": "Confused about which VPN is right, US senator asks the NSA for guidance",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+          "published": "2026-09-03T19:52:06+00:00"
+        },
+        {
+          "summary": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+          "published": "2026-09-03T19:42:48+00:00"
+        },
+        {
+          "summary": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+          "published": "2026-09-03T19:03:56+00:00"
+        },
+        {
+          "summary": "Xbox is putting monthly time limits on cloud gaming",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/xbox-limits-cloud-gaming-2026-9",
+          "published": "2026-09-03T18:28:32+00:00"
+        },
+        {
+          "summary": "GLP-1s are being linked to fewer serious infections, including TB",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
+          "published": "2026-09-03T22:37:31+00:00"
+        },
+        {
+          "summary": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+          "published": "2026-09-03T21:20:34+00:00"
+        },
+        {
+          "summary": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://tasklet.ai/careers/customer-success-engineer",
+          "published": "2026-09-03T21:01:10+00:00"
+        },
+        {
+          "summary": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
+          "published": "2026-09-03T15:04:40+00:00"
+        },
+        {
+          "summary": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://arcprize.org/blog/astra",
+          "published": "2026-09-03T19:45:00+00:00"
+        },
+        {
+          "summary": "The Download: rethinking child safety and fossil-fueled farming",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+          "published": "2026-09-03T12:10:00+00:00"
+        },
+        {
+          "summary": "Agriculture relies on fossil fuels. It’s costing us.",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+          "published": "2026-09-03T10:00:00+00:00"
+        },
+        {
+          "summary": "Trump Mulls More Chip Tariffs, Traders on Yen Intervention Watch | The Asia Trade 9/3/2026",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-03/the-asia-trade-9-3-2026-video",
+          "published": "2026-09-03T05:14:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "股票随着美联储利率的上升而上升 -- -- 高速投注易,延收益:市场环绕",
+          "summary_en": "Stocks Rise as Fed Rate-Hike Bets Ease, Yen Gains: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-09-03T22:14:26+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.31
+        },
+        {
+          "summary_zh": "Adobe刚刚宣布了下任CEO. 因此,",
+          "summary_en": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+          "published": "2026-09-04T00:25:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.85
+        },
+        {
+          "summary_zh": "Bloomberg Daybreak Asia:沃勒评论美联储(播客)",
+          "summary_en": "Bloomberg Daybreak Asia: Waller Comments on Fed (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-daybreak-asia-waller-comments-on-fed-podcast",
+          "published": "2026-09-04T02:10:05+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.29
+        },
+        {
+          "summary_zh": "Oura向IPO迈出了一步,S-1备案,披露了14亿美元的收入",
+          "summary_en": "Oura takes step toward IPO with S-1 filing, revealing $1.4 billion in revenue",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/oura-ring-s1-filing-step-towards-ipo-reveals-revenue-2026-9",
+          "published": "2026-09-03T21:50:12+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.21
+        },
+        {
+          "summary_zh": "据报告,Crusoe在30B美元估值中筹集了3B美元",
+          "summary_en": "Crusoe reportedly raises $3B at a $30B valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "published": "2026-09-04T00:48:42+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 2.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "美联储官员等待通货膨胀数据的游戏率上升",
+          "summary_en": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+          "published": "2026-09-03T18:19:18+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "大众汽车董事会批准再削减50 000个工作的计划",
+          "summary_en": "Volkswagen board approves plan to cut another 50,000 jobs",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T01:20:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.08
+        },
+        {
+          "summary_zh": "证交会建议取消投资顾问的政治贡献规则",
+          "summary_en": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+          "published": "2026-09-03T16:30:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.07
+        },
+        {
+          "summary_zh": "卢卢莱蒙股票使15%的收入和前景令人失望",
+          "summary_en": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+          "published": "2026-09-03T20:52:03+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.46
+        },
+        {
+          "summary_zh": "您可以在Ugreen的液冷动力库内看到冷却剂流",
+          "summary_en": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+          "published": "2026-09-03T18:00:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.75
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stocks Rise as Fed Rate-Hike Bets Ease, Yen Gains: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-09-03T22:14:26+00:00"
+        },
+        {
+          "summary": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+          "published": "2026-09-04T00:25:00+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Waller Comments on Fed (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-daybreak-asia-waller-comments-on-fed-podcast",
+          "published": "2026-09-04T02:10:05+00:00"
+        },
+        {
+          "summary": "SCOTUS Asked to Allow Mail-In Changes, Lululemon Earnings, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-04/scotus-asked-to-allow-mail-in-changes-lululemon-earnings-more",
+          "published": "2026-09-04T01:53:28+00:00"
+        },
+        {
+          "summary": "Oura takes step toward IPO with S-1 filing, revealing $1.4 billion in revenue",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/oura-ring-s1-filing-step-towards-ipo-reveals-revenue-2026-9",
+          "published": "2026-09-03T21:50:12+00:00"
+        },
+        {
+          "summary": "Oura files for IPO amid Americans’ obsession with tracking their sleep, steps and heart rates",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+          "published": "2026-09-03T21:49:00+00:00"
+        },
+        {
+          "summary": "Philippine Inflation Eases to 6.1% After Successive Rate Hikes",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-04/philippine-inflation-eases-to-6-1-after-successive-rate-hikes",
+          "published": "2026-09-04T01:04:33+00:00"
+        },
+        {
+          "summary": "DOJ Requests Mail-In Voting Changes, LULU Earnings, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-04/doj-requests-mail-in-voting-changes-lulu-earnings-more",
+          "published": "2026-09-04T00:58:11+00:00"
+        },
+        {
+          "summary": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
+          "published": "2026-09-04T00:35:00+00:00"
+        },
+        {
+          "summary": "Jokowi’s Legacy of Debt May Curb Danantara’s Investment Ambition",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-04/jokowi-s-legacy-of-debt-may-curb-danantara-s-investment-ambition",
+          "published": "2026-09-04T00:00:00+00:00"
+        },
+        {
+          "summary": "Stock Movers: Lululemon, Adobe, DocuSign (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-03/stock-movers-lululemon-adobe-docusign-podcast",
+          "published": "2026-09-03T23:10:33+00:00"
+        },
+        {
+          "summary": "Crusoe reportedly raises $3B at a $30B valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+          "published": "2026-09-04T00:48:42+00:00"
+        },
+        {
+          "summary": "Anthropic Finalizing $15 Billion Pre-IPO Credit Facility",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-03/anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility",
+          "published": "2026-09-03T22:43:54+00:00"
+        },
+        {
+          "summary": "Rate Rise in Play as Fed Officials Await Inflation Data",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+          "published": "2026-09-03T18:19:18+00:00"
+        },
+        {
+          "summary": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+          "published": "2026-09-04T01:52:50+00:00"
+        },
+        {
+          "summary": "Volkswagen board approves plan to cut another 50,000 jobs",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-04T01:20:32+00:00"
+        },
+        {
+          "summary": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
+          "published": "2026-09-03T16:30:00-04:00"
+        },
+        {
+          "summary": "F.C.C. Asks Court to Toss ABC Suit Over Broadcast Licenses",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/media/fcc-disney-abc-broadcast-licenses.html",
+          "published": "2026-09-04T00:55:43+00:00"
+        },
+        {
+          "summary": "Mortgage Rates Hit 6.71%, Their Highest Level Since July 2025",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
+          "published": "2026-09-03T20:48:39+00:00"
+        },
+        {
+          "summary": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+          "published": "2026-09-04T00:31:00+00:00"
+        },
+        {
+          "summary": "'I lost my savings after a job interview scam'",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-03T23:41:49+00:00"
+        },
+        {
+          "summary": "Is India's internet boom running into an undersea problem?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-03T23:40:08+00:00"
+        },
+        {
+          "summary": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-03T23:25:45+00:00"
+        },
+        {
+          "summary": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+          "published": "2026-09-03T20:52:03+00:00"
+        },
+        {
+          "summary": "Zscaler stock rises on earnings beat, upbeat guidance",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+          "published": "2026-09-03T20:41:47+00:00"
+        },
+        {
+          "summary": "A GoFundMe raises more than $650,000 for newborn daughter of BofA employee Erin Piacenti killed in Times Square stabbing",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/gofundme-erin-piacenti-bank-of-america-stabbing-times-square-2026-9",
+          "published": "2026-09-03T18:37:47+00:00"
+        },
+        {
+          "summary": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
+          "published": "2026-09-03T20:09:22+00:00"
+        },
+        {
+          "summary": "Dude Perfect's first CEO is out after disagreeing with the board about the company's next phase",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/youtube-group-dude-perfect-ceo-andrew-yaffe-out-2026-9",
+          "published": "2026-09-03T18:05:33+00:00"
+        },
+        {
+          "summary": "Volkswagen plans 50,000 more job cuts amid biggest overhaul in its history",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/vw-job-cuts-overhaul-ev-chinese-cars-2026-9",
+          "published": "2026-09-03T21:52:10+00:00"
+        },
+        {
+          "summary": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
+          "published": "2026-09-03T19:18:59+00:00"
+        },
+        {
+          "summary": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+          "published": "2026-09-03T18:00:00-04:00"
+        },
+        {
+          "summary": "Prediction Market Betting Is Getting People Banned and Arrested",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+          "published": "2026-09-03T21:48:24+00:00"
+        },
+        {
+          "summary": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
+          "published": "2026-09-03T10:27:49-04:00"
+        },
+        {
+          "summary": "Supreme Court urged to let states regulate sports bets on prediction markets",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
+          "published": "2026-09-03T19:42:02+00:00"
+        },
+        {
+          "summary": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+          "published": "2026-09-03T19:36:29+00:00"
+        },
+        {
+          "summary": "Abliteration.ai is making a business out of removing AI guardrails",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+          "published": "2026-09-03T18:37:57+00:00"
+        },
+        {
+          "summary": "Trump’s 100% tariff on drones will be disaster for the US, critics warn",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
+          "published": "2026-09-03T17:08:09+00:00"
+        },
+        {
+          "summary": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+          "published": "2026-09-03T12:43:09+00:00"
+        },
+        {
+          "summary": "Competitive Market Behavior of LLMs",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.02580",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Toward Explainable and Policy-Aware AI for Carbon Credit Price Prediction: A Research Framework for Emerging Carbon Markets",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01765",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "CAHR-Net: Condition-Adaptive Hysteresis Reconstruction for Compact and Interpretable Magnetic Core Loss Modeling",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01991",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "IFW-BLS: Dual-Robust Broad Learning System with Intuitionistic Fuzzy Wave Loss",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.02422",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Differentiable Electricity-Market Clearing for Gradient-Based Planning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.02646",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Mexico is struggling to win over bond markets",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/03/mexico-is-struggling-to-win-over-bond-markets",
+          "published": "2026-09-03T09:35:43+00:00"
+        },
+        {
+          "summary": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+          "published": "2026-09-03T16:21:33+00:00"
+        },
+        {
+          "summary": "China tries to look past the property slump",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/03/china-tries-to-look-past-the-property-slump",
+          "published": "2026-09-03T09:35:32+00:00"
+        },
+        {
+          "summary": "Indian regulators’ attempts to protect retail traders are backfiring",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/03/indian-regulators-attempts-to-protect-retail-traders-are-backfiring",
+          "published": "2026-09-03T09:34:25+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "如何携带用户身份 跨联邦图书馆和AI平台",
+          "summary_en": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+          "published": "2026-09-03T22:36:02+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 13.1
+        },
+        {
+          "summary_zh": "引入WeatherNext 3,我们最先进和准确的全球天气AI模型",
+          "summary_en": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "published": "2026-09-03T15:02:08+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.71
+        },
+        {
+          "summary_zh": "使用 Amazon Bedrock Agent Core 驱动的开发生命周期",
+          "summary_en": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+          "published": "2026-09-03T16:16:28+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.02
+        },
+        {
+          "summary_zh": "GitHub 初学者的副驾驶应用: 立即运行多个代理",
+          "summary_en": "GitHub Copilot app for Beginners: Run several agents at once",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+          "published": "2026-09-03T16:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.95
+        },
+        {
+          "summary_zh": "前线捍卫者日间休息:1B美元,用于保护基本服务",
+          "summary_en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "published": "2026-09-03T13:15:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.76
+        },
+        {
+          "summary_zh": "在代表性不足的人群中进行基因组预测的转移学习",
+          "summary_en": "Transfer learning for genomic prediction in underrepresented populations",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+          "published": "2026-09-03T18:20:31+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.53
+        },
+        {
+          "summary_zh": "NeOMME: 高效的多式联运和多种语言编码器",
+          "summary_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "published": "2026-09-03T13:13:48+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.25
+        },
+        {
+          "summary_zh": "通过复杂促进强化学习实现奥运级几何大语言模型代理",
+          "summary_en": "Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2512.10534",
+          "published": "2026-09-03T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "快速空间 Meta-Learning does not transfer 跨用户:一个冷冻-LLM负结果",
+          "summary_en": "Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01615",
+          "published": "2026-09-03T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.75
+        },
+        {
+          "summary_zh": "Meta花钱偷看 你如何使用他们最新的AI模型",
+          "summary_en": "Meta is paying to peek at how you use their latest AI model",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "published": "2026-09-03T18:19:56+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+          "published": "2026-09-03T22:36:02+00:00"
+        },
+        {
+          "summary": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+          "published": "2026-09-03T16:00:00+00:00"
+        },
+        {
+          "summary": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "published": "2026-09-03T15:02:08+00:00"
+        },
+        {
+          "summary": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
+          "published": "2026-09-03T16:16:28+00:00"
+        },
+        {
+          "summary": "Integrating Outlook with Amazon Quick for AI-powered email automation",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
+          "published": "2026-09-03T16:11:57+00:00"
+        },
+        {
+          "summary": "GitHub Copilot app for Beginners: Run several agents at once",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+          "published": "2026-09-03T16:00:00+00:00"
+        },
+        {
+          "summary": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "published": "2026-09-03T13:15:00+00:00"
+        },
+        {
+          "summary": "Transfer learning for genomic prediction in underrepresented populations",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+          "published": "2026-09-03T18:20:31+00:00"
+        },
+        {
+          "summary": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "published": "2026-09-03T12:00:00+00:00"
+        },
+        {
+          "summary": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "published": "2026-09-03T12:00:00+00:00"
+        },
+        {
+          "summary": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "published": "2026-09-03T13:13:48+00:00"
+        },
+        {
+          "summary": "Migrate agentic workloads to Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
+          "published": "2026-09-03T16:14:12+00:00"
+        },
+        {
+          "summary": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
+          "published": "2026-09-03T16:10:39+00:00"
+        },
+        {
+          "summary": "A connectomics milestone: Mapping the complete male fruit fly brain",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+          "published": "2026-09-03T16:00:03+00:00"
+        },
+        {
+          "summary": "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01657",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2512.10534",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "From Prompt to Service: An SLM-Based Agent Orchestration Gateway for AI-Driven Virtual Worlds",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.03557",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Train at Moving Edge: Online-Verified Prompt Selection for Efficient RL Training of Large Reasoning Model",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.25184",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Prompt-Space Meta-Learning Does Not Transfer Across Users: A Frozen-LLM Negative Result",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01615",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.02042",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "CAPTURE: Disentangling Preference Drift from Memory Poisoning in Personalized LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.02265",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "A Survey on Self-Improving Test-Time Intelligence: Feedback-Driven Adapting, Learning, and Scaling at Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.01679",
+          "published": "2026-09-03T00:00:00-04:00"
+        },
+        {
+          "summary": "Meta is paying to peek at how you use their latest AI model",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "published": "2026-09-03T18:19:56+00:00"
+        },
+        {
+          "summary": "OpenAI does a victory lap for its new AI model: 'Welcome to the AGI era'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/astra-model-launch-agi-milestone-openai-greg-brockman-2026-9",
+          "published": "2026-09-03T20:47:55+00:00"
+        },
+        {
+          "summary": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "published": "2026-09-03T14:00:00-04:00"
+        },
+        {
+          "summary": "Scaling agentic AI pilots across the enterprise",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+          "published": "2026-09-03T09:30:32+00:00"
+        },
+        {
+          "summary": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+          "published": "2026-09-03T14:28:18+00:00"
+        }
+      ]
+    }
+  }
+}
