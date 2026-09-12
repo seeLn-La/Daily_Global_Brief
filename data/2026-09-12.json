@@ -1,0 +1,1527 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T02:22:25.704752+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "一些卫星公司仍然喜欢提供精品发射服务",
+          "summary_en": "Some satellite companies still have an appetite for boutique launch services",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "published": "2026-09-11T23:34:45+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.6
+        },
+        {
+          "summary_zh": "摩斯开发商Polyarc 已关闭",
+          "summary_en": "Moss developer Polyarc has closed",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/",
+          "published": "2026-09-11T21:58:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.2
+        },
+        {
+          "summary_zh": "今年秋天,Khosla Ventures将开设纽约办事处——它的第一个前哨站位于沙山道外。",
+          "summary_en": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+          "published": "2026-09-11T21:19:05+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "华尔街周-委内瑞拉石油试验,可再生能源能力过剩,国防技术爆炸",
+          "summary_en": "Wall Street Week | Venezuela’s Oil Test, Overcapacity in Renewables, Defense Tech Boom",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-11/wall-street-week-eu-s-solar-problem-defense-tech-boom-video",
+          "published": "2026-09-11T23:13:11+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.01
+        },
+        {
+          "summary_zh": "律师对AI杀人案的证人罚款5K美元",
+          "summary_en": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "published": "2026-09-11T16:44:02-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.89
+        },
+        {
+          "summary_zh": "圆桌会议:大赦国际的末日危机",
+          "summary_en": "Roundtables: AI’s apocalypse crisis",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+          "published": "2026-09-11T20:05:06+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.73
+        },
+        {
+          "summary_zh": "9\"最佳电视剧\"上演\"本月\"(2026年9月).",
+          "summary_en": "The 9 Best TV Shows to Stream This Month (September 2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+          "published": "2026-09-11T19:36:43+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.61
+        },
+        {
+          "summary_zh": "营销操作作为代码: 将事件从规划自动化到GitHub的后续",
+          "summary_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+          "published": "2026-09-11T18:26:10+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.52
+        },
+        {
+          "summary_zh": "穷人如何购买汽车",
+          "summary_en": "How Poor People Buy Cars",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+          "published": "2026-09-12T01:37:06+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.31
+        },
+        {
+          "summary_zh": "2027年,你的社保公司每月可以再涨71美元 这未必是好消息。",
+          "summary_en": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+          "published": "2026-09-11T20:08:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.24
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Some satellite companies still have an appetite for boutique launch services",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "published": "2026-09-11T23:34:45+00:00"
+        },
+        {
+          "summary": "Moss developer Polyarc has closed",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/",
+          "published": "2026-09-11T21:58:32+00:00"
+        },
+        {
+          "summary": "Random rewards enrich classic game-theory insights",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "published": "2026-09-11T21:41:16+00:00"
+        },
+        {
+          "summary": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+          "published": "2026-09-11T21:19:05+00:00"
+        },
+        {
+          "summary": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+          "published": "2026-09-11T21:14:26+00:00"
+        },
+        {
+          "summary": "Wall Street Week | Venezuela’s Oil Test, Overcapacity in Renewables, Defense Tech Boom",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-11/wall-street-week-eu-s-solar-problem-defense-tech-boom-video",
+          "published": "2026-09-11T23:13:11+00:00"
+        },
+        {
+          "summary": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "published": "2026-09-11T20:59:47+00:00"
+        },
+        {
+          "summary": "OpenAI’s feud with mathematicians is only escalating",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "published": "2026-09-11T20:57:36+00:00"
+        },
+        {
+          "summary": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "published": "2026-09-11T16:44:02-04:00"
+        },
+        {
+          "summary": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "published": "2026-09-11T20:33:18+00:00"
+        },
+        {
+          "summary": "Trump's forced coal plant extensions thrown out by judge",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "published": "2026-09-11T20:32:59+00:00"
+        },
+        {
+          "summary": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+          "published": "2026-09-11T12:21:19-04:00"
+        },
+        {
+          "summary": "Roundtables: AI’s apocalypse crisis",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+          "published": "2026-09-11T20:05:06+00:00"
+        },
+        {
+          "summary": "Lenovo's Googlebook 15 seems decidedly premium based on a new leak",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/",
+          "published": "2026-09-11T20:01:58+00:00"
+        },
+        {
+          "summary": "The 9 Best TV Shows to Stream This Month (September 2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+          "published": "2026-09-11T19:36:43+00:00"
+        },
+        {
+          "summary": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+          "published": "2026-09-11T19:21:34+00:00"
+        },
+        {
+          "summary": "iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
+          "published": "2026-09-11T19:17:46+00:00"
+        },
+        {
+          "summary": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+          "published": "2026-09-11T18:26:10+00:00"
+        },
+        {
+          "summary": "Roblox will soon add offline and browser-based play modes",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2255734/roblox-bringing-offline-browser-based-play/",
+          "published": "2026-09-11T19:00:00+00:00"
+        },
+        {
+          "summary": "How Poor People Buy Cars",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://abio.substack.com/p/how-poor-people-buy-cars",
+          "published": "2026-09-12T01:37:06+00:00"
+        },
+        {
+          "summary": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+          "published": "2026-09-11T20:08:00+00:00"
+        },
+        {
+          "summary": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
+          "published": "2026-09-12T00:40:32+00:00"
+        },
+        {
+          "summary": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+          "published": "2026-09-11T16:00:08.631000+00:00"
+        },
+        {
+          "summary": "AARP Projects 2027 Social Security COLA at 3.6%",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
+          "published": "2026-09-11T18:28:17+00:00"
+        },
+        {
+          "summary": "We unfolded the iPhone Duo",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+          "published": "2026-09-11T12:22:24-04:00"
+        },
+        {
+          "summary": "Petlibro Offers: 30% Off in September 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/petlibro-discount-code/",
+          "published": "2026-09-11T16:19:49+00:00"
+        },
+        {
+          "summary": "Anthropic spent this week in hot water over cybersecurity",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "published": "2026-09-11T12:09:14-04:00"
+        },
+        {
+          "summary": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
+          "published": "2026-09-11T18:07:21+00:00"
+        },
+        {
+          "summary": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+          "published": "2026-09-11T22:16:15+00:00"
+        },
+        {
+          "summary": "Project Blinkenlights",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blinkenlights.de/en/",
+          "published": "2026-09-11T22:15:00+00:00"
+        },
+        {
+          "summary": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+          "published": "2026-09-11T15:00:00+00:00"
+        },
+        {
+          "summary": "在外滩大会上，我看到健康 AI+ 硬件的新可能",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-11T10:01:53+00:00"
+        },
+        {
+          "summary": "Introducing automatic remediation policies with Cloudflare CASB",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/casb-policies/",
+          "published": "2026-09-11T13:00:00+00:00"
+        },
+        {
+          "summary": "制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-11T13:02:01+00:00"
+        },
+        {
+          "summary": "The Download: biotech’s future and cheaper, cleaner steel",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+          "published": "2026-09-11T12:10:00+00:00"
+        },
+        {
+          "summary": "Meet the under-35s shaping the future of biotech",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+          "published": "2026-09-11T09:00:00+00:00"
+        },
+        {
+          "summary": "GPT-6 爆火 3D 案例被扒出「用了现成素材」，这次我们真做了一个",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679614?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-11T08:49:09+00:00"
+        },
+        {
+          "summary": "iPhone Duo 最惊艳的一秒，让我重新理解液态玻璃",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679530?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-11T07:27:51+00:00"
+        },
+        {
+          "summary": "Maven Robotics wants to steal your robot deployment deal",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+          "published": "2026-09-10T14:17:37+00:00"
+        },
+        {
+          "summary": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+          "published": "2026-09-10T21:31:19+00:00"
+        },
+        {
+          "summary": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+          "published": "2026-09-10T13:00:00+00:00"
+        },
+        {
+          "summary": "GitHub availability report: August 2026",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+          "published": "2026-09-10T02:05:17+00:00"
+        },
+        {
+          "summary": "Apple unveils iPhone Duo",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+          "published": "2026-09-09T18:15:40.996000+00:00"
+        },
+        {
+          "summary": "Apple advances health and fitness capabilities using Apple Intelligence",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/",
+          "published": "2026-09-09T17:52:05.481000+00:00"
+        },
+        {
+          "summary": "Apple unveils Apple Watch Ultra 4",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+          "published": "2026-09-09T17:51:18.631000+00:00"
+        },
+        {
+          "summary": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+          "published": "2026-09-09T13:00:00+00:00"
+        },
+        {
+          "summary": "Automatic Key Exchange: faster, post-quantum secure origin handshakes for 45 billion daily connections (and counting)",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+          "published": "2026-09-08T13:10:00+00:00"
+        },
+        {
+          "summary": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+          "published": "2026-09-10T12:10:00+00:00"
+        },
+        {
+          "summary": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
+          "published": "2026-09-10T20:56:04+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "通货膨胀加剧使美联储承受了提高利率的压力",
+          "summary_en": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+          "published": "2026-09-12T01:25:46+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 5.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.06
+        },
+        {
+          "summary_zh": "美联储可以三次提高利率. 市场可能面临最严峻的考验。",
+          "summary_en": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+          "published": "2026-09-11T23:54:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 5.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.68
+        },
+        {
+          "summary_zh": "沙特管线收线,向高发压",
+          "summary_en": "Saudi Pipeline Shut, Pressure on Warsh to Raise Rates, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-12/saudi-pipeline-shut-pressure-on-warsh-to-raise-rates-more",
+          "published": "2026-09-12T01:11:08+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.0
+        },
+        {
+          "summary_zh": "VinFast的创始人Hands CEO在扩展过程中的角色",
+          "summary_en": "VinFast’s Founder Hands CEO Role to Son Amid Expansion Push",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/vinfast-s-founder-hands-ceo-role-to-son-amid-expansion-push",
+          "published": "2026-09-12T01:38:27+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "谷歌前首席科学家杰夫·迪恩(Jeff Dean)再次为他的新AI启动募集资金,寻求约500亿美元的估值.",
+          "summary_en": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
+          "published": "2026-09-11T22:42:11+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市",
+          "summary_en": "Morning Post｜Apple CEO Ternus responds to the late arrival of folding screens: no semi-finished products/Changxin Storage’s profit margin exceeds Samsung Hynix/369,000, Tesla Model Y high-performance version is launched",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-12T00:35:27+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 2.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.36
+        },
+        {
+          "summary_zh": "Mecka AI在Sequoia公司主导的交易中接近500M的估值,",
+          "summary_en": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "published": "2026-09-11T22:58:17+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 2.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.95
+        },
+        {
+          "summary_zh": "Cramer的前一周:石油的倒下可以帮助储量,",
+          "summary_en": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+          "published": "2026-09-11T22:35:09+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.85
+        },
+        {
+          "summary_zh": "各机构就拟议的第三方风险管理指南和关于社区银行与核心服务提供者互动协作问题的声明征求意见",
+          "summary_en": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+          "published": "2026-09-11T14:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.41
+        },
+        {
+          "summary_zh": "美国和英国当局关于中央反党派决议的负责人会议联合公报",
+          "summary_en": "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
+          "published": "2026-09-11T11:00:00-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.66
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+          "published": "2026-09-12T01:25:46+00:00"
+        },
+        {
+          "summary": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+          "published": "2026-09-11T23:54:00+00:00"
+        },
+        {
+          "summary": "Saudi Pipeline Shut, Pressure on Warsh to Raise Rates, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-12/saudi-pipeline-shut-pressure-on-warsh-to-raise-rates-more",
+          "published": "2026-09-12T01:11:08+00:00"
+        },
+        {
+          "summary": "VinFast’s Founder Hands CEO Role to Son Amid Expansion Push",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/vinfast-s-founder-hands-ceo-role-to-son-amid-expansion-push",
+          "published": "2026-09-12T01:38:27+00:00"
+        },
+        {
+          "summary": "Bill Dudley Expects Fed to Raise Rate by 25 Bps",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-11/dudley-expects-fed-to-raise-rate-by-25-bps-video",
+          "published": "2026-09-11T21:12:16+00:00"
+        },
+        {
+          "summary": "Bloomberg Business of Sports: NASCAR's Steve O'Donnell (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-12/bloomberg-business-of-sports-nascar-s-steve-o-donnell-podcast",
+          "published": "2026-09-12T00:10:17+00:00"
+        },
+        {
+          "summary": "Global Funds Sour on India Stocks as Some Cut Allocation to Zero",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/global-funds-sour-on-india-stocks-as-some-cut-allocation-to-zero",
+          "published": "2026-09-12T00:00:00+00:00"
+        },
+        {
+          "summary": "Former NY Fed President on Remembering 9/11",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-11/former-ny-fed-president-on-remembering-9-11-video",
+          "published": "2026-09-11T23:03:26+00:00"
+        },
+        {
+          "summary": "KBW CEO on Re-Building Manhattan After 9/11",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-11/kbw-ceo-on-re-building-manhattan-after-9-11-video",
+          "published": "2026-09-11T22:59:50+00:00"
+        },
+        {
+          "summary": "Stock Movers: Skyworks, Lululemon, Cooper (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-11/stock-movers-skyworks-lululemon-cooper-podcast",
+          "published": "2026-09-11T22:51:06+00:00"
+        },
+        {
+          "summary": "Former Google chief scientist Jeff Dean is raising again for his new AI startup, seeking around a $50 billion valuation",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/jeff-deans-startup-discovery-loop-is-eyeing-a-valuation-2026-9",
+          "published": "2026-09-11T22:42:11+00:00"
+        },
+        {
+          "summary": "早报｜苹果CEO特努斯回应折叠屏迟到：不做半成品/长鑫存储利润率超三星海力士/36.9万，特斯拉Model Y高性能版上市",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679729?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-12T00:35:27+00:00"
+        },
+        {
+          "summary": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
+          "published": "2026-09-11T22:06:00+00:00"
+        },
+        {
+          "summary": "How to Make Sense of Mayhem in the Bond Market",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
+          "published": "2026-09-11T21:33:56+00:00"
+        },
+        {
+          "summary": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+          "published": "2026-09-11T21:16:00+00:00"
+        },
+        {
+          "summary": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "published": "2026-09-11T22:58:17+00:00"
+        },
+        {
+          "summary": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+          "published": "2026-09-12T00:50:20+00:00"
+        },
+        {
+          "summary": "Tesla could transform the trucking business — and capitalize on high diesel prices",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+          "published": "2026-09-11T20:49:00+00:00"
+        },
+        {
+          "summary": "Cramer’s week ahead: Falling oil could help stocks but Fed is the next big test",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+          "published": "2026-09-11T22:35:09+00:00"
+        },
+        {
+          "summary": "An ex-OpenAI researcher's influential nonprofit is now smack in the middle of AI's doom debate",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/metr-beth-barnes-ai-talent-shortage-safety-research-openai-2026-8",
+          "published": "2026-09-11T23:01:35+00:00"
+        },
+        {
+          "summary": "Google just completed its $1.5 billion-plus talent deal for AI startup Mechanize",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9",
+          "published": "2026-09-11T18:54:54+00:00"
+        },
+        {
+          "summary": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
+          "published": "2026-09-11T22:51:56+00:00"
+        },
+        {
+          "summary": "Hugging Face CEO says asking Anthropic researcher ‘about AI extinction risk is like asking your AC guy about climate change’",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/hugging-face-clement-delangue-jacob-coxon-ac-guy-2026-9",
+          "published": "2026-09-11T18:25:05+00:00"
+        },
+        {
+          "summary": "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
+          "published": "2026-09-11T17:00:48+00:00"
+        },
+        {
+          "summary": "AI fears have hit this data stock. Investor Sarat Sethi sees a buying opportunity",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/sarat-sethi-buying-verisk-analytics.html",
+          "published": "2026-09-11T16:48:54+00:00"
+        },
+        {
+          "summary": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+          "published": "2026-09-11T20:48:19+00:00"
+        },
+        {
+          "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+          "published": "2026-09-11T14:00:00+00:00"
+        },
+        {
+          "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+          "published": "2026-09-11T19:35:54+00:00"
+        },
+        {
+          "summary": "Interest rates could rise again across the world – here's why",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-11T13:35:29+00:00"
+        },
+        {
+          "summary": "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
+          "published": "2026-09-11T11:00:00-04:00"
+        },
+        {
+          "summary": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-11T15:37:25+00:00"
+        },
+        {
+          "summary": "Matt Mullenweg returns as Automattic CEO two days after getting booted",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+          "published": "2026-09-11T13:16:59-04:00"
+        },
+        {
+          "summary": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+          "published": "2026-09-11T16:46:25+00:00"
+        },
+        {
+          "summary": "Alstom to build new battery-electric train fleet",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-11T14:43:33+00:00"
+        },
+        {
+          "summary": "US prices remain high as fuel costs squeeze household budgets",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-11T14:22:42+00:00"
+        },
+        {
+          "summary": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+          "published": "2026-09-11T15:19:00+00:00"
+        },
+        {
+          "summary": "How Heurist Finance built an AI-native investment workbench on Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+          "published": "2026-09-09T18:11:12+00:00"
+        },
+        {
+          "summary": "Surging bond yields presage pain—and not just for bond investors",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+          "published": "2026-09-11T16:02:32+00:00"
+        },
+        {
+          "summary": "RAP: Research Attention Prediction Reveals Target-Conditioned Evidence Acquisition Biases",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10092",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Looped GPT-BERT: Trading Parameters for Computation in Small Language Modeling",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.09691",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "EVOQUANT: Self-Evolving Verifier-Guided Strategy Optimization for Robust Quantitative Trading",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2607.12455",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Accuracy is Not Enough: A Divergence-Based Approach to Evaluate Fidelity Loss in Quantized LLMs",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.07664",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Adaptive Margin Ordinal Loss: Penalizing Center-Class Hedging in Ordinal Classification",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10752",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11166",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Convex Optimization with Nested Evolving Feasible Sets (CONES) under Time-Varying Loss Functions",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11207",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "EVTradeMatch: A Mobility-Aware Multi-Objective Matching Framework for EV--EV Energy Trading",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10551",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Funding grants for new research into AI and teen development",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "published": "2026-09-08T09:00:00+00:00"
+        },
+        {
+          "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+          "published": "2026-09-10T20:00:00+00:00"
+        },
+        {
+          "summary": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
+          "published": "2026-09-10T13:45:22-04:00"
+        },
+        {
+          "summary": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+          "published": "2026-09-10T17:45:00+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "复杂度信任 GPT-6 有端到端系统的 Astra",
+          "summary_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "published": "2026-09-14T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 13.0
+        },
+        {
+          "summary_zh": "使用AWS DevOps Agent和Agent Core评价监测生产剂生命周期",
+          "summary_en": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+          "published": "2026-09-11T18:26:38+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.52
+        },
+        {
+          "summary_zh": "DriftNet:用于在LLM代理中检测和定位快速注入的双头轨迹变换器",
+          "summary_en": "DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10892",
+          "published": "2026-09-11T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 5.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.71
+        },
+        {
+          "summary_zh": "B. 培训之外:推断-时间可行性分类法",
+          "summary_en": "Beyond Training: A Feasibility Taxonomy for Inference-Time AI Governance",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10105",
+          "published": "2026-09-11T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.71
+        },
+        {
+          "summary_zh": "从Wafer-Out到First Token:与Nemotron和Palantir创始公司编纂供应链专门知识",
+          "summary_en": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+          "published": "2026-09-10T09:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.0
+        },
+        {
+          "summary_zh": "DiscoSign: 向手语 Gloss 翻译的 discour- Aware 文本",
+          "summary_en": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+          "published": "2026-09-11T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "与Gradio Workflow重建AUTOMATIC1111",
+          "summary_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "published": "2026-09-10T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "按框架重现70年的爱情故事框架",
+          "summary_en": "Recreating a 70-year love story frame by frame",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "published": "2026-09-09T16:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "Meta Over 培训数据,用于其AI和面部识别系统",
+          "summary_en": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "published": "2026-09-11T18:59:25+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.96
+        },
+        {
+          "summary_zh": "Athropic 研究人员的末日警告是在非常有趣的时刻发出的",
+          "summary_en": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "published": "2026-09-11T18:41:49+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.38
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "published": "2026-09-14T00:00:00+00:00"
+        },
+        {
+          "summary": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+          "published": "2026-09-11T18:26:38+00:00"
+        },
+        {
+          "summary": "Beyond the price per token: Choosing the right OpenAI model on Amazon Bedrock for your workload",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-price-per-token-choosing-the-right-openai-model-on-amazon-bedrock-for-your-workload/",
+          "published": "2026-09-11T18:24:38+00:00"
+        },
+        {
+          "summary": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "published": "2026-09-11T16:00:00+00:00"
+        },
+        {
+          "summary": "DriftNet: A Dual-Head Trajectory Transformer for Detecting and Localizing Prompt Injection in LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10892",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Build interactive MCP Apps using Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-mcp-apps-using-amazon-bedrock-agentcore/",
+          "published": "2026-09-11T18:23:17+00:00"
+        },
+        {
+          "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "published": "2026-09-11T10:00:00+00:00"
+        },
+        {
+          "summary": "An Experimental Evaluation of Multimodal Prompt Injection Attacks on Agentic AI Frameworks",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.09404",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Beyond Training: A Feasibility Taxonomy for Inference-Time AI Governance",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10105",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "AI Economist Agent: An Agentic Framework for Evidence-Based Economic and Financial Analysis with RAG, Knowledge Graphs, and Large Language Models",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.20041",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "High-Throughput Structure Prediction with BioNeMo Inference Runtime",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime/",
+          "published": "2026-09-10T15:00:00+00:00"
+        },
+        {
+          "summary": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+          "published": "2026-09-10T09:00:00+00:00"
+        },
+        {
+          "summary": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/expanding-ai-access-us-government",
+          "published": "2026-09-10T07:00:00+00:00"
+        },
+        {
+          "summary": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+          "published": "2026-09-09T20:31:04+00:00"
+        },
+        {
+          "summary": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.09448",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Can Artificial Intelligence Support Healthcare and Mental Health Through Early Cyberbullying Detection ? The Impact of Emotion-Aware AI on Proactive Online Safety",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.09735",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "M3-Former: Multimodal Transformer with Mixture-of-Experts for Long-Term Vessel Trajectory Prediction",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.10559",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "A Dynamic Fusion Large Language Model for Traffic Flow Prediction",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11314",
+          "published": "2026-09-11T00:00:00-04:00"
+        },
+        {
+          "summary": "Reduce LLM latency with prefix-aware routing on Amazon SageMaker Inference",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-llm-latency-with-prefix-aware-routing-on-amazon-sagemaker-inference/",
+          "published": "2026-09-10T21:58:09+00:00"
+        },
+        {
+          "summary": "How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra/",
+          "published": "2026-09-10T16:55:32+00:00"
+        },
+        {
+          "summary": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/discosign-gloss-translation",
+          "published": "2026-09-11T00:00:00+00:00"
+        },
+        {
+          "summary": "Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/video-caption-quality",
+          "published": "2026-09-11T00:00:00+00:00"
+        },
+        {
+          "summary": "SimpleDesign: A Joint Model for Protein Sequence and Structure Codesign",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/simpledesign-protein-codesign",
+          "published": "2026-09-11T00:00:00+00:00"
+        },
+        {
+          "summary": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+          "published": "2026-09-10T22:50:22+00:00"
+        },
+        {
+          "summary": "3 ways to prep for your next big race with Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+          "published": "2026-09-10T16:00:00+00:00"
+        },
+        {
+          "summary": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "published": "2026-09-10T00:00:00+00:00"
+        },
+        {
+          "summary": "Get ready for the game with new football features in Search",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+          "published": "2026-09-09T16:00:00+00:00"
+        },
+        {
+          "summary": "Recreating a 70-year love story frame by frame",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+          "published": "2026-09-09T16:00:00+00:00"
+        },
+        {
+          "summary": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "published": "2026-09-09T15:36:24+00:00"
+        },
+        {
+          "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "published": "2026-09-08T14:23:07+00:00"
+        },
+        {
+          "summary": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+          "published": "2026-09-08T14:00:15+00:00"
+        },
+        {
+          "summary": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+          "published": "2026-09-11T18:59:25+00:00"
+        },
+        {
+          "summary": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "published": "2026-09-11T18:41:49+00:00"
+        },
+        {
+          "summary": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/zachsaw/graphify-csharp",
+          "published": "2026-09-12T00:16:10+00:00"
+        },
+        {
+          "summary": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.rubyhack.ai/",
+          "published": "2026-09-11T23:17:42+00:00"
+        },
+        {
+          "summary": "Meta’s AI agent Muse is now the No. 2 app in the US",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "published": "2026-09-10T19:50:04+00:00"
+        },
+        {
+          "summary": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "published": "2026-09-10T17:54:44+00:00"
+        },
+        {
+          "summary": "AI agents are flooding public services with new requests",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+          "published": "2026-09-10T14:53:50+00:00"
+        },
+        {
+          "summary": "OpenAI adds a prominent AI doomer to its board of directors",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "published": "2026-09-09T22:25:22+00:00"
+        },
+        {
+          "summary": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1678673?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-09T09:15:51+00:00"
+        },
+        {
+          "summary": "RTK reports token savings, but our cost benchmarks disagree",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+          "published": "2026-09-11T11:15:13+00:00"
+        },
+        {
+          "summary": "办公 Agent 大乱战，新势力TeleAgent 凭什么坐上牌桌",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-09T04:00:01+00:00"
+        }
+      ]
+    }
+  }
+}
