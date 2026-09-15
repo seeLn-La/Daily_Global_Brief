@@ -1,0 +1,1184 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T02:41:21.374103+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
+          "summary_en": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-15T00:08:20+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "Big Tech的AI减速是安全协议还是卡特尔?",
+          "summary_en": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "published": "2026-09-14T18:59:41-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "如何使用 Windows 11 媒体创建工具创建可启动的 USB 驱动器",
+          "summary_en": "How to use the Windows 11 Media Creation Tool to create a bootable USB drive",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2254793/how-to-use-windows-11-media-creation-tool-create-bootable-usb-drive/",
+          "published": "2026-09-14T22:30:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "简森 黄帝接通了特朗普的电话 也炫耀出别的东西",
+          "summary_en": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "published": "2026-09-15T01:50:48+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.09
+        },
+        {
+          "summary_zh": "最高法院刚刚阻止了特朗普控制中期邮件投票的努力。",
+          "summary_en": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+          "published": "2026-09-15T00:23:42+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.73
+        },
+        {
+          "summary_zh": "苹果发布iOS 27, macOS 金门 27 配有 Siri AI和 Liquid Glass 精制",
+          "summary_en": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+          "published": "2026-09-14T19:28:42+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.5
+        },
+        {
+          "summary_zh": "Apple软件平台的主要更新内容现已提供",
+          "summary_en": "Major updates for Apple’s software platforms are now available",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "published": "2026-09-14T17:10:12.527000+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.12
+        },
+        {
+          "summary_zh": "CNBC\"中国连通通讯\":技术控制扩展到员工.",
+          "summary_en": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+          "published": "2026-09-14T23:00:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.88
+        },
+        {
+          "summary_zh": "iOS 27现在出来了。 这是更新给您的iPhone带来的最大变化。",
+          "summary_en": "iOS 27 is out now. Here are the biggest changes the update is bringing to your iPhone.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/ios-27-release-siri-ai-iphone-new-features-update-2026-9",
+          "published": "2026-09-14T20:47:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.32
+        },
+        {
+          "summary_zh": "AI产业转了弯. 现在怎么办?",
+          "summary_en": "The AI industry has taken a doomer turn. What now?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "published": "2026-09-14T17:54:22+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.11
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "早报｜iOS27正式推送/比亚迪高管：燃油车在中国没有未来/iPhone 18 Pro渠道降价900元，苹果称不干预",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-15T00:08:20+00:00"
+        },
+        {
+          "summary": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "published": "2026-09-14T18:59:41-04:00"
+        },
+        {
+          "summary": "How to use the Windows 11 Media Creation Tool to create a bootable USB drive",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2254793/how-to-use-windows-11-media-creation-tool-create-bootable-usb-drive/",
+          "published": "2026-09-14T22:30:00+00:00"
+        },
+        {
+          "summary": "Apple Home’s new security camera features cost as much as $60 a month",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+          "published": "2026-09-14T18:28:52-04:00"
+        },
+        {
+          "summary": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "published": "2026-09-15T01:50:48+00:00"
+        },
+        {
+          "summary": "How to use Meta Display glasses while driving with the Audio Only feature",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/",
+          "published": "2026-09-15T00:30:00+00:00"
+        },
+        {
+          "summary": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+          "published": "2026-09-15T00:23:42+00:00"
+        },
+        {
+          "summary": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+          "published": "2026-09-14T20:13:47-04:00"
+        },
+        {
+          "summary": "Can you use an Apple Pencil with an iPhone?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/",
+          "published": "2026-09-15T00:00:00+00:00"
+        },
+        {
+          "summary": "How to force quit on your Windows PC",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2254550/how-to-force-quit-windows-pc/",
+          "published": "2026-09-14T20:00:00+00:00"
+        },
+        {
+          "summary": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+          "published": "2026-09-14T19:28:42+00:00"
+        },
+        {
+          "summary": "The Top New Features in Apple’s iOS 27 and iPadOS 27",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/top-new-features-in-apple-ios-27-and-ipados-27-launching-september-14/",
+          "published": "2026-09-14T18:44:44+00:00"
+        },
+        {
+          "summary": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+          "published": "2026-09-14T18:08:43+00:00"
+        },
+        {
+          "summary": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+          "published": "2026-09-14T22:06:24+00:00"
+        },
+        {
+          "summary": "Major updates for Apple’s software platforms are now available",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "published": "2026-09-14T17:10:12.527000+00:00"
+        },
+        {
+          "summary": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+          "published": "2026-09-14T21:32:22+00:00"
+        },
+        {
+          "summary": "What execs and politicians are saying about slowing down AI development",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+          "published": "2026-09-14T17:21:42-04:00"
+        },
+        {
+          "summary": "With iOS 27, I’m actually using Siri again",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "published": "2026-09-14T17:10:30+00:00"
+        },
+        {
+          "summary": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+          "published": "2026-09-14T21:04:32+00:00"
+        },
+        {
+          "summary": "CNBC's The China Connection newsletter: Tech controls expand to employees",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/cnbcs-the-china-connection-newsletter-tech-controls-employees.html",
+          "published": "2026-09-14T23:00:01+00:00"
+        },
+        {
+          "summary": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "published": "2026-09-14T20:44:14+00:00"
+        },
+        {
+          "summary": "iOS 27 is out now. Here are the biggest changes the update is bringing to your iPhone.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/ios-27-release-siri-ai-iphone-new-features-update-2026-9",
+          "published": "2026-09-14T20:47:01+00:00"
+        },
+        {
+          "summary": "Siri AI, a profoundly more capable and personal assistant, is here",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+          "published": "2026-09-14T17:09:41.324000+00:00"
+        },
+        {
+          "summary": "Apple’s new child safety features now available",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/",
+          "published": "2026-09-14T17:08:48.789000+00:00"
+        },
+        {
+          "summary": "The AI industry has taken a doomer turn. What now?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "published": "2026-09-14T17:54:22+00:00"
+        },
+        {
+          "summary": "New York Seizes a Dozen Celebrity Deepfake Websites",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+          "published": "2026-09-14T16:50:00+00:00"
+        },
+        {
+          "summary": "Donated livers can be made biologically younger",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+          "published": "2026-09-14T16:11:42+00:00"
+        },
+        {
+          "summary": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+          "published": "2026-09-14T12:10:00+00:00"
+        },
+        {
+          "summary": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/JamesRyanATX/fcbnerd",
+          "published": "2026-09-14T23:01:36+00:00"
+        },
+        {
+          "summary": "Charts built for Chat",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+          "published": "2026-09-14T21:22:54+00:00"
+        },
+        {
+          "summary": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+          "published": "2026-09-14T21:05:22+00:00"
+        },
+        {
+          "summary": "在学会数学之前，AI 先学会了大厂的虚荣心",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680046?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-14T13:05:26+00:00"
+        },
+        {
+          "summary": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+          "published": "2026-09-14T16:09:45+00:00"
+        },
+        {
+          "summary": "The Best Air Purifier of 2026: Tested Picks for Every Room",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-air-purifiers/",
+          "published": "2026-09-14T11:33:00+00:00"
+        },
+        {
+          "summary": "理想 i9 Home 来了，车内长滑轨+对坐模式，打造「市中心大平层」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680033?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-14T10:15:12+00:00"
+        },
+        {
+          "summary": "新豆包手机助手首发体验，智能手机正在变成「行动终端」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679983?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-14T06:00:21+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Landmark NSE IPO 威胁印度影子市场",
+          "summary_en": "Landmark NSE IPO Threatens to Hollow Out India Shadow Market",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-15/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market",
+          "published": "2026-09-15T01:39:16+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.04
+        },
+        {
+          "summary_zh": "威尔士的酒吧、旅馆和体育馆,以降低30%的商业收费",
+          "summary_en": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T22:01:39+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "星期二的大股票故事: 下届交易会有什么可能推动市场",
+          "summary_en": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-09-14T23:17:09+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "AI 限制辩论",
+          "summary_en": "AI Restraint Debate Boosts Outlook for Indian Tech Stocks",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
+          "published": "2026-09-15T00:31:48+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.76
+        },
+        {
+          "summary_zh": "美国对俄罗斯VTB银行的制裁",
+          "summary_en": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
+          "published": "2026-09-14T22:23:29+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "2026年艾美奖最佳服装名人",
+          "summary_en": "The best-dressed celebrities at the 2026 Emmy Awards",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/emmys-red-carpet-best-dressed-celebrities-2026-9",
+          "published": "2026-09-15T01:52:31+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.1
+        },
+        {
+          "summary_zh": "\"第九波\"是如何在亚马逊贝德洛克上架设AI动力开放金融的",
+          "summary_en": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+          "published": "2026-09-14T15:58:57+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "Nvidia CEOJensen Huang告诉特朗普, “我们不会让[AI减速]发生。",
+          "summary_en": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "published": "2026-09-14T21:51:02+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.59
+        },
+        {
+          "summary_zh": "证交会赠款 某些内部XBRL申请或提交要求的先发制人救济",
+          "summary_en": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
+          "published": "2026-09-14T12:47:00-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.02
+        },
+        {
+          "summary_zh": "石油收益,亚洲债券因通货膨胀而下跌:市场包装",
+          "summary_en": "Oil Gains, Asian Bonds Fall on Inflation Concerns: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
+          "published": "2026-09-14T22:19:06+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.21
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Landmark NSE IPO Threatens to Hollow Out India Shadow Market",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-15/landmark-nse-ipo-threatens-to-hollow-out-india-shadow-market",
+          "published": "2026-09-15T01:39:16+00:00"
+        },
+        {
+          "summary": "Oil Gains, Asian Bonds Fall on Inflation Concerns: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
+          "published": "2026-09-14T22:19:06+00:00"
+        },
+        {
+          "summary": "BetMGM CEO on Early NFL Betting and Prediction Markets",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-14/betmgm-ceo-on-early-nfl-betting-and-prediction-markets-video",
+          "published": "2026-09-14T22:09:39+00:00"
+        },
+        {
+          "summary": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T22:01:39+00:00"
+        },
+        {
+          "summary": "Teva CEO on Shares Trading Directly on the NYSE",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-14/teva-ceo-on-shares-trading-directly-on-the-nyse-video",
+          "published": "2026-09-14T21:52:32+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-09-14T23:17:09+00:00"
+        },
+        {
+          "summary": "AI Restraint Debate Boosts Outlook for Indian Tech Stocks",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-15/ai-restraint-debate-lifts-outlook-for-india-tech-services-stocks",
+          "published": "2026-09-15T00:31:48+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed as traders eye rising oil prices and rates: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/stock-market-today-live-updates.html",
+          "published": "2026-09-15T02:27:04+00:00"
+        },
+        {
+          "summary": "Firmus data center IPO, Whyalla steelworks, Trump AI",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-09-14/firmus-data-center-ipo-whyalla-steelworks-trump-ai",
+          "published": "2026-09-14T23:15:41+00:00"
+        },
+        {
+          "summary": "Calls for AI Slowdown Hits Stocks, Trump Downplays Concerns",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-14/calls-for-ai-slowdown-hits-stocks-trump-downplays-concerns",
+          "published": "2026-09-14T23:06:35+00:00"
+        },
+        {
+          "summary": "U.S. Imposes Sanctions on Russia’s VTB Bank Over Ties to Iran",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/14/business/us-sanctions-russia-vtb-bank-iran.html",
+          "published": "2026-09-14T22:23:29+00:00"
+        },
+        {
+          "summary": "Court Blocks Mail Ballot Curbs, Investors Weigh AI Worries, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-15/court-blocks-mail-ballot-curbs-investors-weigh-ai-worries-more",
+          "published": "2026-09-15T02:06:54+00:00"
+        },
+        {
+          "summary": "The best-dressed celebrities at the 2026 Emmy Awards",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/emmys-red-carpet-best-dressed-celebrities-2026-9",
+          "published": "2026-09-15T01:52:31+00:00"
+        },
+        {
+          "summary": "The stock market could do something strange this week after the Fed decision",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/the-stock-market-could-do-something-strange-this-week-after-the-fed-decision.html",
+          "published": "2026-09-14T19:49:23+00:00"
+        },
+        {
+          "summary": "9 celebrity looks that missed the mark at the 2026 Emmys",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/emmys-worst-dressed-celebrities-red-carpet-2026-9",
+          "published": "2026-09-15T01:36:43+00:00"
+        },
+        {
+          "summary": "Travis Kalanick's robotics startup taps Meta veteran for top AI role",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/travis-kalanick-robotics-startup-taps-meta-veteran-top-ai-role-2026-9",
+          "published": "2026-09-15T00:44:48+00:00"
+        },
+        {
+          "summary": "Broadcom CEO addresses Anthropic's slowdown push, says AI revenue targets haven't changed",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/14/broadcom-ceo-on-anthropics-slowdown-push-ai-revenue-targets-havent-changed.html",
+          "published": "2026-09-14T22:43:25+00:00"
+        },
+        {
+          "summary": "Trump called Nvidia CEO Jensen Huang mid-interview to rip AI doomerism: 'The robots will not be taking over'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-ai-doomerism-lacks-scientific-basis-2026-9",
+          "published": "2026-09-14T20:41:34+00:00"
+        },
+        {
+          "summary": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-15T00:32:21+00:00"
+        },
+        {
+          "summary": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/14/business/tech-stocks-ai.html",
+          "published": "2026-09-14T20:12:09+00:00"
+        },
+        {
+          "summary": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/14/science/ai-bioweapons.html",
+          "published": "2026-09-14T19:36:43+00:00"
+        },
+        {
+          "summary": "I got paid $5,000 to move to a place I'd never heard of",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T23:08:28+00:00"
+        },
+        {
+          "summary": "Pubs in England and Wales to allow digital ID apps to prove age",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-14T23:07:56+00:00"
+        },
+        {
+          "summary": "Trump Blames Ukraine for Global Diesel Shortage",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/13/business/trump-ukraine-diesel.html",
+          "published": "2026-09-14T22:51:09+00:00"
+        },
+        {
+          "summary": "How Ninth Wave built AI-powered open finance onboarding on Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/",
+          "published": "2026-09-14T15:58:57+00:00"
+        },
+        {
+          "summary": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "published": "2026-09-14T21:51:02+00:00"
+        },
+        {
+          "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+          "published": "2026-09-14T20:07:37+00:00"
+        },
+        {
+          "summary": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
+          "published": "2026-09-14T12:47:00-04:00"
+        },
+        {
+          "summary": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+          "published": "2026-09-14T15:34:31+00:00"
+        },
+        {
+          "summary": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.13125",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Explanations-Driven Active Feature Acquisition for Algorithmic Recourse",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12179",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Debiasing as a Measurement Intervention: Calibrated Ties and Resolution Loss in LLM-as-a-Judge Evaluation",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12439",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Hurdle-RMIL: Addressing Zero Inflation and Long-Tailed Imbalance in Infrared Rainfall Retrieval",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2510.20486",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Fed-Equilibrium Framework for Topological Pareto Control in Robust and Fair Clinical Federated Learning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11937",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Quantile-based Loss Filtering for Outlier-Robust Stochastic Gradient Descent",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.13040",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.13057",
+          "published": "2026-09-14T00:00:00-04:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "使用 NVIDIA 变形引擎在 JAX 加速无滴 MoE 培训",
+          "summary_en": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+          "published": "2026-09-14T16:39:15+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 12.49
+        },
+        {
+          "summary_zh": "管理最终用户 OAuth 与 Amazon Bedrock Agent Core 的 AI 代理协议",
+          "summary_en": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+          "published": "2026-09-14T20:35:45+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.98
+        },
+        {
+          "summary_zh": "Fyxer如何建立AI的执行助理 人民信任",
+          "summary_en": "How Fyxer built an AI executive assistant people trust",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/fyxer",
+          "published": "2026-09-14T12:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.33
+        },
+        {
+          "summary_zh": "观察宇航员克莉丝汀娜·克赫(Christina Koch)和谷歌的詹姆斯·曼尼卡(James Manyika)讨论太空、科技和发现。",
+          "summary_en": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+          "published": "2026-09-14T19:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.58
+        },
+        {
+          "summary_zh": "RoofLang:启用LLM推论系统的AI-Driven架构",
+          "summary_en": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12551",
+          "published": "2026-09-14T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "电池价格 边缘AI:LLM推论对移动设备环境影响的研究",
+          "summary_en": "The Battery Price of edge AI: A study of the Environmental Impact of LLM Inference on Mobile Devices",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11940",
+          "published": "2026-09-14T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "AI特工告发他们的作弊同事",
+          "summary_en": "AI agents blew the whistle on their cheating colleagues",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "published": "2026-09-14T16:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "微软CEO Satya Nadella向员工发布关于AI安全的内部警告",
+          "summary_en": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/microsoft-satya-nadella-ai-safety-debate-internal-warning-2026-9",
+          "published": "2026-09-15T00:01:29+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.13
+        },
+        {
+          "summary_zh": "非正常 AI: Amazon Bedrock Agent Core 用于规模化的代理电子邮件安全",
+          "summary_en": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+          "published": "2026-09-14T21:22:45+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.17
+        },
+        {
+          "summary_zh": "基因AI定制谱:从AWS上的即时工程到自定义模型",
+          "summary_en": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+          "published": "2026-09-14T15:47:12+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.78
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Accelerating Dropless MoE Training in JAX with NVIDIA Transformer Engine",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine/",
+          "published": "2026-09-14T16:39:15+00:00"
+        },
+        {
+          "summary": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+          "published": "2026-09-14T20:35:45+00:00"
+        },
+        {
+          "summary": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+          "published": "2026-09-14T21:22:45+00:00"
+        },
+        {
+          "summary": "The generative AI customization spectrum: From prompt engineering to custom models on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/the-generative-ai-customization-spectrum-from-prompt-engineering-to-custom-models-on-aws/",
+          "published": "2026-09-14T15:47:12+00:00"
+        },
+        {
+          "summary": "How Fyxer built an AI executive assistant people trust",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/fyxer",
+          "published": "2026-09-14T12:00:00+00:00"
+        },
+        {
+          "summary": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+          "published": "2026-09-14T19:00:00+00:00"
+        },
+        {
+          "summary": "DevFest is back",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+          "published": "2026-09-14T16:00:00+00:00"
+        },
+        {
+          "summary": "Automate replenishment with MMF, Databricks Genie, and Amazon Quick",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/automate-replenishment-with-mmf-databricks-genie-and-amazon-quick/",
+          "published": "2026-09-14T15:42:06+00:00"
+        },
+        {
+          "summary": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12551",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "FastE: Readout-Triggered Token Compression for LLM Embedding Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.08407",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "The Battery Price of edge AI: A study of the Environmental Impact of LLM Inference on Mobile Devices",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11940",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "T-GADE: Thermodynamical Generative-AI-Driven Evolution of LLM Artifacts",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12286",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.12320",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Efficient AI Model Deployment Using Quantization Analysis Tool",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11954",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Look Before You Leap: Pre-Action Verification for LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11957",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "FINESSE: An Agent-Based Simulator and Benchmark Dataset for Multimodal Financial Event Sequences",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.11993",
+          "published": "2026-09-14T00:00:00-04:00"
+        },
+        {
+          "summary": "AI agents blew the whistle on their cheating colleagues",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "published": "2026-09-14T16:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft CEO Satya Nadella posts an internal warning to employees about AI safety",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/microsoft-satya-nadella-ai-safety-debate-internal-warning-2026-9",
+          "published": "2026-09-15T00:01:29+00:00"
+        },
+        {
+          "summary": "Why don't machine learning research agents overfit?",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+          "published": "2026-09-14T16:32:23+00:00"
+        },
+        {
+          "summary": "Pion, an agent designed to run any company autonomously",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://andonlabs.com/blog/why-we-built-pion",
+          "published": "2026-09-14T17:16:06+00:00"
+        }
+      ]
+    }
+  }
+}
