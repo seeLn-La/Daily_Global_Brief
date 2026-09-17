@@ -1,0 +1,1380 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T02:39:34.253288+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "见戴森新机器人真空线:戴森努罗维线 (2026)",
+          "summary_en": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+          "published": "2026-09-16T23:42:55+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.56
+        },
+        {
+          "summary_zh": "Snap正在推出一个新的 Specs AI 工具, 它即将来到 iOS 和 Mac",
+          "summary_en": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "published": "2026-09-16T19:40:00-04:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.55
+        },
+        {
+          "summary_zh": "日本公司研制出人造机器人\"救护车\"进行现场维修",
+          "summary_en": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/",
+          "published": "2026-09-16T23:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.39
+        },
+        {
+          "summary_zh": "Apple据说为AI建造了装有M系列Ultra芯片的服务器",
+          "summary_en": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+          "published": "2026-09-16T22:02:46+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.15
+        },
+        {
+          "summary_zh": "将 GitHub 副驾驶运行时间移到 Rust, 使用副驾驶",
+          "summary_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+          "published": "2026-09-17T00:26:43+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.95
+        },
+        {
+          "summary_zh": "Snap试图再次为2200美元聪明眼镜立案",
+          "summary_en": "Snap tries to make the case again for its $2,200 smart glasses",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+          "published": "2026-09-17T00:58:49+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "当扫描器错过攻击时: Cloudflare 客户端-Side 安全保护商店前端",
+          "summary_en": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+          "published": "2026-09-16T20:06:17+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "你会从你最喜欢的科技公司 购买品牌服装吗?",
+          "summary_en": "Would you buy branded clothing from your favourite tech firm?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-16T23:18:47+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.96
+        },
+        {
+          "summary_zh": "“也许有一道光明线”: 我朋友的妻子在60岁时去世, 他能申请她的社会保障吗?",
+          "summary_en": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+          "published": "2026-09-16T22:15:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.7
+        },
+        {
+          "summary_zh": "SF最大的科技大会上,",
+          "summary_en": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9",
+          "published": "2026-09-16T21:38:52+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.55
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+          "published": "2026-09-16T23:42:55+00:00"
+        },
+        {
+          "summary": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "published": "2026-09-16T19:40:00-04:00"
+        },
+        {
+          "summary": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/",
+          "published": "2026-09-16T23:00:00+00:00"
+        },
+        {
+          "summary": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+          "published": "2026-09-16T22:02:46+00:00"
+        },
+        {
+          "summary": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2260794/apple-s-redesigned-health-app-is-available-now-in-the-ios-27-2-developer-beta/",
+          "published": "2026-09-16T21:18:43+00:00"
+        },
+        {
+          "summary": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+          "published": "2026-09-17T00:26:43+00:00"
+        },
+        {
+          "summary": "Snap tries to make the case again for its $2,200 smart glasses",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+          "published": "2026-09-17T00:58:49+00:00"
+        },
+        {
+          "summary": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+          "published": "2026-09-16T20:06:17+00:00"
+        },
+        {
+          "summary": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+          "published": "2026-09-16T23:43:09+00:00"
+        },
+        {
+          "summary": "I wore Snap’s $2,200 smart glasses",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+          "published": "2026-09-16T19:40:00-04:00"
+        },
+        {
+          "summary": "Here’s What Snap’s Expensive Specs Can Actually Do",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+          "published": "2026-09-16T23:40:00+00:00"
+        },
+        {
+          "summary": "Snap Specs hands on: Standalone AR glasses are here",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/",
+          "published": "2026-09-16T23:40:00+00:00"
+        },
+        {
+          "summary": "Snap introduces a standalone AI assistant, Specs Intelligence",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+          "published": "2026-09-16T23:40:00+00:00"
+        },
+        {
+          "summary": "US automakers could soon be forced to include AM radio for free",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+          "published": "2026-09-16T22:37:08+00:00"
+        },
+        {
+          "summary": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+          "published": "2026-09-16T22:07:24+00:00"
+        },
+        {
+          "summary": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+          "published": "2026-09-16T21:42:09+00:00"
+        },
+        {
+          "summary": "Noise wants to help everyday people become paid content creators",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+          "published": "2026-09-16T21:35:00+00:00"
+        },
+        {
+          "summary": "Would you buy branded clothing from your favourite tech firm?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-16T23:18:47+00:00"
+        },
+        {
+          "summary": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+          "published": "2026-09-16T21:08:14+00:00"
+        },
+        {
+          "summary": "Washington Won’t Be Regulating AI Anytime Soon",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+          "published": "2026-09-16T21:00:00+00:00"
+        },
+        {
+          "summary": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "published": "2026-09-16T16:59:13-04:00"
+        },
+        {
+          "summary": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+          "published": "2026-09-16T20:44:41+00:00"
+        },
+        {
+          "summary": "The AI data center e-waste problem is huge — and getting bigger",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "published": "2026-09-16T16:40:46-04:00"
+        },
+        {
+          "summary": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+          "published": "2026-09-16T22:15:00+00:00"
+        },
+        {
+          "summary": "What people at SF's largest tech conference are actually worried about (Hint: Not an AI takeover)",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dreamforce-attendees-dismiss-ai-doomsday-fears-2026-9",
+          "published": "2026-09-16T21:38:52+00:00"
+        },
+        {
+          "summary": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+          "published": "2026-09-17T01:39:47+00:00"
+        },
+        {
+          "summary": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+          "published": "2026-09-17T01:02:13+00:00"
+        },
+        {
+          "summary": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+          "published": "2026-09-16T13:23:02+00:00"
+        },
+        {
+          "summary": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+          "published": "2026-09-17T00:28:33+00:00"
+        },
+        {
+          "summary": "Why Siri AI isn't automatic after your iOS 27 update",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/iphone-ios-27-siri-ai-missing-2026-9",
+          "published": "2026-09-16T18:17:42+00:00"
+        },
+        {
+          "summary": "OpenSpec – A lightweight and configurable AI spec framework",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://openspec.dev/",
+          "published": "2026-09-16T23:06:39+00:00"
+        },
+        {
+          "summary": "比 MEGA Home 便宜 14 万！理想 i9 Home 上市定价 36.98 万元，六座旗舰变天了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680467?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-16T15:21:51+00:00"
+        },
+        {
+          "summary": "Meet a mouse whose brain cortex is made up of human cells",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+          "published": "2026-09-16T15:00:00+00:00"
+        },
+        {
+          "summary": "Celebrating “What Holds Us” on iPhone 18 Pro",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/",
+          "published": "2026-09-16T13:59:28.902000+00:00"
+        },
+        {
+          "summary": "In Silicon Valley, Hardware Is Having a Moment Again",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/dealbook/in-silicon-valley-hardware-is-having-a-moment-again.html",
+          "published": "2026-09-16T16:18:01+00:00"
+        },
+        {
+          "summary": "Building the materials foundation for AI",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+          "published": "2026-09-16T12:47:34+00:00"
+        },
+        {
+          "summary": "iPhone 18 Pro & Duo 首发评测，提升最大的是「充电」和这个…",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680407?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-16T12:20:33+00:00"
+        },
+        {
+          "summary": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+          "published": "2026-09-16T12:10:00+00:00"
+        },
+        {
+          "summary": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+          "published": "2026-09-16T09:09:37+00:00"
+        },
+        {
+          "summary": "Security Guards Offer Protection, But Get Paid Little in Return",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/security-guard-danger-pay.html",
+          "published": "2026-09-16T09:02:47+00:00"
+        },
+        {
+          "summary": "vivo Buds Clip 体验：42 小时续航的无感佩戴，音质好也舒服",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680291?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-16T05:55:43+00:00"
+        },
+        {
+          "summary": "我和我的 AI 手机吃了 3 顿饭",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1679951?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-16T04:04:48+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "美联储提高通胀率,特朗普:利率应该是1%",
+          "summary_en": "Fed Raises Rates to Curb Inflation, Trump: Rates Should Be 1%",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-rates-to-curb-inflation-trump-rates-should-be-1",
+          "published": "2026-09-17T00:47:46+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 5.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.84
+        },
+        {
+          "summary_zh": "美联储为遏制通货膨胀而迈出了第一步",
+          "summary_en": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+          "published": "2026-09-16T23:11:45+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 5.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.44
+        },
+        {
+          "summary_zh": "黄金持有量下降 后加价倒扣 霍克什和提高率",
+          "summary_en": "Gold Holds Decline After Fed Tilts Hawkish and Raises Rates",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-16/gold-holds-decline-after-fed-tilts-hawkish-and-raises-rates",
+          "published": "2026-09-16T23:54:12+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.61
+        },
+        {
+          "summary_zh": "美联储利率上涨未能平息麻烦的市场,因为道下跌了600分. 希望股票和债券的波动会更加剧烈。",
+          "summary_en": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+          "published": "2026-09-16T21:40:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.05
+        },
+        {
+          "summary_zh": "为什么特朗普亲手挑选的美联储主席通过提高利率来违抗他",
+          "summary_en": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T00:38:50+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.8
+        },
+        {
+          "summary_zh": "股票期货在美联储涨价后上涨 刺激市场销售:现场更新",
+          "summary_en": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+          "published": "2026-09-17T01:43:50+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.57
+        },
+        {
+          "summary_zh": "商界和经济学界的聪明人对美联储利率提高的看法",
+          "summary_en": "What smart people in business and economics are saying about the Fed interest rate hike",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/fed-hiked-interest-rates-what-economic-experts-say-comes-next-2026-9",
+          "published": "2026-09-16T22:30:30+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.26
+        },
+        {
+          "summary_zh": "联邦储备委员会和联邦开放市场委员会发布9月15日至16日FOMC会议的经济预测",
+          "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+          "published": "2026-09-16T18:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.34
+        },
+        {
+          "summary_zh": "穆斯克的长期支持者将SpaceX股权交给投资者",
+          "summary_en": "Musk’s long-time backer is giving SpaceX stock to its investors",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+          "published": "2026-09-16T23:50:07+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.09
+        },
+        {
+          "summary_zh": "A Deal Hunter 亚马逊总理大交易日指南( 2026)",
+          "summary_en": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+          "published": "2026-09-16T19:45:41+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.08
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Fed Raises Rates to Curb Inflation, Trump: Rates Should Be 1%",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-rates-to-curb-inflation-trump-rates-should-be-1",
+          "published": "2026-09-17T00:47:46+00:00"
+        },
+        {
+          "summary": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+          "published": "2026-09-16T23:11:45+00:00"
+        },
+        {
+          "summary": "Fed Hikes Rates to Tame Inflation, Trump Backs Warsh, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-17/fed-hikes-rates-to-tame-inflation-trump-backs-warsh-more",
+          "published": "2026-09-17T01:59:41+00:00"
+        },
+        {
+          "summary": "Fed Raises Rates, Trump Backs Warsh, Faults 'Hostile' Board",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-16/fed-raises-rates-trump-backs-warsh-faults-hostile-board",
+          "published": "2026-09-16T23:55:45+00:00"
+        },
+        {
+          "summary": "Gold Holds Decline After Fed Tilts Hawkish and Raises Rates",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-16/gold-holds-decline-after-fed-tilts-hawkish-and-raises-rates",
+          "published": "2026-09-16T23:54:12+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: The Fed Raises Rates (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-fed-raises-rates-podcast",
+          "published": "2026-09-16T22:42:28+00:00"
+        },
+        {
+          "summary": "Global Bonds Recover as Warsh’s Inflation Fight Calms Market",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/global-bonds-recover-as-warsh-s-inflation-fight-calms-market",
+          "published": "2026-09-17T02:15:47+00:00"
+        },
+        {
+          "summary": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/fed-rate-hike-fails-to-calm-troubled-markets-as-dow-falls-600-points-expect-more-sharp-swings-in-stocks-and-bonds-5ffb55fe?mod=mw_rss_topstories",
+          "published": "2026-09-16T21:40:00+00:00"
+        },
+        {
+          "summary": "Subscription for NSE’s India IPO Starts With Valuation in Focus",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/nse-subscription-for-india-ipo-starts-with-valuation-in-focus",
+          "published": "2026-09-17T01:00:00+00:00"
+        },
+        {
+          "summary": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T00:38:50+00:00"
+        },
+        {
+          "summary": "Stock futures rise after Fed's rate hike spurs a market sell-off: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+          "published": "2026-09-17T01:43:50+00:00"
+        },
+        {
+          "summary": "Takeaways From the Fed’s Decision to Raise Interest Rates",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/fed-meeting-interest-rates-warsh-takeaways.html",
+          "published": "2026-09-16T19:29:00+00:00"
+        },
+        {
+          "summary": "Interest rates hold expected but Bank of England facing tough choices",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-16T23:15:01+00:00"
+        },
+        {
+          "summary": "The Bank of Japan's Hardest Decision in Decades (Video)",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-09-17/the-bank-of-japan-s-hardest-decision-in-decades-video",
+          "published": "2026-09-17T02:36:57+00:00"
+        },
+        {
+          "summary": "What smart people in business and economics are saying about the Fed interest rate hike",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/fed-hiked-interest-rates-what-economic-experts-say-comes-next-2026-9",
+          "published": "2026-09-16T22:30:30+00:00"
+        },
+        {
+          "summary": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+          "published": "2026-09-16T22:25:00+00:00"
+        },
+        {
+          "summary": "Why the Fed Might Raise Interest Rates When Borrowing Costs Are Surging",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/fed-interest-rates-borrowing-costs.html",
+          "published": "2026-09-16T18:19:24+00:00"
+        },
+        {
+          "summary": "Generac’s stock soars more than 30% after Amazon deal cements company’s status as an AI power player",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/generacs-stock-soars-more-than-30-after-amazon-deal-cements-its-status-as-ai-power-player-a842b0dc?mod=mw_rss_topstories",
+          "published": "2026-09-16T21:56:00+00:00"
+        },
+        {
+          "summary": "Trump calls for slashing interest rates to '1% or less' after the Fed's first hike in 3 years",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/trump-tells-warsh-to-lower-interest-rates-to-1-fomc-2026-9",
+          "published": "2026-09-16T21:09:45+00:00"
+        },
+        {
+          "summary": "US interest rates raised for first time in three years",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T00:40:17+00:00"
+        },
+        {
+          "summary": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
+          "published": "2026-09-17T00:36:33+00:00"
+        },
+        {
+          "summary": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+          "published": "2026-09-16T23:51:00+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+          "published": "2026-09-16T18:00:00+00:00"
+        },
+        {
+          "summary": "Watch: How will higher interest rates impact US consumers?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-16T22:26:10+00:00"
+        },
+        {
+          "summary": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+          "published": "2026-09-16T20:10:01+00:00"
+        },
+        {
+          "summary": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+          "published": "2026-09-16T23:45:02+00:00"
+        },
+        {
+          "summary": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+          "published": "2026-09-16T19:38:41+00:00"
+        },
+        {
+          "summary": "3 takeaways for what the first Fed hike in 3 years means for your wallet",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/3-takeaways-from-the-september-fed-meeting-rate-hike-2026-9",
+          "published": "2026-09-16T19:49:19+00:00"
+        },
+        {
+          "summary": "I'm an American mom raising 2 kids in Italy. Parenting here is completely different.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/american-raising-kids-in-italy-differences-parenting-abroad-2026-9",
+          "published": "2026-09-16T22:10:01+00:00"
+        },
+        {
+          "summary": "Musk’s long-time backer is giving SpaceX stock to its investors",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+          "published": "2026-09-16T23:50:07+00:00"
+        },
+        {
+          "summary": "Federal Reserve issues FOMC statement",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+          "published": "2026-09-16T18:00:00+00:00"
+        },
+        {
+          "summary": "A Deal Hunter’s Guide to Amazon Prime Big Deal Days (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/amazon-prime-day-october-2026-tips/",
+          "published": "2026-09-16T19:45:41+00:00"
+        },
+        {
+          "summary": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+          "published": "2026-09-16T19:35:29+00:00"
+        },
+        {
+          "summary": "How to connect AI usage to business value",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "published": "2026-09-16T12:00:00+00:00"
+        },
+        {
+          "summary": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+          "published": "2026-09-16T18:45:35+00:00"
+        },
+        {
+          "summary": "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
+          "published": "2026-09-16T10:00:00-04:00"
+        },
+        {
+          "summary": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+          "published": "2026-09-16T16:40:11+00:00"
+        },
+        {
+          "summary": "May Mobility is going public in a $1.4B SPAC deal",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+          "published": "2026-09-16T15:27:13+00:00"
+        },
+        {
+          "summary": "Snap Specs launch 2026: Live updates from CEO Evan Spiegel's keynote",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2260114/snap-specs-launch-live-blog-evan-spiegel-keynote/",
+          "published": "2026-09-16T15:00:00+00:00"
+        },
+        {
+          "summary": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+          "published": "2026-09-16T18:22:11+00:00"
+        },
+        {
+          "summary": "Lawmakers target Flock cameras with a threat to highway funding",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+          "published": "2026-09-16T14:03:39+00:00"
+        },
+        {
+          "summary": "Recovery Rates Are Not Comparable Across Transcription Factors: Chance Correction for Attribution Evaluation",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16271",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Repurposing Deep Limit Order Book Forecasting for Scenario-Conditioned Market Impact Modeling",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16930",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "FactorEngine: A Program-level Knowledge-Infused Factor Mining Framework for Quantitative Investment",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.16365",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Z-Loss Backward Geometry in Dense Output Heads and Sparse Routers",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16179",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Noise2Noise Revisited: Training Pair Distributions Dominate Loss Choice in Self-Supervised Denoising",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16788",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680322?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-16T04:04:59+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "如何使用 AI 代理为模拟准备 三维相片",
+          "summary_en": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+          "published": "2026-09-16T23:20:33+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 14.17
+        },
+        {
+          "summary_zh": "用开源代理技能改进HCLS AI推理",
+          "summary_en": "Improving HCLS AI reasoning with open-source agent skills",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+          "published": "2026-09-16T19:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.59
+        },
+        {
+          "summary_zh": "帮助老年人在日常生活中使用AI",
+          "summary_en": "Helping older adults use AI in everyday life",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "published": "2026-09-16T16:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.34
+        },
+        {
+          "summary_zh": "末端到末端的 LLM 最小化并装入减压请求 代理人工智能服务的推论",
+          "summary_en": "End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17193",
+          "published": "2026-09-16T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.64
+        },
+        {
+          "summary_zh": "基于证据的自闭症频谱障碍筛查的多模式大型语言模型",
+          "summary_en": "A multimodal large language model for evidence-based autism spectrum disorder screening",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16464",
+          "published": "2026-09-16T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.64
+        },
+        {
+          "summary_zh": "你的人工智能探员现在可以控制你的Google Home设备",
+          "summary_en": "Your AI agents can now control your Google Home devices",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "published": "2026-09-16T17:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.89
+        },
+        {
+          "summary_zh": "OpenAI在公布追踪流氓特工的新计划时,",
+          "summary_en": "OpenAI reveals 6 more safety incidents as it announces new plans for tracking rogue agents",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9",
+          "published": "2026-09-17T02:13:37+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.69
+        },
+        {
+          "summary_zh": "Google现在会让任何AI特工 管理你的聪明家",
+          "summary_en": "Google will now let any AI agent run your smart home",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "published": "2026-09-16T13:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.39
+        },
+        {
+          "summary_zh": "权力平衡:特朗普 立法者在AI安全上的冲突(播客)",
+          "summary_en": "Balance of Power: Trump, Lawmakers Clash on AI Safety (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-16/balance-of-power-trump-lawmakers-clash-on-ai-safety-podcast",
+          "published": "2026-09-16T20:27:57+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.25
+        },
+        {
+          "summary_zh": "前Infosys酋长的人工智能启动计划 另有5300美元",
+          "summary_en": "Former Infosys chief’s AI startup nabs another $53M",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "published": "2026-09-16T13:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.89
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How to Use AI Agents to Prepare 3D Scenes for Simulation",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
+          "published": "2026-09-16T23:20:33+00:00"
+        },
+        {
+          "summary": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+          "published": "2026-09-16T20:37:07+00:00"
+        },
+        {
+          "summary": "Improving HCLS AI reasoning with open-source agent skills",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/improving-hcls-ai-reasoning-with-open-source-agent-skills/",
+          "published": "2026-09-16T19:00:00+00:00"
+        },
+        {
+          "summary": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+          "published": "2026-09-16T16:28:59+00:00"
+        },
+        {
+          "summary": "Helping older adults use AI in everyday life",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "published": "2026-09-16T16:00:00+00:00"
+        },
+        {
+          "summary": "Reimagining advertising with AI",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "published": "2026-09-16T13:00:00+00:00"
+        },
+        {
+          "summary": "Our framework for reporting model misalignment",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "published": "2026-09-16T17:00:00+00:00"
+        },
+        {
+          "summary": "Fault tolerant distributed training on Amazon EKS using NVRx",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/fault-tolerant-distributed-training-on-amazon-eks-using-nvrx/",
+          "published": "2026-09-16T18:59:25+00:00"
+        },
+        {
+          "summary": "Optimizing agent system prompts with Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-agent-system-prompts-with-amazon-bedrock-agentcore/",
+          "published": "2026-09-16T15:47:39+00:00"
+        },
+        {
+          "summary": "Build a serverless PII redaction pipeline with Amazon Bedrock Data Automation",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-pii-redaction-pipeline-with-amazon-bedrock-data-automation/",
+          "published": "2026-09-16T15:17:37+00:00"
+        },
+        {
+          "summary": "End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17193",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2607.19837",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "A multimodal large language model for evidence-based autism spectrum disorder screening",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16464",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Window-Diffusion: Accelerating Diffusion Language Model Inference with Windowed Token Pruning and Caching",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2601.20332",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "How workers are unlocking new ways of working",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "published": "2026-09-16T09:00:00+00:00"
+        },
+        {
+          "summary": "AquiLLM: Evaluating Faithfulness in Open-Weight RAG-LLM Systems for Scientific Research",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16519",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "AI for Games in the Foundation Model Era",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16679",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "LLM Inference in a Flash!",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16161",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Certified Inference and Training for Deep Equilibrium Networks: A Continuation Framework with Polynomial Complexity Guarantees",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.16485",
+          "published": "2026-09-16T00:00:00-04:00"
+        },
+        {
+          "summary": "Your AI agents can now control your Google Home devices",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "published": "2026-09-16T17:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI reveals 6 more safety incidents as it announces new plans for tracking rogue agents",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-unveils-a-system-for-reporting-rogue-ai-agent-behavior-2026-9",
+          "published": "2026-09-17T02:13:37+00:00"
+        },
+        {
+          "summary": "Google will now let any AI agent run your smart home",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "published": "2026-09-16T13:00:00-04:00"
+        },
+        {
+          "summary": "Balance of Power: Trump, Lawmakers Clash on AI Safety (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-16/balance-of-power-trump-lawmakers-clash-on-ai-safety-podcast",
+          "published": "2026-09-16T20:27:57+00:00"
+        },
+        {
+          "summary": "Former Infosys chief’s AI startup nabs another $53M",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "published": "2026-09-16T13:00:00+00:00"
+        },
+        {
+          "summary": "Threads’ new features let podcasters promote shows and reach listeners",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+          "published": "2026-09-16T14:24:58+00:00"
+        },
+        {
+          "summary": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+          "published": "2026-09-16T14:15:00+00:00"
+        },
+        {
+          "summary": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "published": "2026-09-16T14:00:00+00:00"
+        },
+        {
+          "summary": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://harnesstax.github.io/",
+          "published": "2026-09-16T22:10:13+00:00"
+        },
+        {
+          "summary": "Xiaomi Mimo 2.6 live post-training dashboard",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://mimo.xiaomi.com/rl/",
+          "published": "2026-09-16T20:09:18+00:00"
+        },
+        {
+          "summary": "Training a 4B model to produce 81% faster query plans than Postgres",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://rohanbansal.com/qorl",
+          "published": "2026-09-16T18:50:00+00:00"
+        },
+        {
+          "summary": "Training Text-to-Image Models 3.6× Faster",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.linum.ai/field-notes/jit-ddt",
+          "published": "2026-09-16T16:58:13+00:00"
+        }
+      ]
+    }
+  }
+}
