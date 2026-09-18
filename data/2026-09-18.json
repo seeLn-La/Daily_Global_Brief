@@ -1,0 +1,1261 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T02:27:08.370747+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Waymo说新加坡将成为下一个国际机器人城",
+          "summary_en": "Waymo says Singapore will be its next international robotaxi city",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+          "published": "2026-09-17T22:00:00-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+          "summary_en": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680525?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-18T00:04:28+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "霍斯拉支持的马扎马 刚筹集了135美元 钻入超热岩地热",
+          "summary_en": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+          "published": "2026-09-18T00:02:36+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "eGPU是工作, 但他们有一些显著的限制",
+          "summary_en": "eGPUs do work, but they come with some notable limitations",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
+          "published": "2026-09-17T23:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.44
+        },
+        {
+          "summary_zh": "以下是AI启示录可能的样子:",
+          "summary_en": "Here’s What the AI Apocalypse Could Look Like",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+          "published": "2026-09-17T22:20:21+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.27
+        },
+        {
+          "summary_zh": "弯腰 在 CPU 和 GPU 上通过证明屏蔽 AI 错误的语言",
+          "summary_en": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://bend-lang.com/",
+          "published": "2026-09-17T20:36:13+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 3.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "美国的AI芯片人才危机——为什么美国需要157,000名更多工人.",
+          "summary_en": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+          "published": "2026-09-17T21:16:59+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.51
+        },
+        {
+          "summary_zh": "Huawei计划Q1 2027在Nvidia上推出新的AI芯片",
+          "summary_en": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+          "published": "2026-09-17T14:06:14+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.21
+        },
+        {
+          "summary_zh": "下载:有半人脑和气候技术革新者的老鼠",
+          "summary_en": "The Download: mice with part-human brains and climate tech innovators",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+          "published": "2026-09-17T12:10:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.73
+        },
+        {
+          "summary_zh": "Google DeepMind 发射研究所扩大AGI辩论范围",
+          "summary_en": "Google DeepMind launches institute to widen the AGI debate",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+          "published": "2026-09-17T23:21:17+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.53
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Waymo says Singapore will be its next international robotaxi city",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+          "published": "2026-09-17T22:00:00-04:00"
+        },
+        {
+          "summary": "早报｜赛力斯回应「问界撤出华为门店」/豆包座舱助手发布/罗永浩否认为钟薛高重启造势",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680525?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-18T00:04:28+00:00"
+        },
+        {
+          "summary": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+          "published": "2026-09-18T00:02:36+00:00"
+        },
+        {
+          "summary": "Google DeepMind launches institute to widen the AGI debate",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+          "published": "2026-09-17T23:21:17+00:00"
+        },
+        {
+          "summary": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+          "published": "2026-09-17T23:08:24+00:00"
+        },
+        {
+          "summary": "eGPUs do work, but they come with some notable limitations",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2257761/egpu-come-with-limitations/",
+          "published": "2026-09-17T23:00:00+00:00"
+        },
+        {
+          "summary": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
+          "published": "2026-09-17T22:30:01+00:00"
+        },
+        {
+          "summary": "Here’s What the AI Apocalypse Could Look Like",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+          "published": "2026-09-17T22:20:21+00:00"
+        },
+        {
+          "summary": "FAA says laser strikes on aircraft fell for the third consecutive year",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
+          "published": "2026-09-17T22:15:46+00:00"
+        },
+        {
+          "summary": "The FAA’s plan to fix air traffic? $875M worth of AI",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+          "published": "2026-09-17T22:14:59+00:00"
+        },
+        {
+          "summary": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://bend-lang.com/",
+          "published": "2026-09-17T20:36:13+00:00"
+        },
+        {
+          "summary": "26 Amazon Prime Perks You Might Know You Have (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/amazon-prime-perks/",
+          "published": "2026-09-17T20:21:04+00:00"
+        },
+        {
+          "summary": "The AI ‘Slowdown’ Is an Antitrust Mess",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+          "published": "2026-09-17T19:58:28+00:00"
+        },
+        {
+          "summary": "The AI Superintelligence Slowdown",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+          "published": "2026-09-17T15:28:24-04:00"
+        },
+        {
+          "summary": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/us-chipmakers-face-deep-labor-shortage-samsung-micron-sound-alarm.html",
+          "published": "2026-09-17T21:16:59+00:00"
+        },
+        {
+          "summary": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
+          "published": "2026-09-17T19:15:00+00:00"
+        },
+        {
+          "summary": "Jensen Huang says Nvidia will sell twice as many chips next year",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+          "published": "2026-09-17T21:00:47+00:00"
+        },
+        {
+          "summary": "Candy Crush developers are planning a strike for next week",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
+          "published": "2026-09-17T18:58:17+00:00"
+        },
+        {
+          "summary": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+          "published": "2026-09-17T14:06:14+00:00"
+        },
+        {
+          "summary": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
+          "published": "2026-09-17T19:57:41+00:00"
+        },
+        {
+          "summary": "Telstra outage: The night a network decided the year was 2006",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006",
+          "published": "2026-09-18T01:05:03+00:00"
+        },
+        {
+          "summary": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/aardappel/goose/tree/master",
+          "published": "2026-09-18T01:04:54+00:00"
+        },
+        {
+          "summary": "Flet 1.0 – Build cross-platform apps in Python",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://flet.dev/",
+          "published": "2026-09-17T20:44:28+00:00"
+        },
+        {
+          "summary": "Save $30 or more on a refurbished Apple TV 4K",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+          "published": "2026-09-17T13:14:07-04:00"
+        },
+        {
+          "summary": "零跑官宣第二品牌，新车将有小米 SUV 同款升顶能力",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680808?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-17T16:52:31+00:00"
+        },
+        {
+          "summary": "23.18 万元起，小鹏 G9L 正式上市，王凤英：全球无对手！",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680790?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-17T16:47:41+00:00"
+        },
+        {
+          "summary": "The Download: mice with part-human brains and climate tech innovators",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+          "published": "2026-09-17T12:10:00+00:00"
+        },
+        {
+          "summary": "Xbox’s clever disc-to-digital feature was 15 years in the making",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
+          "published": "2026-09-17T12:00:00-04:00"
+        },
+        {
+          "summary": "Meet the innovators under 35 shaping climate tech",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+          "published": "2026-09-17T10:00:00+00:00"
+        },
+        {
+          "summary": "Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+          "published": "2026-09-17T15:54:07+00:00"
+        },
+        {
+          "summary": "刚刚，智谱首个 RSI 成果发布，10 万国产卡用 GLM 造 GLM",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680560?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-17T09:56:01+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "英格兰银行持有利率稳定但通货膨胀高的警告",
+          "summary_en": "Bank of England Holds Rates Steady but Warns of Higher Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/17/business/bank-of-england-interest-rates.html",
+          "published": "2026-09-18T00:57:10+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.93
+        },
+        {
+          "summary_zh": "Gold Holds Gears as Lower Oil and Fed Hike Temper 通货膨胀恐惧症",
+          "summary_en": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/gold-holds-gain-as-lower-oil-and-fed-hike-temper-inflation-fears",
+          "published": "2026-09-18T00:15:16+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.75
+        },
+        {
+          "summary_zh": "每个人的生意:你在认知缺陷中吗? (播报)",
+          "summary_en": "Everybody's Business: Are You in a Cognitive Deficit? (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-18/everybody-s-business-are-you-in-a-cognitive-deficit-podcast",
+          "published": "2026-09-18T00:25:09+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "股票期货在周四Fed后回放后几乎没有变化:直播更新",
+          "summary_en": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+          "published": "2026-09-18T01:40:59+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "海利要求欧盟财政部长让英国加入工业计划",
+          "summary_en": "Healey to ask EU finance ministers to let UK into industry scheme",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T22:07:01+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.22
+        },
+        {
+          "summary_zh": "亚马逊的大型新货推向沃尔玛最大的优势 美国银行说",
+          "summary_en": "Amazon's big, new delivery push targets Walmart's biggest advantage, Bank of America says",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/amazons1000-hub-same-day-delivery-bet-catching-walmart-bofa-analyst-2026-9",
+          "published": "2026-09-17T22:05:48+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.21
+        },
+        {
+          "summary_zh": "微量,英特尔和其他芯片股票 正在推动他们的强回升",
+          "summary_en": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+          "published": "2026-09-17T21:22:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.03
+        },
+        {
+          "summary_zh": "证交会关于便利国家监测系统库存交易的“创新豁免”问题和征求评论意见",
+          "summary_en": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+          "published": "2026-09-17T08:55:00-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.12
+        },
+        {
+          "summary_zh": "Crusoe筹集了3.9B来建设大型数据中心和小型模块化的 \" AI工厂 \"",
+          "summary_en": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "published": "2026-09-17T23:25:52+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.05
+        },
+        {
+          "summary_zh": "酷利如何加速IPO与ChatGPT的合作",
+          "summary_en": "How Cooley is accelerating IPO work with ChatGPT",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/cooley-gopublic",
+          "published": "2026-09-17T12:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.89
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Bank of England Holds Rates Steady but Warns of Higher Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/17/business/bank-of-england-interest-rates.html",
+          "published": "2026-09-18T00:57:10+00:00"
+        },
+        {
+          "summary": "Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/gold-holds-gain-as-lower-oil-and-fed-hike-temper-inflation-fears",
+          "published": "2026-09-18T00:15:16+00:00"
+        },
+        {
+          "summary": "Stocks Rise as Oil Declines, Yen Slips Before BOJ: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-09-17T22:14:33+00:00"
+        },
+        {
+          "summary": "RBA: Firms Starting to Ask If Inflation Coming Back Under 3%",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/rba-firms-starting-to-ask-if-inflation-coming-back-under-3",
+          "published": "2026-09-18T01:32:20+00:00"
+        },
+        {
+          "summary": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+          "published": "2026-09-17T13:31:14+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/fridays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+          "published": "2026-09-17T23:10:06+00:00"
+        },
+        {
+          "summary": "Vietnam Stocks See Early Foreign Inflows as FTSE Upgrade Nears",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/vietnam-stocks-see-early-foreign-inflows-as-ftse-upgrade-nears",
+          "published": "2026-09-18T00:28:51+00:00"
+        },
+        {
+          "summary": "Everybody's Business: Are You in a Cognitive Deficit? (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-18/everybody-s-business-are-you-in-a-cognitive-deficit-podcast",
+          "published": "2026-09-18T00:25:09+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after Thursday's post-Fed bounce: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+          "published": "2026-09-18T01:40:59+00:00"
+        },
+        {
+          "summary": "Stock Movers: Generac, AutoNation, Ultragenyx (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-17/stock-movers-generac-autonation-ultragenyx-podcast",
+          "published": "2026-09-17T22:38:25+00:00"
+        },
+        {
+          "summary": "As Fed raises rates, income investors can buy these bonds for solid yields and a portfolio cushion",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/as-fed-raises-rates-income-investors-can-buy-these-bonds-for-solid-yields-and-a-portfolio-cushion-.html",
+          "published": "2026-09-17T20:34:04+00:00"
+        },
+        {
+          "summary": "US Delays Capacity Tariffs, Kennedy Center Notice Order, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-09-18/us-delays-capacity-tariffs-kennedy-center-notice-order-more",
+          "published": "2026-09-18T02:08:33+00:00"
+        },
+        {
+          "summary": "Healey to ask EU finance ministers to let UK into industry scheme",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T22:07:01+00:00"
+        },
+        {
+          "summary": "Amazon's big, new delivery push targets Walmart's biggest advantage, Bank of America says",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/amazons1000-hub-same-day-delivery-bet-catching-walmart-bofa-analyst-2026-9",
+          "published": "2026-09-17T22:05:48+00:00"
+        },
+        {
+          "summary": "Kim’s Sister Says US Drills Push North Korea Nuclear Arms Growth",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/kim-s-sister-says-us-drills-push-north-korea-grow-nuclear-arms",
+          "published": "2026-09-18T02:01:23+00:00"
+        },
+        {
+          "summary": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+          "published": "2026-09-17T21:22:00+00:00"
+        },
+        {
+          "summary": "King Charles Meets With A.I. Executives About Safety Risks",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html",
+          "published": "2026-09-18T00:59:40+00:00"
+        },
+        {
+          "summary": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+          "published": "2026-09-18T01:04:06+00:00"
+        },
+        {
+          "summary": "Early Bowie music available to stream for first time",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T23:01:03+00:00"
+        },
+        {
+          "summary": "Why we bought our first home with a 100% mortgage - despite the risks",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T23:00:53+00:00"
+        },
+        {
+          "summary": "The virtual worlds where robots are trained",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-09-17T23:00:47+00:00"
+        },
+        {
+          "summary": "This is the only cybersecurity stock that can post big gains, according to one analyst",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/this-is-the-only-cybersecurity-stock-that-can-post-big-gains-according-to-one-analyst-8ffe034f?mod=mw_rss_topstories",
+          "published": "2026-09-17T18:46:00+00:00"
+        },
+        {
+          "summary": "Netflix's 'Monster' makes Lizzie Borden's maid her lover and accomplice. Here's what we know about the real Bridget Sullivan.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/who-was-bridget-sullivan-true-story-lizzie-borden-murders-2026-9",
+          "published": "2026-09-17T22:31:05+00:00"
+        },
+        {
+          "summary": "Billionaire investor David Einhorn says younger people are too 'impatient' to build wealth or buy a house",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/david-einhorn-young-people-buying-a-house-investing-building-wealth-2026-9",
+          "published": "2026-09-17T18:26:46+00:00"
+        },
+        {
+          "summary": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+          "published": "2026-09-17T08:55:00-04:00"
+        },
+        {
+          "summary": "Searing Elon Musk Film Nears U.S. Release Amid Overseas Concerns",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/09/17/business/media/elon-musk-documentary-release.html",
+          "published": "2026-09-17T21:40:49+00:00"
+        },
+        {
+          "summary": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+          "published": "2026-09-17T23:25:52+00:00"
+        },
+        {
+          "summary": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+          "published": "2026-09-17T21:22:00+00:00"
+        },
+        {
+          "summary": "A televangelist's nephew reveals what he saw and why he left the flock",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/televangelist-benny-hinn-nephew-criticizes-prosperity-gospel-2026-9",
+          "published": "2026-09-17T21:19:45+00:00"
+        },
+        {
+          "summary": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+          "published": "2026-09-17T21:09:00+00:00"
+        },
+        {
+          "summary": "How Cooley is accelerating IPO work with ChatGPT",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/cooley-gopublic",
+          "published": "2026-09-17T12:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+          "published": "2026-09-17T10:00:00-04:00"
+        },
+        {
+          "summary": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17632",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Market Signal Injection: Adversarial Context Manipulation of LLM Pricing Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18357",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "HPOQuest: A Rare-Disease Diagnostic Agent Using Active Phenotype Acquisition",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18431",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Collective Loss of Control in LLM Agent Systems: An Epidemic Account of Mutation, Contagion, and Recovery",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18460",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Disentangling Algorithmic Bias from Archival Artifacts: A Controlled Audit of Vision-Language Model Valuation in Metropolitan Museum Archives",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17572",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Beyond Quadratic Loss: The Stability Phase Diagram of Adam",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18314",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Fast Learning Rates for Physics-Informed Kernel Methods",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18901",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Curvature-aware Expected Free Energy as an Acquisition Function for Bayesian Optimization",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.26339",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "The GDP-per-person slowdown threatens global living standards",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-gdp-per-person-slowdown-threatens-global-living-standards",
+          "published": "2026-09-17T10:30:49+00:00"
+        },
+        {
+          "summary": "The trickle-down economics of the AI boom",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/the-trickle-down-economics-of-the-ai-boom",
+          "published": "2026-09-17T09:27:11+00:00"
+        },
+        {
+          "summary": "Ricardo Reis was too frank for the IMF",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/17/ricardo-reis-was-too-frank-for-the-imf",
+          "published": "2026-09-17T09:24:30+00:00"
+        },
+        {
+          "summary": "Iceland-based Treble raises $18 million for its voice simulation platform",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+          "published": "2026-09-17T05:00:00+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "怎么样MRH Trowe使金融服务机构能够提供安全的自助服务",
+          "summary_en": "How MRH Trowe enabled secure self-service AI agents in financial services",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
+          "published": "2026-09-17T15:36:42+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.79
+        },
+        {
+          "summary_zh": "实践的未来:使教师能够创建与遗传性UI的学习互动",
+          "summary_en": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+          "published": "2026-09-17T20:45:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.08
+        },
+        {
+          "summary_zh": "使全球数据更容易探索",
+          "summary_en": "Making global data easier to explore",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+          "published": "2026-09-17T20:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.89
+        },
+        {
+          "summary_zh": "TuimL: 人工智能代理的机器学习",
+          "summary_en": "TuiML: Machine Learning for AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17984",
+          "published": "2026-09-17T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.69
+        },
+        {
+          "summary_zh": "Beyond Statistic RAG:关于商品GPU高效长效推导的可适应、三分尺的运行框架",
+          "summary_en": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17564",
+          "published": "2026-09-17T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.69
+        },
+        {
+          "summary_zh": "PrismML希望它的微小LLM能改变我们使用AI的方式",
+          "summary_en": "PrismML hopes its tiny LLM will change how we all use AI",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+          "published": "2026-09-17T22:34:09+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.33
+        },
+        {
+          "summary_zh": "Google修改后的CC是针对家庭和团体的AI代理商.",
+          "summary_en": "Google's revamped CC is an AI agent for families and groups",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+          "published": "2026-09-17T22:55:08+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.92
+        },
+        {
+          "summary_zh": "里瓦尔AI的特工,Instinct和Meta的Muse,都增加了打电话的能力",
+          "summary_en": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "published": "2026-09-17T13:46:16+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.13
+        },
+        {
+          "summary_zh": "Claude Code重启管理云中多个人工智能代理的项目",
+          "summary_en": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+          "published": "2026-09-17T14:58:05-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.93
+        },
+        {
+          "summary_zh": "Alex Karp说AI的安全辩论 真的是关于AI实验室国有化的",
+          "summary_en": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9",
+          "published": "2026-09-17T18:31:51+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How MRH Trowe enabled secure self-service AI agents in financial services",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-mrh-trowe-enabled-secure-self-service-ai-agents-in-financial-services/",
+          "published": "2026-09-17T15:36:42+00:00"
+        },
+        {
+          "summary": "Reduce time-to-hire for quality candidates with AI-powered Amazon Connect Talent",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/reduce-time-to-hire-for-quality-candidates-with-ai-powered-amazon-connect-talent/",
+          "published": "2026-09-17T17:55:20+00:00"
+        },
+        {
+          "summary": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+          "published": "2026-09-17T20:45:00+00:00"
+        },
+        {
+          "summary": "Making global data easier to explore",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+          "published": "2026-09-17T20:00:00+00:00"
+        },
+        {
+          "summary": "Enhancing industrial safety AI with synthetic data on Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/enhancing-industrial-safety-ai-with-synthetic-data-on-amazon-sagemaker-ai/",
+          "published": "2026-09-17T15:28:08+00:00"
+        },
+        {
+          "summary": "Selecting a vector store for Amazon Bedrock Knowledge Bases",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/selecting-a-vector-store-for-amazon-bedrock-knowledge-bases/",
+          "published": "2026-09-17T15:53:13+00:00"
+        },
+        {
+          "summary": "TuiML: Machine Learning for AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17984",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17989",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Hypothesis-Driven Autonomous Materials Synthesis with Multimodal LLM Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18598",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "GraphEcho: Structural Redundancy and Evidence Provenance in LLM Graph Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17695",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Beyond Static RAG: An Adaptive, Tri-Metric Routing Framework for Efficient Long-Context Inference on Commodity GPUs",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17564",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Dataset-Dependent Effects of Cross-Depth Aggregation and Soft-Routed Experts in EEG Foundation Model Fine-Tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17886",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.17943",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "Structural Inference under Hidden Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.18045",
+          "published": "2026-09-17T00:00:00-04:00"
+        },
+        {
+          "summary": "PrismML hopes its tiny LLM will change how we all use AI",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+          "published": "2026-09-17T22:34:09+00:00"
+        },
+        {
+          "summary": "The fix for rogue AI agents could be more AI",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+          "published": "2026-09-17T20:34:47+00:00"
+        },
+        {
+          "summary": "UN turns to Google to make its global data ready for AI agents",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+          "published": "2026-09-17T20:00:00+00:00"
+        },
+        {
+          "summary": "Google's revamped CC is an AI agent for families and groups",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+          "published": "2026-09-17T22:55:08+00:00"
+        },
+        {
+          "summary": "Is the AI safety debate about safety or control?",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+          "published": "2026-09-17T20:19:37+00:00"
+        },
+        {
+          "summary": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "published": "2026-09-17T13:46:16+00:00"
+        },
+        {
+          "summary": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+          "published": "2026-09-17T14:58:05-04:00"
+        },
+        {
+          "summary": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+          "published": "2026-09-17T13:38:33+00:00"
+        },
+        {
+          "summary": "Alex Karp says the AI safety debate is really about nationalizing AI labs",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/palantir-alex-karp-ai-safety-debate-nationalizing-ai-labs-2026-9",
+          "published": "2026-09-17T18:31:51+00:00"
+        },
+        {
+          "summary": "2 days left to exhibit at TechCrunch Disrupt 2026",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+          "published": "2026-09-17T14:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI reveals more instances of concerning AI model behaviors during testing",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2260974/openai-details-instances-of-models-fabricating-information-hiding-from-testers/",
+          "published": "2026-09-17T10:50:20+00:00"
+        },
+        {
+          "summary": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "published": "2026-09-17T03:30:00+00:00"
+        },
+        {
+          "summary": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://news.ycombinator.com/item?id=49743049",
+          "published": "2026-09-17T16:22:15+00:00"
+        },
+        {
+          "summary": "对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1680321?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-09-17T06:06:44+00:00"
+        }
+      ]
+    }
+  }
+}
