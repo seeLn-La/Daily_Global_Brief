@@ -1,0 +1,1317 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T03:31:17.750141+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "创始人指南 TechCrunch Disrupt 2026: 你需要知道的一切",
+          "summary_en": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published": "2026-10-12T00:59:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.67
+        },
+        {
+          "summary_zh": "向美国进口外国电话的利弊",
+          "summary_en": "The pros and cons of importing foreign phones to the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281332/pros-cons-import-foreign-phone-us/",
+          "published": "2026-10-12T00:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.55
+        },
+        {
+          "summary_zh": "HashiCorp 存档边界开源回波",
+          "summary_en": "HashiCorp archives the Boundary open source repo",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/hashicorp/boundary",
+          "published": "2026-10-12T00:02:45+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.63
+        },
+        {
+          "summary_zh": "伊利诺伊州一所大学试图取消Flock的联系,但被拒绝了",
+          "summary_en": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+          "published": "2026-10-11T16:06:43-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "评论:4小时的穆斯克纪录片感觉像两部不同的电影.",
+          "summary_en": "Review: 4-hour Musk documentary feels like two different films",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+          "published": "2026-10-11T18:10:54+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.97
+        },
+        {
+          "summary_zh": "\"机会之窗\"结束乌克兰战争 SACEUR说",
+          "summary_en": "'Windows of Opportunity' to End War in Ukraine, SACEUR Says",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-11/digi-full-intv-gen-alexus-g-grynkewich-nato-supreme-allied-commander-europe",
+          "published": "2026-10-11T17:41:23+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.34
+        },
+        {
+          "summary_zh": "Mbps Vs MB/s:这些速度意味着什么?",
+          "summary_en": "Mbps Vs MB/s: What do these speeds mean?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281288/megabits-vs-megabytes-what-speeds-mean/",
+          "published": "2026-10-11T23:45:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.36
+        },
+        {
+          "summary_zh": "Xbox系列S比系列X便宜很多的原因",
+          "summary_en": "The reason the Xbox Series S is so much cheaper than the Series X",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason/",
+          "published": "2026-10-11T23:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.3
+        },
+        {
+          "summary_zh": "为什么日本跟传统翻转电话说再见",
+          "summary_en": "Why Japan said goodbye to traditional flip phones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
+          "published": "2026-10-11T23:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.17
+        },
+        {
+          "summary_zh": "HomeView会不会是苹果公司首次聪明的家事成功?",
+          "summary_en": "Will the HomeView be Apple’s first smart home success?",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "published": "2026-10-11T21:14:40+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.73
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published": "2026-10-12T00:59:01+00:00"
+        },
+        {
+          "summary": "The pros and cons of importing foreign phones to the US",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281332/pros-cons-import-foreign-phone-us/",
+          "published": "2026-10-12T00:30:00+00:00"
+        },
+        {
+          "summary": "Mbps Vs MB/s: What do these speeds mean?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281288/megabits-vs-megabytes-what-speeds-mean/",
+          "published": "2026-10-11T23:45:00+00:00"
+        },
+        {
+          "summary": "The reason the Xbox Series S is so much cheaper than the Series X",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason/",
+          "published": "2026-10-11T23:30:00+00:00"
+        },
+        {
+          "summary": "Why Japan said goodbye to traditional flip phones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
+          "published": "2026-10-11T23:00:00+00:00"
+        },
+        {
+          "summary": "Will the HomeView be Apple’s first smart home success?",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "published": "2026-10-11T21:14:40+00:00"
+        },
+        {
+          "summary": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+          "published": "2026-10-11T20:51:47+00:00"
+        },
+        {
+          "summary": "HashiCorp archives the Boundary open source repo",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/hashicorp/boundary",
+          "published": "2026-10-12T00:02:45+00:00"
+        },
+        {
+          "summary": "A college in Illinois tried to cancel its Flock contact and it refused",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+          "published": "2026-10-11T16:06:43-04:00"
+        },
+        {
+          "summary": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "published": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "summary": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "published": "2026-10-11T14:33:56-04:00"
+        },
+        {
+          "summary": "Review: 4-hour Musk documentary feels like two different films",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+          "published": "2026-10-11T18:10:54+00:00"
+        },
+        {
+          "summary": "Doory – Open-Source Canva",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/shaongitbd/doory",
+          "published": "2026-10-12T00:48:27+00:00"
+        },
+        {
+          "summary": "The new Apple TV could have a built-in mic and a remote with a speaker",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
+          "published": "2026-10-11T13:31:07-04:00"
+        },
+        {
+          "summary": "Whatever became of holography? (2011)",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+          "published": "2026-10-11T23:50:34+00:00"
+        },
+        {
+          "summary": "Illustration Beyond Proof",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+          "published": "2026-10-11T23:22:36+00:00"
+        },
+        {
+          "summary": "'Windows of Opportunity' to End War in Ukraine, SACEUR Says",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-11/digi-full-intv-gen-alexus-g-grynkewich-nato-supreme-allied-commander-europe",
+          "published": "2026-10-11T17:41:23+00:00"
+        },
+        {
+          "summary": "NASA dumped over 800GB of Artemis II data online",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+          "published": "2026-10-11T11:34:40-04:00"
+        },
+        {
+          "summary": "Prime Video unveils Blade Runner 2099 full trailer at NYCC",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+          "published": "2026-10-11T14:50:24+00:00"
+        },
+        {
+          "summary": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T14:38:10+00:00"
+        },
+        {
+          "summary": "Trump's AI rebrand is catching on with tech leaders like Elon Musk and Satya Nadella",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/trump-ai-rebrand-elon-musk-marc-benioff-2026-10",
+          "published": "2026-10-11T14:28:48+00:00"
+        },
+        {
+          "summary": "AI is automating coding. So why are software developer job postings on the rise?",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+          "published": "2026-10-11T13:30:01+00:00"
+        },
+        {
+          "summary": "I Made Terrible Games With Google’s AI Playground",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+          "published": "2026-10-11T11:30:00+00:00"
+        },
+        {
+          "summary": "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+          "published": "2026-10-11T12:54:04+00:00"
+        },
+        {
+          "summary": "13 Best Gifts for Every Traveler Should Have (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-gifts-for-travelers/",
+          "published": "2026-10-11T10:33:00+00:00"
+        },
+        {
+          "summary": "Inside the Muslim Manosphere Policing Women Online",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/",
+          "published": "2026-10-11T10:30:00+00:00"
+        },
+        {
+          "summary": "These Midterm Races Will Decide Data Centers’ Political Fate",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/midterm-races-decide-data-centers-political-fate/",
+          "published": "2026-10-11T10:00:00+00:00"
+        },
+        {
+          "summary": "This Chinese memory chip maker has global potential and is poised to outperform",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/this-chinese-memory-chip-maker-has-global-potential.html",
+          "published": "2026-10-11T11:39:38+00:00"
+        },
+        {
+          "summary": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+          "published": "2026-10-09T13:00:00+00:00"
+        },
+        {
+          "summary": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-11T00:53:42+00:00"
+        },
+        {
+          "summary": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+          "published": "2026-10-09T18:24:39+00:00"
+        },
+        {
+          "summary": "Danu Robotics’ fight to build a better recycling robot",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+          "published": "2026-10-09T16:45:00+00:00"
+        },
+        {
+          "summary": "苹果「果家」发布会定档！至少 6 个新品曝光，HomePad 还能挂墙上？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683356?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-09T07:12:12+00:00"
+        },
+        {
+          "summary": "早报｜苹果定档10月13日发布新品/三星手机业务或减产30%/保时捷计划削减9000个岗位",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-09T00:51:15+00:00"
+        },
+        {
+          "summary": "苹果 CEO 最爱的汽车品牌，要推出新超跑了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683229?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-08T12:24:31+00:00"
+        },
+        {
+          "summary": "Why we’re watching these climate tech companies",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+          "published": "2026-10-08T10:00:00+00:00"
+        },
+        {
+          "summary": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+          "published": "2026-10-09T18:27:34+00:00"
+        },
+        {
+          "summary": "Hack the World: Why hackathons are still the best place to learn to build",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+          "published": "2026-10-09T16:00:00+00:00"
+        },
+        {
+          "summary": "Deno is joining Cloudflare",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+          "published": "2026-10-09T12:50:00+00:00"
+        },
+        {
+          "summary": "How one bug bounty researcher chooses the features they investigate",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+          "published": "2026-10-08T17:02:52+00:00"
+        },
+        {
+          "summary": "Bridging technical depth and usability: The story behind Radar’s redesign",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/radar-redesign/",
+          "published": "2026-10-08T13:00:00+00:00"
+        },
+        {
+          "summary": "One with the world? A new look at brains transformed by psychedelics.",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+          "published": "2026-10-10T11:15:35+00:00"
+        },
+        {
+          "summary": "We’re putting too much faith in AI’s ability to say no",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+          "published": "2026-10-09T09:00:00+00:00"
+        },
+        {
+          "summary": "Job titles of the future: Delivery drone air traffic controller",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+          "published": "2026-10-09T09:00:00+00:00"
+        },
+        {
+          "summary": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "published": "2026-10-09T00:08:24+00:00"
+        },
+        {
+          "summary": "Musk Says Goal Is to Speed Up Chip-Design Iteration Process",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/musk-says-terrafab-plant-will-make-chips-better-than-anyone",
+          "published": "2026-10-11T01:17:34+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "股票和债券期货作为石油减少的预付款:市场包装",
+          "summary_en": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+          "published": "2026-10-11T22:09:49+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.96
+        },
+        {
+          "summary_zh": "IPO Boom Fuels Wall Street的印度不顾风险下注",
+          "summary_en": "IPO Boom Fuels Wall Street’s India Bets Despite Risks",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/ipo-boom-fuels-wall-street-s-india-bets-despite-risks",
+          "published": "2026-10-12T01:00:30+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.67
+        },
+        {
+          "summary_zh": "我们即将获得关于收入能否持续维持股市的极大解读。",
+          "summary_en": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+          "published": "2026-10-11T14:00:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.92
+        },
+        {
+          "summary_zh": "S&P 500期货几乎没有改变,大银行开始启动收益季:现场更新",
+          "summary_en": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
+          "published": "2026-10-12T03:25:33+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.78
+        },
+        {
+          "summary_zh": "千斤万斤的房主",
+          "summary_en": "Roofing scammers con homeowners out of thousands of pounds",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T23:19:49+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "\"SNL\"瞄准凯文·奥莱里和他的犹他数据中心:\"我要让未来消失\"",
+          "summary_en": "'SNL' takes aim at Kevin O’Leary and his Utah data center: 'I'm going to make the future go away’",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/saturday-night-live-kevin-oleary-utah-ai-data-center-2026-10",
+          "published": "2026-10-11T18:45:36+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.11
+        },
+        {
+          "summary_zh": "投资方关于TechCrunch Disrupt 2026的指南:所有你需要知道的",
+          "summary_en": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published": "2026-10-11T17:53:37+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.39
+        },
+        {
+          "summary_zh": "印度卢比在RBI步骤后在海外市场崛起",
+          "summary_en": "Indian Rupee Rises in Offshore Market After RBI Steps",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
+          "published": "2026-10-12T01:44:56+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "印度的首都在大规模拘留后举行更多抗议活动",
+          "summary_en": "India’s Capital Braces for More Protests After Mass Detentions",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-s-capital-braces-for-more-protests-after-mass-detentions",
+          "published": "2026-10-12T01:18:02+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.75
+        },
+        {
+          "summary_zh": "莱特森的克兰德尔在44年后的\"周刊市场失意\"",
+          "summary_en": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
+          "published": "2026-10-11T23:32:41+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.31
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stock and Bond Futures Advance as Oil Declines: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
+          "published": "2026-10-11T22:09:49+00:00"
+        },
+        {
+          "summary": "Indian Rupee Rises in Offshore Market After RBI Steps",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/indian-rupee-strengthens-in-offshore-market-after-rbi-measures",
+          "published": "2026-10-12T01:44:56+00:00"
+        },
+        {
+          "summary": "India’s Capital Braces for More Protests After Mass Detentions",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/india-s-capital-braces-for-more-protests-after-mass-detentions",
+          "published": "2026-10-12T01:18:02+00:00"
+        },
+        {
+          "summary": "IPO Boom Fuels Wall Street’s India Bets Despite Risks",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-12/ipo-boom-fuels-wall-street-s-india-bets-despite-risks",
+          "published": "2026-10-12T01:00:30+00:00"
+        },
+        {
+          "summary": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
+          "published": "2026-10-11T23:32:41+00:00"
+        },
+        {
+          "summary": "Saudi Airport Hit Again, Ukraine-Russia 'Energy Ceasefire', More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-12/saudi-airport-hit-again-ukraine-russia-energy-ceasefire-more",
+          "published": "2026-10-12T03:26:05+00:00"
+        },
+        {
+          "summary": "Renewed Saudi Airport Attack, Trump Says Energy Ceasefire Agreed",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-12/renewed-saudi-airport-attack-trump-says-energy-ceasefire-agreed",
+          "published": "2026-10-12T02:34:00+00:00"
+        },
+        {
+          "summary": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+          "published": "2026-10-11T14:00:00+00:00"
+        },
+        {
+          "summary": "Riyadh Airport Hit, Russia-Ukraine 'Energy Ceasefire', More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-12/riyadh-airport-hit-russia-ukraine-energy-ceasefire-more",
+          "published": "2026-10-12T01:54:22+00:00"
+        },
+        {
+          "summary": "S&P 500 futures are little changed with big banks set to kick off earnings season: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
+          "published": "2026-10-12T03:25:33+00:00"
+        },
+        {
+          "summary": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+          "published": "2026-10-11T20:00:00+00:00"
+        },
+        {
+          "summary": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+          "published": "2026-10-11T12:00:00+00:00"
+        },
+        {
+          "summary": "Roofing scammers con homeowners out of thousands of pounds",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T23:19:49+00:00"
+        },
+        {
+          "summary": "Debt advice that may leave you owing even more money",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T23:19:07+00:00"
+        },
+        {
+          "summary": "Trump faces growing backlash over plans to import diesel from Russia",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T23:18:45+00:00"
+        },
+        {
+          "summary": "AI is less regulated than milk, says Microsoft president",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-11T23:07:35+00:00"
+        },
+        {
+          "summary": "Plenty is working against this market. Here's why I'm staying invested anyway",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/investingclub/2026/10/11/plenty-is-working-against-this-market-why-im-staying-invested-anyway.html",
+          "published": "2026-10-12T00:23:07+00:00"
+        },
+        {
+          "summary": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+          "published": "2026-10-12T03:18:11+00:00"
+        },
+        {
+          "summary": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+          "published": "2026-10-12T02:28:54+00:00"
+        },
+        {
+          "summary": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+          "published": "2026-10-11T20:15:00+00:00"
+        },
+        {
+          "summary": "'SNL' takes aim at Kevin O’Leary and his Utah data center: 'I'm going to make the future go away’",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/saturday-night-live-kevin-oleary-utah-ai-data-center-2026-10",
+          "published": "2026-10-11T18:45:36+00:00"
+        },
+        {
+          "summary": "Alexandr Wang wanted to make Meta 'cool again' — and memes were part of his plan",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/alexandr-wang-meta-memes-muse-social-media-cool-2026-10",
+          "published": "2026-10-11T16:35:48+00:00"
+        },
+        {
+          "summary": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+          "published": "2026-10-11T17:53:37+00:00"
+        },
+        {
+          "summary": "My parents made me take music lessons as a kid. I refused to do the same to my own children.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dont-force-music-lessons-on-kids-they-want-to-play-2026-10",
+          "published": "2026-10-11T15:14:01+00:00"
+        },
+        {
+          "summary": "I started a cookie business and scaled too quickly. We got caught up in a growth-at-all-costs mentality — here's how I turned it around.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/how-partake-foods-founder-denise-woodard-scaled-small-business-2026-10",
+          "published": "2026-10-11T11:08:01+00:00"
+        },
+        {
+          "summary": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+          "published": "2026-10-09T14:08:51+00:00"
+        },
+        {
+          "summary": "Horror is big business",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+          "published": "2026-10-11T08:00:00-04:00"
+        },
+        {
+          "summary": "Don’t feel sorry for millennials. They are living it up now",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/11/dont-feel-sorry-for-millennials-they-are-living-it-up-now",
+          "published": "2026-10-11T15:27:00+00:00"
+        },
+        {
+          "summary": "A Contagious Aversion to Overhead Lights",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+          "published": "2026-10-11T09:01:32+00:00"
+        },
+        {
+          "summary": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+          "published": "2026-10-11T09:01:17+00:00"
+        },
+        {
+          "summary": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+          "published": "2026-10-11T09:00:16+00:00"
+        },
+        {
+          "summary": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+          "published": "2026-10-09T10:59:00-04:00"
+        },
+        {
+          "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+          "published": "2026-10-09T14:00:00+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+          "published": "2026-10-08T20:30:00+00:00"
+        },
+        {
+          "summary": "The Download: AI’s refusal problem and weight-loss drug side effects",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+          "published": "2026-10-09T12:10:00+00:00"
+        },
+        {
+          "summary": "停产一年，宝马带着 iX4 重回溜背市场，海外售价 53 万元起",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683421?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-09T10:44:32+00:00"
+        },
+        {
+          "summary": "America’s Hybrid Hype Has Hit the Used Market",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/",
+          "published": "2026-10-09T09:00:00+00:00"
+        },
+        {
+          "summary": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+          "published": "2026-10-09T09:00:00+00:00"
+        },
+        {
+          "summary": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+          "published": "2026-10-08T20:39:31+00:00"
+        },
+        {
+          "summary": "Governments are mishandling the affordability crisis",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/08/governments-are-mishandling-the-affordability-crisis",
+          "published": "2026-10-08T09:26:41+00:00"
+        },
+        {
+          "summary": "Indian celebrations will be more expensive this year",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/08/indian-celebrations-will-be-more-expensive-this-year",
+          "published": "2026-10-08T09:25:56+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "索福斯在OpenAI Daybreak将威胁调查时间缩短了96%",
+          "summary_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/sophos",
+          "published": "2026-10-09T07:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "Amazon Bedrock上的4 000万开发者如何Postman运行代理模式",
+          "summary_en": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+          "published": "2026-10-09T15:35:02+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "OpenAI Dot vs. Meta Muse:这些AI代理如何比较?.",
+          "summary_en": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+          "published": "2026-10-12T00:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.92
+        },
+        {
+          "summary_zh": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+          "summary_en": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-12T00:12:37+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.97
+        },
+        {
+          "summary_zh": "Asana 剪切模型在使用 GPT-6.1 的浏览器测试中成本为 76xSol",
+          "summary_en": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "published": "2026-10-09T07:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "使用 Amazon SageMaker HyperPod 共享 GPU 群集, 实现团队隔离和公平",
+          "summary_en": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+          "published": "2026-10-08T16:20:04+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "你的人工智能特工想要拿回你的钱 这可能给这些公司带来麻烦",
+          "summary_en": "Your AI agent wants your money back — and that could mean trouble for these companies",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "published": "2026-10-11T10:11:01+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.47
+        },
+        {
+          "summary_zh": "非文本AI模型Jev的制造者 价值7.5B美元 在发射后几周",
+          "summary_en": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "published": "2026-10-09T21:41:29+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "Anthropic AI模型向费城警方发送了虚假的凶杀线索",
+          "summary_en": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "published": "2026-10-09T19:36:56+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "我们无法不把AI当成人类。 但我们应该吗?",
+          "summary_en": "We can’t help treating AI like it’s human. But should we?",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+          "published": "2026-10-09T16:40:14+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.3
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+          "published": "2026-10-08T18:33:29+00:00"
+        },
+        {
+          "summary": "5 Steps to Create SimReady Assets for Robotics with Frontier AI Models",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+          "published": "2026-10-08T20:57:55+00:00"
+        },
+        {
+          "summary": "Building Reliable Data Analytics Agents: Lessons from the KDD Cup",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup/",
+          "published": "2026-10-08T18:30:02+00:00"
+        },
+        {
+          "summary": "Pollo AI turns creative ideas into campaigns with OpenAI",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/pollo-ai",
+          "published": "2026-10-08T12:00:00+00:00"
+        },
+        {
+          "summary": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/sophos",
+          "published": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "summary": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/asana-browser-agent",
+          "published": "2026-10-09T07:00:00+00:00"
+        },
+        {
+          "summary": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/oracle",
+          "published": "2026-10-08T16:00:00+00:00"
+        },
+        {
+          "summary": "ICYMI: What landed for AI builders in September 2026",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+          "published": "2026-10-09T15:38:39+00:00"
+        },
+        {
+          "summary": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/",
+          "published": "2026-10-09T15:35:02+00:00"
+        },
+        {
+          "summary": "Impactful scheduling for GPU clusters",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+          "published": "2026-10-09T15:20:29+00:00"
+        },
+        {
+          "summary": "Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+          "published": "2026-10-08T16:20:04+00:00"
+        },
+        {
+          "summary": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+          "published": "2026-10-12T00:00:00+00:00"
+        },
+        {
+          "summary": "早报｜我们跟库克聊了聊iPhone Duo/继QClaw后，腾讯再关停一个Agent/SpaceXAI改名SpaceXSI",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683302?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-12T00:12:37+00:00"
+        },
+        {
+          "summary": "Local Indexing to reduce tool calling and token usage",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://tedhaley.ca/pensieve/",
+          "published": "2026-10-12T00:03:53+00:00"
+        },
+        {
+          "summary": "Your AI agent wants your money back — and that could mean trouble for these companies",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
+          "published": "2026-10-11T10:11:01+00:00"
+        },
+        {
+          "summary": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "published": "2026-10-10T14:00:00+00:00"
+        },
+        {
+          "summary": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "published": "2026-10-10T00:18:32+00:00"
+        },
+        {
+          "summary": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "published": "2026-10-09T21:41:29+00:00"
+        },
+        {
+          "summary": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "published": "2026-10-09T19:36:56+00:00"
+        },
+        {
+          "summary": "Amazon drops data center NDAs, and AI agents want your credit card",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+          "published": "2026-10-09T16:53:02+00:00"
+        },
+        {
+          "summary": "The gap in shared understanding of LLM capability is widening",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "published": "2026-10-11T20:20:52+00:00"
+        },
+        {
+          "summary": "We can’t help treating AI like it’s human. But should we?",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+          "published": "2026-10-09T16:40:14+00:00"
+        },
+        {
+          "summary": "AI coding agents generate more code, but not more software",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "published": "2026-10-09T19:43:50+00:00"
+        },
+        {
+          "summary": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ice-agent-at-nyc-shooting-has-history-of-alleged-violence-and-illegal-arrests/",
+          "published": "2026-10-09T04:46:11+00:00"
+        }
+      ]
+    }
+  }
+}
