@@ -1,0 +1,1048 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T04:45:38.708834+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "2026 年，日本翻盖手机终于过气了",
+          "summary_en": "2026 年，日本翻盖手机终于过气了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-13T04:30:03+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.24
+        },
+        {
+          "summary_zh": "不要买廉价的Android手机 没有这些不可谈判的功能",
+          "summary_en": "Don't buy a cheap Android phone without these non-negotiable features",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+          "published": "2026-10-13T00:30:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.24
+        },
+        {
+          "summary_zh": "伊隆·穆斯克用机器人的手",
+          "summary_en": "Elon Musk wrangles with the robot hand",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10",
+          "published": "2026-10-13T04:10:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.65
+        },
+        {
+          "summary_zh": "离开技术",
+          "summary_en": "Leaving Tech",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://ryanbigg.com/2026/10/leaving-tech",
+          "published": "2026-10-13T02:39:35+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.98
+        },
+        {
+          "summary_zh": "39岁未接种疫苗的妇女成为宾夕法尼亚州第6例麻疹死亡",
+          "summary_en": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+          "published": "2026-10-12T21:54:35+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.59
+        },
+        {
+          "summary_zh": "社算局在票房上摆牌",
+          "summary_en": "The Social Reckoning is flopping at the box office",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+          "published": "2026-10-12T17:20:57-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "初学者的 GitHub 副驾驶应用: 如何向副驾驶教授您的代码库",
+          "summary_en": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+          "published": "2026-10-12T17:43:59+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.74
+        },
+        {
+          "summary_zh": "埃隆·穆斯克(Elon Musk) 揭发他的格鲁克·乐高星球大战豪尔. 然后X用户打他",
+          "summary_en": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+          "published": "2026-10-12T17:55:12+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.59
+        },
+        {
+          "summary_zh": "WindBorne赢得了美国空军的气球数据合同",
+          "summary_en": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "published": "2026-10-12T17:19:14+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.44
+        },
+        {
+          "summary_zh": "如何提高您的 GPU 性能而不购买新的",
+          "summary_en": "How to boost your GPU performance without buying a new one",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/",
+          "published": "2026-10-12T23:30:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.99
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "2026 年，日本翻盖手机终于过气了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683941?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-13T04:30:03+00:00"
+        },
+        {
+          "summary": "Don't buy a cheap Android phone without these non-negotiable features",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+          "published": "2026-10-13T00:30:00+00:00"
+        },
+        {
+          "summary": "How to boost your GPU performance without buying a new one",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/",
+          "published": "2026-10-12T23:30:00+00:00"
+        },
+        {
+          "summary": "Elon Musk wrangles with the robot hand",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/elon-musk-designing-humanoid-hand-challenges-optimus-2026-10",
+          "published": "2026-10-13T04:10:01+00:00"
+        },
+        {
+          "summary": "早报｜对话库克：Apple Watch要做「个人守护者」/华为折叠屏出货量突破2000万台/DeepSeek拟入局具身智能",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683909?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-13T00:17:03+00:00"
+        },
+        {
+          "summary": "Leaving Tech",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://ryanbigg.com/2026/10/leaving-tech",
+          "published": "2026-10-13T02:39:35+00:00"
+        },
+        {
+          "summary": "How to turn your old hard drives into a RAID array",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+          "published": "2026-10-12T23:00:00+00:00"
+        },
+        {
+          "summary": "How to use Google Gemini to automate tasks",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+          "published": "2026-10-12T22:30:00+00:00"
+        },
+        {
+          "summary": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+          "published": "2026-10-12T21:54:35+00:00"
+        },
+        {
+          "summary": "The Social Reckoning is flopping at the box office",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+          "published": "2026-10-12T17:20:57-04:00"
+        },
+        {
+          "summary": "Epic Games reportedly pivoting to \"AI first\" game development model",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+          "published": "2026-10-12T20:59:50+00:00"
+        },
+        {
+          "summary": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+          "published": "2026-10-12T20:26:14+00:00"
+        },
+        {
+          "summary": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.argmin.net/p/faster-fourier-transforms",
+          "published": "2026-10-13T02:46:43+00:00"
+        },
+        {
+          "summary": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+          "published": "2026-10-13T02:25:00+00:00"
+        },
+        {
+          "summary": "The Dock on Mac, from OS 10 to macOS 27",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+          "published": "2026-10-13T02:09:19+00:00"
+        },
+        {
+          "summary": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+          "published": "2026-10-12T18:46:43+00:00"
+        },
+        {
+          "summary": "I broke into tech sales after working in construction. Here's how I landed a more flexible job with higher earning potential.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/went-from-construction-worker-tech-sales-one-year-heres-how-2026-10",
+          "published": "2026-10-12T20:32:58+00:00"
+        },
+        {
+          "summary": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+          "published": "2026-10-12T17:43:59+00:00"
+        },
+        {
+          "summary": "Android is the best and worst thing about Googlebooks",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+          "published": "2026-10-12T10:00:00-04:00"
+        },
+        {
+          "summary": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+          "published": "2026-10-12T17:55:12+00:00"
+        },
+        {
+          "summary": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "published": "2026-10-12T17:19:14+00:00"
+        },
+        {
+          "summary": "Muse Wonder Puts Meta Back at the AI Frontier",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+          "published": "2026-10-12T17:00:27+00:00"
+        },
+        {
+          "summary": "Meta has some Wonder Full new AI models",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "published": "2026-10-12T13:00:00-04:00"
+        },
+        {
+          "summary": "Elon Musk has donated over $276 million to Republican midterm efforts",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+          "published": "2026-10-12T12:52:54-04:00"
+        },
+        {
+          "summary": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+          "published": "2026-10-12T15:45:00+00:00"
+        },
+        {
+          "summary": "Filter, reshape, and redact logs before export with Transformers",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+          "published": "2026-10-12T14:44:59+00:00"
+        },
+        {
+          "summary": "Microsoft president says UK is best placed to drive AI regulation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "published": "2026-10-12T15:31:19+00:00"
+        },
+        {
+          "summary": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "published": "2026-10-12T15:27:59+00:00"
+        },
+        {
+          "summary": "App Store Indie Games Week kicks off today",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/app-store-indie-games-week-kicks-off-today/",
+          "published": "2026-10-12T13:59:49.734000+00:00"
+        },
+        {
+          "summary": "How American Retirees at Different Incomes Rely on Social Security",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
+          "published": "2026-10-12T16:17:33+00:00"
+        },
+        {
+          "summary": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+          "published": "2026-10-12T14:00:00+00:00"
+        },
+        {
+          "summary": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
+          "published": "2026-10-12T13:30:00+00:00"
+        },
+        {
+          "summary": "The Download: moon city problems and drone traffic controllers",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+          "published": "2026-10-12T12:10:00+00:00"
+        },
+        {
+          "summary": "Mars may be a hellhole, but the moon is not far behind",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+          "published": "2026-10-12T09:37:02+00:00"
+        },
+        {
+          "summary": "The ecologist revealing the invisible networks that revive rainforests",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+          "published": "2026-10-12T09:00:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "州街投资管理公司关于市场的CIO",
+          "summary_en": "State Street Investment Management's CIO on Markets",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-13/state-street-investment-management-s-cio-on-markets-video",
+          "published": "2026-10-13T03:18:07+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.94
+        },
+        {
+          "summary_zh": "《Omar地址搜索》,GOP对柴油交易的反应,更多",
+          "summary_en": "Rep. Omar Addresses Home Search, GOP Reacts to Diesel Deal, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-13/rep-omar-addresses-home-search-gop-reacts-to-diesel-deal-more",
+          "published": "2026-10-13T03:23:02+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.96
+        },
+        {
+          "summary_zh": "英国增长升级,但能源价格和价格将在2027年下降",
+          "summary_en": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T03:14:13+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "全球经济开始出现K形。 这里有赢家和输家,还有美国适合的地方.",
+          "summary_en": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+          "published": "2026-10-13T02:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "星期二的大股票故事: 在下一次交易会中,什么可能推动市场发展?",
+          "summary_en": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-10-12T23:20:20+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "佐治亚州滑行者死亡与受伤",
+          "summary_en": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+          "published": "2026-10-13T04:28:35+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "Meta在知道自己的模式是否可行之前 准备写一张高达2000亿美元的AI支票",
+          "summary_en": "Meta was prepared to write an up to $200 billion AI check before knowing whether its model would work",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/mark-zuckerberg-massive-risk-meta-took-on-ai-2026-10",
+          "published": "2026-10-13T04:01:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.11
+        },
+        {
+          "summary_zh": "跳跃交易租户启动创建者到主计算台",
+          "summary_en": "Jump Trading Hires Startup Founders to Lead Compute Desk",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/jump-trading-hires-startup-founders-to-lead-compute-desk",
+          "published": "2026-10-13T04:19:44+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.19
+        },
+        {
+          "summary_zh": "中国国内支付业务筹备许可签证",
+          "summary_en": "Visa Approved to Prepare Domestic Payments Business in China",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/visa-approved-to-prepare-domestic-payments-business-in-china",
+          "published": "2026-10-13T04:09:40+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "BNP Paribas关于全球经济的Mateos y Lago",
+          "summary_en": "BNP Paribas' Mateos y Lago on the Global Economy",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-13/bnp-paribas-mateos-y-lago-on-the-global-economy-video",
+          "published": "2026-10-13T03:19:05+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.94
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "State Street Investment Management's CIO on Markets",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-13/state-street-investment-management-s-cio-on-markets-video",
+          "published": "2026-10-13T03:18:07+00:00"
+        },
+        {
+          "summary": "Jump Trading Hires Startup Founders to Lead Compute Desk",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/jump-trading-hires-startup-founders-to-lead-compute-desk",
+          "published": "2026-10-13T04:19:44+00:00"
+        },
+        {
+          "summary": "Visa Approved to Prepare Domestic Payments Business in China",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-13/visa-approved-to-prepare-domestic-payments-business-in-china",
+          "published": "2026-10-13T04:09:40+00:00"
+        },
+        {
+          "summary": "Rep. Omar Addresses Home Search, GOP Reacts to Diesel Deal, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-13/rep-omar-addresses-home-search-gop-reacts-to-diesel-deal-more",
+          "published": "2026-10-13T03:23:02+00:00"
+        },
+        {
+          "summary": "BNP Paribas' Mateos y Lago on the Global Economy",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-13/bnp-paribas-mateos-y-lago-on-the-global-economy-video",
+          "published": "2026-10-13T03:19:05+00:00"
+        },
+        {
+          "summary": "UK growth upgraded but energy prices and rates to bite in 2027",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T03:14:13+00:00"
+        },
+        {
+          "summary": "Rep. Omar on Home Search, Trump’s Diesel Deal Irks Allies, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-13/rep-omar-on-home-search-trump-s-diesel-deal-irks-allies-more",
+          "published": "2026-10-13T02:30:47+00:00"
+        },
+        {
+          "summary": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+          "published": "2026-10-13T02:00:00+00:00"
+        },
+        {
+          "summary": "Rep. Omar on Home Search, Russia Diesel Deal Stirs GOP Unease",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-13/rep-omar-on-home-search-russia-diesel-deal-stirs-gop-unease",
+          "published": "2026-10-13T01:55:42+00:00"
+        },
+        {
+          "summary": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-10-12T23:20:20+00:00"
+        },
+        {
+          "summary": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html",
+          "published": "2026-10-13T02:58:11+00:00"
+        },
+        {
+          "summary": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+          "published": "2026-10-12T20:46:00+00:00"
+        },
+        {
+          "summary": "Rep. Omar Responds to Home Search, Russia Diesel Deal Riles GOP",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-13/rep-omar-responds-to-home-search-russia-diesel-deal-riles-gop",
+          "published": "2026-10-13T00:45:22+00:00"
+        },
+        {
+          "summary": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+          "published": "2026-10-13T04:28:35+00:00"
+        },
+        {
+          "summary": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+          "published": "2026-10-13T00:18:00+00:00"
+        },
+        {
+          "summary": "Meta was prepared to write an up to $200 billion AI check before knowing whether its model would work",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/mark-zuckerberg-massive-risk-meta-took-on-ai-2026-10",
+          "published": "2026-10-13T04:01:01+00:00"
+        },
+        {
+          "summary": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+          "published": "2026-10-13T01:26:41+00:00"
+        },
+        {
+          "summary": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
+          "published": "2026-10-13T02:58:49+00:00"
+        },
+        {
+          "summary": "Earnings beats are now the norm. What the stock market needs to keep rallying",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+          "published": "2026-10-12T20:35:51+00:00"
+        },
+        {
+          "summary": "Investors worry the bull market is getting old. But history shows it can continue to age gracefully.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/investors-worry-the-bull-market-is-getting-old-but-history-shows-it-can-continue-to-age-gracefully-0402e69c?mod=mw_rss_topstories",
+          "published": "2026-10-12T22:27:00+00:00"
+        },
+        {
+          "summary": "Bumble shares soar after report dating firm in $1bn takeover talks",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-13T01:50:47+00:00"
+        },
+        {
+          "summary": "How to make economy feel like an upgrade, according to a travel expert who's spent 3,500 hours in premium cabins",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/economy-flight-comfort-tips-travel-expert-2026-10",
+          "published": "2026-10-12T19:40:48+00:00"
+        },
+        {
+          "summary": "Publicly owned rail is popular. But is it making the trains run on time?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-12T23:37:00+00:00"
+        },
+        {
+          "summary": "Elon Musk takes a dig at Waymo's pet collision history and says Tesla Robotaxi has a solution",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/elon-musk-tesla-robotaxi-waymo-rival-pet-destroyers-2026-10",
+          "published": "2026-10-12T23:13:05+00:00"
+        },
+        {
+          "summary": "Heating oil customers face tough winter despite shake-up promise",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0z09r882o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-12T23:02:24+00:00"
+        },
+        {
+          "summary": "This entrepreneur says Amazon nearly destroyed his business. He still shops on it every week. 'It's crazy.'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/he-says-amazon-nearly-wrecked-bedscrunchie-business-still-shop-amazon-2026-10",
+          "published": "2026-10-12T18:47:22+00:00"
+        },
+        {
+          "summary": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+          "published": "2026-10-12T19:01:19+00:00"
+        },
+        {
+          "summary": "America’s Favorite Fruit Is Being Bruised by the Iran War",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/12/business/economy/bananas-iran-war.html",
+          "published": "2026-10-12T17:36:03+00:00"
+        },
+        {
+          "summary": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+          "published": "2026-10-12T12:47:59+00:00"
+        },
+        {
+          "summary": "A Nobel prize for how to keep economies on an even keel",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/12/a-nobel-prize-for-how-to-keep-economies-on-an-even-keel",
+          "published": "2026-10-12T16:29:06+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "使用 Ray LLM 深层学习容器运行多节点推导工作量",
+          "summary_en": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+          "published": "2026-10-12T15:50:14+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.27
+        },
+        {
+          "summary_zh": "重播SSM:为更快的混合模式解码重新思考状态存储",
+          "summary_en": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+          "published": "2026-10-12T16:00:54+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.81
+        },
+        {
+          "summary_zh": "模拟学生学习以更好地进行人工智能辅导",
+          "summary_en": "Simulating student learning for better AI tutoring",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+          "published": "2026-10-12T16:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.31
+        },
+        {
+          "summary_zh": "我得到我的Muse AI代理公司,",
+          "summary_en": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+          "published": "2026-10-12T20:13:28+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.67
+        },
+        {
+          "summary_zh": "我是一个工作父母,他建造了超过150个AI特工来帮助管理我的生活. 我得到数字超载, 但我得到更多的时间回来。",
+          "summary_en": "I'm a working parent who's built over 150 AI agents to help run my life. I get digital overload, but I'm getting more time back.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
+          "published": "2026-10-12T20:08:02+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.64
+        },
+        {
+          "summary_zh": "Meta发布了第一个前沿模型Muse Wonder",
+          "summary_en": "Meta releases its first frontier model, Muse Wonder",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "published": "2026-10-12T17:56:56+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.6
+        },
+        {
+          "summary_zh": "Meta首播Muse Wonder AI模式最新测试用户支付意愿",
+          "summary_en": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+          "published": "2026-10-12T17:34:35+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "使用全球跨区域推论在泰国、马来西亚、新加坡、印度尼西亚和台湾访问亚马逊Bedrock上的OpenAI GPT模型",
+          "summary_en": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+          "published": "2026-10-12T17:52:22+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.78
+        },
+        {
+          "summary_zh": "在Amazon SageMaker AI上使用 lama.",
+          "summary_en": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+          "published": "2026-10-12T15:51:46+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.28
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Run multi-node inference workloads using Ray LLM Deep Learning Containers",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/",
+          "published": "2026-10-12T15:50:14+00:00"
+        },
+        {
+          "summary": "ReplaySSM: Rethinking State Storage for Faster Hybrid-Model Decoding",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding/",
+          "published": "2026-10-12T16:00:54+00:00"
+        },
+        {
+          "summary": "Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/",
+          "published": "2026-10-12T17:52:22+00:00"
+        },
+        {
+          "summary": "Simulating student learning for better AI tutoring",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+          "published": "2026-10-12T16:00:00+00:00"
+        },
+        {
+          "summary": "Deploy decision models with llama.cpp on Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/",
+          "published": "2026-10-12T15:51:46+00:00"
+        },
+        {
+          "summary": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+          "published": "2026-10-12T20:13:28+00:00"
+        },
+        {
+          "summary": "I'm a working parent who's built over 150 AI agents to help run my life. I get digital overload, but I'm getting more time back.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dad-built-150-personal-ai-agents-to-run-his-life-2026-10",
+          "published": "2026-10-12T20:08:02+00:00"
+        },
+        {
+          "summary": "Meta releases its first frontier model, Muse Wonder",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "published": "2026-10-12T17:56:56+00:00"
+        },
+        {
+          "summary": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+          "published": "2026-10-12T17:34:35+00:00"
+        },
+        {
+          "summary": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://news.ycombinator.com/item?id=50059096",
+          "published": "2026-10-12T16:46:34+00:00"
+        }
+      ]
+    }
+  }
+}
