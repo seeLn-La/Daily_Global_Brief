@@ -1,0 +1,1345 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T02:33:18.645383+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Ricursive Intelligence在AI设计的芯片上下注 帮助解决计算危机",
+          "summary_en": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "published": "2026-10-15T01:01:32+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "Fridge黑客入侵造成数百万人丧生,引发火灾的原因是缺乏安全",
+          "summary_en": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "published": "2026-10-14T21:35:09+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "McKinsey正在做一个假AI客户端的工作申请",
+          "summary_en": "McKinsey is making job applicants spar with a fake AI client",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "published": "2026-10-14T18:53:31-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.39
+        },
+        {
+          "summary_zh": "Bloomberg Daybreak Asia: Chip Rout Deepens, Hot US CPI (播客) 互联网档案馆的存檔,存档日期2013-03-02.",
+          "summary_en": "Bloomberg Daybreak Asia: Chip Rout Deepens, Hot US CPI (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-15/bloomberg-daybreak-asia-chip-rout-deepens-hot-us-cpi-podcast",
+          "published": "2026-10-15T00:40:42+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.33
+        },
+        {
+          "summary_zh": "爱荷华州、内布拉斯加州和另外六个州正在起诉OpenAI危害儿童",
+          "summary_en": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
+          "published": "2026-10-14T21:23:27+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.01
+        },
+        {
+          "summary_zh": "Yandex 断电: 数据显示, 恶意的bot 不但没有变暗,",
+          "summary_en": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/yandex-outage/",
+          "published": "2026-10-14T20:24:19+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.96
+        },
+        {
+          "summary_zh": "天才工程师. 对沙特阿拉伯的爱 装在卫生纸上的窃听器",
+          "summary_en": "A gifted engineer. A love for Saudi Arabia. A bugging device wrapped in toilet paper.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-engineer-accused-of-bugging-office-saudi-arabia-silicon-valley-2026-10",
+          "published": "2026-10-14T23:04:27+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.93
+        },
+        {
+          "summary_zh": "特朗普·艾迪斯 承认房子是失落的原因",
+          "summary_en": "Trump Aides Admit the House Is a Lost Cause",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+          "published": "2026-10-14T21:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.91
+        },
+        {
+          "summary_zh": "GitHub 可用性报告:2026年9月",
+          "summary_en": "GitHub availability report: September 2026",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+          "published": "2026-10-14T20:01:35+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.87
+        },
+        {
+          "summary_zh": "双头堆栈分配器",
+          "summary_en": "The Double Headed Stack Allocator",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+          "published": "2026-10-15T02:06:36+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.39
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "published": "2026-10-15T01:01:32+00:00"
+        },
+        {
+          "summary": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+          "published": "2026-10-15T00:49:31+00:00"
+        },
+        {
+          "summary": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "published": "2026-10-14T21:35:09+00:00"
+        },
+        {
+          "summary": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+          "published": "2026-10-14T21:00:00+00:00"
+        },
+        {
+          "summary": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+          "published": "2026-10-15T00:30:00+00:00"
+        },
+        {
+          "summary": "Software development and rules stability: Prototype racing in 2030",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+          "published": "2026-10-14T19:44:26+00:00"
+        },
+        {
+          "summary": "McKinsey is making job applicants spar with a fake AI client",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "published": "2026-10-14T18:53:31-04:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Chip Rout Deepens, Hot US CPI (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-15/bloomberg-daybreak-asia-chip-rout-deepens-hot-us-cpi-podcast",
+          "published": "2026-10-15T00:40:42+00:00"
+        },
+        {
+          "summary": "The best feature of Apple’s HomeView might be its simplicity",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+          "published": "2026-10-14T18:00:02-04:00"
+        },
+        {
+          "summary": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
+          "published": "2026-10-14T21:23:27+00:00"
+        },
+        {
+          "summary": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+          "published": "2026-10-14T21:15:56+00:00"
+        },
+        {
+          "summary": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/yandex-outage/",
+          "published": "2026-10-14T20:24:19+00:00"
+        },
+        {
+          "summary": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "published": "2026-10-14T17:11:28-04:00"
+        },
+        {
+          "summary": "A gifted engineer. A love for Saudi Arabia. A bugging device wrapped in toilet paper.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-engineer-accused-of-bugging-office-saudi-arabia-silicon-valley-2026-10",
+          "published": "2026-10-14T23:04:27+00:00"
+        },
+        {
+          "summary": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+          "published": "2026-10-14T21:03:11+00:00"
+        },
+        {
+          "summary": "Trump Aides Admit the House Is a Lost Cause",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+          "published": "2026-10-14T21:00:00+00:00"
+        },
+        {
+          "summary": "GitHub availability report: September 2026",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+          "published": "2026-10-14T20:01:35+00:00"
+        },
+        {
+          "summary": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared/",
+          "published": "2026-10-14T20:13:18+00:00"
+        },
+        {
+          "summary": "NASA explains how it's making batteries for the Moon's extreme temperatures",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2287038/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/",
+          "published": "2026-10-14T20:07:03+00:00"
+        },
+        {
+          "summary": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+          "published": "2026-10-14T16:03:43-04:00"
+        },
+        {
+          "summary": "2026 standout Titanium Court is springing onto consoles and mobile on October 29",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2286627/2026-standout-titanium-court-is-springing-onto-consoles-and-mobile-on-october-29/",
+          "published": "2026-10-14T16:00:00+00:00"
+        },
+        {
+          "summary": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+          "published": "2026-10-14T19:11:33+00:00"
+        },
+        {
+          "summary": "Ex-OpenAI employee accused of planting a recording device booked a one-way ticket to Saudi Arabia",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-employee-recording-device-one-way-tickets-saudi-arabia-2026-10",
+          "published": "2026-10-14T21:21:56+00:00"
+        },
+        {
+          "summary": "The Double Headed Stack Allocator",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+          "published": "2026-10-15T02:06:36+00:00"
+        },
+        {
+          "summary": "Bünyamin Aydın’s new collection, “From Earth to Sky,” soars with iPad Pro",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/bunyamin-aydins-new-collection-from-earth-to-sky-soars-with-ipad-pro/",
+          "published": "2026-10-14T17:39:29.065000+00:00"
+        },
+        {
+          "summary": "Anduril employee tender offer would value the defense tech startup at $90 billion",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html",
+          "published": "2026-10-14T20:24:13+00:00"
+        },
+        {
+          "summary": "AI Came for Math. Now It’s Chasing the Rest of Science",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+          "published": "2026-10-14T18:15:00+00:00"
+        },
+        {
+          "summary": "OpenAI says it found a 'hidden' recording device planted in its office",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/openai-security-threats-hidden-recording-device-planted-offices-2026-10",
+          "published": "2026-10-14T19:01:49+00:00"
+        },
+        {
+          "summary": "苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-14T12:35:44+00:00"
+        },
+        {
+          "summary": "Social Security Administration announces 3.6% cost-of-living adjustment for 2027",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/14/social-security-cola-2027.html",
+          "published": "2026-10-14T17:54:01+00:00"
+        },
+        {
+          "summary": "Tiny Little Office",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://tinylittleoffice.com/",
+          "published": "2026-10-14T22:10:08+00:00"
+        },
+        {
+          "summary": "Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms/",
+          "published": "2026-10-14T14:00:00+00:00"
+        },
+        {
+          "summary": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://typesafe.ai/blog/jev-1-14",
+          "published": "2026-10-14T21:11:03+00:00"
+        },
+        {
+          "summary": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
+          "published": "2026-10-14T13:00:00+00:00"
+        },
+        {
+          "summary": "OpenCode 2.0",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://anoma.ly/notes/opencode-2-0/",
+          "published": "2026-10-14T20:48:24+00:00"
+        },
+        {
+          "summary": "‘Dune: Part Three’ Cowriter Brian K. Vaughan Has a New Comic on the Way",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/new-york-comic-con-interview/",
+          "published": "2026-10-14T13:30:00+00:00"
+        },
+        {
+          "summary": "Social Security COLA for 2027 Will Be 3.6%",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
+          "published": "2026-10-14T14:31:11+00:00"
+        },
+        {
+          "summary": "The Download: faking blood and the future of batteries",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+          "published": "2026-10-14T12:10:00+00:00"
+        },
+        {
+          "summary": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-14T10:14:04+00:00"
+        },
+        {
+          "summary": "The US military’s race to make fake blood",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+          "published": "2026-10-14T09:00:00+00:00"
+        },
+        {
+          "summary": "纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-14T06:52:43+00:00"
+        },
+        {
+          "summary": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-14T06:10:14+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "AI巨型Anthropic在股市上市前看到收入激增",
+          "summary_en": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-15T01:56:32+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.15
+        },
+        {
+          "summary_zh": "股票销售打击亚洲,Anthropic 16.8B 3Q 收入,更多",
+          "summary_en": "Stock Selloff Hits Asia, Anthropic $16.8B 3Q Revenue, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-15/stock-selloff-hits-asia-anthropic-16-8b-3q-revenue-more",
+          "published": "2026-10-15T00:57:19+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.9
+        },
+        {
+          "summary_zh": "人工智能贸易因通货膨胀而分崩离析,",
+          "summary_en": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+          "published": "2026-10-14T23:36:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 3.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.56
+        },
+        {
+          "summary_zh": "印度债券市场显示更多RBI利率的赌楼",
+          "summary_en": "India’s Bond Market Shows Bets Building for More RBI Rate Hikes",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/india-s-bond-market-shows-bets-building-for-more-rbi-rate-hikes",
+          "published": "2026-10-15T02:31:04+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.29
+        },
+        {
+          "summary_zh": "股票对通货膨胀的关切和A.I.投资的增长",
+          "summary_en": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+          "published": "2026-10-14T21:30:57+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.04
+        },
+        {
+          "summary_zh": "Jim Cramer解释为什么银行的巨额收入 连他们的股票都存不下来",
+          "summary_en": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+          "published": "2026-10-14T22:48:06+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.86
+        },
+        {
+          "summary_zh": "8个州正在起诉OpenAI,称ChatGPT伤害孩子. 以下是他们的要求,从数据删除到停止AI测试.",
+          "summary_en": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/eight-states-sue-openai-saying-chatgpt-harms-children-2026-10",
+          "published": "2026-10-15T01:48:59+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.12
+        },
+        {
+          "summary_zh": "Ambani的Jio试图为印度最大的IPO筹集3.2B美元。",
+          "summary_en": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+          "published": "2026-10-14T21:48:20+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 2.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.61
+        },
+        {
+          "summary_zh": "SEC 讨论IPO现代化和监管的小企业咨询委员会",
+          "summary_en": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+          "published": "2026-10-14T10:30:47-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.49
+        },
+        {
+          "summary_zh": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+          "summary_en": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-15T00:13:28+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.22
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "AI giant Anthropic sees revenue surge ahead of stock market listing",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-15T01:56:32+00:00"
+        },
+        {
+          "summary": "Stock Selloff Hits Asia, Anthropic $16.8B 3Q Revenue, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-15/stock-selloff-hits-asia-anthropic-16-8b-3q-revenue-more",
+          "published": "2026-10-15T00:57:19+00:00"
+        },
+        {
+          "summary": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+          "published": "2026-10-14T23:36:00+00:00"
+        },
+        {
+          "summary": "India’s Bond Market Shows Bets Building for More RBI Rate Hikes",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-15/india-s-bond-market-shows-bets-building-for-more-rbi-rate-hikes",
+          "published": "2026-10-15T02:31:04+00:00"
+        },
+        {
+          "summary": "IMF APAC Chief Warns of Rising Market Risks",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-15/imf-apac-chief-warns-of-rising-market-risks-video",
+          "published": "2026-10-15T02:15:46+00:00"
+        },
+        {
+          "summary": "Stock Losses Deepen on Chip Rout, Treasuries Rise: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-10-14T22:04:59+00:00"
+        },
+        {
+          "summary": "Bank of America Fined $1.2 Billion for Lax Money-Laundering Oversight",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
+          "published": "2026-10-15T01:54:40+00:00"
+        },
+        {
+          "summary": "Chip Rout Deepens, Anthropic 3Q Revenue Surges, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-15/chip-rout-deepens-anthropic-3q-revenue-surges-more",
+          "published": "2026-10-15T01:52:28+00:00"
+        },
+        {
+          "summary": "Ukraine Starlink Restrictions, Inflation Woes Hits Stocks, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-14/ukraine-starlink-restrictions-inflation-woes-hits-stocks-more",
+          "published": "2026-10-14T21:52:17+00:00"
+        },
+        {
+          "summary": "JPMorgan's Dimon Says Federal Debt May Lead to Bond Volatility, Higher Rates",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-15/dimon-says-federal-debt-may-lead-to-bond-volatility-video",
+          "published": "2026-10-15T01:52:10+00:00"
+        },
+        {
+          "summary": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+          "published": "2026-10-14T21:30:57+00:00"
+        },
+        {
+          "summary": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+          "published": "2026-10-14T22:48:06+00:00"
+        },
+        {
+          "summary": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+          "published": "2026-10-15T00:02:00+00:00"
+        },
+        {
+          "summary": "Meta- and Google-backed Jio Platforms to raise up to $3.2 billion in historic IPO in India",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/15/jio-ipo-meta-google-ambani-musk.html",
+          "published": "2026-10-15T01:56:53+00:00"
+        },
+        {
+          "summary": "Musk: US Decides Starshield Limits, Anthropic 3Q Revenue, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-14/musk-us-decides-starshield-limits-anthropic-3q-revenue-more",
+          "published": "2026-10-14T23:47:17+00:00"
+        },
+        {
+          "summary": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
+          "published": "2026-10-15T01:07:01+00:00"
+        },
+        {
+          "summary": "Surging Inflation Complicates Trump’s Final Push to Sell Voters on Strong Economy",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+          "published": "2026-10-14T18:42:13+00:00"
+        },
+        {
+          "summary": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+          "published": "2026-10-15T00:30:13+00:00"
+        },
+        {
+          "summary": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+          "published": "2026-10-14T22:24:00+00:00"
+        },
+        {
+          "summary": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+          "published": "2026-10-14T22:03:00+00:00"
+        },
+        {
+          "summary": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
+          "published": "2026-10-15T01:52:59+00:00"
+        },
+        {
+          "summary": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/eight-states-sue-openai-saying-chatgpt-harms-children-2026-10",
+          "published": "2026-10-15T01:48:59+00:00"
+        },
+        {
+          "summary": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+          "published": "2026-10-14T21:48:20+00:00"
+        },
+        {
+          "summary": "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding",
+          "published": "2026-10-14T10:30:47-04:00"
+        },
+        {
+          "summary": "How backlash against data centres could shape the US midterm elections",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T23:02:57+00:00"
+        },
+        {
+          "summary": "How a Chinese-made toy gets to a US retailer",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T23:01:28+00:00"
+        },
+        {
+          "summary": "How much is the minimum wage?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-14T23:01:11+00:00"
+        },
+        {
+          "summary": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-15T00:13:28+00:00"
+        },
+        {
+          "summary": "I paid $975 for Amtrak's business-class and then a first-class roomette on a 32-hour trip. Only one upgrade was worth it.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/amtrak-business-class-vs-roomette-upgrade-worth-it",
+          "published": "2026-10-14T17:43:41+00:00"
+        },
+        {
+          "summary": "Prediction market users are already betting on how long Trump's new press secretary will last",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/prediction-markets-betting-katie-zacharia-trump-press-secretary-2026-10",
+          "published": "2026-10-14T17:11:39+00:00"
+        },
+        {
+          "summary": "I've spent 154 hours on Amtrak trains in 5 different classes, from coach to bedrooms. The best deal was a premium cabin.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/amtrak-cabins-compared-coach-business-first-class-roomette-bedroom-2026-10",
+          "published": "2026-10-14T16:52:08+00:00"
+        },
+        {
+          "summary": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+          "published": "2026-10-14T22:00:00+00:00"
+        },
+        {
+          "summary": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+          "published": "2026-10-14T21:30:33+00:00"
+        },
+        {
+          "summary": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+          "published": "2026-10-14T20:26:25+00:00"
+        },
+        {
+          "summary": "Another warning sign for China’s economy: falling consumer credit",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+          "published": "2026-10-14T17:52:55+00:00"
+        },
+        {
+          "summary": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "published": "2026-10-14T15:08:00+00:00"
+        },
+        {
+          "summary": "Enhanced Trading Systems with Intelligent Market Analysis",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.13998",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Suicide rates highest ever among middle-aged men",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+          "published": "2026-10-14T19:03:58+00:00"
+        },
+        {
+          "summary": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+          "published": "2026-10-14T11:00:00+00:00"
+        },
+        {
+          "summary": "FDE-Bench: Evaluating End-to-End Delivery from Underspecified Real-World Business Requests",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14539",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Imitation Holds a Key to Evolution: Localized Repair and Verified Skill Acquisition for Adaptive Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.16125",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "AssetForge: Asset-Augmented Task Synthesis for Business Automation Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.18330",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "DPAL: A Test-Time Adaptation Loss for Financial Time Series Forecasting",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14376",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Contrastive Linearized Laplace: Loss Geometry, Valid Repairs, and Reliable Cores",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14875",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Cross-Material Magnetic Core Loss Prediction via Operating-Condition Matching and Partial Optimal Transport",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14964",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "XForecast: The KDD 2026 Finance Day Challenge on News-Grounded Financial Forecasting",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.16131",
+          "published": "2026-10-14T00:00:00-04:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "使用 NVIDIA NeMo Gym 优化芯片设计的代理可靠性和调用工具",
+          "summary_en": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+          "published": "2026-10-14T16:10:45+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.41
+        },
+        {
+          "summary_zh": "AMP 将 AI 代理与 OpenAI 模型进行超越代码的工作",
+          "summary_en": "Amp puts AI agents to work beyond code with OpenAI models",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "published": "2026-10-14T12:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.36
+        },
+        {
+          "summary_zh": "让地球AI发挥作用:地球最大挑战的地理空间代理人",
+          "summary_en": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+          "published": "2026-10-14T16:14:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.92
+        },
+        {
+          "summary_zh": "Tamnoon 如何用 Amazon Bedrock 建造 AI 动力云安全补救",
+          "summary_en": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+          "published": "2026-10-14T13:53:33+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.34
+        },
+        {
+          "summary_zh": "HiRO-ACEv2:模拟极端天气,分辨率为3公里,成本的一小部分",
+          "summary_en": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "published": "2026-10-14T16:12:42+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "回声: LLM 错误补偿 4- Bit Tensor- Parallel 通信 培训和推论",
+          "summary_en": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14277",
+          "published": "2026-10-14T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "BSIPipe:用于长序大语言模型培训的双向序列-层间断管道平行化",
+          "summary_en": "BSIPipe: Bidirectional Sequence-Level Interleaved Pipeline Parallelism for Long-Sequence Large Language Model Training",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14935",
+          "published": "2026-10-14T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "阿帕特派人工智能卧底去骗他们 这样他们就能收集诈骗情报",
+          "summary_en": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+          "published": "2026-10-14T18:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.16
+        },
+        {
+          "summary_zh": "Floqer的AI代理商研究销售前景,",
+          "summary_en": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "published": "2026-10-14T15:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.41
+        },
+        {
+          "summary_zh": "\"哨兵一号\"将恶意软件分析从数周缩短至数小时",
+          "summary_en": "SentinelOne cuts malware analysis from weeks to hours",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/sentinelone",
+          "published": "2026-10-14T12:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.36
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Optimizing Agent Reliability and Tool Calling Efficiency for Chip Design Using NVIDIA NeMo Gym",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym/",
+          "published": "2026-10-14T16:10:45+00:00"
+        },
+        {
+          "summary": "Amp puts AI agents to work beyond code with OpenAI models",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "published": "2026-10-14T12:00:00+00:00"
+        },
+        {
+          "summary": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+          "published": "2026-10-14T16:14:00+00:00"
+        },
+        {
+          "summary": "SentinelOne cuts malware analysis from weeks to hours",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/sentinelone",
+          "published": "2026-10-14T12:00:00+00:00"
+        },
+        {
+          "summary": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+          "published": "2026-10-14T13:53:33+00:00"
+        },
+        {
+          "summary": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/third-moment-research",
+          "published": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "summary": "How Block is building AI-powered security with OpenAI technology",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/block-ai-powered-security",
+          "published": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "summary": "Build self-improving document processing using Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
+          "published": "2026-10-14T16:24:07+00:00"
+        },
+        {
+          "summary": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+          "published": "2026-10-14T16:14:34+00:00"
+        },
+        {
+          "summary": "Analyzing technical documents with Deep Review",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+          "published": "2026-10-14T16:14:00+00:00"
+        },
+        {
+          "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "published": "2026-10-14T16:12:42+00:00"
+        },
+        {
+          "summary": "Echo: Error-Compensated 4-Bit Tensor-Parallel Communication for LLM Training and Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14277",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Phantom Merge: When Your Large Language Model Agents Pick One but Tell You About Another",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.16141",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "agent-risk: Risk Assessment for Changes to AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.16280",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.16523",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "BSIPipe: Bidirectional Sequence-Level Interleaved Pipeline Parallelism for Long-Sequence Large Language Model Training",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.14935",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Fast and Accurate: Improving Personalized LLM Performance by Semantic Concentration Inspired Workload Split between RAG and Fine-Tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.15921",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Understanding Negative Learning in Large Language Model Fine-tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2512.00778",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Probe and Skip: Self-Predictive Token Skipping for Efficient Long-Context LLM Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2601.13155",
+          "published": "2026-10-14T00:00:00-04:00"
+        },
+        {
+          "summary": "Generate presentations with Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+          "published": "2026-10-14T13:58:43+00:00"
+        },
+        {
+          "summary": "Deploy and evaluate models with Amazon SageMaker JumpStart",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/deploy-and-evaluate-models-with-amazon-sagemaker-jumpstart/",
+          "published": "2026-10-14T13:14:36+00:00"
+        },
+        {
+          "summary": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+          "published": "2026-10-14T18:00:00+00:00"
+        },
+        {
+          "summary": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "published": "2026-10-14T15:00:00+00:00"
+        },
+        {
+          "summary": "Capsem – a Rust hypervisor sandboxing AI agents in air-gapped Linux VMs",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://capsem.org/",
+          "published": "2026-10-15T00:58:26+00:00"
+        },
+        {
+          "summary": "LFM2.5-24B-A2B: Built for fast on-device agents",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+          "published": "2026-10-14T23:59:37+00:00"
+        },
+        {
+          "summary": "TechCrunch Disrupt 2026: Day 2",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+          "published": "2026-10-14T14:30:00+00:00"
+        },
+        {
+          "summary": "Hollywood Agents and Producers Push to Restore Glory Days of Indie TV",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html",
+          "published": "2026-10-14T13:00:06+00:00"
+        }
+      ]
+    }
+  }
+}
