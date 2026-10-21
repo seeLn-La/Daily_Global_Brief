@@ -1,0 +1,1331 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T02:41:53.481074+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "三十而立，奇瑞不想只做一家汽车公司",
+          "summary_en": "三十而立，奇瑞不想只做一家汽车公司",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-21T01:31:11+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "Anthropic的云层伙伴关系越来越混乱",
+          "summary_en": "Anthropic’s cloud partnerships are getting messy",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "published": "2026-10-20T21:25:22+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.98
+        },
+        {
+          "summary_zh": "YouTube可能正在测试隐藏讨厌的按钮",
+          "summary_en": "YouTube might be testing hiding the dislike button",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+          "published": "2026-10-20T20:00:56-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "1千瓦风力涡轮机能为你家生产多少动力?",
+          "summary_en": "How much power can a 1kW wind turbine produce for your home?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+          "published": "2026-10-21T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.63
+        },
+        {
+          "summary_zh": "OpenBSD 8.0 安全记录完好无损",
+          "summary_en": "OpenBSD 8.0 arrives with security record still intact",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+          "published": "2026-10-20T19:57:18+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.62
+        },
+        {
+          "summary_zh": "8 e Mudhra 证书被损坏. 这是你需要知道的",
+          "summary_en": "8 eMudhra certificates are compromised. Here's what you need to know",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+          "published": "2026-10-20T22:20:16+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.41
+        },
+        {
+          "summary_zh": "帮助破解几十年的冷案的技术",
+          "summary_en": "The tech helping crack decades-old cold cases",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T23:13:24+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.93
+        },
+        {
+          "summary_zh": "是一只鸟,是飞机... 是猎豹?",
+          "summary_en": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+          "published": "2026-10-20T21:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.88
+        },
+        {
+          "summary_zh": "一辆新罗科智能Fridge刚刚掉下去了 价格也一样(2026年)",
+          "summary_en": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/rocco-sale-october-2026/",
+          "published": "2026-10-20T20:47:46+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.83
+        },
+        {
+          "summary_zh": "Big Tech,私人信贷,Firmus:澳大利亚简报",
+          "summary_en": "Big Tech, private credit, Firmus: Australia Briefing",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-20/big-tech-private-credit-firmus-australia-briefing",
+          "published": "2026-10-20T21:44:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.56
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "三十而立，奇瑞不想只做一家汽车公司",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-21T01:31:11+00:00"
+        },
+        {
+          "summary": "Anthropic’s cloud partnerships are getting messy",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "published": "2026-10-20T21:25:22+00:00"
+        },
+        {
+          "summary": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-21T00:21:51+00:00"
+        },
+        {
+          "summary": "YouTube might be testing hiding the dislike button",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+          "published": "2026-10-20T20:00:56-04:00"
+        },
+        {
+          "summary": "How much power can a 1kW wind turbine produce for your home?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/",
+          "published": "2026-10-21T00:00:00+00:00"
+        },
+        {
+          "summary": "Google brings Gemini Personal Intelligence to Android Auto",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/",
+          "published": "2026-10-20T20:00:00+00:00"
+        },
+        {
+          "summary": "OpenBSD 8.0 arrives with security record still intact",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+          "published": "2026-10-20T19:57:18+00:00"
+        },
+        {
+          "summary": "What can you use your Apple Watch Ultra 4 action button for?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/",
+          "published": "2026-10-20T23:30:00+00:00"
+        },
+        {
+          "summary": "8 eMudhra certificates are compromised. Here's what you need to know",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+          "published": "2026-10-20T22:20:16+00:00"
+        },
+        {
+          "summary": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+          "published": "2026-10-20T19:04:19-04:00"
+        },
+        {
+          "summary": "Oura Ring can track new stats related to cardio fitness",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/",
+          "published": "2026-10-20T23:00:10+00:00"
+        },
+        {
+          "summary": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+          "published": "2026-10-20T18:20:11-04:00"
+        },
+        {
+          "summary": "Google’s more personalized Gemini AI is heading to your car",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+          "published": "2026-10-20T18:11:34-04:00"
+        },
+        {
+          "summary": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+          "published": "2026-10-20T22:04:54+00:00"
+        },
+        {
+          "summary": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+          "published": "2026-10-20T21:44:34+00:00"
+        },
+        {
+          "summary": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+          "published": "2026-10-20T21:14:33+00:00"
+        },
+        {
+          "summary": "The tech helping crack decades-old cold cases",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T23:13:24+00:00"
+        },
+        {
+          "summary": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+          "published": "2026-10-20T21:00:00+00:00"
+        },
+        {
+          "summary": "Here’s the tea",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+          "published": "2026-10-20T21:00:00+00:00"
+        },
+        {
+          "summary": "Melt it, spin it, use it again",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+          "published": "2026-10-20T21:00:00+00:00"
+        },
+        {
+          "summary": "A reason to eat carbs",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+          "published": "2026-10-20T21:00:00+00:00"
+        },
+        {
+          "summary": "A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/rocco-sale-october-2026/",
+          "published": "2026-10-20T20:47:46+00:00"
+        },
+        {
+          "summary": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+          "published": "2026-10-20T20:00:00+00:00"
+        },
+        {
+          "summary": "Big Tech, private credit, Firmus: Australia Briefing",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-20/big-tech-private-credit-firmus-australia-briefing",
+          "published": "2026-10-20T21:44:01+00:00"
+        },
+        {
+          "summary": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+          "published": "2026-10-20T19:32:43+00:00"
+        },
+        {
+          "summary": "In Hilbert space, all things are quantumly possible",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+          "published": "2026-10-21T02:04:15+00:00"
+        },
+        {
+          "summary": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "published": "2026-10-20T18:38:24+00:00"
+        },
+        {
+          "summary": "T3 Code now synced between GitHub and GitCafe",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://git.cafe/pingdotgg/t3code",
+          "published": "2026-10-21T01:48:22+00:00"
+        },
+        {
+          "summary": "The Future of CSS",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.joshwcomeau.com/css/interop-2027/",
+          "published": "2026-10-21T01:47:28+00:00"
+        },
+        {
+          "summary": "GitHub package firewall",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
+          "published": "2026-10-21T01:45:29+00:00"
+        },
+        {
+          "summary": "17 actors who transformed into real-life tech company CEOs and founders",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/actors-who-played-startup-founders-tech-ceos",
+          "published": "2026-10-20T19:50:53+00:00"
+        },
+        {
+          "summary": "French Government Calls Emergency Meetings With Platforms Over Protests",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+          "published": "2026-10-20T17:41:58+00:00"
+        },
+        {
+          "summary": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+          "published": "2026-10-20T16:05:03+00:00"
+        },
+        {
+          "summary": "Google resolves cloud outage affecting UK banks and websites",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T18:03:19+00:00"
+        },
+        {
+          "summary": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/review/review-hatch-sleep-clock/",
+          "published": "2026-10-20T16:03:17+00:00"
+        },
+        {
+          "summary": "Apple unveils the 2026 Designers of Tomorrow",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/",
+          "published": "2026-10-20T14:59:22.784000+00:00"
+        },
+        {
+          "summary": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-20T14:13:34+00:00"
+        },
+        {
+          "summary": "Introducing tsrs: A port of TypeScript to Rust",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/typescript-rust-port/",
+          "published": "2026-10-20T13:00:00+00:00"
+        },
+        {
+          "summary": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+          "published": "2026-10-20T12:00:22.992000+00:00"
+        },
+        {
+          "summary": "The Physics Behind Tesla’s Flying Roadster",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+          "published": "2026-10-20T10:45:00+00:00"
+        },
+        {
+          "summary": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-20T03:57:44+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Jio的纪录 320亿美元IPO 将印度的市场肌肉放到测试中",
+          "summary_en": "Jio’s Record $3.2 Billion IPO Puts India’s Market Muscle to the Test",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-21/jio-s-record-3-2-billion-ipo-puts-india-s-market-muscle-to-the-test",
+          "published": "2026-10-21T02:35:57+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.28
+        },
+        {
+          "summary_zh": "特斯拉的股权随着埃隆·穆斯克放弃关于SpaceX可能合并的新线索而上升",
+          "summary_en": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+          "published": "2026-10-21T00:14:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "SpaceX Swings to a Profit, as A. I. 商业成长",
+          "summary_en": "SpaceX Swings to a Profit, as A.I. Business Grows",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+          "published": "2026-10-20T22:37:38+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.28
+        },
+        {
+          "summary_zh": "SpaceX-Tesla 探索合并, Netflix 增长关注, 更多",
+          "summary_en": "SpaceX-Tesla Exploring Merger, Netflix Growth Concerns, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-21/spacex-tesla-exploring-merger-netflix-growth-concerns-more",
+          "published": "2026-10-21T02:33:04+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.26
+        },
+        {
+          "summary_zh": "基础设施启动 烟火 AI在早期谈判 以300亿至400亿美元的价值提供新资金",
+          "summary_en": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
+          "published": "2026-10-20T22:10:40+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.17
+        },
+        {
+          "summary_zh": "股票期货随着交易商评估最新收益而上升; SpaceX 股票激增:现场更新",
+          "summary_en": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+          "published": "2026-10-21T02:09:38+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.67
+        },
+        {
+          "summary_zh": "Elon Musk说Tesla-SpaceX公司正在考虑合并",
+          "summary_en": "Elon Musk says Tesla-SpaceX merger being considered",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T23:24:47+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "SpaceX和Tesla董事会组成特别委员会审查合并情况",
+          "summary_en": "SpaceX and Tesla boards form special committees to review merger",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+          "published": "2026-10-20T22:57:57+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.87
+        },
+        {
+          "summary_zh": "特斯拉和SpaceX正在讨论可能的合并,穆斯克说:",
+          "summary_en": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+          "published": "2026-10-20T17:30:24-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "证监会和AMF宣布加强投资顾问和投资服务提供者合作的监督备忘录",
+          "summary_en": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+          "published": "2026-10-20T09:25:16-04:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.18
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Jio’s Record $3.2 Billion IPO Puts India’s Market Muscle to the Test",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-21/jio-s-record-3-2-billion-ipo-puts-india-s-market-muscle-to-the-test",
+          "published": "2026-10-21T02:35:57+00:00"
+        },
+        {
+          "summary": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+          "published": "2026-10-21T00:14:00+00:00"
+        },
+        {
+          "summary": "SpaceX Swings to a Profit, as A.I. Business Grows",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+          "published": "2026-10-20T22:37:38+00:00"
+        },
+        {
+          "summary": "SpaceX-Tesla Exploring Merger, Netflix Growth Concerns, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-21/spacex-tesla-exploring-merger-netflix-growth-concerns-more",
+          "published": "2026-10-21T02:33:04+00:00"
+        },
+        {
+          "summary": "Earnings Special: SpaceX's AI Revenue Jumps (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-20/earnings-special-spacex-s-ai-revenue-jumps-podcast",
+          "published": "2026-10-20T22:30:44+00:00"
+        },
+        {
+          "summary": "Infrastructure startup Fireworks AI is in early talks for new funding at a valuation between $30 billion and $40 billion",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/fireworks-ai-is-seeking-new-funding-at-around-valuation-2026-10",
+          "published": "2026-10-20T22:10:40+00:00"
+        },
+        {
+          "summary": "Stocks Rise With US Futures on AI Trade, Oil Gains: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-10-20T22:05:51+00:00"
+        },
+        {
+          "summary": "Musk's Push For SpaceX-Tesla Merger, Netflix Results, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-21/musk-s-push-for-spacex-tesla-merger-netflix-results-more",
+          "published": "2026-10-21T00:59:02+00:00"
+        },
+        {
+          "summary": "CATL’s Slow Profit Growth Fans Fears for China Battery Rivals",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-21/catl-s-slower-profit-growth-fans-fears-for-china-battery-rivals",
+          "published": "2026-10-21T00:41:04+00:00"
+        },
+        {
+          "summary": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+          "published": "2026-10-21T00:24:00+00:00"
+        },
+        {
+          "summary": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+          "published": "2026-10-21T00:15:00+00:00"
+        },
+        {
+          "summary": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-21/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates",
+          "published": "2026-10-21T00:13:21+00:00"
+        },
+        {
+          "summary": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+          "published": "2026-10-21T00:12:00+00:00"
+        },
+        {
+          "summary": "Stock futures rise as traders evaluate latest raft of earnings; SpaceX shares surge: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+          "published": "2026-10-21T02:09:38+00:00"
+        },
+        {
+          "summary": "SpaceX-Tesla Discussing Potential Merger, Netflix Soft Outlook",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-20/spacex-tesla-discussing-potential-merger-netflix-soft-outlook",
+          "published": "2026-10-20T23:45:33+00:00"
+        },
+        {
+          "summary": "Elon Musk says Tesla-SpaceX merger being considered",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T23:24:47+00:00"
+        },
+        {
+          "summary": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+          "published": "2026-10-21T01:02:36+00:00"
+        },
+        {
+          "summary": "Netflix's co-CEO says the streamer needs to make better US shows and movies",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/netflix-us-shows-movies-need-to-get-better-ted-sarandos-2026-10",
+          "published": "2026-10-20T22:24:58+00:00"
+        },
+        {
+          "summary": "Smile, Elon, you're on camera: SpaceX made its earnings call must-see TV for Musk fans",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/elon-musk-spacex-earnings-call-live-video-stream-2026-10",
+          "published": "2026-10-20T22:23:16+00:00"
+        },
+        {
+          "summary": "Tesla and SpaceX have set up committees to explore a merger",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/tesla-spacex-merger-exploratory-commitees-2026-10",
+          "published": "2026-10-20T22:16:57+00:00"
+        },
+        {
+          "summary": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+          "published": "2026-10-20T22:29:45+00:00"
+        },
+        {
+          "summary": "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
+          "published": "2026-10-21T01:44:42+00:00"
+        },
+        {
+          "summary": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T19:42:32+00:00"
+        },
+        {
+          "summary": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+          "published": "2026-10-20T22:39:40+00:00"
+        },
+        {
+          "summary": "SpaceX and Tesla boards form special committees to review merger",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+          "published": "2026-10-20T22:57:57+00:00"
+        },
+        {
+          "summary": "Audit regulator looking into Manchester City accounting",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T20:56:53+00:00"
+        },
+        {
+          "summary": "Britain Is Said to Approve New Gas Drilling in the North Sea",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html",
+          "published": "2026-10-20T20:44:40+00:00"
+        },
+        {
+          "summary": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "published": "2026-10-20T22:24:02+00:00"
+        },
+        {
+          "summary": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+          "published": "2026-10-20T16:17:54+00:00"
+        },
+        {
+          "summary": "Tesla and SpaceX are discussing a possible merger, Musk says",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+          "published": "2026-10-20T17:30:24-04:00"
+        },
+        {
+          "summary": "Trump sued over Canadian tariffs in latest legal challenge",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-20T19:30:05+00:00"
+        },
+        {
+          "summary": "SpaceX’s AI business is beating expectations",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "published": "2026-10-20T20:40:41+00:00"
+        },
+        {
+          "summary": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "published": "2026-10-20T20:35:10+00:00"
+        },
+        {
+          "summary": "SpaceX says big AI growth fueled revenue jump",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+          "published": "2026-10-20T16:26:58-04:00"
+        },
+        {
+          "summary": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+          "published": "2026-10-20T09:25:16-04:00"
+        },
+        {
+          "summary": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
+          "published": "2026-10-20T08:51:00-04:00"
+        },
+        {
+          "summary": "The late Perry Mehrling explained the hierarchy of money",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/20/the-late-perry-mehrling-explained-the-hierarchy-of-money",
+          "published": "2026-10-20T18:32:09+00:00"
+        },
+        {
+          "summary": "From SEC Filings to Financial Signals: Evaluating LLMs on Stock Market Reactions and Analyst Forecasts",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24268",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "The Control Layer Behind Rule-Following Agents Trading Across Market Conditions",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.26324",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "No-Regret Revenue Maximization in Sequential Market Making Under Inventory Constraints",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24562",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/terminal-x",
+          "published": "2026-10-20T07:00:00+00:00"
+        },
+        {
+          "summary": "Meta Muse exposes users' personal and business secrets when they share conversations",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+          "published": "2026-10-20T12:33:13+00:00"
+        },
+        {
+          "summary": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+          "published": "2026-10-20T11:00:00+00:00"
+        },
+        {
+          "summary": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "published": "2026-10-20T11:00:00+00:00"
+        },
+        {
+          "summary": "Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24649",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "The Scheduler Is a Hidden Retriever: How Asynchrony Shapes Evidence Acquisition in Search Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.26310",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "Theory-Guided Instance-Dependent Early Stopping via Second-Order Loss Dynamics",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24540",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "The Hidden Look-Ahead: Point-in-Time Leakage in Electricity Market Data",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.25389",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "Adversarial Post-Training of Foundation Models for High-Frequency Trading",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.25604",
+          "published": "2026-10-20T00:00:00-04:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "在AWS上带有 Smartsheet MCP 的AI代理的工作管理背景",
+          "summary_en": "Work management context for AI agents with Smartsheet MCP on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+          "published": "2026-10-20T17:59:07+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.32
+        },
+        {
+          "summary_zh": "FairStress:更深入地评价LLM决策的公正性",
+          "summary_en": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "published": "2026-10-20T16:09:19+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.87
+        },
+        {
+          "summary_zh": "GemNav:使用多式大语言模型的Discrete-Token视觉机器人导航",
+          "summary_en": "GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2607.06882",
+          "published": "2026-10-20T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 5.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.63
+        },
+        {
+          "summary_zh": "Franchisee 用94%的时间与 ChatGPT 工作对账",
+          "summary_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "published": "2026-10-20T10:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.83
+        },
+        {
+          "summary_zh": "受聘服务:技术、研究和积极影响",
+          "summary_en": "Called to serve: Tech, research, and positive impact",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+          "published": "2026-10-20T16:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.83
+        },
+        {
+          "summary_zh": "T-MUON:通过t-SVD对Muon进行十进制,用于大语言模型预训",
+          "summary_en": "T-MUON: Tensorizing Muon via t-SVD for Large Language Model Pre-training",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24938",
+          "published": "2026-10-20T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.63
+        },
+        {
+          "summary_zh": "Anthropic pitchs AI 安全法案,如果50多人被杀死,可能会阻挡模型",
+          "summary_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "published": "2026-10-20T23:01:23+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.38
+        },
+        {
+          "summary_zh": "一个AI特工加入了顶级互联网研究人员列表服务公司. 回复- 全部混乱仍然是未覆盖",
+          "summary_en": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+          "published": "2026-10-20T15:07:43+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.91
+        },
+        {
+          "summary_zh": "KV 缓存之外: 在 AWS Trainium2 上培训和服务 i14 的 Laplace 3B 线性关注模型",
+          "summary_en": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+          "published": "2026-10-20T21:14:10+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 11.14
+        },
+        {
+          "summary_zh": "在AWS上用 X.509 PKI 保证AI代理身份",
+          "summary_en": "Securing AI agent identity with X.509 PKI on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+          "published": "2026-10-20T16:03:48+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 10.84
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Work management context for AI agents with Smartsheet MCP on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/work-management-context-for-ai-agents-with-smartsheet-mcp-on-aws/",
+          "published": "2026-10-20T17:59:07+00:00"
+        },
+        {
+          "summary": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
+          "published": "2026-10-20T21:14:10+00:00"
+        },
+        {
+          "summary": "Securing AI agent identity with X.509 PKI on AWS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agent-identity-with-x-509-pki-on-aws/",
+          "published": "2026-10-20T16:03:48+00:00"
+        },
+        {
+          "summary": "Fine-tuning GPT-OSS-20B for multilingual reasoning on Amazon SageMaker HyperPod",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-gpt-oss-20b-for-multilingual-reasoning-on-amazon-sagemaker-hyperpod/",
+          "published": "2026-10-20T17:48:27+00:00"
+        },
+        {
+          "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "published": "2026-10-20T16:09:19+00:00"
+        },
+        {
+          "summary": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "published": "2026-10-20T15:19:48+00:00"
+        },
+        {
+          "summary": "GemNav: Discrete-Token Visual Robot Navigation using a Multimodal Large Language Model",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2607.06882",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "published": "2026-10-20T18:17:47+00:00"
+        },
+        {
+          "summary": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "published": "2026-10-20T10:00:00+00:00"
+        },
+        {
+          "summary": "Called to serve: Tech, research, and positive impact",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+          "published": "2026-10-20T16:00:00+00:00"
+        },
+        {
+          "summary": "Medical Fine-Tuning Reshapes, Not Reduces, Patient-Facing AI Risk: A Rubric-Based, LLM-Judge Evaluation Framework",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24807",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "The Window Is in the Reasoning: When LLM Agents Decide to Follow Prompt Injections",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24048",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "WIDE: Boosting Adaptive LLM Inference via Token-level Dynamic Width Pruning",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2607.28418",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "T-MUON: Tensorizing Muon via t-SVD for Large Language Model Pre-training",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24938",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "Indistinguishable Agents: Training Agent Privacy as Twin-World Indistinguishability",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.25161",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24499",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "How Does Muon Work in Private Deep Learning? Scalable Differentially Private Training via Orthogonalization",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.24736",
+          "published": "2026-10-20T00:00:00-04:00"
+        },
+        {
+          "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "published": "2026-10-20T23:01:23+00:00"
+        },
+        {
+          "summary": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "published": "2026-10-20T16:00:00+00:00"
+        },
+        {
+          "summary": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "published": "2026-10-20T13:00:00+00:00"
+        },
+        {
+          "summary": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+          "published": "2026-10-20T15:07:43+00:00"
+        },
+        {
+          "summary": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://research.poh.org/bot-benchmarking-2026/",
+          "published": "2026-10-20T17:10:31+00:00"
+        },
+        {
+          "summary": "Yelp can now call on your behalf to check wait times at a restaurant",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+          "published": "2026-10-20T11:00:00+00:00"
+        }
+      ]
+    }
+  }
+}
