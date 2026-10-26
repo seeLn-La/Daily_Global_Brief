@@ -1,0 +1,1293 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T02:30:36.260486+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "哪个Android手机最接近iPhone Duo?",
+          "summary_en": "Which Android phone is the closest equivalent to the iPhone Duo?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+          "published": "2026-10-25T23:45:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.61
+        },
+        {
+          "summary_zh": "跟踪你阅读和发现新书的最佳应用",
+          "summary_en": "The best apps for tracking your reading and discovering new books",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "published": "2026-10-26T01:10:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.97
+        },
+        {
+          "summary_zh": "法国避免在安全困难的情况下再次抢劫",
+          "summary_en": "France Avoids Rerun of Looting With Tough Security",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
+          "published": "2026-10-26T00:55:28+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.4
+        },
+        {
+          "summary_zh": "iFinxit iPhone Duo内部的表情可以解释那些断开的屏幕和链条",
+          "summary_en": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "published": "2026-10-25T17:40:27-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.09
+        },
+        {
+          "summary_zh": "iPhone Duo 滴答声",
+          "summary_en": "iPhone Duo Teardown",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+          "published": "2026-10-26T01:23:24+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.22
+        },
+        {
+          "summary_zh": "Apple CarPlay和Android Auto Make your Phone Hot. (原始内容存档于2018-09-09). 如何保持冷静",
+          "summary_en": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+          "published": "2026-10-25T10:15:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.24
+        },
+        {
+          "summary_zh": "阿波罗说人工智能在科技行业之外 实现了零财政回报",
+          "summary_en": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "published": "2026-10-25T16:02:08+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.18
+        },
+        {
+          "summary_zh": "大多数Windows的用户都严重低估了这个强大的桌面特性",
+          "summary_en": "Most Windows users are seriously underusing this powerful desktop feature",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+          "published": "2026-10-25T23:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.42
+        },
+        {
+          "summary_zh": "Fitbit Air vs. Whoop:哪个无屏幕健身追踪器更适合你?.",
+          "summary_en": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+          "published": "2026-10-26T00:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "你能在外边开普通的以太网电缆吗?",
+          "summary_en": "Can you run regular Ethernet cables outside?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+          "published": "2026-10-26T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.67
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Which Android phone is the closest equivalent to the iPhone Duo?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+          "published": "2026-10-25T23:45:00+00:00"
+        },
+        {
+          "summary": "Most Windows users are seriously underusing this powerful desktop feature",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/",
+          "published": "2026-10-25T23:00:00+00:00"
+        },
+        {
+          "summary": "The best apps for tracking your reading and discovering new books",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+          "published": "2026-10-26T01:10:00+00:00"
+        },
+        {
+          "summary": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+          "published": "2026-10-26T00:30:00+00:00"
+        },
+        {
+          "summary": "Can you run regular Ethernet cables outside?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/",
+          "published": "2026-10-26T00:00:00+00:00"
+        },
+        {
+          "summary": "France Avoids Rerun of Looting With Tough Security",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-26/france-avoids-rerun-of-looting-with-tough-security-video",
+          "published": "2026-10-26T00:55:28+00:00"
+        },
+        {
+          "summary": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "published": "2026-10-25T17:40:27-04:00"
+        },
+        {
+          "summary": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "published": "2026-10-25T21:31:16+00:00"
+        },
+        {
+          "summary": "Scott Walker’s The Drift will get under your skin",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+          "published": "2026-10-25T17:08:09-04:00"
+        },
+        {
+          "summary": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+          "published": "2026-10-25T20:20:08+00:00"
+        },
+        {
+          "summary": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+          "published": "2026-10-25T16:16:19-04:00"
+        },
+        {
+          "summary": "Zen Browser is the Arc replacement I was looking for",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+          "published": "2026-10-25T15:24:50-04:00"
+        },
+        {
+          "summary": "iPhone Duo Teardown",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+          "published": "2026-10-26T01:23:24+00:00"
+        },
+        {
+          "summary": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "published": "2026-10-25T16:57:32+00:00"
+        },
+        {
+          "summary": "Attention Is Not What You Need (2025)",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://arxiv.org/abs/2512.19428",
+          "published": "2026-10-25T23:52:05+00:00"
+        },
+        {
+          "summary": "F-Zero X on Nintendo 3DS",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+          "published": "2026-10-25T23:27:30+00:00"
+        },
+        {
+          "summary": "Proton Flock Camera Map",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://proton.me/flock-camera-map",
+          "published": "2026-10-25T22:39:42+00:00"
+        },
+        {
+          "summary": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
+          "published": "2026-10-25T10:15:00+00:00"
+        },
+        {
+          "summary": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "published": "2026-10-25T16:02:08+00:00"
+        },
+        {
+          "summary": "Wallhack M-001 Review: When Fun Overrides Specs",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/review/wallhack-m-001/",
+          "published": "2026-10-25T12:30:00+00:00"
+        },
+        {
+          "summary": "Are Silicon Valley software engineers really as rich as they seem? Check out this ranking.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/bay-area-software-engineer-pay-cost-of-living-salaries",
+          "published": "2026-10-25T14:00:01+00:00"
+        },
+        {
+          "summary": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+          "published": "2026-10-25T12:00:00+00:00"
+        },
+        {
+          "summary": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-folding-phones/",
+          "published": "2026-10-25T11:30:00+00:00"
+        },
+        {
+          "summary": "How bug bounty sharpens one researcher’s security skills",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+          "published": "2026-10-22T17:21:30+00:00"
+        },
+        {
+          "summary": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "published": "2026-10-24T11:50:28+00:00"
+        },
+        {
+          "summary": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-24T10:10:44+00:00"
+        },
+        {
+          "summary": "The Download: testing six tech promises and biotech’s blind spots",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+          "published": "2026-10-23T12:10:00+00:00"
+        },
+        {
+          "summary": "Switch 2 security takes a hit as hackers unlock homebrew access",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+          "published": "2026-10-22T22:25:33+00:00"
+        },
+        {
+          "summary": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-25T04:10:44+00:00"
+        },
+        {
+          "summary": "Singapore PM Vows More Support for Workers, Energy Security",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
+          "published": "2026-10-25T05:40:56+00:00"
+        },
+        {
+          "summary": "Origin Range Requests: Serving large files without range-request tuning",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/origin-range-requests/",
+          "published": "2026-10-23T18:22:59+00:00"
+        },
+        {
+          "summary": "Bringing post-quantum cryptography to geographically fenced key management",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+          "published": "2026-10-23T18:06:56+00:00"
+        },
+        {
+          "summary": "iPhone Duo arrives at Apple Store locations worldwide",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+          "published": "2026-10-23T06:10:35.677000+00:00"
+        },
+        {
+          "summary": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/k-isms/",
+          "published": "2026-10-22T13:00:00+00:00"
+        },
+        {
+          "summary": "Formula 1® United States Grand Prix™ streams live on Apple TV this weekend",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/",
+          "published": "2026-10-22T12:59:11.281000+00:00"
+        },
+        {
+          "summary": "Developers bring incredible new app experiences to iPhone Duo",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/",
+          "published": "2026-10-22T11:59:15.686000+00:00"
+        },
+        {
+          "summary": "史上最快宾利！竟然是一辆 SUV？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-24T14:35:59+00:00"
+        },
+        {
+          "summary": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+          "published": "2026-10-24T11:00:09+00:00"
+        },
+        {
+          "summary": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-24T03:25:33+00:00"
+        },
+        {
+          "summary": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "published": "2026-10-23T22:48:25+00:00"
+        },
+        {
+          "summary": "In the biotech world, you can’t see everything",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+          "published": "2026-10-23T09:00:00+00:00"
+        },
+        {
+          "summary": "Designing an AI serving harness built to last",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+          "published": "2026-10-22T21:17:29+00:00"
+        },
+        {
+          "summary": "The Foundations of Scalable AI",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+          "published": "2026-10-22T18:48:04+00:00"
+        },
+        {
+          "summary": "What is PHP and why did it spark a global cyber-security scramble?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-23T12:24:17+00:00"
+        },
+        {
+          "summary": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+          "published": "2026-10-22T16:01:36+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "收益前面临压力的库存,石油下降:市场包装",
+          "summary_en": "Stocks Under Pressure Before Earnings, Oil Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+          "published": "2026-10-25T22:09:07+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.21
+        },
+        {
+          "summary_zh": "Musk说SpaceX达成了400亿美元的债务交易,",
+          "summary_en": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+          "published": "2026-10-26T01:50:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.13
+        },
+        {
+          "summary_zh": "海利的预算需要通过集云维持更强大的经济",
+          "summary_en": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T00:26:49+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "接下来的CEO到 Forgo Bonus 之后的澳大利亚数据中心延迟",
+          "summary_en": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/nextdc-ceo-to-forgo-incentives-after-australia-data-center-delay",
+          "published": "2026-10-25T22:24:15+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "Caryle Murphy已经死了。 她在科威特获得一个普利策报告公司。",
+          "summary_en": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
+          "published": "2026-10-26T01:08:42+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.96
+        },
+        {
+          "summary_zh": "我参加过21场Hyrox比赛, 这是我最喜欢的3个东道城市。",
+          "summary_en": "I’ve competed in 21 Hyrox races around the world. These are my 3 favorite host cities.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/hyrox-races-favorite-host-cities-osaka-incheon-korea-jakarta-2026-10",
+          "published": "2026-10-26T00:30:01+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "股票期货随着交易商试图从S&P 500输掉的一周中复苏而攀升:直播更新",
+          "summary_en": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+          "published": "2026-10-26T00:49:23+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.38
+        },
+        {
+          "summary_zh": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "summary_en": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-26T00:16:16+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.24
+        },
+        {
+          "summary_zh": "Gaw Capital-Led Group 寻求再融资 18亿贷款",
+          "summary_en": "Gaw Capital-Led Group Seeks to Refinance $1.8 Billion Loan",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/gaw-capital-led-group-seeks-to-refinance-1-8-billion-loan",
+          "published": "2026-10-26T01:53:20+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "巴西市场争抢卢拉可能赢得的选举胜利",
+          "summary_en": "Brazil Markets Brace for Rout on Lula’s Improbable Election Win",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
+          "published": "2026-10-26T01:21:55+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.01
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stocks Under Pressure Before Earnings, Oil Drops: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/us-equity-futures-climb-as-crude-oil-price-dips-markets-wrap",
+          "published": "2026-10-25T22:09:07+00:00"
+        },
+        {
+          "summary": "Gaw Capital-Led Group Seeks to Refinance $1.8 Billion Loan",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/gaw-capital-led-group-seeks-to-refinance-1-8-billion-loan",
+          "published": "2026-10-26T01:53:20+00:00"
+        },
+        {
+          "summary": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+          "published": "2026-10-26T01:50:00+00:00"
+        },
+        {
+          "summary": "Brazil Markets Brace for Rout on Lula’s Improbable Election Win",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/brazil-markets-brace-for-rout-on-lula-s-improbable-election-win",
+          "published": "2026-10-26T01:21:55+00:00"
+        },
+        {
+          "summary": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T00:26:49+00:00"
+        },
+        {
+          "summary": "Gold Steadies After Weekly Drop as Focus Shifts to Fed Meeting",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/gold-steadies-after-weekly-drop-as-focus-shifts-to-fed-meeting",
+          "published": "2026-10-25T23:23:38+00:00"
+        },
+        {
+          "summary": "Nextdc CEO to Forgo Bonus After Australia Data Center Delay",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/nextdc-ceo-to-forgo-incentives-after-australia-data-center-delay",
+          "published": "2026-10-25T22:24:15+00:00"
+        },
+        {
+          "summary": "What is the Budget and what could be in it?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-26T02:16:37+00:00"
+        },
+        {
+          "summary": "Lula’s Improbable Election Win, Machado Returns to Venezuela",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-26/lula-s-improbable-election-win-machado-returns-to-venezuela",
+          "published": "2026-10-26T02:05:28+00:00"
+        },
+        {
+          "summary": "Trump Says It’s Time to Strike Iran or Make a Deal",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-10-25/trump-says-it-s-time-to-strike-iran-or-make-a-deal",
+          "published": "2026-10-25T21:33:54+00:00"
+        },
+        {
+          "summary": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
+          "published": "2026-10-26T01:08:42+00:00"
+        },
+        {
+          "summary": "Lula Wins Brazil Election, Machado Venezuela Return, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-26/lula-wins-brazil-election-machado-venezuela-return-more",
+          "published": "2026-10-26T01:03:41+00:00"
+        },
+        {
+          "summary": "I’ve competed in 21 Hyrox races around the world. These are my 3 favorite host cities.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/hyrox-races-favorite-host-cities-osaka-incheon-korea-jakarta-2026-10",
+          "published": "2026-10-26T00:30:01+00:00"
+        },
+        {
+          "summary": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T23:44:34+00:00"
+        },
+        {
+          "summary": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+          "published": "2026-10-26T00:49:23+00:00"
+        },
+        {
+          "summary": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+          "published": "2026-10-26T00:37:51+00:00"
+        },
+        {
+          "summary": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-26T00:16:16+00:00"
+        },
+        {
+          "summary": "Attention, Passengers: High Airfares May Be Here to Stay",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
+          "published": "2026-10-25T22:13:59+00:00"
+        },
+        {
+          "summary": "After a long, strange trip, this CEO is close to taking a psilocybin pill to market",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/compass-ceo-kabir-nath-psilocybin-pill-comp360-psychedelics-2026-10",
+          "published": "2026-10-25T14:07:08+00:00"
+        },
+        {
+          "summary": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+          "published": "2026-10-25T14:00:00+00:00"
+        },
+        {
+          "summary": "A Fight Over Felon Voting Prompts a Free Speech Debate",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+          "published": "2026-10-25T21:38:35+00:00"
+        },
+        {
+          "summary": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+          "published": "2026-10-26T02:18:09+00:00"
+        },
+        {
+          "summary": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+          "published": "2026-10-25T20:15:00+00:00"
+        },
+        {
+          "summary": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+          "published": "2026-10-25T20:00:00+00:00"
+        },
+        {
+          "summary": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
+          "published": "2026-10-25T19:25:01+00:00"
+        },
+        {
+          "summary": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+          "published": "2026-10-26T00:28:36+00:00"
+        },
+        {
+          "summary": "Trump on high gas prices: 'We're making a freaking fortune'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/high-gas-prices-donald-trump-oil-companies-midterm-election-2026-10",
+          "published": "2026-10-25T18:04:55+00:00"
+        },
+        {
+          "summary": "My husband and I moved abroad in our 50s after deciding there was no perfect time to relocate",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/couple-moved-from-virginia-to-netherlands-in-50s-2026-10",
+          "published": "2026-10-25T17:18:01+00:00"
+        },
+        {
+          "summary": "Budget to include £1bn for social and affordable housing",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-25T10:03:17+00:00"
+        },
+        {
+          "summary": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "published": "2026-10-22T22:08:24+00:00"
+        },
+        {
+          "summary": "SEC Announces Fiscal Year 2027 Examination Priorities",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+          "published": "2026-10-23T10:10:00-04:00"
+        },
+        {
+          "summary": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "published": "2026-10-23T21:59:19+00:00"
+        },
+        {
+          "summary": "VCs, Superhuman Mail founder share red flags about product-market fit",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+          "published": "2026-10-23T20:57:13+00:00"
+        },
+        {
+          "summary": "Hegseth warns prediction market bets warp military judgment, endanger troops",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+          "published": "2026-10-23T20:28:43+00:00"
+        },
+        {
+          "summary": "Brazil’s weird economy needs serious reform",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/brazils-weird-economy-needs-serious-reform",
+          "published": "2026-10-22T09:11:38+00:00"
+        },
+        {
+          "summary": "AI compute is the new oil—and needs a new market",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+          "published": "2026-10-22T09:07:29+00:00"
+        },
+        {
+          "summary": "Sam Bankman-Fried says he has paid his debts",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "published": "2026-10-22T15:51:39+00:00"
+        },
+        {
+          "summary": "New research tries to defuse the “China shock”",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/new-research-tries-to-defuse-the-china-shock",
+          "published": "2026-10-22T09:12:40+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "扩大NVIDIA TensorRT 与全球性能图纳一起优化单一建设路线之外的性能,第二部分",
+          "summary_en": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+          "published": "2026-10-23T17:27:52+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "迅速扩大在线存储范围,为10亿以上ChatGPT用户提供服务(第二部分)",
+          "summary_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "published": "2026-10-23T17:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "SageMaker AI 端点自动缩放",
+          "summary_en": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+          "published": "2026-10-23T16:30:10+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "你的模型在AWS训练场运行吗? 抬头看",
+          "summary_en": "Does Your Model Run on AWS Trainium? Look It Up",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "published": "2026-10-23T00:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "IBM Granite 时间序列模型组合预测",
+          "summary_en": "Ensemble forecasting with IBM Granite time-series models",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "published": "2026-10-22T07:51:31+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 5.5
+        },
+        {
+          "summary_zh": "这里有顶级的AI代理 可以在您的短信中生存",
+          "summary_en": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "published": "2026-10-24T14:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "1Password 启动一个AI代理在不看到密码的情况下代表您登录的方法",
+          "summary_en": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "published": "2026-10-22T19:07:09+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "大赦国际隐藏的存储帐单: 推论留下了什么",
+          "summary_en": "AI’s hidden storage bill: What inference leaves behind",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+          "published": "2026-10-22T08:41:18+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "Uber 竞争对手 inDrive眼睛 2027机器人Axi 在中亚与Pony AI和Nvidia的测试",
+          "summary_en": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "published": "2026-10-23T04:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 3.3
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+          "published": "2026-10-23T14:58:32+00:00"
+        },
+        {
+          "summary": "Securing our frontier model training environment",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "published": "2026-10-23T10:00:00+00:00"
+        },
+        {
+          "summary": "How Rescale built an AI triage agent with Strands Agents and AI-DLC",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-rescale-built-an-ai-triage-agent-with-strands-agents-and-ai-dlc/",
+          "published": "2026-10-22T16:25:57+00:00"
+        },
+        {
+          "summary": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+          "published": "2026-10-23T00:00:00+00:00"
+        },
+        {
+          "summary": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes/",
+          "published": "2026-10-22T16:00:00+00:00"
+        },
+        {
+          "summary": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "published": "2026-10-22T22:24:34+00:00"
+        },
+        {
+          "summary": "Stream low-latency speech from AI agents using Kokoro TTS on Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+          "published": "2026-10-22T17:45:58+00:00"
+        },
+        {
+          "summary": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+          "published": "2026-10-23T17:27:52+00:00"
+        },
+        {
+          "summary": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1/",
+          "published": "2026-10-23T17:27:35+00:00"
+        },
+        {
+          "summary": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "published": "2026-10-23T17:00:00+00:00"
+        },
+        {
+          "summary": "Build more responsive apps with the Decisions API",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/decisions-api",
+          "published": "2026-10-22T19:00:00+00:00"
+        },
+        {
+          "summary": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+          "published": "2026-10-23T17:48:54+00:00"
+        },
+        {
+          "summary": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+          "published": "2026-10-23T16:30:10+00:00"
+        },
+        {
+          "summary": "Bringing foundational models to the front lines of TB screening",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+          "published": "2026-10-23T18:51:33+00:00"
+        },
+        {
+          "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "published": "2026-10-23T16:15:50+00:00"
+        },
+        {
+          "summary": "Does Your Model Run on AWS Trainium? Look It Up",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+          "published": "2026-10-23T00:00:00+00:00"
+        },
+        {
+          "summary": "Flint-interactive: A language for creating interactive data visualizations",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/",
+          "published": "2026-10-22T16:00:00+00:00"
+        },
+        {
+          "summary": "Beyond tree cover: mapping the world’s forest types",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "published": "2026-10-22T14:30:24+00:00"
+        },
+        {
+          "summary": "Ensemble forecasting with IBM Granite time-series models",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "published": "2026-10-22T07:51:31+00:00"
+        },
+        {
+          "summary": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "published": "2026-10-25T21:11:31+00:00"
+        },
+        {
+          "summary": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "published": "2026-10-24T15:00:00+00:00"
+        },
+        {
+          "summary": "Here are the top AI agents that can live in your text messages",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "published": "2026-10-24T14:00:00+00:00"
+        },
+        {
+          "summary": "Left alone with nothing to do, AI agents started playing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "published": "2026-10-23T00:45:37+00:00"
+        },
+        {
+          "summary": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "published": "2026-10-22T19:07:09+00:00"
+        },
+        {
+          "summary": "Spotify’s current AI bet is about being the music service that agents choose",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+          "published": "2026-10-22T15:03:58+00:00"
+        },
+        {
+          "summary": "AI’s hidden storage bill: What inference leaves behind",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+          "published": "2026-10-22T08:41:18+00:00"
+        },
+        {
+          "summary": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+          "published": "2026-10-23T04:00:00+00:00"
+        }
+      ]
+    }
+  }
+}
