@@ -1,0 +1,1310 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T03:42:45.914487+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "布鲁斯基 与DHS员工记录的主要泄漏连接",
+          "summary_en": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "published": "2026-10-29T03:34:46+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "Anduril现在说,它的BlueChip笔记本电脑在发射时会符合Buy American的标准.",
+          "summary_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "published": "2026-10-28T22:22:46-04:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.97
+        },
+        {
+          "summary_zh": "中国科技亲爱的正在失去光芒. 卖掉的幕后内容如下:",
+          "summary_en": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+          "published": "2026-10-29T02:14:14+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.43
+        },
+        {
+          "summary_zh": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "summary_en": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-29T00:00:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.37
+        },
+        {
+          "summary_zh": "FCC主席想让监狱干扰非法手机",
+          "summary_en": "FCC chair wants to let prisons jam illegal cellphones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+          "published": "2026-10-28T23:09:22+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.16
+        },
+        {
+          "summary_zh": "ULA的Vulcan火箭定于星期五13号返回飞行",
+          "summary_en": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "published": "2026-10-28T22:51:15+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.09
+        },
+        {
+          "summary_zh": "苹果公司的触摸屏MacBook Pro将笔记本电脑定价推向一个新的极端",
+          "summary_en": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "published": "2026-10-28T22:47:50+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.07
+        },
+        {
+          "summary_zh": "Quenputer:一个在Quen3.5内运行的,具有决定性的RISC-V CPU",
+          "summary_en": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://divagr.com/blog/qwenputer",
+          "published": "2026-10-29T00:25:45+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.68
+        },
+        {
+          "summary_zh": "是COLA的窗帘吗? 拯救社会保障可能意味着改变生活费调整。",
+          "summary_en": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+          "published": "2026-10-28T22:41:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.54
+        },
+        {
+          "summary_zh": "在企业背景下创建AI值",
+          "summary_en": "Creating AI value with enterprise context",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "published": "2026-10-28T20:32:02+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.51
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+          "published": "2026-10-29T03:34:46+00:00"
+        },
+        {
+          "summary": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+          "published": "2026-10-28T22:22:46-04:00"
+        },
+        {
+          "summary": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+          "published": "2026-10-28T16:20:00-04:00"
+        },
+        {
+          "summary": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+          "published": "2026-10-29T02:14:14+00:00"
+        },
+        {
+          "summary": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-29T00:00:32+00:00"
+        },
+        {
+          "summary": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+          "published": "2026-10-28T15:37:31-04:00"
+        },
+        {
+          "summary": "FCC chair wants to let prisons jam illegal cellphones",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+          "published": "2026-10-28T23:09:22+00:00"
+        },
+        {
+          "summary": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-28T23:05:55+00:00"
+        },
+        {
+          "summary": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "published": "2026-10-28T19:05:39-04:00"
+        },
+        {
+          "summary": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-28T23:00:46+00:00"
+        },
+        {
+          "summary": "ULA's Vulcan rocket is set to return to flight on Friday the 13th",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+          "published": "2026-10-28T22:51:15+00:00"
+        },
+        {
+          "summary": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "published": "2026-10-28T22:47:50+00:00"
+        },
+        {
+          "summary": "As US ties fray, Europe plans first undersea cable link to Greenland",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+          "published": "2026-10-28T22:35:50+00:00"
+        },
+        {
+          "summary": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-10-28T22:31:28+00:00"
+        },
+        {
+          "summary": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+          "published": "2026-10-28T22:17:15+00:00"
+        },
+        {
+          "summary": "Google expands AI Search ads globally as core ad growth slows",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "published": "2026-10-28T21:48:37+00:00"
+        },
+        {
+          "summary": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://divagr.com/blog/qwenputer",
+          "published": "2026-10-29T00:25:45+00:00"
+        },
+        {
+          "summary": "Xreal Aura is a new wired headset powered by Android XR",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+          "published": "2026-10-28T17:00:00+00:00"
+        },
+        {
+          "summary": "This Is What the GOP’s Final Midterms Push Looks Like",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/",
+          "published": "2026-10-28T21:00:00+00:00"
+        },
+        {
+          "summary": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+          "published": "2026-10-28T22:41:00+00:00"
+        },
+        {
+          "summary": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+          "published": "2026-10-28T23:45:46+00:00"
+        },
+        {
+          "summary": "The first wired XR glasses powered by Android XR",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+          "published": "2026-10-28T23:45:19+00:00"
+        },
+        {
+          "summary": "Creating AI value with enterprise context",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+          "published": "2026-10-28T20:32:02+00:00"
+        },
+        {
+          "summary": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+          "published": "2026-10-28T20:31:43+00:00"
+        },
+        {
+          "summary": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
+          "published": "2026-10-28T20:30:00+00:00"
+        },
+        {
+          "summary": "Reddit is the latest platform to embrace the ‘For You’ feed",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+          "published": "2026-10-28T16:00:00+00:00"
+        },
+        {
+          "summary": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+          "published": "2026-10-29T03:01:57+00:00"
+        },
+        {
+          "summary": "The PlayStation 5 just might be Sony's final Blu-Ray player",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/",
+          "published": "2026-10-28T19:39:47+00:00"
+        },
+        {
+          "summary": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "published": "2026-10-28T19:30:33+00:00"
+        },
+        {
+          "summary": "Engadget is hiring writers!",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300216/engadget-is-hiring-writers-october-2026/",
+          "published": "2026-10-28T19:05:46+00:00"
+        },
+        {
+          "summary": "The New M6 MacBook Pro Has a Serious Price Problem",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+          "published": "2026-10-28T18:57:22+00:00"
+        },
+        {
+          "summary": "A Ukrainian war robot used AI to complete a 12-mile supply run almost entirely on its own. The unit says it's a combat first.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/ukraine-uses-ai-guided-ground-robot-for-supply-mission-2026-10",
+          "published": "2026-10-28T20:23:13+00:00"
+        },
+        {
+          "summary": "From Senate Candidates, Surprising Stances on Fixing Social Security",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
+          "published": "2026-10-28T20:08:52+00:00"
+        },
+        {
+          "summary": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+          "published": "2026-10-28T17:09:28.430000+00:00"
+        },
+        {
+          "summary": "Reed Hastings says Big Tech should get used to being hated — like Big Pharma",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/reed-hastings-big-tech-big-pharma-comparison-2026-10",
+          "published": "2026-10-28T19:04:36+00:00"
+        },
+        {
+          "summary": "GitHub Universe 2026: Evolving every layer of the stack",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+          "published": "2026-10-28T16:09:28+00:00"
+        },
+        {
+          "summary": "The Download: dead startups fueling AI and interspecies communication",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+          "published": "2026-10-28T12:10:00+00:00"
+        },
+        {
+          "summary": "Pairing industrial AI autonomy and human control",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+          "published": "2026-10-28T12:00:00+00:00"
+        },
+        {
+          "summary": "Investors Brace for Big Tech’s A.I. Spending Bill",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/dealbook/ai-spending-quarterly-results-amazon-microsoft.html",
+          "published": "2026-10-28T11:48:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "彭博日落亚洲:三星收益,美联储控股(播客)",
+          "summary_en": "Bloomberg Daybreak Asia: Samsung Earnings, Fed Holds (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-29/bloomberg-daybreak-asia-samsung-earnings-fed-holds-podcast",
+          "published": "2026-10-29T03:21:47+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.21
+        },
+        {
+          "summary_zh": "Fed's Warsh on why He Watches Korea's Economy closely (美联储关于他为何密切观察韩国经济的警告)",
+          "summary_en": "Fed's Warsh on Why He Watches Korea's Economy Closely",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/fed-s-warsh-on-why-he-watches-korea-s-economy-closely-video",
+          "published": "2026-10-29T03:09:53+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.16
+        },
+        {
+          "summary_zh": "尽管通货膨胀缺乏进展,但美联储持有率保持稳定",
+          "summary_en": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+          "published": "2026-10-28T21:27:49+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.74
+        },
+        {
+          "summary_zh": "微软股票在收入之后的走势更高",
+          "summary_en": "The major reason Microsoft’s stock is heading higher after earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+          "published": "2026-10-29T00:10:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.41
+        },
+        {
+          "summary_zh": "微软股暴涨4%,因为云增长带动收入和收入增长",
+          "summary_en": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+          "published": "2026-10-28T22:34:56+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "美联储稳定利率后 聪明人会说什么",
+          "summary_en": "What smart people are saying after the Fed held rates steady",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/october-fed-meeting-fomc-what-smart-people-are-saying-2026-10",
+          "published": "2026-10-28T19:49:45+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.33
+        },
+        {
+          "summary_zh": "猫咪制造者在中国反弹后 与日本间谍剧勾结",
+          "summary_en": "Hello Kitty maker ends collab with Japanese spy drama after backlash in China",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T03:16:19+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.19
+        },
+        {
+          "summary_zh": "向上风从Datadog收购报价中 筹集了四万美元",
+          "summary_en": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+          "published": "2026-10-28T23:15:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 2.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.69
+        },
+        {
+          "summary_zh": "中国的股市是全球最大的例外",
+          "summary_en": "China’s stock markets are the great global exception",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+          "published": "2026-10-28T19:48:19+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "苹果新MacBook中的2000-Nit OLED是一个大交易",
+          "summary_en": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+          "published": "2026-10-28T22:54:16+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.6
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Bloomberg Daybreak Asia: Samsung Earnings, Fed Holds (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-29/bloomberg-daybreak-asia-samsung-earnings-fed-holds-podcast",
+          "published": "2026-10-29T03:21:47+00:00"
+        },
+        {
+          "summary": "Fed's Warsh on Why He Watches Korea's Economy Closely",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-10-29/fed-s-warsh-on-why-he-watches-korea-s-economy-closely-video",
+          "published": "2026-10-29T03:09:53+00:00"
+        },
+        {
+          "summary": "Alphabet Tumbles, Microsoft Beats, Fed Rates Unchanged, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-29/alphabet-tumbles-microsoft-beats-fed-rates-unchanged-more",
+          "published": "2026-10-29T02:45:14+00:00"
+        },
+        {
+          "summary": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+          "published": "2026-10-28T21:27:49+00:00"
+        },
+        {
+          "summary": "Alphabet Misses Mark, Microsoft Beats, Fed Holds Rates, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-29/alphabet-misses-mark-microsoft-beats-fed-holds-rates-more",
+          "published": "2026-10-29T00:39:44+00:00"
+        },
+        {
+          "summary": "The major reason Microsoft’s stock is heading higher after earnings",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+          "published": "2026-10-29T00:10:00+00:00"
+        },
+        {
+          "summary": "Gold Dips to Near $4,000 as Fed Holds Rates With Little Guidance",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/gold-edges-lower-after-fed-holds-rates-with-limited-guidance",
+          "published": "2026-10-28T23:44:02+00:00"
+        },
+        {
+          "summary": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+          "published": "2026-10-28T23:18:00+00:00"
+        },
+        {
+          "summary": "Prediction Markets Avoid Australia’s Tough Line on Gambling",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/prediction-markets-avoid-australia-s-tough-line-on-gambling",
+          "published": "2026-10-29T03:13:34+00:00"
+        },
+        {
+          "summary": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/anthropic-s-ipo-plans-draw-skepticism-from-australian-cios",
+          "published": "2026-10-29T03:13:20+00:00"
+        },
+        {
+          "summary": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+          "published": "2026-10-28T23:02:00+00:00"
+        },
+        {
+          "summary": "Alphabet Misses, Microsoft Strong Quarter, Fed Holds Steady",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-10-29/alphabet-misses-microsoft-strong-quarter-fed-holds-steady",
+          "published": "2026-10-29T02:12:24+00:00"
+        },
+        {
+          "summary": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+          "published": "2026-10-29T01:58:00+00:00"
+        },
+        {
+          "summary": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+          "published": "2026-10-28T22:34:56+00:00"
+        },
+        {
+          "summary": "What smart people are saying after the Fed held rates steady",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/october-fed-meeting-fomc-what-smart-people-are-saying-2026-10",
+          "published": "2026-10-28T19:49:45+00:00"
+        },
+        {
+          "summary": "Hello Kitty maker ends collab with Japanese spy drama after backlash in China",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T03:16:19+00:00"
+        },
+        {
+          "summary": "Obama says The Cheesecake Factory was his 'jam' — and that Trump was less offended by being compared to Saddam Hussein",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/obama-cheesecake-factory-was-his-jam-trump-response-saddam-hussein-2026-10",
+          "published": "2026-10-29T02:13:37+00:00"
+        },
+        {
+          "summary": "I moved to South Korea with no long-term plan. After 4 years of teaching, I've built an unconventional life on an island.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/moved-to-korea-teach-english-traditional-diver-haenyeo-jeju-island-2026-10",
+          "published": "2026-10-29T01:32:50+00:00"
+        },
+        {
+          "summary": "Microsoft profits soar days after announcing thousands of layoffs",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T01:27:40+00:00"
+        },
+        {
+          "summary": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+          "published": "2026-10-28T23:15:00+00:00"
+        },
+        {
+          "summary": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
+          "published": "2026-10-29T00:53:39+00:00"
+        },
+        {
+          "summary": "Samsung Electronics shares slid despite record profit in the third-quarter",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+          "published": "2026-10-29T02:49:39+00:00"
+        },
+        {
+          "summary": "YouTube missed expectations on ad revenue as growth slowed down",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/youtube-misses-ad-revenue-third-quarter-2026-10",
+          "published": "2026-10-28T20:49:06+00:00"
+        },
+        {
+          "summary": "What we now know about the UK economy in four charts",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-28T20:08:45+00:00"
+        },
+        {
+          "summary": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+          "published": "2026-10-28T20:02:56+00:00"
+        },
+        {
+          "summary": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-10-29T00:00:25+00:00"
+        },
+        {
+          "summary": "Fed meeting recap: Warsh says central bank will host fewer rate-setting meetings in future years",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+          "published": "2026-10-28T21:02:56+00:00"
+        },
+        {
+          "summary": "Fed leaves rates unchanged: What it means for credit cards, mortgages, auto loans and savings accounts",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-consumer-borrowing-costs.html",
+          "published": "2026-10-28T20:59:23+00:00"
+        },
+        {
+          "summary": "A Punishing Housing Market Is Squeezing Renters",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html",
+          "published": "2026-10-28T18:43:55+00:00"
+        },
+        {
+          "summary": "China’s stock markets are the great global exception",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/28/chinas-stock-markets-are-the-great-global-exception",
+          "published": "2026-10-28T19:48:19+00:00"
+        },
+        {
+          "summary": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+          "published": "2026-10-28T22:54:16+00:00"
+        },
+        {
+          "summary": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "published": "2026-10-28T21:58:32+00:00"
+        },
+        {
+          "summary": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "published": "2026-10-28T21:34:30+00:00"
+        },
+        {
+          "summary": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+          "published": "2026-10-28T21:25:30+00:00"
+        },
+        {
+          "summary": "Federal Reserve issues FOMC statement",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "published": "2026-10-28T18:00:00+00:00"
+        },
+        {
+          "summary": "Meta weighs delaying 'alarming' new business terms as backlash grows",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/",
+          "published": "2026-10-28T19:42:27+00:00"
+        },
+        {
+          "summary": "What Prediction-Market Contracts Reveal at Launch: Trading Volume and Dispute Risk",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.29578",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+          "published": "2026-10-28T11:00:49+00:00"
+        },
+        {
+          "summary": "Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.37242",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.37631",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Beyond Greenwashing: Algorithmic Resilience and the Non-Linear Governance Premium in Sovereign Capital Flows",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.35895",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Pricing Cross-Bank Context in Federated Anti-Money Laundering",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.35996",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Minimax-Optimal Small-Loss Bounds for Online Linear Optimisation on $\\ell_p$ Balls",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36097",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Bridging Exploration and Loss of Plasticity in On-Policy Reinforcement Learning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36309",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "When Is a Cheap Fairness Edit Safe? Screening Post-Hoc Edits in Two-Sided Matching Markets",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36649",
+          "published": "2026-10-28T00:00:00-04:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "在亚马逊Bedrock Agent Core上建立代理AI平台",
+          "summary_en": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+          "published": "2026-10-28T18:28:26+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.19
+        },
+        {
+          "summary_zh": "双子座4碳:我们的下一个前沿模型",
+          "summary_en": "Gemini 4 Carbon: Our next frontier model",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "published": "2026-10-28T17:00:58+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.83
+        },
+        {
+          "summary_zh": "Octoverse: 提交、 推动、 2026年随着开发商与代理商一起建设而达到新高",
+          "summary_en": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "published": "2026-10-28T16:07:40+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.6
+        },
+        {
+          "summary_zh": "OpenAI和ServiceNow扩大跨企业工作流程的伙伴关系",
+          "summary_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "published": "2026-10-28T13:15:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.39
+        },
+        {
+          "summary_zh": "NVIDIA 尼莫特龙 3.5 转写和 Granary v2: 智能多语种转写你能提示和适应",
+          "summary_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "published": "2026-10-28T14:58:17+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.32
+        },
+        {
+          "summary_zh": "Log-to-Leak:通过示范上下文协议对使用工具的LLM代理进行快速注射攻击",
+          "summary_en": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36108",
+          "published": "2026-10-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "通过有效分光分光解解析传播LLM推论",
+          "summary_en": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.35957",
+          "published": "2026-10-28T00:00:00-04:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.37
+        },
+        {
+          "summary_zh": "随着AI代理重塑网络,Google打开双子座和搜索到更多的应用",
+          "summary_en": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "published": "2026-10-28T17:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.62
+        },
+        {
+          "summary_zh": "Google宣布双子座4 Carbon,它最新的前沿AI模型,你不能使用",
+          "summary_en": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+          "published": "2026-10-28T18:47:27+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.57
+        },
+        {
+          "summary_zh": "我派了一群AI探员 负责一个幻想足球队 他们并不比人类更好,",
+          "summary_en": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+          "published": "2026-10-28T18:30:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+          "published": "2026-10-28T18:28:26+00:00"
+        },
+        {
+          "summary": "Distributed training with Ray Train DLCs and EFA on EKS",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+          "published": "2026-10-28T18:19:54+00:00"
+        },
+        {
+          "summary": "Gemini 4 Carbon: Our next frontier model",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "published": "2026-10-28T17:00:58+00:00"
+        },
+        {
+          "summary": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+          "published": "2026-10-28T16:07:40+00:00"
+        },
+        {
+          "summary": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "published": "2026-10-28T13:15:00+00:00"
+        },
+        {
+          "summary": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "published": "2026-10-28T14:58:17+00:00"
+        },
+        {
+          "summary": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+          "published": "2026-10-28T18:12:13+00:00"
+        },
+        {
+          "summary": "The future of the firm",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/the-future-of-the-firm",
+          "published": "2026-10-28T10:00:00+00:00"
+        },
+        {
+          "summary": "Legora is building the agentic operating system for legal work",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/legora",
+          "published": "2026-10-28T09:30:00+00:00"
+        },
+        {
+          "summary": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36108",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Agent or Human? Detecting Commits by AI Coding Agents in the Absence of Authorship Signatures",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36229",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Detailed balance in large language model-driven agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2512.10047",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "AgentSentry: Mitigating Indirect Prompt Injection in LLM Agents via Temporal Causal Diagnostics and Context Purification",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2602.22724",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.35957",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "Does LLM Pre-Training Typically Occur at the Edge of Stability?",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.36778",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "When Visual Evidence Is Insufficient: How Instructions, Post-Training, and Internal Activations Shape Refusal in Multimodal Language Models",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2610.37430",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2512.02631",
+          "published": "2026-10-28T00:00:00-04:00"
+        },
+        {
+          "summary": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "published": "2026-10-28T17:00:00+00:00"
+        },
+        {
+          "summary": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+          "published": "2026-10-28T20:01:00+00:00"
+        },
+        {
+          "summary": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+          "published": "2026-10-28T18:47:27+00:00"
+        },
+        {
+          "summary": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+          "published": "2026-10-28T18:30:00+00:00"
+        },
+        {
+          "summary": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+          "published": "2026-10-28T18:50:39+00:00"
+        },
+        {
+          "summary": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+          "published": "2026-10-28T20:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI now lets you text your Dot agent",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+          "published": "2026-10-28T19:15:00+00:00"
+        },
+        {
+          "summary": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+          "published": "2026-10-28T13:00:00+00:00"
+        },
+        {
+          "summary": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://surgehq.ai/blog/dayjob-tax",
+          "published": "2026-10-28T15:46:30+00:00"
+        }
+      ]
+    }
+  }
+}
