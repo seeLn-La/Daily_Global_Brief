@@ -1,0 +1,1282 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T04:29:20.355753+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "黑客利用iOS和Android缺陷感染手机",
+          "summary_en": "Hackers exploited iOS and Android flaws to infect phones",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "published": "2026-11-04T22:26:49+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 3.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.79
+        },
+        {
+          "summary_zh": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+          "summary_en": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T00:15:59+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.25
+        },
+        {
+          "summary_zh": "蓝波有技术兄弟为空间数据中心打拼",
+          "summary_en": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+          "published": "2026-11-04T23:13:14+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.98
+        },
+        {
+          "summary_zh": "没有CEO说下个月 公司神秘的AI第一设备会下降",
+          "summary_en": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "published": "2026-11-04T22:13:16+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.73
+        },
+        {
+          "summary_zh": "芯片人才战内部:商业秘密与崛起的中国对手",
+          "summary_en": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+          "published": "2026-11-05T03:53:18+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.65
+        },
+        {
+          "summary_zh": "X说它更新的网络应用更快",
+          "summary_en": "X says its updated web app is way faster",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "published": "2026-11-04T19:25:12-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.28
+        },
+        {
+          "summary_zh": "Xbox 正在测试 Cloud Gaming 两个新的控制器选项",
+          "summary_en": "Xbox is testing two new controller options for Cloud Gaming",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/",
+          "published": "2026-11-04T20:04:21+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.2
+        },
+        {
+          "summary_zh": "利用开源AI? 在成本、风险和权衡方面牵制面孔政策",
+          "summary_en": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+          "published": "2026-11-04T18:44:57+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.87
+        },
+        {
+          "summary_zh": "德克萨斯州是AI数据中心建设的新中心. 可能已经崩溃了",
+          "summary_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "published": "2026-11-04T18:50:55+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.89
+        },
+        {
+          "summary_zh": "蓝波如何粉碎技术",
+          "summary_en": "How a blue wave crushed the tech right",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11",
+          "published": "2026-11-04T20:44:29+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.86
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Hackers exploited iOS and Android flaws to infect phones",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+          "published": "2026-11-04T22:26:49+00:00"
+        },
+        {
+          "summary": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T00:15:59+00:00"
+        },
+        {
+          "summary": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+          "published": "2026-11-04T23:13:14+00:00"
+        },
+        {
+          "summary": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+          "published": "2026-11-04T22:13:16+00:00"
+        },
+        {
+          "summary": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+          "published": "2026-11-05T03:53:18+00:00"
+        },
+        {
+          "summary": "Apple is reportedly cutting budgets for its internal AI usage",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "published": "2026-11-05T01:26:22+00:00"
+        },
+        {
+          "summary": "After the midterms, a bigger clash over data centers could be coming",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+          "published": "2026-11-05T01:02:14+00:00"
+        },
+        {
+          "summary": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+          "published": "2026-11-04T20:55:50+00:00"
+        },
+        {
+          "summary": "X says its updated web app is way faster",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+          "published": "2026-11-04T19:25:12-05:00"
+        },
+        {
+          "summary": "Gemini for Home now plugs into AT&T’s smart security system",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "published": "2026-11-04T15:23:24-05:00"
+        },
+        {
+          "summary": "Xbox is testing two new controller options for Cloud Gaming",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2307085/xbox-is-testing-two-new-controller-options-for-cloud-gaming/",
+          "published": "2026-11-04T20:04:21+00:00"
+        },
+        {
+          "summary": "Open source AI is booming. Hugging Face explains who profits.",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "published": "2026-11-04T19:30:04+00:00"
+        },
+        {
+          "summary": "Xbox previews two new ways to control cloud games",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+          "published": "2026-11-04T14:00:00-05:00"
+        },
+        {
+          "summary": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+          "published": "2026-11-04T22:55:57+00:00"
+        },
+        {
+          "summary": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+          "published": "2026-11-04T18:44:57+00:00"
+        },
+        {
+          "summary": "Qualcomm is betting big on data centers as smartphone sales sink",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "published": "2026-11-04T17:42:15-05:00"
+        },
+        {
+          "summary": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+          "published": "2026-11-04T18:21:26+00:00"
+        },
+        {
+          "summary": "Uranium cubes reveal why the German nuclear project failed",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "published": "2026-11-04T21:56:29+00:00"
+        },
+        {
+          "summary": "VMware releases vSphere Express for virtualization on up to 128 cores",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+          "published": "2026-11-04T21:38:49+00:00"
+        },
+        {
+          "summary": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+          "published": "2026-11-04T21:04:05+00:00"
+        },
+        {
+          "summary": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+          "published": "2026-11-04T20:41:29+00:00"
+        },
+        {
+          "summary": "Pangram expands its AI detection tools to video and images",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
+          "published": "2026-11-04T20:28:18+00:00"
+        },
+        {
+          "summary": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "published": "2026-11-04T18:50:55+00:00"
+        },
+        {
+          "summary": "How a blue wave crushed the tech right",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11",
+          "published": "2026-11-04T20:44:29+00:00"
+        },
+        {
+          "summary": "Roundtables: Inside the Quest for Cognitive Immortality",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+          "published": "2026-11-04T18:21:40+00:00"
+        },
+        {
+          "summary": "God of War Laufey is delayed until May 20",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2306802/god-of-war-laufey-is-delayed-until-may-20/",
+          "published": "2026-11-04T17:50:47+00:00"
+        },
+        {
+          "summary": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-04T17:30:04+00:00"
+        },
+        {
+          "summary": "What’s next for US energy policy after the midterm elections?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+          "published": "2026-11-04T17:08:00+00:00"
+        },
+        {
+          "summary": "Starfall – Affordable, routine access to microgravity",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.spacex.com/starfall",
+          "published": "2026-11-05T00:18:18+00:00"
+        },
+        {
+          "summary": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "published": "2026-11-04T19:55:14+00:00"
+        },
+        {
+          "summary": "Images 2.6",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://openai.com/index/introducing-images-2-6/",
+          "published": "2026-11-04T23:35:44+00:00"
+        },
+        {
+          "summary": "A thousand fewer paths to root",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+          "published": "2026-11-04T23:33:14+00:00"
+        },
+        {
+          "summary": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-04T15:12:46+00:00"
+        },
+        {
+          "summary": "The Download: blended meat, restored sight, and the agentic web",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+          "published": "2026-11-04T13:10:00+00:00"
+        },
+        {
+          "summary": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-04T10:34:38+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "GOP 面值中期跌落, Qualcomm Tepid 利润展望, 更多",
+          "summary_en": "GOP Faces Midterm Fallout, Qualcomm Tepid Profit Outlook, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/gop-faces-midterm-fallout-qualcomm-tepid-profit-outlook-more",
+          "published": "2026-11-05T04:18:47+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.26
+        },
+        {
+          "summary_zh": "香港股票滚回作为价值旋转助推 中国科技",
+          "summary_en": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+          "published": "2026-11-05T03:35:41+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.08
+        },
+        {
+          "summary_zh": "Qualcomm的股票随着双向压力销售而下降",
+          "summary_en": "Qualcomm’s stock falls as twin forces pressure sales",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+          "published": "2026-11-05T01:06:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.45
+        },
+        {
+          "summary_zh": "企业领袖们的反应是,",
+          "summary_en": "Business leaders react as a 'blunami' sweeps America",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/business-tech-leaders-react-midterms-elections-results-2026-11",
+          "published": "2026-11-05T00:52:27+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "英镑上升到自布雷克西特公投以来的最高水平",
+          "summary_en": "Pound rises to its highest level since the Brexit referendum",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T04:21:35+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "特朗普政府转而将Oust仲裁员作为\"支付\"博士",
+          "summary_en": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+          "published": "2026-11-05T03:51:21+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.14
+        },
+        {
+          "summary_zh": "Qualcomm 股价下降7%,因为内存短缺对智能手机销售量的影响",
+          "summary_en": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+          "published": "2026-11-04T23:38:11+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.59
+        },
+        {
+          "summary_zh": "证监会通过《关于更新投资公司和投资顾问小型实体定义的修正案》",
+          "summary_en": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+          "published": "2026-11-04T11:28:00-05:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "任天堂最大的ROM芯片供应商已经退出业务",
+          "summary_en": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "published": "2026-11-04T22:47:51+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.38
+        },
+        {
+          "summary_zh": "市场对中期的影响",
+          "summary_en": "What markets make of the midterms",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+          "published": "2026-11-04T21:48:18+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.13
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "GOP Faces Midterm Fallout, Qualcomm Tepid Profit Outlook, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/gop-faces-midterm-fallout-qualcomm-tepid-profit-outlook-more",
+          "published": "2026-11-05T04:18:47+00:00"
+        },
+        {
+          "summary": "GOP Blame Game Ensues, Qualcomm Lackluster Profit Outlook, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/gop-blame-game-ensues-qualcomm-lackluster-profit-outlook-more",
+          "published": "2026-11-05T03:35:54+00:00"
+        },
+        {
+          "summary": "Hong Kong Stocks Roar Back as Value Rotation Boosts China Tech",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/hong-kong-stocks-roar-back-as-investors-rotate-away-from-ai",
+          "published": "2026-11-05T03:35:41+00:00"
+        },
+        {
+          "summary": "Indian Bonds, Rupee Rally as Sliding Oil Eases Inflation Risks",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/indian-bonds-rupee-rally-as-sliding-oil-eases-inflation-risks",
+          "published": "2026-11-05T03:34:12+00:00"
+        },
+        {
+          "summary": "Chinese Renewables Stocks Extend Surge After Democratic Sweep",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-renewables-stocks-extend-surge-after-democratic-sweep",
+          "published": "2026-11-05T02:55:33+00:00"
+        },
+        {
+          "summary": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/04/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-11-05T00:42:58+00:00"
+        },
+        {
+          "summary": "Nifty Bounces Back to Beat All of Asia on Foreign Flows, Earnings",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/nifty-bounces-back-to-beat-all-of-asia-on-foreign-flows-earnings",
+          "published": "2026-11-05T02:30:31+00:00"
+        },
+        {
+          "summary": "Bloomberg Australia: Inside the Anthropic IPO Frenzy (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/bloomberg-australia-inside-the-anthropic-ipo-frenzy-podcast",
+          "published": "2026-11-05T01:27:25+00:00"
+        },
+        {
+          "summary": "Qualcomm’s stock falls as twin forces pressure sales",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+          "published": "2026-11-05T01:06:00+00:00"
+        },
+        {
+          "summary": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+          "published": "2026-11-05T01:05:00+00:00"
+        },
+        {
+          "summary": "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+          "published": "2026-11-05T01:03:00+00:00"
+        },
+        {
+          "summary": "Business leaders react as a 'blunami' sweeps America",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/business-tech-leaders-react-midterms-elections-results-2026-11",
+          "published": "2026-11-05T00:52:27+00:00"
+        },
+        {
+          "summary": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+          "published": "2026-11-05T00:38:00+00:00"
+        },
+        {
+          "summary": "Pound rises to its highest level since the Brexit referendum",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T04:21:35+00:00"
+        },
+        {
+          "summary": "Interest rates expected to rise for first time in over three years",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T00:00:09+00:00"
+        },
+        {
+          "summary": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+          "published": "2026-11-05T03:51:21+00:00"
+        },
+        {
+          "summary": "Hong Kong Bankers’ Top AI Uses, From Pitch Decks to 10-K Filings",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-05/hong-kong-bankers-top-ai-uses-from-pitch-decks-to-10-k-filings",
+          "published": "2026-11-05T03:33:27+00:00"
+        },
+        {
+          "summary": "The New York Times Adds 420,000 Digital Subscribers",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/04/business/media/new-york-times-earnings.html",
+          "published": "2026-11-05T03:20:05+00:00"
+        },
+        {
+          "summary": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+          "published": "2026-11-05T03:06:30+00:00"
+        },
+        {
+          "summary": "White House Delays Hearing on Fed Governor",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
+          "published": "2026-11-04T22:55:30+00:00"
+        },
+        {
+          "summary": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+          "published": "2026-11-04T23:38:11+00:00"
+        },
+        {
+          "summary": "Agility Robotics is taking humanoid robots public in a first for Wall Street",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+          "published": "2026-11-05T01:12:23+00:00"
+        },
+        {
+          "summary": "Stock futures are little changed after big rally following Democrats' decisive midterm wins",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+          "published": "2026-11-05T03:03:51+00:00"
+        },
+        {
+          "summary": "Australia's oldest department store David Jones folds after 188 years",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T00:59:22+00:00"
+        },
+        {
+          "summary": "Cat Wu joins OpenAI from Anthropic in huge product-lead coup",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/cat-wu-joins-openai-from-anthropic-product-lead-coup-2026-11",
+          "published": "2026-11-05T00:57:29+00:00"
+        },
+        {
+          "summary": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+          "published": "2026-11-05T02:07:35+00:00"
+        },
+        {
+          "summary": "This tiny North Dakota town was the only place to vote in support of data centers",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/ai-data-center-backlash-vote-election-harwood-north-dakota-2026-11",
+          "published": "2026-11-04T23:09:39+00:00"
+        },
+        {
+          "summary": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-04T21:41:15+00:00"
+        },
+        {
+          "summary": "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers",
+          "published": "2026-11-04T11:28:00-05:00"
+        },
+        {
+          "summary": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "published": "2026-11-04T22:47:51+00:00"
+        },
+        {
+          "summary": "What markets make of the midterms",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+          "published": "2026-11-04T21:48:18+00:00"
+        },
+        {
+          "summary": "AMD's record quarter: Data center business doubles, while gaming craters",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+          "published": "2026-11-04T21:29:46+00:00"
+        },
+        {
+          "summary": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+          "published": "2026-11-04T19:16:25+00:00"
+        },
+        {
+          "summary": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
+          "published": "2026-11-04T18:39:08+00:00"
+        },
+        {
+          "summary": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+          "published": "2026-11-04T14:10:10+00:00"
+        },
+        {
+          "summary": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
+          "published": "2026-11-04T16:43:35+00:00"
+        },
+        {
+          "summary": "Titan OS raises $46 million to expand its smart TV OS internationally",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+          "published": "2026-11-04T15:00:00+00:00"
+        },
+        {
+          "summary": "Thinking Fast, Trading Late: System One Decision Models vs the Market",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03985",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Enhancing Stock Market Information Retrieval with Retrieval-Augmented Generation",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03747",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2507.18229",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "published": "2026-11-04T13:49:51+00:00"
+        },
+        {
+          "summary": "Spatial Memory for AR Glasses: Hierarchical Visual Acquisition and Source-Linked Recall",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04494",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Honest Small Decision Models for Finance: Scale, Specialization Collapse, and Mixed-Corpus Remediation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03755",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04217",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Modulating Merging Strengths via Joint Loss Estimation for LoRA-based Continual Learning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04931",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Tail reliability in probabilistic electricity price forecasts: comparing model combination and conformal prediction in the GB day-ahead market",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03661",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Motley Fool Promo Code: $200 Off on Stock Advisor November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "published": "2026-11-04T06:00:00+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "NVIDIA如何利用AI代理来简化AI工厂业务",
+          "summary_en": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+          "published": "2026-11-04T22:00:17+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 13.38
+        },
+        {
+          "summary_zh": "制作AI代理的四层背景工程:深透视如何在工作代码中应用",
+          "summary_en": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+          "published": "2026-11-04T16:30:40+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.51
+        },
+        {
+          "summary_zh": "Agile De Leater:AI如何帮助人类定义灰色区域",
+          "summary_en": "Agile Deliberation: How AI helps humans define the gray areas",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "published": "2026-11-04T18:07:05+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.91
+        },
+        {
+          "summary_zh": "OpenAI收购皮埃尔计算机公司.",
+          "summary_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "published": "2026-11-04T14:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.5
+        },
+        {
+          "summary_zh": "见特工,设置条件:个人特工的新可见度和控制度",
+          "summary_en": "See the agents, set the terms: new visibility and control for personal agents",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+          "published": "2026-11-04T14:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.88
+        },
+        {
+          "summary_zh": "Dharma 字段提取器: JSON 中的任何文档,结构化字段",
+          "summary_en": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "published": "2026-11-04T17:50:10+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "培训 LLM 代理人员,使其与 RSI- Dojo 一起自动进行 LLM 后培训",
+          "summary_en": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03698",
+          "published": "2026-11-04T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "Dual-Node NVIDIA DGX Spark over Tailscale: 分布式LLM培训和网络-威胁-智能精细化的远程访问测试台",
+          "summary_en": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07226",
+          "published": "2026-11-04T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.43
+        },
+        {
+          "summary_zh": "公司说,几乎没有人用AI代理订了他们的Uber",
+          "summary_en": "Almost no one uses AI agents to book their Uber, company says",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+          "published": "2026-11-04T21:56:01+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "NVIDIA工厂业务蓝图如何协调AI代理调查生产问题",
+          "summary_en": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+          "published": "2026-11-04T17:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 12.13
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/",
+          "published": "2026-11-04T22:00:17+00:00"
+        },
+        {
+          "summary": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/",
+          "published": "2026-11-04T17:00:00+00:00"
+        },
+        {
+          "summary": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/",
+          "published": "2026-11-04T16:00:00+00:00"
+        },
+        {
+          "summary": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/",
+          "published": "2026-11-04T18:46:07+00:00"
+        },
+        {
+          "summary": "Four layers of context engineering for production AI agents: How Deep Insight applies them in working code",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/",
+          "published": "2026-11-04T16:30:40+00:00"
+        },
+        {
+          "summary": "Agile Deliberation: How AI helps humans define the gray areas",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "published": "2026-11-04T18:07:05+00:00"
+        },
+        {
+          "summary": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "published": "2026-11-04T14:30:00+00:00"
+        },
+        {
+          "summary": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+          "published": "2026-11-04T18:46:36+00:00"
+        },
+        {
+          "summary": "See the agents, set the terms: new visibility and control for personal agents",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+          "published": "2026-11-04T14:00:00+00:00"
+        },
+        {
+          "summary": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "published": "2026-11-04T17:50:10+00:00"
+        },
+        {
+          "summary": "Smart Approvals in Amazon Quick: Human oversight where it matters",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/",
+          "published": "2026-11-04T16:33:03+00:00"
+        },
+        {
+          "summary": "How Indegene is modernizing and scaling enterprise data quality in life sciences",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/",
+          "published": "2026-11-04T16:25:57+00:00"
+        },
+        {
+          "summary": "Training LLM Agents to Automate LLM Post-Training with RSI-Dojo",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03698",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Accounting for Purchased Artificial Intelligence Inference in Corporate Greenhouse Gas Inventories: A Token-Based Method",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.10660",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.26080",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07226",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "A thousand fewer paths to root",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "published": "2026-11-04T08:00:00+00:00"
+        },
+        {
+          "summary": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "published": "2026-11-04T07:00:00+00:00"
+        },
+        {
+          "summary": "ProofPaths: An AI Agent Framework for Assessing Student Reasoning",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03882",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Stress-Testing the Robustness of LLM-Based Causal Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03656",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04449",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Unifying and Beyond the Theory of Pervasive Capability Degradation in LLM Post-training SFT from Feature Interference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.05003",
+          "published": "2026-11-04T00:00:00-05:00"
+        },
+        {
+          "summary": "Almost no one uses AI agents to book their Uber, company says",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+          "published": "2026-11-04T21:56:01+00:00"
+        },
+        {
+          "summary": "Progress on provable inference for large language models",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "published": "2026-11-04T17:17:46+00:00"
+        }
+      ]
+    }
+  }
+}
