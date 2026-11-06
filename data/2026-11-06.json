@@ -1,0 +1,1310 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T04:26:39.623702+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Elon Musk上的T-Mobile车主推出无线载体: \" 欢迎加入党\"",
+          "summary_en": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+          "published": "2026-11-05T18:17:10-05:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.01
+        },
+        {
+          "summary_zh": "满足 *shole, 允许黑客 SSH 进入 Linux 设备的脆弱性",
+          "summary_en": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "published": "2026-11-05T23:09:36+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.98
+        },
+        {
+          "summary_zh": "伊隆·穆斯克和大技术公司 如何吸引数百万人进入中期赛",
+          "summary_en": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+          "published": "2026-11-05T22:18:42+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.77
+        },
+        {
+          "summary_zh": "亚洲科技网(Rout Grips Asia, NYT):鲁比奥计划留下,更多",
+          "summary_en": "Tech Rout Grips Asia, NYT: Rubio Plans to Stay, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-06/tech-rout-grips-asia-nyt-rubio-plans-to-stay-more",
+          "published": "2026-11-06T02:50:12+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.4
+        },
+        {
+          "summary_zh": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "summary_en": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-06T00:15:15+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.25
+        },
+        {
+          "summary_zh": "《纽约时报》报道说 正在谈判 以3.3亿美元买下信箱",
+          "summary_en": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+          "published": "2026-11-06T00:07:18+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.22
+        },
+        {
+          "summary_zh": "Warby Parker似乎在谷歌的Android XR智能眼镜发布会上洒出豆子",
+          "summary_en": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+          "published": "2026-11-05T19:39:01+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.1
+        },
+        {
+          "summary_zh": "GitHub 的新存储架构",
+          "summary_en": "Inside GitHub’s new Git storage architecture",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "published": "2026-11-05T20:23:21+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.49
+        },
+        {
+          "summary_zh": "硅谷的恶夜",
+          "summary_en": "Silicon Valley's Bad Night",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+          "published": "2026-11-06T03:54:28+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.37
+        },
+        {
+          "summary_zh": "我看着我爸建造了\"鳕鱼薯片\" 之后我又自己建了两家企业 这是我给创始人的建议",
+          "summary_en": "I watched my dad build Cape Cod Potato Chips, and then I built 2 businesses of my own. Here's my advice for founders.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/how-nicole-bernard-dawes-built-nixie-after-late-july-2026-11",
+          "published": "2026-11-05T19:11:53+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.49
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+          "published": "2026-11-05T18:17:10-05:00"
+        },
+        {
+          "summary": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "published": "2026-11-05T23:09:36+00:00"
+        },
+        {
+          "summary": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost/",
+          "published": "2026-11-05T22:18:42+00:00"
+        },
+        {
+          "summary": "Tech Rout Grips Asia, NYT: Rubio Plans to Stay, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-06/tech-rout-grips-asia-nyt-rubio-plans-to-stay-more",
+          "published": "2026-11-06T02:50:12+00:00"
+        },
+        {
+          "summary": "OpenAI is stepping back from NDAs for data center projects",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "published": "2026-11-05T19:37:56-05:00"
+        },
+        {
+          "summary": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+          "published": "2026-11-06T00:17:06+00:00"
+        },
+        {
+          "summary": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-06T00:15:15+00:00"
+        },
+        {
+          "summary": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+          "published": "2026-11-06T00:07:18+00:00"
+        },
+        {
+          "summary": "Meta, Google, and TikTok sue California AG over teen social media law",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+          "published": "2026-11-06T00:01:38+00:00"
+        },
+        {
+          "summary": "13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/early-black-friday-best-buy-deals-11-5-26/",
+          "published": "2026-11-05T20:00:29+00:00"
+        },
+        {
+          "summary": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+          "published": "2026-11-05T19:59:22+00:00"
+        },
+        {
+          "summary": "The New York Times is in talks to buy Letterboxd for around $330 million",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+          "published": "2026-11-05T18:45:10-05:00"
+        },
+        {
+          "summary": "Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/",
+          "published": "2026-11-05T19:39:01+00:00"
+        },
+        {
+          "summary": "6 Best VPN Services (2026), Tested and Reviewed",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-vpn/",
+          "published": "2026-11-05T23:00:00+00:00"
+        },
+        {
+          "summary": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+          "published": "2026-11-05T22:49:03+00:00"
+        },
+        {
+          "summary": "The 7 Best Early Black Friday TV Deals (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/",
+          "published": "2026-11-05T22:28:43+00:00"
+        },
+        {
+          "summary": "Blue Origin's New Glenn launch delay will continue into 2027",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
+          "published": "2026-11-05T22:10:09+00:00"
+        },
+        {
+          "summary": "Salon is shutting down after 31 years",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+          "published": "2026-11-05T17:08:14-05:00"
+        },
+        {
+          "summary": "iPhone Duo just got a new accessibility feature in iOS 27.3 beta",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability/",
+          "published": "2026-11-05T17:59:50+00:00"
+        },
+        {
+          "summary": "Bose recalls S1 Pro battery packs due to fire and overheating risks",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2308609/bose-recalls-s1-pro-battery-packs-due-to-fire-and-overheating-risks/",
+          "published": "2026-11-05T21:39:22+00:00"
+        },
+        {
+          "summary": "Inside GitHub’s new Git storage architecture",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "published": "2026-11-05T20:23:21+00:00"
+        },
+        {
+          "summary": "Silicon Valley's Bad Night",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.theatlantic.com/technology/2026/11/americans-really-dont-like-data-centers-elections/689284/",
+          "published": "2026-11-06T03:54:28+00:00"
+        },
+        {
+          "summary": "Pwn.college",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://pwn.college/",
+          "published": "2026-11-06T03:27:14+00:00"
+        },
+        {
+          "summary": "Nvidia Kubernetes Engine (NVKE)",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "published": "2026-11-06T03:16:26+00:00"
+        },
+        {
+          "summary": "Meta says US users can now video chat with their Muse AI avatar",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "published": "2026-11-05T19:48:28+00:00"
+        },
+        {
+          "summary": "Closed AI models dominate the price-performance frontier",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+          "published": "2026-11-06T02:49:56+00:00"
+        },
+        {
+          "summary": "Meta warns that election backlash against data centers could make AI expansion harder",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+          "published": "2026-11-05T19:12:39+00:00"
+        },
+        {
+          "summary": "I watched my dad build Cape Cod Potato Chips, and then I built 2 businesses of my own. Here's my advice for founders.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/how-nicole-bernard-dawes-built-nixie-after-late-july-2026-11",
+          "published": "2026-11-05T19:11:53+00:00"
+        },
+        {
+          "summary": "Accessibility statements now have a home on GitHub",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T14:00:13+00:00"
+        },
+        {
+          "summary": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+          "published": "2026-11-05T13:10:00+00:00"
+        },
+        {
+          "summary": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T11:03:42+00:00"
+        },
+        {
+          "summary": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T10:00:23+00:00"
+        },
+        {
+          "summary": "A new bill could change how the US builds energy infrastructure",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "published": "2026-11-05T10:00:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "股票市场销售:什么纠正、崩溃和其他交易条件平均值",
+          "summary_en": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+          "published": "2026-11-06T03:15:32+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.0
+        },
+        {
+          "summary_zh": "思考机器实验室 即将投入50亿美元的新资金 价值400亿美元",
+          "summary_en": "Thinking Machines Lab is closing in on a new $5 billion funding round at a $40 billion valuation",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+          "published": "2026-11-06T00:40:20+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.36
+        },
+        {
+          "summary_zh": "以下是每个收入水平的2027个资本收益税率",
+          "summary_en": "Here are the 2027 capital-gains tax rates for each income level",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+          "published": "2026-11-05T23:48:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.14
+        },
+        {
+          "summary_zh": "全球科技存量暴跌,",
+          "summary_en": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T02:57:24+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 2.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.93
+        },
+        {
+          "summary_zh": "每个人的生意: Blunami vs. Space Karen (Podcast) (英语).",
+          "summary_en": "Everybody's Business: Blunami vs. Space Karen (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-06/everybody-s-business-blunami-vs-space-karen-podcast",
+          "published": "2026-11-06T01:28:57+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.56
+        },
+        {
+          "summary_zh": "英格兰银行三年来第一次提高利率",
+          "summary_en": "Bank of England Raises Rates for First Time in Three Years",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+          "published": "2026-11-05T16:53:44+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.41
+        },
+        {
+          "summary_zh": "股票期货在Nasdaq修正后倒下;日本的Nikkei 225入股熊市:活地更新",
+          "summary_en": "Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+          "published": "2026-11-06T01:54:43+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.17
+        },
+        {
+          "summary_zh": "市场意识到他们讨厌美国的蓝波",
+          "summary_en": "Markets realise they hate America’s blue wave",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "published": "2026-11-05T23:41:07+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.61
+        },
+        {
+          "summary_zh": "为机器人服务 启动新业务 成为机器人的AWS",
+          "summary_en": "Serve Robotics launches new business to become the AWS for robots",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+          "published": "2026-11-05T21:15:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.0
+        },
+        {
+          "summary_zh": "Tesla和SpaceX在两天内在综合市场上限中损失超过420B美元",
+          "summary_en": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/",
+          "published": "2026-11-06T02:30:25+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.52
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Stock Market Selloff: What Correction, Crash and Other Trading Terms Mean",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/stock-market-selloff-what-correction-crash-and-other-trading-terms-mean",
+          "published": "2026-11-06T03:15:32+00:00"
+        },
+        {
+          "summary": "Thinking Machines Lab is closing in on a new $5 billion funding round at a $40 billion valuation",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+          "published": "2026-11-06T00:40:20+00:00"
+        },
+        {
+          "summary": "Fesharaki Sees Little Chance of US-Iran Deal",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-06/fesharaki-sees-little-chance-of-us-iran-deal-video",
+          "published": "2026-11-06T03:59:19+00:00"
+        },
+        {
+          "summary": "Here are the 2027 capital-gains tax rates for each income level",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+          "published": "2026-11-05T23:48:00+00:00"
+        },
+        {
+          "summary": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T02:57:24+00:00"
+        },
+        {
+          "summary": "Friday's big stock stories: What’s likely to move the market in the next trading session",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+          "published": "2026-11-06T00:50:48+00:00"
+        },
+        {
+          "summary": "Overbought Nifty May Find Fresh Fuel as AI Stocks Tumble Globally",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/overbought-nifty-may-find-fresh-fuel-as-ai-stocks-tumble-globally",
+          "published": "2026-11-06T02:30:02+00:00"
+        },
+        {
+          "summary": "Hedge Fund Samlyn Dumps All Stocks But Financials, Cuts Staff",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/hedge-fund-samlyn-dumps-all-stocks-but-financials-cuts-staff",
+          "published": "2026-11-06T02:23:55+00:00"
+        },
+        {
+          "summary": "Everybody's Business: Blunami vs. Space Karen (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-06/everybody-s-business-blunami-vs-space-karen-podcast",
+          "published": "2026-11-06T01:28:57+00:00"
+        },
+        {
+          "summary": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+          "published": "2026-11-06T01:07:00+00:00"
+        },
+        {
+          "summary": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+          "published": "2026-11-06T01:06:00+00:00"
+        },
+        {
+          "summary": "Bank of England Raises Rates for First Time in Three Years",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+          "published": "2026-11-05T16:53:44+00:00"
+        },
+        {
+          "summary": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+          "published": "2026-11-06T00:48:29+00:00"
+        },
+        {
+          "summary": "Stock futures fall after Nasdaq correction; Japan's Nikkei 225 enters bear market: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+          "published": "2026-11-06T01:54:43+00:00"
+        },
+        {
+          "summary": "AI Rout Deepens in Asia, Rubio Denies Plans to Leave Post, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-06/ai-rout-deepens-in-asia-rubio-denies-plans-to-leave-post-more",
+          "published": "2026-11-06T03:52:09+00:00"
+        },
+        {
+          "summary": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+          "published": "2026-11-05T23:51:09+00:00"
+        },
+        {
+          "summary": "Bloomberg Businessweek Daily: AI Rout Rattles Markets (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/bloomberg-businessweek-daily-ai-rout-rattles-markets-podcast",
+          "published": "2026-11-05T23:27:36+00:00"
+        },
+        {
+          "summary": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+          "published": "2026-11-06T03:15:00+00:00"
+        },
+        {
+          "summary": "Stock Movers: Airbnb, IonQ, Axon (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-05/stock-movers-airbnb-ionq-axon-podcast",
+          "published": "2026-11-05T22:54:35+00:00"
+        },
+        {
+          "summary": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+          "published": "2026-11-06T03:20:43+00:00"
+        },
+        {
+          "summary": "I moved from Texas to South Korea after a breakup. Twenty years later, I have no interest in going back.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/moved-to-korea-after-breakup-farm-seoul-2026-11",
+          "published": "2026-11-06T01:10:22+00:00"
+        },
+        {
+          "summary": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+          "published": "2026-11-06T02:40:15+00:00"
+        },
+        {
+          "summary": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
+          "published": "2026-11-06T00:26:37+00:00"
+        },
+        {
+          "summary": "The engine parts that 'fight the laws of the universe'",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T00:06:06+00:00"
+        },
+        {
+          "summary": "'I was asked if I was a crier': Your worst job interviews revealed",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T00:02:52+00:00"
+        },
+        {
+          "summary": "US states with the highest high school graduation rates, ranked",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/most-educated-us-states-ranked-by-high-school-graduation-rates",
+          "published": "2026-11-05T19:49:10+00:00"
+        },
+        {
+          "summary": "Firms told to publish salaries in job adverts ahead of new law",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-05T22:32:02+00:00"
+        },
+        {
+          "summary": "Legal AI startup Harvey has held early talks about an IPO",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/legal-ai-startup-harvey-early-ipo-talks-latham-watkins-2026-11",
+          "published": "2026-11-05T18:03:08+00:00"
+        },
+        {
+          "summary": "Markets realise they hate America’s blue wave",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "published": "2026-11-05T23:41:07+00:00"
+        },
+        {
+          "summary": "Serve Robotics launches new business to become the AWS for robots",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+          "published": "2026-11-05T21:15:00+00:00"
+        },
+        {
+          "summary": "Tesla and SpaceX lose over $420B in combined market cap in the two days",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://techlaws.pages.dev/tesla-and-spacex-lose-over-420b-in-combined-market-cap-in-the-two-days/",
+          "published": "2026-11-06T02:30:25+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "published": "2026-11-05T18:02:27+00:00"
+        },
+        {
+          "summary": "Claude can now analyze your spending with its new Personal Finance tool",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "published": "2026-11-05T18:00:00+00:00"
+        },
+        {
+          "summary": "Harbinger raises $240M after expanding into defense",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+          "published": "2026-11-05T17:52:44+00:00"
+        },
+        {
+          "summary": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+          "published": "2026-11-05T12:00:00+00:00"
+        },
+        {
+          "summary": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "published": "2026-11-05T23:09:57+00:00"
+        },
+        {
+          "summary": "Thinking Fast, Trading Late: System One Decision Models vs the Market",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03985",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Merge builds product and business tools with OpenAI technology",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "published": "2026-11-05T08:00:00+00:00"
+        },
+        {
+          "summary": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+          "published": "2026-11-05T12:00:41+00:00"
+        },
+        {
+          "summary": "Risk Control Certifies Rates, Not Magnitudes: An Audit of Selective Fetal Biometry",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.05851",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Honest Small Decision Models for Finance: Scale, Specialization Collapse, and Mixed-Corpus Remediation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03755",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04217",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "LIRA: A More Interpretable Dynamic Loss-Informed Rank Allocation for Low-Rank Adaptation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04239",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Indebted tycoons haunt China’s banking system",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+          "published": "2026-11-05T11:54:22+00:00"
+        },
+        {
+          "summary": "AI is turning protectionists into free traders",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+          "published": "2026-11-05T10:22:20+00:00"
+        },
+        {
+          "summary": "William Nordhaus, favourite economist of the right and the left",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+          "published": "2026-11-05T10:17:54+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "澳大利亚的大学正在培养AI本土毕业生",
+          "summary_en": "Australian universities are creating AI-native graduates",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "published": "2026-11-05T17:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.14
+        },
+        {
+          "summary_zh": "五种方法 NVIDIA 共同设计 最大化 AI 工厂中每个字节的价值",
+          "summary_en": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+          "published": "2026-11-05T16:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.89
+        },
+        {
+          "summary_zh": "亚马逊市场如何与亚马逊SageMaker AI评价内容质量",
+          "summary_en": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+          "published": "2026-11-05T18:06:43+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.92
+        },
+        {
+          "summary_zh": "代理商不是人类(但他们还是)",
+          "summary_en": "Agents aren’t humans (but they kinda are)",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+          "published": "2026-11-05T17:03:04+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.65
+        },
+        {
+          "summary_zh": "使用 PDD Kit 正式验证代理- 写作的完整存储网络应用程序",
+          "summary_en": "Formally verifying agent-written full-stack web apps with PDD Kit",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+          "published": "2026-11-05T16:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.39
+        },
+        {
+          "summary_zh": "NVIDIA Cosmos 3 互动世界模拟开放模式",
+          "summary_en": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "published": "2026-11-05T19:35:16+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.29
+        },
+        {
+          "summary_zh": "双子座1.2 闪光:用较长的片段快速和具有成本效益",
+          "summary_en": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "published": "2026-11-05T17:05:16+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.66
+        },
+        {
+          "summary_zh": "Agent Gym: 通过人入圈反馈持续评估和演变LLM代理的框架",
+          "summary_en": "Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.15591",
+          "published": "2026-11-05T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "后培训中被忽视的自由午餐:LLM代理人的进步优势",
+          "summary_en": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.26080",
+          "published": "2026-11-05T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.44
+        },
+        {
+          "summary_zh": "使用可穿戴传感器检测高血压迹象",
+          "summary_en": "Detecting signs of hypertension using wearable sensors",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+          "published": "2026-11-05T16:01:08+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.39
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Australian universities are creating AI-native graduates",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "summary": "Cult.fit builds operational muscle with Codex",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "published": "2026-11-05T20:00:00+00:00"
+        },
+        {
+          "summary": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "summary": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
+          "published": "2026-11-05T18:06:43+00:00"
+        },
+        {
+          "summary": "Getting started with Web Answer on Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
+          "published": "2026-11-05T21:04:24+00:00"
+        },
+        {
+          "summary": "Agents aren’t humans (but they kinda are)",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+          "published": "2026-11-05T17:03:04+00:00"
+        },
+        {
+          "summary": "Formally verifying agent-written full-stack web apps with PDD Kit",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "published": "2026-11-05T19:35:16+00:00"
+        },
+        {
+          "summary": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "published": "2026-11-05T09:00:00+00:00"
+        },
+        {
+          "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "published": "2026-11-05T17:05:16+00:00"
+        },
+        {
+          "summary": "Agent Gym: A Framework for Continuous Evaluation and Evolution of LLM Agents Through Human-in-the-Loop Feedback",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.15591",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.21095",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.26080",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07226",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Detecting signs of hypertension using wearable sensors",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+          "published": "2026-11-05T16:01:08+00:00"
+        },
+        {
+          "summary": "Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.05390",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.05391",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Stress-Testing the Robustness of LLM-Based Causal Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.03656",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.04449",
+          "published": "2026-11-05T00:00:00-05:00"
+        },
+        {
+          "summary": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "published": "2026-11-05T22:40:55+00:00"
+        },
+        {
+          "summary": "Airbnb is working on an AI travel agent",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "published": "2026-11-05T19:06:12-05:00"
+        },
+        {
+          "summary": "Perplexity launches its own take on AI agents for work",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "published": "2026-11-05T17:26:50-05:00"
+        },
+        {
+          "summary": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+          "published": "2026-11-05T14:42:00+00:00"
+        },
+        {
+          "summary": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+          "published": "2026-11-05T18:00:00+00:00"
+        },
+        {
+          "summary": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+          "published": "2026-11-05T14:00:00+00:00"
+        },
+        {
+          "summary": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+          "published": "2026-11-05T13:00:00+00:00"
+        },
+        {
+          "summary": "Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/aina-smart-ring/",
+          "published": "2026-11-05T14:00:00+00:00"
+        },
+        {
+          "summary": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/rivet-dev/rivet",
+          "published": "2026-11-05T17:17:42+00:00"
+        }
+      ]
+    }
+  }
+}
