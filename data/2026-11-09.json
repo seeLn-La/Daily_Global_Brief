@@ -1,0 +1,1321 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T03:52:08.553177+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "为何你的USB设备没有出现在你的MacBook上 以及如何修复它",
+          "summary_en": "Why your USB device isn't showing up on your MacBook and how you can fix it",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
+          "published": "2026-11-09T01:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.58
+        },
+        {
+          "summary_zh": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+          "summary_en": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-09T01:54:03+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.81
+        },
+        {
+          "summary_zh": "以下是Jensen Huang给Nvidia的备忘录全文",
+          "summary_en": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "published": "2026-11-08T17:54:50-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.06
+        },
+        {
+          "summary_zh": "来分散你对无休止的末日循环的注意力",
+          "summary_en": "Apps to distract you from the endless cycle of doomscrolling",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+          "published": "2026-11-08T22:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.83
+        },
+        {
+          "summary_zh": "美国将Nvidia芯片清空到中国公司",
+          "summary_en": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+          "published": "2026-11-08T21:48:23+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.29
+        },
+        {
+          "summary_zh": "RIP,收获",
+          "summary_en": "RIP, Harvest",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://aphyr.com/posts/427-rip-harvest",
+          "published": "2026-11-09T01:58:21+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.03
+        },
+        {
+          "summary_zh": "哪个Canon相机与它的免费3D相片软件兼容?",
+          "summary_en": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
+          "published": "2026-11-09T00:45:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.52
+        },
+        {
+          "summary_zh": "从其他国家购买技术的缺点",
+          "summary_en": "The disadvantages of buying tech from other countries",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
+          "published": "2026-11-09T00:30:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "如何使用你的笔记本电脑作为第二个显示器",
+          "summary_en": "How to use your laptop as a second monitor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
+          "published": "2026-11-09T01:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.71
+        },
+        {
+          "summary_zh": "Soul Glo的散居海外问题,",
+          "summary_en": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+          "published": "2026-11-08T17:37:22-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.99
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Why your USB device isn't showing up on your MacBook and how you can fix it",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
+          "published": "2026-11-09T01:00:00+00:00"
+        },
+        {
+          "summary": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
+          "published": "2026-11-09T00:45:00+00:00"
+        },
+        {
+          "summary": "The disadvantages of buying tech from other countries",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
+          "published": "2026-11-09T00:30:00+00:00"
+        },
+        {
+          "summary": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-09T01:54:03+00:00"
+        },
+        {
+          "summary": "How to use your laptop as a second monitor",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor/",
+          "published": "2026-11-09T01:30:00+00:00"
+        },
+        {
+          "summary": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "published": "2026-11-08T17:54:50-05:00"
+        },
+        {
+          "summary": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+          "published": "2026-11-08T17:37:22-05:00"
+        },
+        {
+          "summary": "Apps to distract you from the endless cycle of doomscrolling",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+          "published": "2026-11-08T22:00:00+00:00"
+        },
+        {
+          "summary": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+          "published": "2026-11-08T21:00:00+00:00"
+        },
+        {
+          "summary": "Epic Games Launcher is coming to SteamOS",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "published": "2026-11-08T15:52:05-05:00"
+        },
+        {
+          "summary": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+          "published": "2026-11-08T20:30:00+00:00"
+        },
+        {
+          "summary": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "published": "2026-11-08T15:22:39-05:00"
+        },
+        {
+          "summary": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+          "published": "2026-11-08T19:51:30+00:00"
+        },
+        {
+          "summary": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+          "published": "2026-11-08T21:48:23+00:00"
+        },
+        {
+          "summary": "RIP, Harvest",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://aphyr.com/posts/427-rip-harvest",
+          "published": "2026-11-09T01:58:21+00:00"
+        },
+        {
+          "summary": "Unlocking any car from X brand in most of the world",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+          "published": "2026-11-09T00:10:50+00:00"
+        },
+        {
+          "summary": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+          "published": "2026-11-08T23:28:01+00:00"
+        },
+        {
+          "summary": "Chimera Vocal Synth",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://chimera-vocal-synth.vercel.app/",
+          "published": "2026-11-08T22:36:03+00:00"
+        },
+        {
+          "summary": "Poland mourns victims of Krakow mass shooting as security fears grow",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html",
+          "published": "2026-11-08T15:53:39+00:00"
+        },
+        {
+          "summary": "Physicists listened to electrical noise to crack a superconductor mystery",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+          "published": "2026-11-08T12:15:31+00:00"
+        },
+        {
+          "summary": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-computer-speakers/",
+          "published": "2026-11-08T12:00:00+00:00"
+        },
+        {
+          "summary": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+          "published": "2026-11-08T12:00:00+00:00"
+        },
+        {
+          "summary": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+          "published": "2026-11-08T11:30:00+00:00"
+        },
+        {
+          "summary": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+          "published": "2026-11-08T13:00:01+00:00"
+        },
+        {
+          "summary": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+          "published": "2026-11-08T11:00:00+00:00"
+        },
+        {
+          "summary": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+          "published": "2026-11-06T20:05:30+00:00"
+        },
+        {
+          "summary": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+          "published": "2026-11-06T19:12:28+00:00"
+        },
+        {
+          "summary": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "published": "2026-11-06T10:00:00+00:00"
+        },
+        {
+          "summary": "13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-05T15:50:25+00:00"
+        },
+        {
+          "summary": "Beyond code generation: A developer’s guide to agentic engineering",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+          "published": "2026-11-06T22:15:59+00:00"
+        },
+        {
+          "summary": "The post-quantum future of web privacy",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/vole-mole/",
+          "published": "2026-11-06T14:00:00+00:00"
+        },
+        {
+          "summary": "Inside GitHub’s new Git storage architecture",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+          "published": "2026-11-05T20:23:21+00:00"
+        },
+        {
+          "summary": "Accessibility statements now have a home on GitHub",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "别再拿《影之刃零》对比《黑神话》了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-08T04:00:31+00:00"
+        },
+        {
+          "summary": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-08T03:35:42+00:00"
+        },
+        {
+          "summary": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+          "published": "2026-11-07T12:15:55+00:00"
+        },
+        {
+          "summary": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+          "published": "2026-11-06T13:10:00+00:00"
+        },
+        {
+          "summary": "The Download: Texas’s fragile AI boom and energy policy shifts",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+          "published": "2026-11-05T13:10:00+00:00"
+        },
+        {
+          "summary": "A new bill could change how the US builds energy infrastructure",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+          "published": "2026-11-05T10:00:00+00:00"
+        },
+        {
+          "summary": "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/06/business/dealbook/tech-investors-ai-rout.html",
+          "published": "2026-11-06T13:07:35+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Bloomberg Daybreak Asia:市场对黄新闻的反应(播客)",
+          "summary_en": "Bloomberg Daybreak Asia: Markets React to Huang News (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-daybreak-asia-markets-react-to-huang-news-podcast",
+          "published": "2026-11-09T03:19:51+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.17
+        },
+        {
+          "summary_zh": "你遵循智能股票交易的规则. 但规则正确吗?",
+          "summary_en": "You follow the rules for smart stock trading. But are they the right rules?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+          "published": "2026-11-08T23:15:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.15
+        },
+        {
+          "summary_zh": "亚洲库存在技术汇入、石油掉落:市场包装方面的进步",
+          "summary_en": "Asian Stocks Advance on Tech Rebound, Oil Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-11-08T22:20:51+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.92
+        },
+        {
+          "summary_zh": "股票期货随着投资者看AI交易而略有上升, 实时更新",
+          "summary_en": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "published": "2026-11-09T03:31:40+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.72
+        },
+        {
+          "summary_zh": "Nvidia启动调查CEO与涉嫌中国间谍的私情",
+          "summary_en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T00:50:06+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.54
+        },
+        {
+          "summary_zh": "关于Nvidia对CEOJensen Huang的调查 聪明人这么说",
+          "summary_en": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11",
+          "published": "2026-11-09T00:08:25+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.37
+        },
+        {
+          "summary_zh": "鲁比奥警告官员关于Nvidia酋长与中国间谍的纠缠",
+          "summary_en": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+          "published": "2026-11-09T00:27:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.45
+        },
+        {
+          "summary_zh": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+          "summary_en": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-09T00:34:19+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.98
+        },
+        {
+          "summary_zh": "NVIDIA正在调查关于CEOJensen Huang是中国间谍活动的目标的报道",
+          "summary_en": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+          "published": "2026-11-08T21:17:45+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.16
+        },
+        {
+          "summary_zh": "Nvidia将调查CEOJensen Huang与中国间谍的关系",
+          "summary_en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "published": "2026-11-08T21:00:11+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.08
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Bloomberg Daybreak Asia: Markets React to Huang News (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-09/bloomberg-daybreak-asia-markets-react-to-huang-news-podcast",
+          "published": "2026-11-09T03:19:51+00:00"
+        },
+        {
+          "summary": "You follow the rules for smart stock trading. But are they the right rules?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+          "published": "2026-11-08T23:15:00+00:00"
+        },
+        {
+          "summary": "Asian Stocks Advance on Tech Rebound, Oil Falls: Markets Wrap",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+          "published": "2026-11-08T22:20:51+00:00"
+        },
+        {
+          "summary": "Philippine Economic Slump Worsens on Iran War, Bad Weather",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/philippine-economy-slows-further-adding-to-pressure-on-marcos",
+          "published": "2026-11-09T02:03:44+00:00"
+        },
+        {
+          "summary": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+          "published": "2026-11-09T03:31:40+00:00"
+        },
+        {
+          "summary": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T00:50:06+00:00"
+        },
+        {
+          "summary": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+          "published": "2026-11-09T00:30:00+00:00"
+        },
+        {
+          "summary": "New Zealand’s PM Faces Deadline in Finance Minister Search",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/new-zealand-s-pm-faces-deadline-in-finance-minister-search",
+          "published": "2026-11-09T00:21:04+00:00"
+        },
+        {
+          "summary": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11",
+          "published": "2026-11-09T00:08:25+00:00"
+        },
+        {
+          "summary": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+          "published": "2026-11-09T00:00:00+00:00"
+        },
+        {
+          "summary": "Gold Gains as Oil Extends Fall and Nvidia Probe Rattles Markets",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/gold-holds-decline-as-us-jobs-data-fan-december-rate-hike-bets",
+          "published": "2026-11-08T23:40:10+00:00"
+        },
+        {
+          "summary": "Trump reacts to the Jensen Huang affair: 'He probably has an excuse for it'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/trump-reacts-jensen-huang-nvidia-alice-huang-affair-excuse-2026-11",
+          "published": "2026-11-09T03:12:32+00:00"
+        },
+        {
+          "summary": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+          "published": "2026-11-08T23:05:00+00:00"
+        },
+        {
+          "summary": "Latest Oil Market News and Analysis for Nov. 9",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/latest-oil-market-news-and-analysis-for-nov-9",
+          "published": "2026-11-08T23:03:27+00:00"
+        },
+        {
+          "summary": "Huang Probed by Nvidia, Iran Demands \"Outrageous\", More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-09/huang-probed-by-nvidia-iran-demands-outrageous-more",
+          "published": "2026-11-09T02:49:41+00:00"
+        },
+        {
+          "summary": "Nvidia to Probe Huang, Rubio: Iran Demands \"Outrageous\" , More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-09/nvidia-to-probe-huang-rubio-iran-demands-outrageous-more",
+          "published": "2026-11-09T02:02:32+00:00"
+        },
+        {
+          "summary": "Nvidia CEO Jensen Huang says he was 'unfaithful' to his wife: Read his note to staff",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-memo-unfaithful-national-security-investigation-2026-11",
+          "published": "2026-11-08T21:56:49+00:00"
+        },
+        {
+          "summary": "Nvidia says it's investigating whether CEO Jensen Huang was the target of a 'foreign intelligence effort'",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-investigation-chinese-spy-2026-11",
+          "published": "2026-11-08T21:34:58+00:00"
+        },
+        {
+          "summary": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+          "published": "2026-11-09T02:50:22+00:00"
+        },
+        {
+          "summary": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+          "published": "2026-11-09T00:27:00+00:00"
+        },
+        {
+          "summary": "Doing these things now will help you save money at Christmas",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-09T00:09:14+00:00"
+        },
+        {
+          "summary": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+          "published": "2026-11-08T23:34:09+00:00"
+        },
+        {
+          "summary": "Medicare Advantage vs. Traditional Medicare, Explained",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+          "published": "2026-11-08T22:42:45+00:00"
+        },
+        {
+          "summary": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-09T00:34:19+00:00"
+        },
+        {
+          "summary": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+          "published": "2026-11-08T22:53:57+00:00"
+        },
+        {
+          "summary": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
+          "published": "2026-11-06T13:45:01+00:00"
+        },
+        {
+          "summary": "Here are the 2 big things we're watching in the stock market in the week ahead",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+          "published": "2026-11-08T17:40:15+00:00"
+        },
+        {
+          "summary": "NVIDIA is investigating reports that CEO Jensen Huang was the target of Chinese spy efforts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2310336/nvidia-is-investigating-reports-that-ceo-jensen-huang-was-the-target-of-chinese-spy-efforts/",
+          "published": "2026-11-08T21:17:45+00:00"
+        },
+        {
+          "summary": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "published": "2026-11-08T21:00:11+00:00"
+        },
+        {
+          "summary": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-08T15:37:25+00:00"
+        },
+        {
+          "summary": "AI stocks climb after trillions wiped from market values",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-06T21:06:25+00:00"
+        },
+        {
+          "summary": "Merge builds product and business tools with OpenAI technology",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "published": "2026-11-05T08:00:00+00:00"
+        },
+        {
+          "summary": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
+          "published": "2026-11-07T11:00:00+00:00"
+        },
+        {
+          "summary": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "published": "2026-11-06T22:53:46+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "published": "2026-11-07T21:17:08+00:00"
+        },
+        {
+          "summary": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+          "published": "2026-11-06T19:50:18+00:00"
+        },
+        {
+          "summary": "You know the launch market is tough when satellite companies start building rockets",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+          "published": "2026-11-06T18:20:47+00:00"
+        },
+        {
+          "summary": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "published": "2026-11-06T15:54:47+00:00"
+        },
+        {
+          "summary": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+          "source": "Ars Technica - All content",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+          "published": "2026-11-06T14:13:32+00:00"
+        },
+        {
+          "summary": "Physicl raises $10M to make the digital world real enough for robots",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "published": "2026-11-06T13:00:00+00:00"
+        },
+        {
+          "summary": "Markets realise they hate America’s blue wave",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
+          "published": "2026-11-05T23:41:07+00:00"
+        },
+        {
+          "summary": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "published": "2026-11-05T18:02:27+00:00"
+        },
+        {
+          "summary": "Claude can now analyze your spending with its new Personal Finance tool",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "published": "2026-11-05T18:00:00+00:00"
+        },
+        {
+          "summary": "Indebted tycoons haunt China’s banking system",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/indebted-tycoons-haunt-chinas-banking-system",
+          "published": "2026-11-05T11:54:22+00:00"
+        },
+        {
+          "summary": "AI is turning protectionists into free traders",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/ai-is-turning-protectionists-into-free-traders",
+          "published": "2026-11-05T10:22:20+00:00"
+        },
+        {
+          "summary": "William Nordhaus, favourite economist of the right and the left",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
+          "published": "2026-11-05T10:17:54+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "与抗硬集体加速强化学习",
+          "summary_en": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+          "published": "2026-11-06T18:03:26+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "与Hacktron合作寻找OpenAI系统中的弱点",
+          "summary_en": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "published": "2026-11-06T08:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "最近人工智能特工的实验揭示了机器“团队工作”在公司内部的风险未来。",
+          "summary_en": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+          "published": "2026-11-08T14:14:11+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.39
+        },
+        {
+          "summary_zh": "配置、认证和操作 NVIDIA DSX OS 的 Kubernetes GPU 集群",
+          "summary_en": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+          "published": "2026-11-05T17:00:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.0
+        },
+        {
+          "summary_zh": "Palo Alto Networks在会谈中以500万美元购买AI代理安全启动Clutch",
+          "summary_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "published": "2026-11-06T06:28:32+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "Airbnb表示将在2027年上半年推出AI旅行社,",
+          "summary_en": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "published": "2026-11-05T22:40:55+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.3
+        },
+        {
+          "summary_zh": "英国最新型的航空母舰 正在训练航母 穿过黑暗、崎岖的海洋和无线电沉默",
+          "summary_en": "Sailors aboard Britain's newest aircraft carrier are training to fight through darkness, rough seas, and radio silence",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/newest-uk-aircraft-carrier-trains-fight-arctic-north-atlantic-winter-2026-11",
+          "published": "2026-11-08T13:13:01+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 4.14
+        },
+        {
+          "summary_zh": "Aina 的智能环想要成为您的 AI 代理的远程控制",
+          "summary_en": "Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/aina-smart-ring/",
+          "published": "2026-11-05T14:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 2.8
+        },
+        {
+          "summary_zh": "律师事务所有不良行为保险。 他们的助理特工应该吗?",
+          "summary_en": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+          "published": "2026-11-07T13:00:06+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 1.0
+          },
+          "selection_tier": "fill",
+          "selection_reason": "数量补位",
+          "selection_score": 1.8
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Measuring how AI agents handle everyday wet-lab science",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "published": "2026-11-06T00:00:00+00:00"
+        },
+        {
+          "summary": "Australian universities are creating AI-native graduates",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "summary": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "published": "2026-11-05T09:00:00+00:00"
+        },
+        {
+          "summary": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+          "published": "2026-11-06T17:13:13+00:00"
+        },
+        {
+          "summary": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+          "published": "2026-11-06T17:09:23+00:00"
+        },
+        {
+          "summary": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
+          "published": "2026-11-06T17:09:18+00:00"
+        },
+        {
+          "summary": "Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/",
+          "published": "2026-11-06T16:49:42+00:00"
+        },
+        {
+          "summary": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/",
+          "published": "2026-11-06T22:20:20+00:00"
+        },
+        {
+          "summary": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+          "published": "2026-11-06T18:03:26+00:00"
+        },
+        {
+          "summary": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "published": "2026-11-06T08:00:00+00:00"
+        },
+        {
+          "summary": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/",
+          "published": "2026-11-05T17:00:00+00:00"
+        },
+        {
+          "summary": "Agents aren’t humans (but they kinda are)",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+          "published": "2026-11-05T17:03:04+00:00"
+        },
+        {
+          "summary": "Formally verifying agent-written full-stack web apps with PDD Kit",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/",
+          "published": "2026-11-05T16:00:00+00:00"
+        },
+        {
+          "summary": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "published": "2026-11-06T14:00:48+00:00"
+        },
+        {
+          "summary": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "published": "2026-11-06T00:00:00+00:00"
+        },
+        {
+          "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "published": "2026-11-05T19:35:16+00:00"
+        },
+        {
+          "summary": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "published": "2026-11-05T17:05:16+00:00"
+        },
+        {
+          "summary": "Detecting signs of hypertension using wearable sensors",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/",
+          "published": "2026-11-05T16:01:08+00:00"
+        },
+        {
+          "summary": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+          "published": "2026-11-08T14:14:11+00:00"
+        },
+        {
+          "summary": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "published": "2026-11-06T06:28:32+00:00"
+        },
+        {
+          "summary": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+          "published": "2026-11-05T22:40:55+00:00"
+        },
+        {
+          "summary": "Sailors aboard Britain's newest aircraft carrier are training to fight through darkness, rough seas, and radio silence",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/newest-uk-aircraft-carrier-trains-fight-arctic-north-atlantic-winter-2026-11",
+          "published": "2026-11-08T13:13:01+00:00"
+        },
+        {
+          "summary": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "published": "2026-11-06T18:44:20+00:00"
+        },
+        {
+          "summary": "How a Blue Wave midterm might reshape the AI industry",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "published": "2026-11-06T18:00:00+00:00"
+        },
+        {
+          "summary": "Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/aina-smart-ring/",
+          "published": "2026-11-05T14:00:00+00:00"
+        },
+        {
+          "summary": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+          "published": "2026-11-07T13:00:06+00:00"
+        }
+      ]
+    }
+  }
+}
