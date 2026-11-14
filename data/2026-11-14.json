@@ -1,0 +1,1576 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T04:17:09.072139+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "联邦航空局举起全国地面站,阻断起飞数小时",
+          "summary_en": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+          "published": "2026-11-13T20:53:04-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "Kitesurf 现在开放源代码",
+          "summary_en": "Kitesurf is now open source",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+          "published": "2026-11-13T20:20:21+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.51
+        },
+        {
+          "summary_zh": "15号星舰飞向轨道 周六有可能赶上",
+          "summary_en": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "published": "2026-11-14T00:49:13+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.43
+        },
+        {
+          "summary_zh": "亚马逊新开的Kindle Colorsoft是高价的电子阅读器,",
+          "summary_en": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+          "published": "2026-11-13T23:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.98
+        },
+        {
+          "summary_zh": "据称GTA VI的一些国际实物拷贝可以在不打开盒子的情况下赎回",
+          "summary_en": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+          "published": "2026-11-13T22:50:13+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.94
+        },
+        {
+          "summary_zh": "FAA 降落所有美国飞行直到进一步通知",
+          "summary_en": "FAA Grounds All US Flights Until Further Notice",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+          "published": "2026-11-13T21:42:57+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.66
+        },
+        {
+          "summary_zh": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+          "summary_en": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-13T15:44:48+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.17
+        },
+        {
+          "summary_zh": "Ggml v 1. 0. 0 (英语).",
+          "summary_en": "Ggml v1.0.0",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "published": "2026-11-14T02:28:29+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.05
+        },
+        {
+          "summary_zh": "下载:硅谷的盲点和Nvidia的芯片跟踪计划",
+          "summary_en": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+          "published": "2026-11-13T13:10:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.52
+        },
+        {
+          "summary_zh": "适应AI穿透测试管弦乐手:现代安全模型",
+          "summary_en": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+          "published": "2026-11-13T19:26:07+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.29
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+          "published": "2026-11-13T20:53:04-05:00"
+        },
+        {
+          "summary": "The FAA Nationwide Ground Stop Is Over",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+          "published": "2026-11-14T01:46:40+00:00"
+        },
+        {
+          "summary": "Kitesurf is now open source",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+          "published": "2026-11-13T20:20:21+00:00"
+        },
+        {
+          "summary": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "published": "2026-11-14T00:49:13+00:00"
+        },
+        {
+          "summary": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+          "published": "2026-11-13T19:26:07+00:00"
+        },
+        {
+          "summary": "Amazon has a plan to index the world’s online shopping data",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "published": "2026-11-13T18:49:11-05:00"
+        },
+        {
+          "summary": "FAA has lifted its third-ever nationwide ground stop",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+          "published": "2026-11-13T23:17:38+00:00"
+        },
+        {
+          "summary": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+          "published": "2026-11-13T23:00:00+00:00"
+        },
+        {
+          "summary": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
+          "published": "2026-11-13T22:50:13+00:00"
+        },
+        {
+          "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "published": "2026-11-13T18:40:30+00:00"
+        },
+        {
+          "summary": "Best Early Black Friday AirPods Deals (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+          "published": "2026-11-13T22:30:29+00:00"
+        },
+        {
+          "summary": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+          "published": "2026-11-13T21:59:01+00:00"
+        },
+        {
+          "summary": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+          "published": "2026-11-13T21:44:38+00:00"
+        },
+        {
+          "summary": "FAA Grounds All US Flights Until Further Notice",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+          "published": "2026-11-13T21:42:57+00:00"
+        },
+        {
+          "summary": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "published": "2026-11-13T21:20:47+00:00"
+        },
+        {
+          "summary": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+          "published": "2026-11-13T23:12:00+00:00"
+        },
+        {
+          "summary": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+          "published": "2026-11-13T15:30:00-05:00"
+        },
+        {
+          "summary": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+          "published": "2026-11-13T20:07:24+00:00"
+        },
+        {
+          "summary": "Atlas Coffee Club’s Black Friday Deals (2026)",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
+          "published": "2026-11-13T19:58:41+00:00"
+        },
+        {
+          "summary": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-13T15:44:48+00:00"
+        },
+        {
+          "summary": "Ggml v1.0.0",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "published": "2026-11-14T02:28:29+00:00"
+        },
+        {
+          "summary": "Here’s how you can save on your GTA VI preorder ahead of launch",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+          "published": "2026-11-13T14:14:38-05:00"
+        },
+        {
+          "summary": "Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/",
+          "published": "2026-11-13T19:00:00+00:00"
+        },
+        {
+          "summary": "Elephants found to be increasingly isolated leading to fractured social networks",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+          "published": "2026-11-14T02:02:42+00:00"
+        },
+        {
+          "summary": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-13T18:19:36+00:00"
+        },
+        {
+          "summary": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+          "published": "2026-11-14T00:52:29+00:00"
+        },
+        {
+          "summary": "You can now tempt fate and give your banking information to ChatGPT",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+          "published": "2026-11-13T17:17:51+00:00"
+        },
+        {
+          "summary": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://claude.com/resources/articles/projects-redesigned",
+          "published": "2026-11-14T00:28:11+00:00"
+        },
+        {
+          "summary": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+          "published": "2026-11-13T13:10:00+00:00"
+        },
+        {
+          "summary": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang/",
+          "published": "2026-11-13T12:58:10+00:00"
+        },
+        {
+          "summary": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/spend-management/",
+          "published": "2026-11-13T14:00:00+00:00"
+        },
+        {
+          "summary": "Apple HomeView available today",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/",
+          "published": "2026-11-13T13:59:07.218000+00:00"
+        },
+        {
+          "summary": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-13T10:04:55+00:00"
+        },
+        {
+          "summary": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+          "published": "2026-11-13T10:00:00+00:00"
+        },
+        {
+          "summary": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+          "published": "2026-11-13T10:00:00+00:00"
+        },
+        {
+          "summary": "Git security vulnerabilities announced",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+          "published": "2026-11-10T18:00:00+00:00"
+        },
+        {
+          "summary": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-13T08:31:36+00:00"
+        },
+        {
+          "summary": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "published": "2026-11-12T20:16:24+00:00"
+        },
+        {
+          "summary": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+          "published": "2026-11-12T17:36:40+00:00"
+        },
+        {
+          "summary": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-10T09:23:55+00:00"
+        },
+        {
+          "summary": "GitHub availability report: October 2026",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+          "published": "2026-11-13T00:20:16+00:00"
+        },
+        {
+          "summary": "Choosing QuePaxa, an unusual consensus algorithm",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+          "published": "2026-11-11T14:24:46+00:00"
+        },
+        {
+          "summary": "Apple TV introduces new Sign Language interpretation feature",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/",
+          "published": "2026-11-10T16:00:26.015000+00:00"
+        },
+        {
+          "summary": "Football Manager and other hit franchises headline Apple Arcade’s holiday lineup",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/",
+          "published": "2026-11-10T14:59:45.256000+00:00"
+        },
+        {
+          "summary": "Olivia Dean is Apple Music’s Artist of the Year for 2026",
+          "source": "Apple Newsroom",
+          "source_type": "first_party",
+          "url": "https://www.apple.com/newsroom/2026/11/olivia-dean-is-apple-musics-artist-of-the-year-for-2026/",
+          "published": "2026-11-09T15:59:09.485000+00:00"
+        },
+        {
+          "summary": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-12T17:11:48+00:00"
+        },
+        {
+          "summary": "Silicon Valley Tech Allies Support Jensen Huang",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+          "published": "2026-11-11T17:29:52+00:00"
+        },
+        {
+          "summary": "Robot vessels take on the dangerous work of mine hunting",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-11T00:19:13+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Nvidia的董事会首席执行官Hunt,股票完成周高,零售聚焦",
+          "summary_en": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
+          "published": "2026-11-13T23:48:58+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.18
+        },
+        {
+          "summary_zh": "FAA 地面停止提升, Duffy 想要紧急资金,更多",
+          "summary_en": "FAA Ground Stop Lifted, Duffy Wants Emergency Funding, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-duffy-wants-emergency-funding-more",
+          "published": "2026-11-14T03:33:03+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.12
+        },
+        {
+          "summary_zh": "为长期增长选定14个股息",
+          "summary_en": "14 dividend stocks selected for long-term growth",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+          "published": "2026-11-14T01:58:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.72
+        },
+        {
+          "summary_zh": "尽管Nvidia已经下架,",
+          "summary_en": "Despite Nvidia’s Drop, Stocks Push Ahead",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "published": "2026-11-14T00:40:29+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.4
+        },
+        {
+          "summary_zh": "近5000架航班在FAA地面停留后被取消 飞遍美国 如果你的旅行受到影响了 接下来怎么办?",
+          "summary_en": "Nearly 5,000 flights were canceled across the US after an FAA ground stop. Here's what to do if your trip was affected.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/what-do-if-flight-delayed-or-canceled-airlines-atc-2026-11",
+          "published": "2026-11-14T03:43:02+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.16
+        },
+        {
+          "summary_zh": "Nvidia股票自2012年以来每周亏损时间最长,因为市场价值下跌1.7万亿美元",
+          "summary_en": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+          "published": "2026-11-13T22:18:43+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.31
+        },
+        {
+          "summary_zh": "各机构延长拟议第三方风险管理指导的评论意见期",
+          "summary_en": "Agencies extend comment period for proposed third-party risk management guidance",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+          "published": "2026-11-13T21:15:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.74
+        },
+        {
+          "summary_zh": "微软对全球停电深表遗憾,",
+          "summary_en": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T21:14:22+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.54
+        },
+        {
+          "summary_zh": "Jensen Huang的离开在AI的启动资金中爆出一个大洞,",
+          "summary_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "published": "2026-11-13T22:43:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.41
+        },
+        {
+          "summary_zh": "Kalshi沟小川普担任顾问;CEO承认\"光学\"不好",
+          "summary_en": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+          "published": "2026-11-13T19:49:16+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.68
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
+          "published": "2026-11-13T23:48:58+00:00"
+        },
+        {
+          "summary": "FAA Ground Stop Lifted, Duffy Wants Emergency Funding, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-duffy-wants-emergency-funding-more",
+          "published": "2026-11-14T03:33:03+00:00"
+        },
+        {
+          "summary": "14 dividend stocks selected for long-term growth",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+          "published": "2026-11-14T01:58:00+00:00"
+        },
+        {
+          "summary": "Stock Movers: Cerebras, Nvidia, Chip Stocks (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-13/stock-movers-cerebras-nvidia-chip-stocks-podcast",
+          "published": "2026-11-13T21:49:44+00:00"
+        },
+        {
+          "summary": "Despite Nvidia’s Drop, Stocks Push Ahead",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "published": "2026-11-14T00:40:29+00:00"
+        },
+        {
+          "summary": "Nearly 5,000 flights were canceled across the US after an FAA ground stop. Here's what to do if your trip was affected.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/what-do-if-flight-delayed-or-canceled-airlines-atc-2026-11",
+          "published": "2026-11-14T03:43:02+00:00"
+        },
+        {
+          "summary": "Canadian airports have taken on extra planes and passengers as the outage chaos rippled north",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/canadian-airports-ground-stop-toronto-montreal-2026-11",
+          "published": "2026-11-14T03:24:06+00:00"
+        },
+        {
+          "summary": "FAA Flight Ground Stop Leaves Passengers in Airport Limbo Across US",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-flight-ground-stop-leaves-passengers-in-airport-limbo-across-us",
+          "published": "2026-11-14T03:19:02+00:00"
+        },
+        {
+          "summary": "FAA lifts nationwide ground stop, but chaos will continue after 10,000 flights were delayed and 6,600 canceled",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/faa-national-ground-stop-flights-2026-11",
+          "published": "2026-11-14T03:10:52+00:00"
+        },
+        {
+          "summary": "Exemplar Luxury Group CEO on the Company’s Second Life",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
+          "published": "2026-11-13T22:59:58+00:00"
+        },
+        {
+          "summary": "Trump's transportation chief demands $50 billion to prevent another huge FAA fiasco",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dhs-demands-50-billion-to-prevent-another-huge-faa-fiasco-2026-11",
+          "published": "2026-11-14T02:55:36+00:00"
+        },
+        {
+          "summary": "Afterpay Co-Founder Molnar to Leave Dorsey’s Block at Year-End",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/afterpay-co-founder-molnar-to-leave-dorsey-s-block-at-year-end",
+          "published": "2026-11-14T02:46:07+00:00"
+        },
+        {
+          "summary": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+          "published": "2026-11-14T02:42:00+00:00"
+        },
+        {
+          "summary": "Rent the Runway CEO Paige Thomas on Her Company Vision",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
+          "published": "2026-11-13T22:41:52+00:00"
+        },
+        {
+          "summary": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+          "published": "2026-11-14T02:22:25+00:00"
+        },
+        {
+          "summary": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+          "published": "2026-11-13T22:21:00+00:00"
+        },
+        {
+          "summary": "Investing in Financial Security: Masters in Business with Salim Ramji",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-13/masters-in-business-with-salim-ramji-video",
+          "published": "2026-11-13T22:11:02+00:00"
+        },
+        {
+          "summary": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+          "published": "2026-11-13T21:26:00+00:00"
+        },
+        {
+          "summary": "Deed Theft Is Rising, Along With Property Values",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/13/your-money/deed-title-theft-houses.html",
+          "published": "2026-11-14T00:27:27+00:00"
+        },
+        {
+          "summary": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+          "published": "2026-11-13T22:18:43+00:00"
+        },
+        {
+          "summary": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "published": "2026-11-13T19:52:01+00:00"
+        },
+        {
+          "summary": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+          "published": "2026-11-14T01:34:11+00:00"
+        },
+        {
+          "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+          "published": "2026-11-13T21:15:00+00:00"
+        },
+        {
+          "summary": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T21:14:22+00:00"
+        },
+        {
+          "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "published": "2026-11-13T22:43:00+00:00"
+        },
+        {
+          "summary": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+          "published": "2026-11-14T02:33:48+00:00"
+        },
+        {
+          "summary": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
+          "published": "2026-11-13T14:22:07+00:00"
+        },
+        {
+          "summary": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T19:53:57+00:00"
+        },
+        {
+          "summary": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T18:36:57+00:00"
+        },
+        {
+          "summary": "Are board games making a comeback this Christmas?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-13T18:00:40+00:00"
+        },
+        {
+          "summary": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+          "published": "2026-11-13T19:49:16+00:00"
+        },
+        {
+          "summary": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+          "published": "2026-11-13T11:57:00-05:00"
+        },
+        {
+          "summary": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "published": "2026-11-14T02:52:59+00:00"
+        },
+        {
+          "summary": "AI agent startup LangChain hits $3B valuation",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "published": "2026-11-13T19:37:57+00:00"
+        },
+        {
+          "summary": "Google now lets people connect Gemini to their bank accounts",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+          "published": "2026-11-13T19:15:32+00:00"
+        },
+        {
+          "summary": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+          "published": "2026-11-14T02:21:36+00:00"
+        },
+        {
+          "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+          "published": "2026-11-12T17:45:00+00:00"
+        },
+        {
+          "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+          "published": "2026-11-12T16:00:00+00:00"
+        },
+        {
+          "summary": "Gondola doubles revenue as its team builds more with Codex",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "published": "2026-11-12T12:00:00+00:00"
+        },
+        {
+          "summary": "Gilbert + Tobin rethinks the business of law with AI",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "published": "2026-11-12T00:00:00+00:00"
+        },
+        {
+          "summary": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.17316",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Testing Conversation Preservation Across LLM APIs: A Rule-Based Oracle for Detecting Silent Information Loss",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.15543",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.16058",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.17101",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Training Calibrated Conditional Generative Models with a Sample-Only Coverage Loss",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.15829",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.17329",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Quantifying Methodological Inflation in Clinical Machine Learning: A Cross-Modality Audit of Subject-Level Leakage and Nested Feature Selection for Parkinson's Disease",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.14533",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "CAMRI Loss: Improving the Recall of a Specific Class without Sacrificing Accuracy",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2209.10920",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+          "published": "2026-11-12T18:30:00+00:00"
+        },
+        {
+          "summary": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
+          "published": "2026-11-10T11:15:35-05:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "运行本地 DLA NVIDIA Jetson AGX Orin使用cuDLA的推论",
+          "summary_en": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+          "published": "2026-11-13T18:57:10+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.67
+        },
+        {
+          "summary_zh": "NVIDIA NeMo Switchyard 向 Amazon Bedrock 上的右模式请求路由编码代理",
+          "summary_en": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+          "published": "2026-11-13T22:30:12+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 11.06
+        },
+        {
+          "summary_zh": "引入 ChatGPT 钱包",
+          "summary_en": "Introducing ChatGPT Wallet",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "published": "2026-11-13T15:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "以反重力/团队工作推进科学与工程",
+          "summary_en": "Advancing science & engineering with Antigravity’s /teamwork",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+          "published": "2026-11-13T20:47:18+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.63
+        },
+        {
+          "summary_zh": "POIROT: 大型语言模型多代理系统失败归属的代理人作为自己的审计员",
+          "summary_en": "POIROT: Agents as their own auditors for failure attribution in large language model multi-agent systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.02282",
+          "published": "2026-11-13T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 5.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.48
+        },
+        {
+          "summary_zh": "lama.cpp v1.0.0:为当地的AI生态系统奠定更牢固的基础.",
+          "summary_en": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "published": "2026-11-13T14:05:22+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.95
+        },
+        {
+          "summary_zh": "规范AI的推论验证:LLM服务的治理决定管道",
+          "summary_en": "Inference Validation for Regulated AI: A Governed Decision Pipeline for LLM Serving",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.12737",
+          "published": "2026-11-13T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.48
+        },
+        {
+          "summary_zh": "语言模型对齐的理论限制",
+          "summary_en": "Theoretical Limits of Language Model Alignment",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+          "published": "2026-11-12T00:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "双子体决定 API:快速,校准的多式联运决定",
+          "summary_en": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "published": "2026-11-11T18:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        },
+        {
+          "summary_zh": "打开AI天气模型背后的数据集",
+          "summary_en": "Opening the datasets behind our AI weather models",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "published": "2026-11-10T11:13:04+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.5
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla/",
+          "published": "2026-11-13T18:57:10+00:00"
+        },
+        {
+          "summary": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas/",
+          "published": "2026-11-13T22:13:51+00:00"
+        },
+        {
+          "summary": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton/",
+          "published": "2026-11-13T21:17:17+00:00"
+        },
+        {
+          "summary": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+          "published": "2026-11-13T22:30:12+00:00"
+        },
+        {
+          "summary": "Cost-optimizing AssemblyAI speech-to-text inference on AWS with Amazon EC2 Spot",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/cost-optimizing-assemblyai-speech-to-text-inference-on-aws-with-amazon-ec2-spot/",
+          "published": "2026-11-13T19:35:35+00:00"
+        },
+        {
+          "summary": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+          "published": "2026-11-13T23:22:09+00:00"
+        },
+        {
+          "summary": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+          "published": "2026-11-13T17:00:00+00:00"
+        },
+        {
+          "summary": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+          "published": "2026-11-13T18:44:02+00:00"
+        },
+        {
+          "summary": "Introducing ChatGPT Wallet",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "published": "2026-11-13T15:00:00+00:00"
+        },
+        {
+          "summary": "Advancing science & engineering with Antigravity’s /teamwork",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+          "published": "2026-11-13T20:47:18+00:00"
+        },
+        {
+          "summary": "POIROT: Agents as their own auditors for failure attribution in large language model multi-agent systems",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.02282",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "published": "2026-11-13T14:05:22+00:00"
+        },
+        {
+          "summary": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "published": "2026-11-13T18:00:39+00:00"
+        },
+        {
+          "summary": "XYBench: Helping with the problem behind the question",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "published": "2026-11-13T17:02:35+00:00"
+        },
+        {
+          "summary": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.15515",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.17115",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "When Evaluators of AI Agents Disagree: An Empirical Study of Native Scoring, LLM Judges, and Commit-Boundary Checks on tau2-bench",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.14581",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Inference Validation for Regulated AI: A Governed Decision Pipeline for LLM Serving",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.12737",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Supporting research on AI and children’s safety",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/children-first-declaration",
+          "published": "2026-11-12T00:00:00+00:00"
+        },
+        {
+          "summary": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "published": "2026-11-11T00:00:00+00:00"
+        },
+        {
+          "summary": "Helping caregivers use AI in everyday life",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "published": "2026-11-10T12:00:00+00:00"
+        },
+        {
+          "summary": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/token-pooling",
+          "published": "2026-11-11T00:00:00+00:00"
+        },
+        {
+          "summary": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+          "published": "2026-11-10T20:52:56+00:00"
+        },
+        {
+          "summary": "Trait Hitchhiking in LLM Post-Training",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.14683",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "UniPipe: Unified Inference Serving and Fine-Tuning for Deadline-Constrained DNN Surrogate Workflows",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.14748",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "AROMA: Adaptive Representation-Oriented Multimodal Actuation for Vision-Language Model Control",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.15041",
+          "published": "2026-11-13T00:00:00-05:00"
+        },
+        {
+          "summary": "Build once, run on any agent: A practical guide to agent skills",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+          "published": "2026-11-12T22:54:52+00:00"
+        },
+        {
+          "summary": "Theoretical Limits of Language Model Alignment",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+          "published": "2026-11-12T00:00:00+00:00"
+        },
+        {
+          "summary": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "published": "2026-11-11T18:00:00+00:00"
+        },
+        {
+          "summary": "Opening the datasets behind our AI weather models",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "published": "2026-11-10T11:13:04+00:00"
+        },
+        {
+          "summary": "Evaluating the Evaluators: Investigating LLM Judges for Personalized Writing Style Assessment",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/evaluating-evaluators-llm-judges",
+          "published": "2026-11-10T00:00:00+00:00"
+        },
+        {
+          "summary": "Microsoft Research Focus – Edition #98",
+          "source": "Microsoft Research",
+          "source_type": "first_party",
+          "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98/",
+          "published": "2026-11-12T21:31:57+00:00"
+        },
+        {
+          "summary": "Introducing Gemini 4 Hydrogen",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "published": "2026-11-12T18:00:50+00:00"
+        },
+        {
+          "summary": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "published": "2026-11-12T18:00:00+00:00"
+        },
+        {
+          "summary": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+          "published": "2026-11-11T19:54:00+00:00"
+        },
+        {
+          "summary": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+          "published": "2026-11-11T16:00:00+00:00"
+        },
+        {
+          "summary": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "published": "2026-11-11T15:00:15+00:00"
+        },
+        {
+          "summary": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+          "published": "2026-11-11T09:00:00+00:00"
+        },
+        {
+          "summary": "Gemini 4 Carbon is now available",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "published": "2026-11-10T16:03:47+00:00"
+        },
+        {
+          "summary": "On the Importance of Gating: Memorization vs. In-Context Learning in State Space Models",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/gating-memorization-in-context",
+          "published": "2026-11-10T00:00:00+00:00"
+        },
+        {
+          "summary": "Weighted State Souping for Efficient Long-Context Retrieval",
+          "source": "Apple Machine Learning Research",
+          "source_type": "first_party",
+          "url": "https://machinelearning.apple.com/research/weighted-state-souping",
+          "published": "2026-11-10T00:00:00+00:00"
+        },
+        {
+          "summary": "Exploring the world's languages with Language Explorer",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+          "published": "2026-11-09T20:29:39+00:00"
+        },
+        {
+          "summary": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "published": "2026-11-13T16:00:12+00:00"
+        },
+        {
+          "summary": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+          "published": "2026-11-13T18:56:26+00:00"
+        },
+        {
+          "summary": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "published": "2026-11-13T15:45:10-05:00"
+        },
+        {
+          "summary": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://atg.science/careers",
+          "published": "2026-11-13T21:01:11+00:00"
+        },
+        {
+          "summary": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "published": "2026-11-12T19:11:00+00:00"
+        },
+        {
+          "summary": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+          "published": "2026-11-12T17:17:58+00:00"
+        },
+        {
+          "summary": "Perplexity Decider v1.3: Training, eval, and use cases",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "published": "2026-11-13T19:24:47+00:00"
+        },
+        {
+          "summary": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+          "published": "2026-11-12T17:00:00+00:00"
+        }
+      ]
+    }
+  }
+}
