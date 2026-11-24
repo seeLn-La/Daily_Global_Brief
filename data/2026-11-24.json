@@ -1,0 +1,1163 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T07:45:50.630915+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+          "summary_en": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T05:55:23+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.84
+        },
+        {
+          "summary_zh": "苹果确认泰德拉索会回来参加第五季",
+          "summary_en": "Apple confirms Ted Lasso will return for Season 5",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+          "published": "2026-11-24T06:00:08+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "B&H 图片促进代码和交易 2026年11月",
+          "summary_en": "B&H Photo Promo Codes and Deals This November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/bh-photo-coupon/",
+          "published": "2026-11-24T06:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.86
+        },
+        {
+          "summary_zh": "黄后川普推后,Nvidia Sparks Tech Rally, More",
+          "summary_en": "Huang Back After Trump Push, Nvidia Sparks Tech Rally, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-24/huang-back-after-trump-push-nvidia-sparks-tech-rally-more",
+          "published": "2026-11-24T03:47:17+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.81
+        },
+        {
+          "summary_zh": "Amazon在准备出售Trainium芯片时,",
+          "summary_en": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "published": "2026-11-23T17:14:23+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 3.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.67
+        },
+        {
+          "summary_zh": "Google 替代 Kagi 启动电子邮件服务",
+          "summary_en": "Google alternative Kagi launches an email service",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+          "published": "2026-11-23T19:02:52-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.37
+        },
+        {
+          "summary_zh": "印度的反对风暴梅塔的办公室 来收回它的Instagram账户",
+          "summary_en": "India's opposition storms Meta's offices to get its Instagram accounts back",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+          "published": "2026-11-24T06:28:04+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.18
+        },
+        {
+          "summary_zh": "特朗普的特异性恩维迪亚干预边缘国家安全关切",
+          "summary_en": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+          "published": "2026-11-24T00:55:56+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.09
+        },
+        {
+          "summary_zh": "特朗普阻止爱荷华州爆炸, 说新州长要责怪如果它不小心爆炸",
+          "summary_en": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+          "published": "2026-11-23T21:58:34+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.85
+        },
+        {
+          "summary_zh": "亚马逊可能刚刚找到一个“便宜”的方法,",
+          "summary_en": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+          "published": "2026-11-23T21:33:00+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.25
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T05:55:23+00:00"
+        },
+        {
+          "summary": "Apple confirms Ted Lasso will return for Season 5",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/",
+          "published": "2026-11-24T06:00:08+00:00"
+        },
+        {
+          "summary": "B&H Photo Promo Codes and Deals This November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/bh-photo-coupon/",
+          "published": "2026-11-24T06:00:00+00:00"
+        },
+        {
+          "summary": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/nomad-discount-code/",
+          "published": "2026-11-24T06:00:00+00:00"
+        },
+        {
+          "summary": "Hoka Coupon Codes: 30% Off in November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/hoka-coupon-code/",
+          "published": "2026-11-24T06:00:00+00:00"
+        },
+        {
+          "summary": "Layla Sleep Coupon: Save Up to $600 in November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/layla-sleep-coupon/",
+          "published": "2026-11-24T06:00:00+00:00"
+        },
+        {
+          "summary": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T05:40:49+00:00"
+        },
+        {
+          "summary": "The three DISM commands you should know to fix your Windows system images",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+          "published": "2026-11-24T01:30:00+00:00"
+        },
+        {
+          "summary": "Commons reasons your Android phone's icons won't move and how to fix it",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2320294/reasons-android-phone-icons-wont-move-fix/",
+          "published": "2026-11-24T00:00:00+00:00"
+        },
+        {
+          "summary": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T02:10:19+00:00"
+        },
+        {
+          "summary": "Huang Back After Trump Push, Nvidia Sparks Tech Rally, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-24/huang-back-after-trump-push-nvidia-sparks-tech-rally-more",
+          "published": "2026-11-24T03:47:17+00:00"
+        },
+        {
+          "summary": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "published": "2026-11-23T17:14:23+00:00"
+        },
+        {
+          "summary": "The biggest downsides to using Apple's Magic Mouse",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/",
+          "published": "2026-11-24T00:30:00+00:00"
+        },
+        {
+          "summary": "Google alternative Kagi launches an email service",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+          "published": "2026-11-23T19:02:52-05:00"
+        },
+        {
+          "summary": "Nvidia Brings Huang Back, Tech Shares Rally on Return, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-24/nvidia-brings-huang-back-tech-shares-rally-on-return-more",
+          "published": "2026-11-24T01:46:56+00:00"
+        },
+        {
+          "summary": "The hacker behind early GTA VI leaks has been sentenced — and released",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+          "published": "2026-11-23T18:25:01-05:00"
+        },
+        {
+          "summary": "India's opposition storms Meta's offices to get its Instagram accounts back",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+          "published": "2026-11-24T06:28:04+00:00"
+        },
+        {
+          "summary": "The Verge’s 2026 holiday gift guide",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+          "published": "2026-11-23T18:14:10-05:00"
+        },
+        {
+          "summary": "Figma employee sues, alleging company forced her to confront harassers",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+          "published": "2026-11-23T23:07:49+00:00"
+        },
+        {
+          "summary": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+          "published": "2026-11-24T00:55:56+00:00"
+        },
+        {
+          "summary": "Ladybird, the first new browser engine in years, is now available to test",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+          "published": "2026-11-23T17:38:09-05:00"
+        },
+        {
+          "summary": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+          "published": "2026-11-24T05:15:22+00:00"
+        },
+        {
+          "summary": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+          "published": "2026-11-23T21:58:34+00:00"
+        },
+        {
+          "summary": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+          "published": "2026-11-23T21:47:41+00:00"
+        },
+        {
+          "summary": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+          "published": "2026-11-23T21:30:44+00:00"
+        },
+        {
+          "summary": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+          "published": "2026-11-23T21:25:42+00:00"
+        },
+        {
+          "summary": "Drone Maps of Salvage Yards",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://salvageyarddrone.wordpress.com/",
+          "published": "2026-11-24T04:00:28+00:00"
+        },
+        {
+          "summary": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+          "published": "2026-11-23T20:34:51+00:00"
+        },
+        {
+          "summary": "Surveillance pricing uses our personal data to make us pay more",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+          "published": "2026-11-23T20:11:43+00:00"
+        },
+        {
+          "summary": "Making a dumb TV just smart enough",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+          "published": "2026-11-24T02:46:54+00:00"
+        },
+        {
+          "summary": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+          "published": "2026-11-23T21:33:00+00:00"
+        },
+        {
+          "summary": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "published": "2026-11-23T17:36:08+00:00"
+        },
+        {
+          "summary": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-23T14:50:12+00:00"
+        },
+        {
+          "summary": "Probing DNS at Cloudflare",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+          "published": "2026-11-23T14:00:00+00:00"
+        },
+        {
+          "summary": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+          "published": "2026-11-23T13:10:00+00:00"
+        },
+        {
+          "summary": "Why using rocks for carbon removal could eventually reduce crop growth",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+          "published": "2026-11-23T11:00:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "Jensen作为Nvidia首席执行官的惊吓回归",
+          "summary_en": "Jensen’s Shock Return as Nvidia CEO Unleashes Market Frenzy",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-s-shock-return-as-nvidia-ceo-unleashes-market-frenzy",
+          "published": "2026-11-24T07:19:42+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.19
+        },
+        {
+          "summary_zh": "新兴市场股票作为黄光复的回归",
+          "summary_en": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
+          "published": "2026-11-24T06:26:44+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.97
+        },
+        {
+          "summary_zh": "Jensen Huang之后的股票冲刺 重新成为Nvidia首席执行官",
+          "summary_en": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+          "published": "2026-11-24T04:58:02+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.6
+        },
+        {
+          "summary_zh": "特朗普在表示\"说服\"恩维迪亚恢复CEOJensen Huang后,面对反弹.",
+          "summary_en": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T04:36:31+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.51
+        },
+        {
+          "summary_zh": "中国互联网在Nvidia庆祝黄延生成功复权",
+          "summary_en": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/chinese-internet-celebrating-jensen-huang-return-nvidia-2026-11",
+          "published": "2026-11-24T06:47:55+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.06
+        },
+        {
+          "summary_zh": "黄'归来后亚洲恩维迪亚相关股票跳跃 台湾接近限价",
+          "summary_en": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+          "published": "2026-11-24T07:45:12+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.8
+        },
+        {
+          "summary_zh": "Nvidia在股票市场史上一天最大的收益,",
+          "summary_en": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+          "published": "2026-11-23T21:19:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.69
+        },
+        {
+          "summary_zh": "超额收购能赚到两万元 让人工智能将你的市场预测转化为股票投资",
+          "summary_en": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "published": "2026-11-23T22:02:05+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 3.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.37
+        },
+        {
+          "summary_zh": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+          "summary_en": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T00:02:01+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.87
+        },
+        {
+          "summary_zh": "恩维迪亚首席执行官詹森 黄 is归. 接下来会发生什么?",
+          "summary_en": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-23T17:10:32-05:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.4
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Jensen’s Shock Return as Nvidia CEO Unleashes Market Frenzy",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-s-shock-return-as-nvidia-ceo-unleashes-market-frenzy",
+          "published": "2026-11-24T07:19:42+00:00"
+        },
+        {
+          "summary": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
+          "published": "2026-11-24T06:26:44+00:00"
+        },
+        {
+          "summary": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+          "published": "2026-11-24T04:58:02+00:00"
+        },
+        {
+          "summary": "Commerzbank Weighs Partial Withdrawal From US Treasury Market",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/commerzbank-weighs-partial-withdrawal-from-us-treasury-market",
+          "published": "2026-11-24T07:35:48+00:00"
+        },
+        {
+          "summary": "Stock Movers: Samsung Electronics, TSMC, Xiaomi (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-24/stock-movers-samsung-electronics-tsmc-xiaomi-podcast",
+          "published": "2026-11-24T07:32:50+00:00"
+        },
+        {
+          "summary": "FTSE 100 Live: UK Stocks Set to Join Global Stocks Rally",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-24/ftse-100-live-updates-pound-gilts-gold-prices-uk-retail-sales-nvidia-ai-stocks-jensen-huang-trump-iran-what-s-moving-uk-markets-right-now-markets-today-mwucfxwp",
+          "published": "2026-11-24T06:58:48+00:00"
+        },
+        {
+          "summary": "Jensen Huang’s Return as CEO of Nvidia Spurs Stock Market Jubilation",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/jensen-huang-s-return-as-ceo-of-nvidia-spurs-stock-market-jubilation",
+          "published": "2026-11-23T22:35:07+00:00"
+        },
+        {
+          "summary": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+          "published": "2026-11-24T05:00:29+00:00"
+        },
+        {
+          "summary": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T04:36:31+00:00"
+        },
+        {
+          "summary": "Huang's Nvidia Comeback, AI Trade Lifts, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-24/huang-s-nvidia-comeback-ai-trade-lifts-more",
+          "published": "2026-11-24T07:32:22+00:00"
+        },
+        {
+          "summary": "The Chinese internet is celebrating Jensen Huang’s triumphant return to power at Nvidia",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/chinese-internet-celebrating-jensen-huang-return-nvidia-2026-11",
+          "published": "2026-11-24T06:47:55+00:00"
+        },
+        {
+          "summary": "Trump defended Jensen Huang's return as Nvidia CEO. Both sides of the aisle want answers.",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/congress-demands-testimony-nvidia-ceo-jensen-huang-reinstatement-trump-2026-11",
+          "published": "2026-11-24T02:39:32+00:00"
+        },
+        {
+          "summary": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+          "published": "2026-11-24T07:45:12+00:00"
+        },
+        {
+          "summary": "Stock futures rise as traders see whether Nvidia can extend rally from Jensen Huang’s return: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+          "published": "2026-11-24T07:40:04+00:00"
+        },
+        {
+          "summary": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+          "published": "2026-11-24T05:39:23+00:00"
+        },
+        {
+          "summary": "Rene Haas to remain CEO of chipmaker Arm through 2033 amid Nvidia top job chatter",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/24/rene-haas-to-remain-ceo-of-chipmaker-arm-through-2033-amid-nvidia-top-job-chatter.html",
+          "published": "2026-11-24T07:30:10+00:00"
+        },
+        {
+          "summary": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+          "published": "2026-11-23T21:19:00+00:00"
+        },
+        {
+          "summary": "What smart people are saying about Jensen's resurrection",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/jensen-huang-return-reactions-2026-11",
+          "published": "2026-11-24T05:08:44+00:00"
+        },
+        {
+          "summary": "HPE just posted its strongest growth ever — but its stock is sinking",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+          "published": "2026-11-24T01:01:00+00:00"
+        },
+        {
+          "summary": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T00:28:48+00:00"
+        },
+        {
+          "summary": "Tom Brady says being a ‘delusional, naive, optimistic person’ helped drive his success",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/tom-brady-delusional-about-success-helped-nfl-career-2026-11",
+          "published": "2026-11-24T04:16:42+00:00"
+        },
+        {
+          "summary": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "published": "2026-11-23T22:02:05+00:00"
+        },
+        {
+          "summary": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+          "published": "2026-11-23T21:02:17+00:00"
+        },
+        {
+          "summary": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+          "published": "2026-11-23T22:04:00+00:00"
+        },
+        {
+          "summary": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+          "published": "2026-11-23T21:51:00+00:00"
+        },
+        {
+          "summary": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-23T21:23:42+00:00"
+        },
+        {
+          "summary": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
+          "published": "2026-11-24T00:13:24+00:00"
+        },
+        {
+          "summary": "I pay £250 a month for someone else to do my life admin - it's worth it",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-24T00:01:04+00:00"
+        },
+        {
+          "summary": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+          "published": "2026-11-23T22:19:47+00:00"
+        },
+        {
+          "summary": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-24T00:02:01+00:00"
+        },
+        {
+          "summary": "Nvidia CEO Jensen Huang is back. What happens next?",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "published": "2026-11-23T17:10:32-05:00"
+        },
+        {
+          "summary": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+          "published": "2026-11-23T18:12:22+00:00"
+        },
+        {
+          "summary": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+          "published": "2026-11-23T17:52:56+00:00"
+        },
+        {
+          "summary": "Jensen Huang reinstated as Nvidia CEO, board chair",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+          "published": "2026-11-23T15:46:18+00:00"
+        },
+        {
+          "summary": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+          "published": "2026-11-23T15:23:26+00:00"
+        },
+        {
+          "summary": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "published": "2026-11-23T14:43:03+00:00"
+        },
+        {
+          "summary": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-23T14:30:00+00:00"
+        },
+        {
+          "summary": "Jensen Huang Is Back as Nvidia CEO",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+          "published": "2026-11-23T14:27:35+00:00"
+        },
+        {
+          "summary": "Nvidia reverses course and brings Jensen Huang back as CEO",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "published": "2026-11-23T14:21:59+00:00"
+        },
+        {
+          "summary": "Nvidia Reinstates Jensen Huang as CEO",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "published": "2026-11-23T14:00:18+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "引入亚马逊 Bedrock 信任的 API 与 Anthropic 的企业前沿保障和企业数据控制",
+          "summary_en": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+          "published": "2026-11-24T05:01:14+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.82
+        },
+        {
+          "summary_zh": "OpenAI和思科介绍Shirudo",
+          "summary_en": "OpenAI and Cisco introduce Shirudo",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "published": "2026-11-23T21:20:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.39
+        },
+        {
+          "summary_zh": "使用 NVIDIA cuDSS 1.0 加速计算工程的直接溶解器",
+          "summary_en": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+          "published": "2026-11-23T19:59:40+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "超充电变压器剩余连接",
+          "summary_en": "Supercharging transformer residual connections",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "2026-11-23T17:21:12+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "找到更快的量子算法和正式验证",
+          "summary_en": "Finding faster quantum algorithms with agents and formal verification",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "published": "2026-11-23T16:59:40+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.81
+        },
+        {
+          "summary_zh": "机器人追踪:用于真实世界机器人操纵的点追踪",
+          "summary_en": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "published": "2026-11-23T17:20:37+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.9
+        },
+        {
+          "summary_zh": "更量身定制的谷歌搜索,",
+          "summary_en": "A more tailored Google Search that’s uniquely yours",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "published": "2026-11-23T17:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.81
+        },
+        {
+          "summary_zh": "Signal)加入联合航空,银行在客户风险上限制AI代理.",
+          "summary_en": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+          "published": "2026-11-24T07:25:41+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.72
+        },
+        {
+          "summary_zh": "Claude Ship,让AI代理审查、修复和批准代码更改",
+          "summary_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "published": "2026-11-23T22:05:50+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "使用天狼星核心扩展开始使用 GPU 加速 DuckDB 分析器",
+          "summary_en": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+          "published": "2026-11-23T17:09:28+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.35
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+          "source": "Artificial Intelligence",
+          "source_type": "first_party",
+          "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+          "published": "2026-11-24T05:01:14+00:00"
+        },
+        {
+          "summary": "OpenAI and Cisco introduce Shirudo",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "published": "2026-11-23T21:20:00+00:00"
+        },
+        {
+          "summary": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+          "published": "2026-11-23T19:59:40+00:00"
+        },
+        {
+          "summary": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+          "published": "2026-11-23T17:09:28+00:00"
+        },
+        {
+          "summary": "Supercharging transformer residual connections",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+          "published": "2026-11-23T17:21:12+00:00"
+        },
+        {
+          "summary": "Finding faster quantum algorithms with agents and formal verification",
+          "source": "Google DeepMind News",
+          "source_type": "first_party",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "published": "2026-11-23T16:59:40+00:00"
+        },
+        {
+          "summary": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "published": "2026-11-23T17:20:37+00:00"
+        },
+        {
+          "summary": "A more tailored Google Search that’s uniquely yours",
+          "source": "AI",
+          "source_type": "first_party",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "published": "2026-11-23T17:00:00+00:00"
+        },
+        {
+          "summary": "Connected intelligence for in-house legal",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "published": "2026-11-23T08:00:00+00:00"
+        },
+        {
+          "summary": "Richpanel helps companies automate 50% of support in 30 days",
+          "source": "OpenAI News",
+          "source_type": "first_party",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "published": "2026-11-23T08:00:00+00:00"
+        },
+        {
+          "summary": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+          "published": "2026-11-24T07:25:41+00:00"
+        },
+        {
+          "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "published": "2026-11-23T22:05:50+00:00"
+        },
+        {
+          "summary": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "published": "2026-11-23T08:55:14+00:00"
+        }
+      ]
+    }
+  }
+}
