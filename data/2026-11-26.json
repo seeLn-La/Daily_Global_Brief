@@ -1,0 +1,1198 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:09:23.610769+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "纽约州禁止给孩子的 AI聊天机器人玩具",
+          "summary_en": "New York state bans AI chatbot toys for kids",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+          "published": "2026-11-26T06:02:48+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.27
+        },
+        {
+          "summary_zh": "勒诺沃库邦代码: 15 % 2026年11月关闭",
+          "summary_en": "Lenovo Coupon Codes: 15% Off in November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/lenovo-coupon-code/",
+          "published": "2026-11-26T06:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.26
+        },
+        {
+          "summary_zh": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+          "summary_en": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T04:28:11+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.88
+        },
+        {
+          "summary_zh": "XPENG总裁在汽车制造商的机器人推",
+          "summary_en": "Xpeng President on Carmaker's Robot Push",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
+          "published": "2026-11-26T05:45:55+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.7
+        },
+        {
+          "summary_zh": "现在Google的Familier Faces AI的功能在沃尔玛的35美元智能家庭相机上也工作",
+          "summary_en": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+          "published": "2026-11-25T19:04:34-05:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.78
+        },
+        {
+          "summary_zh": "S&P认为Nvidia信用比治理低级和 \" 关键人物 \" 风险",
+          "summary_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "published": "2026-11-25T22:44:32+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.45
+        },
+        {
+          "summary_zh": "欧洲航天器在小行星偏转实验后发现混乱的场景",
+          "summary_en": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+          "published": "2026-11-25T22:36:45+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.41
+        },
+        {
+          "summary_zh": "狮子对Unix的评论:为什么秘密复制20年",
+          "summary_en": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "published": "2026-11-26T05:12:59+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.27
+        },
+        {
+          "summary_zh": "美国芯片圈状薄膜损害:美洲晚报",
+          "summary_en": "US Chip Curb Spurs Collateral Damage: Evening Briefing Americas",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/us-chip-curb-spurs-collateral-damage-evening-briefing-americas",
+          "published": "2026-11-25T22:49:02+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 1.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.97
+        },
+        {
+          "summary_zh": "数据中心如何推动美国的天然气繁荣",
+          "summary_en": "How data centers are driving a US natural-gas boom",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+          "published": "2026-11-25T17:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.01
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "New York state bans AI chatbot toys for kids",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+          "published": "2026-11-26T06:02:48+00:00"
+        },
+        {
+          "summary": "Lenovo Coupon Codes: 15% Off in November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/lenovo-coupon-code/",
+          "published": "2026-11-26T06:00:00+00:00"
+        },
+        {
+          "summary": "Chewy Promo Codes: 50% Off November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/chewy-promo-code/",
+          "published": "2026-11-26T06:00:00+00:00"
+        },
+        {
+          "summary": "Office Depot Coupons: $20 Off November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/office-depot-promo-codes/",
+          "published": "2026-11-26T06:00:00+00:00"
+        },
+        {
+          "summary": "LG Promo Code: 40% Off for November 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/lg-promo-code/",
+          "published": "2026-11-26T06:00:00+00:00"
+        },
+        {
+          "summary": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T04:28:11+00:00"
+        },
+        {
+          "summary": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T04:04:24+00:00"
+        },
+        {
+          "summary": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T04:02:09+00:00"
+        },
+        {
+          "summary": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T03:48:29+00:00"
+        },
+        {
+          "summary": "Xpeng President on Carmaker's Robot Push",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/videos/2026-11-26/xpeng-president-on-carmaker-s-robot-push-video",
+          "published": "2026-11-26T05:45:55+00:00"
+        },
+        {
+          "summary": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+          "published": "2026-11-25T19:04:34-05:00"
+        },
+        {
+          "summary": "Amazon loses its latest attempt to get out of handling more recall notices",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+          "published": "2026-11-25T18:56:44-05:00"
+        },
+        {
+          "summary": "We reviewed these 10 gadgets, and they're now on sale for Black Friday",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+          "published": "2026-11-25T23:36:46+00:00"
+        },
+        {
+          "summary": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "published": "2026-11-25T22:44:32+00:00"
+        },
+        {
+          "summary": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+          "published": "2026-11-25T22:36:45+00:00"
+        },
+        {
+          "summary": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+          "published": "2026-11-25T22:07:07+00:00"
+        },
+        {
+          "summary": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "published": "2026-11-26T05:12:59+00:00"
+        },
+        {
+          "summary": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "published": "2026-11-25T16:51:26-05:00"
+        },
+        {
+          "summary": "The Verge’s 2026 holiday gift guide for travelers",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+          "published": "2026-11-25T16:48:00-05:00"
+        },
+        {
+          "summary": "7 gadgets that'll instantly upgrade your Thanksgiving feast",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+          "published": "2026-11-25T21:41:43+00:00"
+        },
+        {
+          "summary": "Google search alternative Kagi launches Gmail rival",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+          "published": "2026-11-25T20:57:09+00:00"
+        },
+        {
+          "summary": "FCC approves SpaceX plan to put AI data centers in space",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "published": "2026-11-25T20:56:44+00:00"
+        },
+        {
+          "summary": "US Chip Curb Spurs Collateral Damage: Evening Briefing Americas",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/us-chip-curb-spurs-collateral-damage-evening-briefing-americas",
+          "published": "2026-11-25T22:49:02+00:00"
+        },
+        {
+          "summary": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+          "published": "2026-11-25T16:33:45+00:00"
+        },
+        {
+          "summary": "Qualcomm's Oryon 3 Reaches the Top",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+          "published": "2026-11-26T03:43:24+00:00"
+        },
+        {
+          "summary": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "published": "2026-11-26T03:36:58+00:00"
+        },
+        {
+          "summary": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "published": "2026-11-25T20:03:27+00:00"
+        },
+        {
+          "summary": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "published": "2026-11-25T19:54:57+00:00"
+        },
+        {
+          "summary": "Minipg: PostgreSQL as a Single Executable",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://progrium.github.io/minipg/",
+          "published": "2026-11-26T03:00:48+00:00"
+        },
+        {
+          "summary": "Backblaze explains why it's sharing customer information with advertisers",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+          "published": "2026-11-25T18:38:29+00:00"
+        },
+        {
+          "summary": "How data centers are driving a US natural-gas boom",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+          "published": "2026-11-25T17:00:00+00:00"
+        },
+        {
+          "summary": "Art of play in the age of AI",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+          "published": "2026-11-25T16:00:00+00:00"
+        },
+        {
+          "summary": "How to choose the next safe step in application modernization",
+          "source": "The GitHub Blog",
+          "source_type": "first_party",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+          "published": "2026-11-25T15:00:00+00:00"
+        },
+        {
+          "summary": "The Download: AI swamping open records, and firefighting for permafrost",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+          "published": "2026-11-25T13:10:00+00:00"
+        },
+        {
+          "summary": "AI is straining America’s open records systems",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+          "published": "2026-11-25T10:00:00+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "中国ETF市场资产配置基准基于LLM的投资顾问代理:NLPCC2026共享任务4概述.",
+          "summary_en": "Benchmarking LLM-Based Investment Advisor Agents for Asset Allocation in the Chinese ETF Market: Overview of NLPCC 2026 Shared Task 4",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.22305",
+          "published": "2026-11-26T00:00:00-05:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.01
+        },
+        {
+          "summary_zh": "又一个热通胀读取使美联储再次走上提高利率的轨道",
+          "summary_en": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+          "published": "2026-11-25T19:13:30+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 5.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.57
+        },
+        {
+          "summary_zh": "美国关税计划为印度提高关税 以利银贸易",
+          "summary_en": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+          "published": "2026-11-25T21:03:17+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 4.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.03
+        },
+        {
+          "summary_zh": "通过符号碎片识别发现明显的磁性核心损失方程",
+          "summary_en": "Discovering Explicit Magnetic Core-Loss Equations via Symbolic Sparse Identification",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33364",
+          "published": "2026-11-26T00:00:00-05:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.01
+        },
+        {
+          "summary_zh": "股市的销量怎么还没好就变差了",
+          "summary_en": "Why this stock-market selloff is probably going to get worse before it gets better",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+          "published": "2026-11-26T00:33:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.9
+        },
+        {
+          "summary_zh": "星巴克韩国在“Tank Day”反弹后,",
+          "summary_en": "Starbucks Korea Sees Profit Return After ‘Tank Day’ Backlash",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/starbucks-korea-sees-profit-return-after-tank-day-backlash",
+          "published": "2026-11-26T03:21:29+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.6
+        },
+        {
+          "summary_zh": "韩国提升增长预测,将基准率提高到两年内最高水平",
+          "summary_en": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+          "published": "2026-11-26T03:32:53+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.15
+        },
+        {
+          "summary_zh": "梅西的感恩节游行 有史以来第一次推迟",
+          "summary_en": "Macy's Thanksgiving Day parade postponed for the first time in its history",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-weather-2026-11",
+          "published": "2026-11-26T04:33:19+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.9
+        },
+        {
+          "summary_zh": "联合王国政府将公布与欧盟商定的新条约",
+          "summary_en": "UK government set to publish new treaties agreed with EU",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T02:13:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.32
+        },
+        {
+          "summary_zh": "机构宣布美元阈值,用于在消费者信贷和租赁交易中适用贷款和消费者租赁规则的真理",
+          "summary_en": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+          "published": "2026-11-25T20:00:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.96
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Benchmarking LLM-Based Investment Advisor Agents for Asset Allocation in the Chinese ETF Market: Overview of NLPCC 2026 Shared Task 4",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.22305",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+          "published": "2026-11-25T19:13:30+00:00"
+        },
+        {
+          "summary": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
+          "published": "2026-11-25T21:03:17+00:00"
+        },
+        {
+          "summary": "CHASE: Curiosity-Guided Skill Acquisition for Embodied Task Execution",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34416",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34785",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2506.00058",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Discovering Explicit Magnetic Core-Loss Equations via Symbolic Sparse Identification",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33364",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Quaternion-Tucker ZigZag Networks: Halving Transformer Backbone Parameters and Enabling Exact 2D Zero-Loss Continual Scaling",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33983",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Deep Reinforcement Learning for Multi-UAV Data Harvesting Under Variable Team Sizes and Agent Loss",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34818",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "What Must LLM Agents Communicate? From Information Loss to Communication Failures",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33318",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Why this stock-market selloff is probably going to get worse before it gets better",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+          "published": "2026-11-26T00:33:00+00:00"
+        },
+        {
+          "summary": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+          "published": "2026-11-26T04:30:00+00:00"
+        },
+        {
+          "summary": "China-Backed Pakistan Exchange Prepares to Launch Stock Options",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/china-backed-pakistan-exchange-prepares-to-launch-stock-options",
+          "published": "2026-11-26T04:00:15+00:00"
+        },
+        {
+          "summary": "Adani Firms Plan Public Bond Sale to Raise at Least $220 Million",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million",
+          "published": "2026-11-26T03:42:25+00:00"
+        },
+        {
+          "summary": "Starbucks Korea Sees Profit Return After ‘Tank Day’ Backlash",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/starbucks-korea-sees-profit-return-after-tank-day-backlash",
+          "published": "2026-11-26T03:21:29+00:00"
+        },
+        {
+          "summary": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+          "published": "2026-11-26T01:53:20+00:00"
+        },
+        {
+          "summary": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+          "published": "2026-11-25T21:36:24+00:00"
+        },
+        {
+          "summary": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+          "published": "2026-11-25T21:36:00+00:00"
+        },
+        {
+          "summary": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+          "published": "2026-11-26T03:32:53+00:00"
+        },
+        {
+          "summary": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+          "published": "2026-11-25T21:32:42+00:00"
+        },
+        {
+          "summary": "Macy's Thanksgiving Day parade postponed for the first time in its history",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/macys-thanksgiving-day-parade-postponed-until-saturday-due-to-weather-2026-11",
+          "published": "2026-11-26T04:33:19+00:00"
+        },
+        {
+          "summary": "Macy’s Thanksgiving Parade Pushed, US Tariffs Target China, EU",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-thanksgiving-parade-pushed-us-tariffs-target-china-eu",
+          "published": "2026-11-26T04:22:07+00:00"
+        },
+        {
+          "summary": "US announces new tariffs on host of countries including China",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T04:10:58+00:00"
+        },
+        {
+          "summary": "Indonesian Nickel Trader Named Suspect in Money Laundering Probe",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/indonesian-nickel-trader-named-suspect-in-money-laundering-probe",
+          "published": "2026-11-26T03:53:52+00:00"
+        },
+        {
+          "summary": "Macy's Parade Pushed to Saturday, US Unveils New Tariffs, More",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-26/macy-s-parade-pushed-to-saturday-us-unveils-new-tariffs-more",
+          "published": "2026-11-26T03:49:01+00:00"
+        },
+        {
+          "summary": "A massive storm is barreling toward the East Coast on Thanksgiving Day",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/storm-east-coast-thanksgiving-day-2026-11",
+          "published": "2026-11-26T03:39:54+00:00"
+        },
+        {
+          "summary": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+          "published": "2026-11-26T04:49:03+00:00"
+        },
+        {
+          "summary": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+          "published": "2026-11-25T22:16:00+00:00"
+        },
+        {
+          "summary": "UK government set to publish new treaties agreed with EU",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T02:13:00+00:00"
+        },
+        {
+          "summary": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+          "published": "2026-11-26T04:12:18+00:00"
+        },
+        {
+          "summary": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+          "published": "2026-11-25T22:11:00+00:00"
+        },
+        {
+          "summary": "US stocks fall further as fears over AI intensify",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-25T21:43:18+00:00"
+        },
+        {
+          "summary": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+          "published": "2026-11-26T03:13:43+00:00"
+        },
+        {
+          "summary": "US approves SpaceX plan to send a million data satellites to space",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T00:07:51+00:00"
+        },
+        {
+          "summary": "Dario Amodei accuses rival AI CEOs of ‘vibes-based commercial and political positioning’",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/dario-amodei-anthropic-calls-out-rival-ai-ceos-over-messaging-2026-11",
+          "published": "2026-11-25T23:56:50+00:00"
+        },
+        {
+          "summary": "Jensen Huang’s message to Nvidia: We don’t need a Plan B",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/jensen-huangs-succession-message-nvidia-we-dont-need-plan-b-2026-11",
+          "published": "2026-11-25T22:57:05+00:00"
+        },
+        {
+          "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+          "published": "2026-11-25T20:00:00+00:00"
+        },
+        {
+          "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+          "source": "FRB: Press Release - All Releases",
+          "source_type": "first_party",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+          "published": "2026-11-25T20:00:00+00:00"
+        },
+        {
+          "summary": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+          "source": "Press Releases",
+          "source_type": "first_party",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+          "published": "2026-11-25T09:10:24-05:00"
+        },
+        {
+          "summary": "Can America’s government afford “affordability”?",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+          "published": "2026-11-25T22:33:27+00:00"
+        },
+        {
+          "summary": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+          "published": "2026-11-25T13:08:19+00:00"
+        },
+        {
+          "summary": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+          "published": "2026-11-25T22:12:25+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "QPAT: 量子辅助培训和经典推论的通用量子机器学习框架",
+          "summary_en": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33806",
+          "published": "2026-11-26T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 14.01
+        },
+        {
+          "summary_zh": "Scalpel和Brush:由单一LLM代理编辑小语言模型的运行和定向重量",
+          "summary_en": "Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33426",
+          "published": "2026-11-26T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 14.01
+        },
+        {
+          "summary_zh": "依据Nemotron 3.5 解析: 开放数据, Fine-Tuning, 以及更快的推论",
+          "summary_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "published": "2026-11-26T05:05:36+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 3.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 13.24
+        },
+        {
+          "summary_zh": "如何通过注册回收优化NVFP4 对NVIDIA RTX Blackwell的关注",
+          "summary_en": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+          "published": "2026-11-25T19:30:00+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.34
+        },
+        {
+          "summary_zh": "LLM助理的可核实社会理由",
+          "summary_en": "Verifiable Social Reasoning for LLM Assistants",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "published": "2026-11-25T17:10:27+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.26
+        },
+        {
+          "summary_zh": "引入代理搜索",
+          "summary_en": "Introducing Search for Agents",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
+          "published": "2026-11-25T14:00:00+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 1.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.46
+        },
+        {
+          "summary_zh": "Amazon和Meta据说在会谈中解除对AI特工Muse的封锁",
+          "summary_en": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "published": "2026-11-25T14:10:18+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.3
+        },
+        {
+          "summary_zh": "Google为AI代理商新建收费亭. 微软能跟上吗?",
+          "summary_en": "Google builds a new toll booth for AI agents. Could Microsoft follow?",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
+          "published": "2026-11-25T18:13:40+00:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 2.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.82
+        },
+        {
+          "summary_zh": "AI数据中心建设越来越困难 新云正在感觉到",
+          "summary_en": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "published": "2026-11-25T15:41:43+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 2.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.69
+        },
+        {
+          "summary_zh": "VibeServe:AI代理公司能构建Bespeak LLM服务系统吗?.",
+          "summary_en": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2605.06068",
+          "published": "2026-11-26T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 14.01
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33806",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2605.06068",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07437",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.19569",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Scalpel and Brush: Pruning and Targeted Weight Editing of a Small Language Model by a Single LLM Agent",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33426",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "SVDP: Training-Free Contextual Sparsity Predictors for Fast LLM Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.14110",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "published": "2026-11-26T05:05:36+00:00"
+        },
+        {
+          "summary": "A Realistic End-to-End Runtime Crossover Estimation for Quantum-Enhanced Training of Large-Scale Machine Learning Models",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33454",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference",
+          "source": "cs.LG updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2606.04511",
+          "published": "2026-11-26T00:00:00-05:00"
+        },
+        {
+          "summary": "Where scientists draw the line on AI agents",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "published": "2026-11-25T18:52:55+00:00"
+        },
+        {
+          "summary": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+          "source": "NVIDIA Technical Blog",
+          "source_type": "first_party",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling/",
+          "published": "2026-11-25T19:30:00+00:00"
+        },
+        {
+          "summary": "Verifiable Social Reasoning for LLM Assistants",
+          "source": "The latest research from Google",
+          "source_type": "first_party",
+          "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+          "published": "2026-11-25T17:10:27+00:00"
+        },
+        {
+          "summary": "Introducing Search for Agents",
+          "source": "Cloudflare Blog",
+          "source_type": "first_party",
+          "url": "https://blog.cloudflare.com/search-for-agents/",
+          "published": "2026-11-25T14:00:00+00:00"
+        },
+        {
+          "summary": "An Indic Voice Agent with CUGA",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "published": "2026-11-25T10:22:09+00:00"
+        },
+        {
+          "summary": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "published": "2026-11-25T14:10:18+00:00"
+        },
+        {
+          "summary": "Google builds a new toll booth for AI agents. Could Microsoft follow?",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/google-ai-agent-access-limits-fees-gmail-drive-microsoft-copilot-2026-11",
+          "published": "2026-11-25T18:13:40+00:00"
+        },
+        {
+          "summary": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "published": "2026-11-25T15:41:43+00:00"
+        }
+      ]
+    }
+  }
+}
