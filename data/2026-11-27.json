@@ -1,0 +1,939 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T05:59:47.562469+00:00",
+  "categories": {
+    "technology": {
+      "name_zh": "科技",
+      "name_en": "Technology",
+      "articles": [
+        {
+          "summary_zh": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "summary_en": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T03:49:58+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.76
+        },
+        {
+          "summary_zh": "2026年最佳黑周五交易今生:我们的专家选手",
+          "summary_en": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+          "published": "2026-11-27T00:56:52+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.04
+        },
+        {
+          "summary_zh": "Nvidia在向东南亚运送芯片时暂停",
+          "summary_en": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T20:03:54+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.82
+        },
+        {
+          "summary_zh": "谷歌将显示独行Android开发者的电话号码和地址",
+          "summary_en": "Google will show solo Android developers' phone numbers and addresses",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+          "published": "2026-11-27T03:11:41+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.8
+        },
+        {
+          "summary_zh": "Backloggd 敦促用户在突破后更改密码",
+          "summary_en": "Backloggd urges users to change their passwords after a breach",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+          "published": "2026-11-26T21:26:47+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.16
+        },
+        {
+          "summary_zh": "Android app开发人员很快要公开分享他们的地址",
+          "summary_en": "Android app developers will soon have to share their address publicly",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "published": "2026-11-26T12:06:24-05:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.08
+        },
+        {
+          "summary_zh": "半导体芯片是新出产的石油. 这就是为什么",
+          "summary_en": "Semiconductor chips are the new oil. Here's why",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+          "published": "2026-11-26T17:52:15+00:00",
+          "category_reason": "标题主题匹配",
+          "category_scores": {
+            "technology": 2.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.77
+        },
+        {
+          "summary_zh": "福特为GT41揭幕 希望再次赢得勒芒",
+          "summary_en": "Ford unveils the GT41 as it hopes to win Le Mans again",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "published": "2026-11-26T18:00:29+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 5.3
+        },
+        {
+          "summary_zh": "华为 Mate X8 评测：终局之战",
+          "summary_en": "华为 Mate X8 评测：终局之战",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T03:06:45+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 7.58
+        },
+        {
+          "summary_zh": "\"克劳德的\"弗索纳是什么?\"和其他问题",
+          "summary_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+          "published": "2026-11-27T04:56:18+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 0.0,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 6.24
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T03:49:58+00:00"
+        },
+        {
+          "summary": "华为 Mate X8 评测：终局之战",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T03:06:45+00:00"
+        },
+        {
+          "summary": "The Best Black Friday Deals Are Now Live: Our Expert Picks for 2026",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-black-friday-deals-11-26-2026/",
+          "published": "2026-11-27T00:56:52+00:00"
+        },
+        {
+          "summary": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T20:03:54+00:00"
+        },
+        {
+          "summary": "Google will show solo Android developers' phone numbers and addresses",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+          "published": "2026-11-27T03:11:41+00:00"
+        },
+        {
+          "summary": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "published": "2026-11-26T18:09:18+00:00"
+        },
+        {
+          "summary": "\"What's Claude's Fursona?\" and Other Questions",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+          "published": "2026-11-27T04:56:18+00:00"
+        },
+        {
+          "summary": "Backloggd urges users to change their passwords after a breach",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+          "published": "2026-11-26T21:26:47+00:00"
+        },
+        {
+          "summary": "Android app developers will soon have to share their address publicly",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+          "published": "2026-11-26T12:06:24-05:00"
+        },
+        {
+          "summary": "Netflix’s coziest show has made a very quiet return",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+          "published": "2026-11-26T16:00:00-05:00"
+        },
+        {
+          "summary": "Is Alice Huang a spy or not?",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+          "published": "2026-11-26T20:00:00+00:00"
+        },
+        {
+          "summary": "1Password says it was hacked but users' vaults are safe",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+          "published": "2026-11-26T20:00:00+00:00"
+        },
+        {
+          "summary": "Semiconductor chips are the new oil. Here's why",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+          "published": "2026-11-26T17:52:15+00:00"
+        },
+        {
+          "summary": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+          "source": "Engadget - Technology News & Expert Reviews",
+          "source_type": "original_reporting",
+          "url": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+          "published": "2026-11-26T19:44:49+00:00"
+        },
+        {
+          "summary": "X finally gets parental controls after 20 years",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+          "published": "2026-11-26T19:31:50+00:00"
+        },
+        {
+          "summary": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+          "published": "2026-11-26T14:00:00-05:00"
+        },
+        {
+          "summary": "Hard Drive pricing has gotten bad",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "published": "2026-11-27T01:13:49+00:00"
+        },
+        {
+          "summary": "Ford unveils the GT41 as it hopes to win Le Mans again",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "published": "2026-11-26T18:00:29+00:00"
+        },
+        {
+          "summary": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+          "source": "The Verge",
+          "source_type": "original_reporting",
+          "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+          "published": "2026-11-26T12:07:00-05:00"
+        },
+        {
+          "summary": "A month with the iPhone Duo has changed how I use my phone",
+          "source": "TechCrunch",
+          "source_type": "original_reporting",
+          "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+          "published": "2026-11-26T17:00:00+00:00"
+        },
+        {
+          "summary": "ESO statement on approval of launch of one million space data centres",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://www.eso.org/public/news/eso2614/",
+          "published": "2026-11-27T00:03:44+00:00"
+        },
+        {
+          "summary": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
+          "published": "2026-11-26T12:00:00+00:00"
+        },
+        {
+          "summary": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+          "published": "2026-11-26T17:04:54+00:00"
+        },
+        {
+          "summary": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/story/best-robot-vacuum/",
+          "published": "2026-11-26T10:44:00+00:00"
+        },
+        {
+          "summary": "The Download: Better bionic hands and AI’s natural-gas boom",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+          "published": "2026-11-26T13:10:00+00:00"
+        },
+        {
+          "summary": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic",
+          "source": "WIRED",
+          "source_type": "original_reporting",
+          "url": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+          "published": "2026-11-26T13:00:00+00:00"
+        },
+        {
+          "summary": "Draining peatlands is responsible for a few percent of our global warming",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+          "published": "2026-11-26T12:15:42+00:00"
+        },
+        {
+          "summary": "From minimalist to maximalist: Ars staffers show off their home offices",
+          "source": "Ars Technica",
+          "source_type": "original_reporting",
+          "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+          "published": "2026-11-26T12:00:14+00:00"
+        },
+        {
+          "summary": "2026 年，国产模型还能追上 Opus 5.5 吗",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T10:02:35+00:00"
+        },
+        {
+          "summary": "The next generation of bionic hands is here—and they can feel",
+          "source": "MIT Technology Review",
+          "source_type": "original_reporting",
+          "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+          "published": "2026-11-26T09:59:00+00:00"
+        },
+        {
+          "summary": "ChatGPT即将到来的大更新，为何让老用户集体破防",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-26T09:51:52+00:00"
+        }
+      ]
+    },
+    "business": {
+      "name_zh": "商业",
+      "name_en": "Business",
+      "articles": [
+        {
+          "summary_zh": "股票市场在黑色星期五营业吗?",
+          "summary_en": "Is the stock market open on Black Friday?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+          "published": "2026-11-27T05:01:00+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.06
+        },
+        {
+          "summary_zh": "中国股票在短短的午后关于市场支持的声明",
+          "summary_en": "China Stocks Rally After Rare Midday Statement on Market Support",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+          "published": "2026-11-27T05:00:23+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 10.05
+        },
+        {
+          "summary_zh": "Bloomberg Daybreak Asia:股票上涨,关税反应(播客)",
+          "summary_en": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-asia-stocks-rise-tariff-reactions-podcast",
+          "published": "2026-11-27T03:31:09+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.68
+        },
+        {
+          "summary_zh": "CHASE : 好奇心 - 指导技能的获取, 用于正常任务执行",
+          "summary_en": "CHASE: Curiosity-Guided Skill Acquisition for Embodied Task Execution",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34416",
+          "published": "2026-11-27T00:00:00-05:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 9.05
+        },
+        {
+          "summary_zh": "前奥运短跑运动员迈克尔·约翰逊59岁 说他的体育经验帮助他通过中风康复",
+          "summary_en": "Former Olympic sprinter Michael Johnson, 59, says his athletic experience helped him through stroke rehab",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/olympic-gold-sprinter-michael-johnson-athlete-mindset-helped-stroke-recovery-2026-11",
+          "published": "2026-11-27T05:42:15+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.23
+        },
+        {
+          "summary_zh": "Blocks法官 F.C.C. 来自目标迪士尼本地ABC许可证",
+          "summary_en": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+          "published": "2026-11-27T05:19:06+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 8.13
+        },
+        {
+          "summary_zh": "随着华尔街被设定为结束动荡的节日周:现场更新,",
+          "summary_en": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+          "published": "2026-11-27T04:40:59+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 2.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.47
+        },
+        {
+          "summary_zh": "我每个月花200英镑 一个人吃美味的晚餐 - 你会单独吃饭吗?",
+          "summary_en": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T00:54:45+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 1.5,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 7.03
+        },
+        {
+          "summary_zh": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+          "summary_en": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T00:08:31+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 1.5,
+            "business": 1.0,
+            "ai": 0.0
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.34
+        },
+        {
+          "summary_zh": "EM 亚洲股票作为市场回升的每周收益",
+          "summary_en": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+          "published": "2026-11-27T03:33:48+00:00",
+          "category_reason": "商业事件词优先",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 3.5,
+            "ai": 0.0
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 9.69
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "Is the stock market open on Black Friday?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
+          "published": "2026-11-27T05:01:00+00:00"
+        },
+        {
+          "summary": "China Stocks Rally After Rare Midday Statement on Market Support",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+          "published": "2026-11-27T05:00:23+00:00"
+        },
+        {
+          "summary": "Benchmarking LLM-Based Investment Advisor Agents for Asset Allocation in the Chinese ETF Market: Overview of NLPCC 2026 Shared Task 4",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2603.22305",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
+          "published": "2026-11-27T03:33:48+00:00"
+        },
+        {
+          "summary": "Bloomberg Daybreak Asia: Stocks Rise, Tariff Reactions (Podcast)",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/audio/2026-11-27/bloomberg-daybreak-asia-stocks-rise-tariff-reactions-podcast",
+          "published": "2026-11-27T03:31:09+00:00"
+        },
+        {
+          "summary": "Korea Plans Market Meeting as Stock Swings Put Fund in Focus",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-korea-reportedly-mulls-expanding-stock-stabilization-fund",
+          "published": "2026-11-27T01:22:32+00:00"
+        },
+        {
+          "summary": "Poor Regulation of $500 Billion Sand Trade Raises Construction Safety Concerns",
+          "source": "Bloomberg Markets",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/features/2026-sand-mining/",
+          "published": "2026-11-27T05:22:20+00:00"
+        },
+        {
+          "summary": "CHASE: Curiosity-Guided Skill Acquisition for Embodied Task Execution",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34416",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "PersonaFactory: Stylistic User Prompt Augmentation with Synthetic Persona Bank",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.34785",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2506.00058",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "Starbucks Japan Success Endures Despite Struggles in China, Korea",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/starbucks-japan-success-endures-despite-struggles-in-china-korea",
+          "published": "2026-11-27T05:42:58+00:00"
+        },
+        {
+          "summary": "Former Olympic sprinter Michael Johnson, 59, says his athletic experience helped him through stroke rehab",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/olympic-gold-sprinter-michael-johnson-athlete-mindset-helped-stroke-recovery-2026-11",
+          "published": "2026-11-27T05:42:15+00:00"
+        },
+        {
+          "summary": "How Xi’s Crackdown Brought Down Shanghai’s Rising Political Star",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/how-xi-s-crackdown-brought-down-shanghai-s-rising-political-star",
+          "published": "2026-11-27T05:41:07+00:00"
+        },
+        {
+          "summary": "Eastern Europe Newsletter: Poland Faces a Reckoning Before G20",
+          "source": "Bloomberg.com",
+          "source_type": "original_reporting",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/eastern-europe-newsletter-poland-faces-a-reckoning-before-g20",
+          "published": "2026-11-27T05:30:01+00:00"
+        },
+        {
+          "summary": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+          "published": "2026-11-27T05:19:06+00:00"
+        },
+        {
+          "summary": "The CEO of AI engineering lab Cognition warns that 'a lot of major breaches' are coming",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/cognition-ceo-scott-wu-ai-data-breaches-2026-11",
+          "published": "2026-11-27T01:17:10+00:00"
+        },
+        {
+          "summary": "Celebrity deaths in 2026: Remembering the famous people we lost this year",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/celebrity-deaths-famous-people-who-died-2026",
+          "published": "2026-11-27T04:39:54+00:00"
+        },
+        {
+          "summary": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+          "published": "2026-11-27T00:31:00+00:00"
+        },
+        {
+          "summary": "Photos: Macy’s Thanksgiving Day Parade History and Wacky Moments",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+          "published": "2026-11-27T03:39:46+00:00"
+        },
+        {
+          "summary": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+          "published": "2026-11-27T02:45:41+00:00"
+        },
+        {
+          "summary": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+          "published": "2026-11-27T04:40:59+00:00"
+        },
+        {
+          "summary": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+          "published": "2026-11-27T04:20:55+00:00"
+        },
+        {
+          "summary": "This 170-year historical study says ‘major market collapse’ is coming",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html",
+          "published": "2026-11-27T04:07:07+00:00"
+        },
+        {
+          "summary": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+          "published": "2026-11-26T21:45:00+00:00"
+        },
+        {
+          "summary": "Storms disrupt Thanksgiving with flight delays, over 960,000 power outages, and a Delta ground stop at LaGuardia",
+          "source": "All Content from Business Insider",
+          "source_type": "original_reporting",
+          "url": "https://www.businessinsider.com/storm-east-coast-thanksgiving-day-2026-11",
+          "published": "2026-11-27T01:34:06+00:00"
+        },
+        {
+          "summary": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+          "source": "MarketWatch.com - Top Stories",
+          "source_type": "original_reporting",
+          "url": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+          "published": "2026-11-27T01:15:00+00:00"
+        },
+        {
+          "summary": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T00:54:45+00:00"
+        },
+        {
+          "summary": "Why is there a shortage of 'wizard' elevator mechanics?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-27T00:02:19+00:00"
+        },
+        {
+          "summary": "Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%",
+          "source": "US Top News and Analysis",
+          "source_type": "original_reporting",
+          "url": "https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html",
+          "published": "2026-11-27T05:46:04+00:00"
+        },
+        {
+          "summary": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+          "source": "NYT > Business",
+          "source_type": "original_reporting",
+          "url": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+          "published": "2026-11-26T19:41:35+00:00"
+        },
+        {
+          "summary": "UK to pay 'participation' fee to deliver EU deals",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T23:17:12+00:00"
+        },
+        {
+          "summary": "Asia made a big AI bet on Nvidia. What happens now?",
+          "source": "BBC News",
+          "source_type": "original_reporting",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-11-26T23:08:12+00:00"
+        },
+        {
+          "summary": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+          "source": "爱范儿",
+          "source_type": "original_reporting",
+          "url": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
+          "published": "2026-11-27T00:08:31+00:00"
+        },
+        {
+          "summary": "The Cutthroat Business of Shipwrecks",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+          "published": "2026-11-27T01:21:49+00:00"
+        },
+        {
+          "summary": "History’s warning lesson for Anthropic",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/26/historys-warning-lesson-for-anthropic",
+          "published": "2026-11-26T09:49:07+00:00"
+        },
+        {
+          "summary": "The fall of China’s most trusted wealth manager",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/26/the-fall-of-chinas-most-trusted-wealth-manager",
+          "published": "2026-11-26T09:47:52+00:00"
+        },
+        {
+          "summary": "Mexico’s export boom is real—and disappointing",
+          "source": "Finance & economics",
+          "source_type": "original_reporting",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/26/mexicos-export-boom-is-real-and-disappointing",
+          "published": "2026-11-26T09:45:41+00:00"
+        }
+      ]
+    },
+    "ai": {
+      "name_zh": "AI 发展",
+      "name_en": "AI Development",
+      "articles": [
+        {
+          "summary_zh": "Fisher-R1: 可靠假设测试LLM代理培训",
+          "summary_en": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07437",
+          "published": "2026-11-27T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 14.05
+        },
+        {
+          "summary_zh": "为AMD Ryzen和Radeon引入了lama.cpp基准仪表板",
+          "summary_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "published": "2026-11-26T11:37:17+00:00",
+          "category_reason": "沿用来源默认分类",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 1.5
+          },
+          "selection_tier": "strong_match",
+          "selection_reason": "高相关且来源优先",
+          "selection_score": 6.91
+        },
+        {
+          "summary_zh": "基于证据的遗传性疾病的大语言模型",
+          "summary_en": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.19569",
+          "published": "2026-11-27T00:00:00-05:00",
+          "category_reason": "AI 核心技术主题",
+          "category_scores": {
+            "technology": 0.0,
+            "business": 0.0,
+            "ai": 4.5
+          },
+          "selection_tier": "soft_match",
+          "selection_reason": "主题相关，补足数量",
+          "selection_score": 14.05
+        }
+      ],
+      "candidates": [
+        {
+          "summary": "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2611.33806",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "VibeServe: Can AI Agents Build Bespoke LLM Serving Systems?",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2605.06068",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2608.07437",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "Large Language Model Agents for Evidence Based Genetic Disease Severity Classification",
+          "source": "cs.AI updates on arXiv.org",
+          "source_type": "research",
+          "url": "https://arxiv.org/abs/2609.19569",
+          "published": "2026-11-27T00:00:00-05:00"
+        },
+        {
+          "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "source": "Hugging Face - Blog",
+          "source_type": "first_party",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "published": "2026-11-26T11:37:17+00:00"
+        },
+        {
+          "summary": "An introduction to uncertainty in machine learning",
+          "source": "Hacker News: Front Page",
+          "source_type": "community",
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+          "published": "2026-11-26T19:04:50+00:00"
+        }
+      ]
+    }
+  }
+}
